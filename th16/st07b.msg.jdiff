@@ -1,0 +1,387 @@
+﻿{
+    "2": {
+        "184_0": {
+            "lines": [
+                "Oh, it's you again."
+            ]
+        },
+        "308_0": {
+            "lines": [
+                "Do you enjoy hanging around here?",
+                "Because I don't!"
+            ]
+        },
+        "432_0": {
+            "lines": [
+                "But your forward march ends here!"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Door door door..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "This place...",
+                "I feel like I've seen it before."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Is this that déjà vu thing?"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Oh hi Cirno."
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Aren't you an interesting fairy?",
+                "I'm glad you made it."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Who are you?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I am Noname.",
+                "Huh? Did you forget who you were facing before?"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Perhaps when my book snatched",
+                "to the energies Okina had you gather,"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "you lost your memories with them?"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Mmmm...",
+                "Oh yeah!"
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "Do you remember now?",
+                "Once again, welcome."
+            ]
+        },
+        "212_0": {
+            "lines": [
+                "I just remembered that I came to this world",
+                "to get my memories back!"
+            ]
+        },
+        "220_0": {
+            "lines": [
+                "So, uh, who are you again?"
+            ]
+        },
+        "228_0": {
+            "lines": [
+                "This isn't getting us anywhere.",
+                "|\tOh well, I suppose \t,\tfairies will be fairies\t,fools will be fools",
+                "Oh well, I suppose fairies will be fairies."
+            ]
+        },
+        "236_0": {
+            "lines": [
+                "I think your memories are coming back,",
+                "but even this realm seems to affect those."
+            ]
+        },
+        "244_0": {
+            "lines": [
+                "Hey, I'm gettin' the feeling you're making fun of me."
+            ]
+        },
+        "252_0": {
+            "lines": [
+                "It's not just your imagination.",
+                "The fool before me is nothing but a disappointment."
+            ]
+        },
+        "260_0": {
+            "lines": [
+                "I'll just snatch that magic of yours",
+                "and forcibly send you back to where you came from."
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "Yeah, you wanna fight?",
+                "Come at me whenever you want!"
+            ]
+        },
+        "276_0": {
+            "lines": [
+                "Hm? ...What is this?",
+                "My book doesn't react... This season on your back is..."
+            ]
+        },
+        "284_0": {
+            "lines": [
+                "It doesn't belong to any of the four seasons?"
+            ]
+        },
+        "292_0": {
+            "lines": [
+                "It corresponds to Doyou, the border between seasons",
+                "where the lifeforce of fairies is at its nadir."
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "Heh heh heh.",
+                "I was nearly fooled by your idiot act."
+            ]
+        },
+        "308_0": {
+            "lines": [
+                "This fairy is surely surprising.",
+                "Shall we battle now?"
+            ]
+        },
+        "316_0": {
+            "lines": [
+                "Ah! I remember now!",
+                "The person I wanted to fight again"
+            ]
+        },
+        "324_0": {
+            "lines": [
+                "was someone sitting in a chair!",
+                "Nothing to do with YOU! Outta the way!"
+            ]
+        },
+        "332_0": {
+            "lines": [
+                "Oh that...",
+                "Well, the power Reisen used was partly from me."
+            ]
+        },
+        "340_0": {
+            "lines": [
+                "But if you want a rematch,",
+                "then do so with me."
+            ]
+        },
+        "348_0": {
+            "lines": [
+                "Fear the reversing feeling of dodging your back,",
+                "you had better savor every last drop!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "I win!",
+                "My long road to the strongest is finally over!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Splendid!",
+                "Simply magnificent!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "You're once again the first fairy to have",
+                "achieved such mastery over the door on your back she talked about.."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "But I do have a question",
+                "How did you fight like this again?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "You managed to outwit me by",
+                "drawing power from the gap between seasons,"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "But it seems to be that",
+                "you were not particularly aware of this."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Door on my back?",
+                "Gap between seasons? What are you even talking about?"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "I won, you lost!",
+                "That's it!"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Hm, I'll have to explain what Okina said again..."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "|\tSo you really are just a \t,\tfairy\t,fool",
+                "So you really are just a fairy then."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "So was your use of the gap between seasons just a coincidence?",
+                "Or perhaps..."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Like I said, what's with all this season gap stuff?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Like Okina said, when one season transitions into another, there exists a moment",
+                "that belongs to neither spring, summer, fall, or winter."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "In that moment, the power of nature weakens,",
+                "and mental energy wins out over life force."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "And for whatever reason, you chose to challenge me with",
+                "that moment, the worst possible moment for a fairy."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Whether it was a coincidence or fate, that fact prevented me",
+                "from stealing your power and forcibly ejecting you."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "That's what at first surprised me,",
+                "and then intrigued me."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Chose...?",
+                "But I didn't choose anything."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Incidentally, which door did you enter from?"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "From one on Larva's back."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "She's a swallowtail butterfly fairy."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "A swallowtail butterfly fairy, was it?",
+                "I see..."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Normally that should have been a summer door."
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "It's possible that she wasn't a butterfly fairy at all,",
+                "but a Tokoyo god."
+            ]
+        },
+        "226_0": {
+            "lines": [
+                "A god who is one of Okina's enemies."
+            ]
+        },
+        "234_0": {
+            "lines": [
+                "In which case, I can't imagine this was a coincidence."
+            ]
+        },
+        "242_0": {
+            "lines": [
+                "But no matter. It doesn't change the fact that",
+                "this fairy is surely powerful."
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "What are you gonna do next?",
+                "Now that you've beaten me?"
+            ]
+        },
+        "258_0": {
+            "lines": [
+                "What will I do next?",
+                "Why?"
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "I don't know, even after winning that fairy war,",
+                "you had nothing to do afterwards."
+            ]
+        },
+        "274_0": {
+            "lines": [
+                "I think I'll just lay down.",
+                "Feel free to come back when it's summer."
+            ]
+        },
+        "282_0": {
+            "lines": [
+                "Huh?",
+                "Summer?"
+            ]
+        },
+        "290_0": {
+            "lines": [
+                "You remind me of Reimu and the others",
+                "who kinda keep me inside when it's summer."
+            ]
+        },
+        "298_0": {
+            "lines": [
+                "Well, because we don't wanna die in a heat.",
+                "That's how it works."
+            ]
+        }
+    }
+}

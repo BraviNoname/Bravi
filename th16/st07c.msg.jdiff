@@ -1,0 +1,436 @@
+{
+    "2": {
+        "184_0": {
+            "lines": [
+                "What, you're back?"
+            ]
+        },
+        "308_0": {
+            "lines": [
+                "What are you doing here yet?"
+            ]
+        },
+        "432_0": {
+            "lines": [
+                "Begone this instant!",
+                "You filthy tengu wretch!"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "This time I should find him",
+                "Is anyone here?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I have come forth to battle you",
+                "on a second duel!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Noname!",
+                "Answer my challenge!"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Oh hi Aya!"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "A second duel?",
+                "It's the first time we meet."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "This book you used, it was yours.",
+                "But this time you won't get away."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I won't get away?",
+                "What are you saying? Aren't YOU the one who fled?"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "After Reisen snatched this power Okina lent you,",
+                "you were rendered completely helpless."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "That's when you entered the door on your back",
+                "and returned to your own world."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "You're the one who ran."
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "...I had a slight suspicion that might be the case."
+            ]
+        },
+        "212_0": {
+            "lines": [
+                "I had been fighting Reisen, but before I knew it,",
+                "I was back in Gensokyo."
+            ]
+        },
+        "220_0": {
+            "lines": [
+                "All the seasonal magic I'd gathered",
+                "was taken by you and forcibly released."
+            ]
+        },
+        "228_0": {
+            "lines": [
+                "And that itself was a trap to eject me.",
+                "I should've known!"
+            ]
+        },
+        "236_0": {
+            "lines": [
+                "Indeed, and that's why you'll never win!",
+                "No matter how many times you try, you'll meet the same end."
+            ]
+        },
+        "244_0": {
+            "lines": [
+                "Hmph. Did you really think that, having figured all",
+                "that out, I'd charge back in here without a plan?"
+            ]
+        },
+        "252_0": {
+            "lines": [
+                "Oh?",
+                "A plan, you say?"
+            ]
+        },
+        "260_0": {
+            "lines": [
+                "Take a look at my back!"
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "Oho... I see!",
+                "You came here with the power of the gap between seasons?"
+            ]
+        },
+        "276_0": {
+            "lines": [
+                "Exactly.",
+                "I only collected power from the turning point of the seasons."
+            ]
+        },
+        "284_0": {
+            "lines": [
+                "The gap between seasons, where the vitality of the others is lost,",
+                "and where all the evil in the world rears its head!"
+            ]
+        },
+        "292_0": {
+            "lines": [
+                "Heh heh. So if I snatch it,",
+                "I'll be destroyed by the tengu's evil power."
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "But if you had stayed quiet, I might not have realized.",
+                "Why tell me?"
+            ]
+        },
+        "308_0": {
+            "lines": [
+                "I figured that you've been borrowing Okina's powers",
+                "so you would be sure to figure it out anyway."
+            ]
+        },
+        "316_0": {
+            "lines": [
+                "And I'm not here to destroy you, either."
+            ]
+        },
+        "324_0": {
+            "lines": [
+                "I don't want to ensnare you in some cowardly trap.",
+                "I just wanted to nullify the one you used."
+            ]
+        },
+        "332_0": {
+            "lines": [
+                "Oh I see.",
+                "So you wish to fight fair and square, is it?"
+            ]
+        },
+        "340_0": {
+            "lines": [
+                "Very well then. To honor your courage,",
+                "I won't use any seasonal energy."
+            ]
+        },
+        "348_0": {
+            "lines": [
+                "It's less that I want a fair match,",
+                "and more that I just want to interview you."
+            ]
+        },
+        "356_0": {
+            "lines": [
+                "You're that human Reimu and the others",
+                "talked about, after all."
+            ]
+        },
+        "364_0": {
+            "lines": [
+                "I'd like to know what you're doing in Gensokyo,",
+                "and what you're going to do in the future."
+            ]
+        },
+        "372_0": {
+            "lines": [
+                "Very well. If you win, I'll give you",
+                "an interview or whatever else."
+            ]
+        },
+        "380_0": {
+            "lines": [
+                "Why wouldn't myself make me be more known",
+                "in Gensokyo after all, but you wanna fight?"
+            ]
+        },
+        "388_0": {
+            "lines": [
+                "Fine then, if you want to dodge your back,",
+                "Then show me your best, in this upside down place!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "*Pant* *Pant*",
+                "Had enough yet?!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Splendid!",
+                "That's more than enough, I understand your strength now."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "This is my loss."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "...No, it's my loss."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Without this back magic,",
+                "I wouldn't have stood a chance against you."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "And that power is ultimately yours."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "This fight was built on the basic assumption that",
+                "I would be using that power. Now that I've seen that..."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "I can tell that I've been dancing in your palm",
+                "from the very beginning."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "No, this isn't my power, this is Okina's, and I could as well,",
+                "snatch another source of power."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "But I decided not to. And it's your courage",
+                "that I chose to honor by doing so."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Whether or not you were on my palm,",
+                "that doesn't change the fact that you won."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Stand proud."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Yeah, you're right...",
+                "Yeah! Why shouldn't I claim victory?"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "So, as promised, I'll be conducting",
+                "my interview with you now!"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "U-Um. Yes."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "So, for starters,",
+                "why did you invite Reisen?"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "I mean, isn't it because you like her?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Yes, I've had to be thankful for what they",
+                "have done for me, it was kind of my turn..."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "...to show Reisen what this power is all about."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "It might be embarrassing to tell this",
+                "but I really like her..."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "The seasons in the World that Never Was",
+                "was also due to the fact I borrowed Okina's power."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "The seasons simply appeared a bit strange because",
+                "of the fairies' and divine spirits' latent power."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "I see. Do you think you've done the right thing?"
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "Yes, I think.",
+                "I also made Reisen borrow a replica of Sanae's clothes."
+            ]
+        },
+        "226_0": {
+            "lines": [
+                "Just as a way to remember her since she",
+                "missed the incident with Okina."
+            ]
+        },
+        "234_0": {
+            "lines": [
+                "Sanae saw these fights in real time through this book, just like I had when Reisen fought you."
+            ]
+        },
+        "242_0": {
+            "lines": [
+                "??",
+                "All right, next question."
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "Hold on, how many questions are there?"
+            ]
+        },
+        "258_0": {
+            "lines": [
+                "As many as I need."
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "I'm tired after that battle.",
+                "Can we do this another time?"
+            ]
+        },
+        "274_0": {
+            "lines": [
+                "Oh, I know! How about I go visit",
+                "the home of all you tengu?"
+            ]
+        },
+        "282_0": {
+            "lines": [
+                "Now that I've seen you, I've become quite",
+                "interested in the tengu of today."
+            ]
+        },
+        "290_0": {
+            "lines": [
+                "And if the tengu will accept",
+                "me to come in..."
+            ]
+        },
+        "298_0": {
+            "lines": [
+                "Fine, fine, that's all fine."
+            ]
+        },
+        "306_0": {
+            "lines": [
+                "But you'd better promise me this:"
+            ]
+        },
+        "314_0": {
+            "lines": [
+                "Don't accept interviews from anyone but me!"
+            ]
+        },
+        "322_0": {
+            "lines": [
+                "I can't let anyone else get their",
+                "hands on this kind of scoop."
+            ]
+        },
+        "330_0": {
+            "lines": [
+                "U-Um. Yes."
+            ]
+        }
+    }
+}
