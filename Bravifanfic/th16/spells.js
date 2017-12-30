@@ -16,6 +16,7 @@
     "29": "Scoretastic \"Nine Curvy Lazers of Chaos and Death\"",
     "30": "Cloning \"Double Team\"",
     "34": "Magic Sign \"Aim at the Hat\"",
+    "36": "Magic Sign \"Aim at the Hat\"",
     "38": "Magic Sign \"Homing Firaga Burst of Doom and Chaos\"",
     "42": "Filop \"Dodge the Rear\"",
     "46": "Darkness \"Tojiko within Lasers\"",
