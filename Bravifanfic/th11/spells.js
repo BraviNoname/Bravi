@@ -72,7 +72,7 @@
     "167": "Release \"Revealed Dark Star\"",
     "168": "Filop \"Hidden Light Star\"",
     "169": "\"Clock Bind\"",
-    "170": "Subconscious \"Deep Affection\"",
+    "170": "Subconscious \"Frozen Bonus\"",
     "171": "Rekindled \"The Embers of Love\"",
     "172": "Randomness \"Genetics of the Don't Think About Speedkilling Me\"",
     "173": "\"Philosophy of a Hidden Person in Darkness and Time\"",
