@@ -74,7 +74,7 @@
     "169": "\"Clock Bind\"",
     "170": "Subconscious \"Frozen Bonus\"",
     "171": "Rekindled \"The Embers of Love\"",
-    "172": "Randomness \"Genetics of the Don't Think About Speedkilling Me\"",
-    "173": "\"Philosophy of a Hidden Person in Darkness and Time\"",
+    "172": "All Directions \"Genetics of the Don't Think About Speedkilling Me\"",
+    "173": "\"Hidden Cloaking in Darkness and Time\"",
     "174": "Final Limit \"Hidden Subterranean Rose\""
 }
