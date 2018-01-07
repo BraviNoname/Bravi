@@ -46,6 +46,7 @@
     "67": "Light \"Faith\"",
     "69": "Ability \"Expanded Strike Raid\"",
     "70": "Ability \"Expanded Double Strike Raid\"",
+    "71": "Ability \"Expanded Double Strike Raid\"",
     "72": "Ability \"Expanded Double Strike Raid\"",
     "73": "Limit Break \"Event Horizon\"",
     "75": "Limit Break \"Event Horizon\"",
