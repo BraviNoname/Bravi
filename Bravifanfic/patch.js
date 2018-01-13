@@ -5,7 +5,7 @@
 		"nmlgc/western_name_order"
 	],
 	"fontrules": {
-		"*": "'Power Clear' 32 11 100"
+		"*": "'Power Clear'"
 	},
 	"id": "Bravifanfic",
 	"servers": [
