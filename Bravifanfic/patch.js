@@ -1,9 +1,11 @@
 {
-		    "dependencies": [
-        "nmlgc/base_tsa", "nmlgc/script_latin", "nmlgc/western_name_order"
-    ],
+	"dependencies": [
+		"nmlgc/base_tsa",
+		"nmlgc/script_latin",
+		"nmlgc/western_name_order"
+	],
 	"fontrules": {
-		"*": "Power Clear' 32 11 100"
+		"*": "'Power Clear' 32 11 100"
 	},
 	"id": "Bravifanfic",
 	"servers": [
