@@ -12,8 +12,8 @@
         },
         "432_0": {
             "lines": [
-                "Begone this instant!",
-                "You filthy tengu wretch!"
+                "If you force the passage,",
+                "you won't get any farther!"
             ]
         }
     },
@@ -83,7 +83,7 @@
         },
         "212_0": {
             "lines": [
-                "I had been fighting Reisen, but before I knew it,",
+                "I had been fighting her, but before I knew it,",
                 "I was back in Gensokyo."
             ]
         },
@@ -143,7 +143,7 @@
         "292_0": {
             "lines": [
                 "Heh heh. So if I snatch it,",
-                "I'll be destroyed by the tengu's evil power."
+                "well this won't get me anywhere."
             ]
         },
         "300_0": {
@@ -390,20 +390,20 @@
         },
         "274_0": {
             "lines": [
-                "Oh, I know! How about I go",
-                "the home of all you tengu?"
+                "Oh, I know! What if you go make an interview",
+                "about the rest of this castle?"
             ]
         },
         "282_0": {
             "lines": [
-                "Now that I've seen you, I've become quite",
-                "interested in the tengu's activities."
+                "Don't worry, you won't get lost,",
+                "it's not like this place was flipped."
             ]
         },
         "290_0": {
             "lines": [
-                "And if the tengu will accept",
-                "me to come in, me, a mere human..."
+                "(I'm slightly going to regret",
+                "this choice now...)."
             ]
         },
         "298_0": {
@@ -418,7 +418,7 @@
         },
         "314_0": {
             "lines": [
-                "Don't accept interviews from anyone but me!"
+                "Don't let anyone else than me know about this place!"
             ]
         },
         "322_0": {
@@ -429,7 +429,7 @@
         },
         "330_0": {
             "lines": [
-                "U-Um. Yes."
+                "U-uh, okay I guess?"
             ]
         }
     }
