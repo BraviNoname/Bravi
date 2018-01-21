@@ -168,27 +168,27 @@
         },
         "102_0": {
             "lines": [
-                "It isn't bad."
+                "It isn't bad. By the way, watcha doing here?"
             ]
         },
         "103_0": {
             "lines": [
-                "Then surely you are a magician of the untamed fields."
+                "I'm an illusionary replica who's wandering here."
             ]
         },
         "104_0": {
             "lines": [
-                "As opposed to a magician from a greenhouse?"
+                "Huh, you surely look like the normal Alice."
             ]
         },
         "105_0": {
             "lines": [
-                "As opposed to a magician from a city sect."
+                "I don't even know why I'm here."
             ]
         },
         "106_0": {
             "lines": [
-                "Oh? I get it—this is a welcome to the wilderness."
+                "Oh really."
             ]
         },
         "107_0": {
@@ -239,17 +239,17 @@
         },
         "62_0": {
             "lines": [
-                "You mustn't consider me a normal human."
+                "Again, you mustn't consider me a normal human."
             ]
         },
         "63_0": {
             "lines": [
-                "Are you a weird human, then?"
+                "Anyways, where should I go next..."
             ]
         },
         "64_0": {
             "lines": [
-                "I'm normal, just not human!!"
+                "You should go to the skies up there, I don't know why."
             ]
         }
     },
@@ -261,7 +261,7 @@
         },
         "61_0": {
             "lines": [
-                "I wonder how the mistress is doing?"
+                "Why did my mistress ask me to go there again? I hope she's doing well."
             ]
         },
         "101_0": {
@@ -272,7 +272,7 @@
         },
         "102_h1_0": {
             "lines": [
-                "Seven-Colored Puppeteer",
+                "Seven-Colored Puppeteer Illusionary Replica",
                 "Alice Margatroid"
             ]
         },
@@ -340,8 +340,8 @@
         },
         "115_0": {
             "lines": [
-                "Do you know who it was that stole spring",
-                "or sprinkled winter all over this land?"
+                "Do you know who it was that made the winter",
+                "spread all over this land?"
             ]
         },
         "117_0": {
@@ -373,13 +373,13 @@
         },
         "61_0": {
             "lines": [
-                "Downwind, there's a decadent Shinto shrine."
+                "...oh yes, in the lanes between, down there."
             ]
         },
         "62_0": {
             "lines": [
-                "There's a shrine maiden there who dreams of spring...",
-                "I bet she's behind all this."
+                "There's a man in a black coat who wanders around here",
+                "I bet he's behind all this."
             ]
         },
         "63_0": {
@@ -400,7 +400,7 @@
         },
         "66_0": {
             "lines": [
-                "...I bet it's upwind then."
+                "...I bet it's up there then."
             ]
         },
         "67_0": {
