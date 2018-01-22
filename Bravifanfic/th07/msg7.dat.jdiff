@@ -17,7 +17,7 @@
         },
         "300_0": {
             "lines": [
-                "Which part of you is new, then?"
+                "What nightmare?"
             ]
         }
     },
@@ -338,17 +338,17 @@
     "12": {
         "40_0": {
             "lines": [
-                "Finally, we meet again."
+                  "...why did you come to this place..."
             ]
         },
         "120_0": {
             "lines": [
-                "But watch out this time!"
+                "...this battle..."
             ]
         },
         "210_0": {
             "lines": [
-                "I'm a totally new shikigami now!"
+                "...shall be your worst nightmare..."
             ]
         },
         "300_0": {
@@ -365,66 +365,66 @@
         },
         "61_0": {
             "lines": [
-                "What's all this commotion?"
+                "What's this graveyard?"
             ]
         },
         "61_1": {
             "lines": [
-                "In this evening, let's do fun banquet preparation again~"
+                "I fought once in this graveyard to test people."
             ]
         },
         "102_h1_0": {
             "lines": [
-                "The youkai's summon",
-                "Ran Yakumo"
+                "The Original Anti Human",
+                "Antinitas Remnant"
             ]
         },
         "102_0": {
             "lines": [
-                "Ooh, I see a human."
+                "Oh, I see a human."
             ]
         },
         "103_0": {
             "lines": [
-                "Preparations are fun?",
+                "You tested people by beating them to death?",
                 "You're a weirdo."
             ]
         },
         "105_0": {
             "lines": [
-                "I mean preparation for \"fun banquet.\""
+                "They all won anyways."
             ]
         },
         "107_0": {
             "lines": [
-                "Well, I mean, some people DO."
+                "Well, I mean, some people DO win."
             ]
         },
         "108_0": {
             "lines": [
-                "Y'know, think that preparing is the most enjoyable part."
+                "Y'know, this place is very desolate."
             ]
         },
         "109_0": {
             "lines": [
-                "Anyways, have you seen a cat around",
+                "Anyways, have you seen a black hooded guy around",
                 "these parts, by any chance?"
             ]
         },
         "110_0": {
             "lines": [
-                "The preparations are actually her job."
+                "The tests are also his job."
             ]
         },
         "111_0": {
             "lines": [
-                "If you're talking about Chen, then no, I haven't seen her."
+                "If you're talking about the nightmare, then no, I haven't seen him."
             ]
         },
         "112_0": {
             "lines": [
                 "Aha! It was you, then!",
-                "You're the jerk who caused Chen trouble!"
+                "You're the jerk who caused him trouble!"
             ]
         },
         "113_0": {
@@ -434,22 +434,22 @@
         },
         "114_0": {
             "lines": [
-                "I only made her something too terrible to look at."
+                "I only made him see this ain't a dream."
             ]
         },
         "115_0": {
             "lines": [
-                "Chen is my shikigami."
+                "This nightmare is under my servitude"
             ]
         },
         "116_0": {
             "lines": [
-                "Though she's shikigami, she's not so cheap."
+                "Though it's a nightmare, it's not that weak."
             ]
         },
         "117_0": {
             "lines": [
-                "Shikigamis use shikigamis?"
+                "Hooded dude uses a hooded dude?"
             ]
         },
         "118_0": {
@@ -459,18 +459,18 @@
         },
         "119_0": {
             "lines": [
-                "I don't mean I <i$eat> her!"
+                "I don't mean I <i$eat> it!"
             ]
         },
         "120_0": {
             "lines": [
                 "Anyways, so what you're saying is that",
-                "you—a shikigami—must have a master."
+                "you—a guy who serves—must have a master."
             ]
         },
         "121_0": {
             "lines": [
-                "I bet it might be Chen?"
+                "I bet it might be that nightmare?"
             ]
         },
         "122_0": {
@@ -480,29 +480,29 @@
         },
         "123_0": {
             "lines": [
-                "My mistress is fast asleep."
+                "I only work for this dude and he's not here."
             ]
         },
         "124_0": {
             "lines": [
-                "Someone who can use a \"shikigami that can",
-                "use a shikigami\" is surely interesting."
+                "Someone who can use a \"servant that can",
+                "use a servant\" is surely interesting."
             ]
         },
         "125_0": {
             "lines": [
-                "Mind if I speak to this mistress of yours?"
+                "Mind if I speak to this guy?"
             ]
         },
         "126_0": {
             "lines": [
-                "I am also her guardian."
+                "I am also his guardian. There's no escape for you now."
             ]
         },
         "127_0": {
             "lines": [
                 "And as such I have no intention of letting those who",
-                "make my shikigami too terrible to look at meet with her."
+                "make my servant too terrible to look at meet with him."
             ]
         },
         "128_0": {
@@ -530,7 +530,7 @@
     "11": {
         "60_0": {
             "lines": [
-                "Okay, show yourself, you youkai."
+                "Okay, show yourself, guy who is his boss."
             ]
         },
         "61_0": {
@@ -540,38 +540,38 @@
         },
         "62_0": {
             "lines": [
-                "No wonder Chen had no chance against her."
+                "No wonder that nightmare had no chance against her."
             ]
         },
         "63_0": {
             "lines": [
-                "Where's your mistress?"
+                "Where's your boss?"
             ]
         },
         "64_0": {
             "lines": [
-                "My mistress—Yukari—is still sleeping."
+                "My boss—Xehanort—is still not there."
             ]
         },
         "65_0": {
             "lines": [
-                "Ahh?"
+                "Xehanort?"
             ]
         },
         "66_0": {
             "lines": [
-                "She doesn't wake up even when",
-                "her shikigami is in a mess?"
+                "He doesn't come out even when",
+                "his subordinate is in a mess?"
             ]
         },
         "67_0": {
             "lines": [
-                "Wake her up."
+                "Bring him here."
             ]
         },
         "68_0": {
             "lines": [
-                "You say that, but she is not somewhere nearby~"
+                "You say that, but he's still far away from here~"
             ]
         },
         "69_0": {
@@ -592,14 +592,14 @@
         },
         "72_0": {
             "lines": [
-                "I've been in shikigami possession for",
-                "quite a long time."
+                "I've only been obeying him if it helps me",
+                "accomplishing my goal."
             ]
         },
         "73_0": {
             "lines": [
-                "My power surely exceeds that of",
-                "average youkai."
+                "And this battle was just a way to buy",
+                "some time."
             ]
         },
         "74_0": {
@@ -610,28 +610,28 @@
         },
         "75_0": {
             "lines": [
-                "What should I do to wake her up?"
+                "Where should I go?"
             ]
         },
         "76_0": {
             "lines": [
-                "She will at night."
+                "The World That Never Was, in a sanctum of time."
             ]
         },
         "77_0": {
             "lines": [
-                "It's unusual even for me to see her awake, anyway."
+                "It's unusual for me to meet him face to face, anyway."
             ]
         },
         "78_0": {
             "lines": [
-                "So I have to wait till nighttime..."
+                "So I have to go there..."
             ]
         },
         "79_0": {
             "lines": [
-                "Well, you may go back to your",
-                "preparation of the fun banquet."
+                "Well, you may go rest in peace",
+                "now that you are in a graveyard."
             ]
         },
         "80_0": {
@@ -643,22 +643,22 @@
     "22": {
         "40_0": {
             "lines": [
-                "Finally, we meet again."
+                "...why did you come to this place..."
             ]
         },
         "120_0": {
             "lines": [
-                "But watch out this time!"
+                "...this battle..."
             ]
         },
         "210_0": {
             "lines": [
-                "I'm a totally new shikigami now!"
+                "...shall be your worst nightmare..."
             ]
         },
         "300_0": {
             "lines": [
-                "Hey, I've seen this kitty before.",
+                "Hey, I've seen this nightmare before.",
                 "Did you die to get here?"
             ]
         }
@@ -671,7 +671,7 @@
         },
         "61_0": {
             "lines": [
-                "this garden becomes larger and prettier."
+                "this land is becoming larger and more desolate."
             ]
         },
         "62_0": {
@@ -681,8 +681,8 @@
         },
         "103_h1_0": {
             "lines": [
-                "Shikigami of the Sukima Youkai",
-                "Ran Yakumo"
+                "The Original Anti Human",
+                "Antinitas Remnant"
             ]
         },
         "103_0": {
@@ -712,7 +712,7 @@
         },
         "108_0": {
             "lines": [
-                "And apparently you're a fox."
+                "And apparently you're an Unversed."
             ]
         },
         "109_0": {
@@ -727,12 +727,12 @@
         },
         "111_0": {
             "lines": [
-                "Don't mistake me for a simple beast either."
+                "Don't mistake me for a simple monster either."
             ]
         },
         "112_0": {
             "lines": [
-                "I'm the shikigami of a powerful master."
+                "I'm working for a powerful enemy."
             ]
         },
         "113_0": {
@@ -749,12 +749,12 @@
         "115_0": {
             "lines": [
                 "There isn't a great difference between",
-                "shikigami, cats, and foxes."
+                "this nightmare."
             ]
         },
         "116_0": {
             "lines": [
-                "And where'd you see a cat?"
+                "And where'd you see a nightmare?"
             ]
         },
         "117_0": {
@@ -770,27 +770,27 @@
         },
         "119_0": {
             "lines": [
-                "This time, I see a fox."
+                "This time, I see another hooded guy."
             ]
         },
         "120_0": {
             "lines": [
-                "It's full of animals around here."
+                "It's full of hooded dudes around here."
             ]
         },
         "121_0": {
             "lines": [
-                "...So you met Chen?"
+                "...So you met that nightmare?"
             ]
         },
         "122_0": {
             "lines": [
-                "I've been searching for her."
+                "I've been searching for it."
             ]
         },
         "123_0": {
             "lines": [
-                "She's always restless like a cat, and now she's disappeared."
+                "For once it's doing its job, now it's disappeared."
             ]
         },
         "124_0": {
@@ -800,7 +800,7 @@
         },
         "125_0": {
             "lines": [
-                "That cat went to the mountain to do laundry."
+                "That nightmare just perished."
             ]
         },
         "126_0": {
@@ -815,30 +815,30 @@
         },
         "128_0": {
             "lines": [
-                "A fox goes into the hills to die."
+                "You go into the hills to die."
             ]
         },
         "129_0": {
             "lines": [
-                "Here in \"the other world,\" it will be a fitting grave for you."
+                "Here in \"the Keyblade Graveyard\" it will be a fitting grave for you."
             ]
         },
         "130_0": {
             "lines": [
-                "Ha. I bet you are the one who tormented Chen,",
+                "Ha. I bet you are the one who tormented this nightmare,",
                 "aren't you?"
             ]
         },
         "131_0": {
             "lines": [
-                "Chen is my shikigami.",
-                "I must take revenge for her."
+                "It's my subordinate.",
+                "I must take revenge for it."
             ]
         },
         "132_0": {
             "lines": [
-                "She's a youkai's shikigami's shikigami?",
-                "I thought it was something like that."
+                "Pretty ironic considering this",
+                "nightmare was supposed to torment someone."
             ]
         }
     },
@@ -855,8 +855,8 @@
         },
         "62_0": {
             "lines": [
-                "Chen's probably depressed too since she's",
-                "no longer shikigami possessed."
+                "This nightmare must be depressed",
+                "since it has no one to torment for now."
             ]
         },
         "63_0": {
@@ -872,7 +872,7 @@
         },
         "65_0": {
             "lines": [
-                "Help me Master Yukari~"
+                "Help me Xehanort~"
             ]
         },
         "66_0": {
@@ -882,48 +882,48 @@
         },
         "67_0": {
             "lines": [
-                "More annoyance than you can cause?"
+                "Xehanort?"
             ]
         },
         "68_0": {
             "lines": [
-                "What exactly is your master doing,"
+                "So this is the Xehanort those three guys were talking about,"
             ]
         },
         "69_0": {
             "lines": [
-                "leaving her shikigami running around like this?"
+                "now I have to beat him as a favor."
             ]
         },
         "70_0": {
             "lines": [
-                "Sleeping."
+                "He isn't there."
             ]
         },
         "71_0": {
             "lines": [
-                "Wake her up."
+                "Bring him here."
             ]
         },
         "72_0": {
             "lines": [
                 "I have to go back to the hills",
-                "in order to wake her up."
+                "in order to bring him here."
             ]
         },
         "73_0": {
             "lines": [
-                "So she's not around then..."
+                "So he's not around then..."
             ]
         },
         "74_0": {
             "lines": [
-                "Master of such an annoying shikigami, eh."
+                "Master of such an annoying unversed, eh."
             ]
         },
         "75_0": {
             "lines": [
-                "I bet she must be even more annoying",
+                "I bet it must be even more annoying",
                 "than this one."
             ]
         },
@@ -934,22 +934,22 @@
         },
         "77_0": {
             "lines": [
-                "Anyway, I'll be back when your master's awake."
+                "Anyway, I'll go to wherever he is."
             ]
         },
         "78_0": {
             "lines": [
-                "In the meantime, wake her up properly."
+                "And I'll smack him down."
             ]
         },
         "79_0": {
             "lines": [
-                "You aren't quite making sense."
+                "He is in the World that Never Was."
             ]
         },
         "80_0": {
             "lines": [
-                "Just do it."
+                "Haha, good to know."
             ]
         },
         "81_0": {
