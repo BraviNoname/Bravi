@@ -2,13 +2,13 @@
     "0": {
         "60_0": {
             "lines": [
-                "Look, there's nothing out here!"
+                "Look, this is the road I've taken before!"
             ]
         },
         "61_0": {
             "lines": [
-                "The night's still only just begun.",
-                "No need to hurry."
+                "It's pretty empty here.",
+                "But no need to hurry."
             ]
         },
         "62_0": {
@@ -30,7 +30,7 @@
         },
         "124_h1_0": {
             "lines": [
-                "Insect of Light Wriggling in Darkness"
+                "Organization XIII Mushroom"
             ]
         },
         "125_0": {
@@ -77,7 +77,7 @@
         },
         "133_0": {
             "lines": [
-                "?"
+                "Huh?"
             ]
         },
         "134_0": {
@@ -88,30 +88,30 @@
         },
         "135_0": {
             "lines": [
-                "I'm a firefly!"
+                "Prepare to be sent to another dimension!"
             ]
         }
     },
     "1": {
         "60_0": {
             "lines": [
-                "Really, it's awful at night with all these bugs around."
+                "Huh fireworks."
             ]
         },
         "61_0": {
             "lines": [
-                "Says the one who's only awake at night."
+                "This dude congratulates use for winning."
             ]
         },
         "62_0": {
             "lines": [
-                "Yes, because nature thrives during the night."
+                "Huh, interesting."
             ]
         },
         "63_0": {
             "lines": [
-                "There've been lots of fireflies, lately...",
-                "Kinda makes me worry a little about the outside world."
+                "This guy also likes to imitate danmaku...",
+                "Just what is this world?"
             ]
         },
         "64_0": {
