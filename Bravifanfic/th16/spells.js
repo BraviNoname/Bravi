@@ -47,7 +47,7 @@
     "111": "Tight Dodge \"Dupion Danmaku\"",
     "37": "Orb Sign \"Tight Orb Spot\"",
     "44": "Filop \"Flames Reaching the Moon at Winter\"",
-    "117": "Secretly Released Timeout \"The Back Face's Dark Sarugaku\"",
+    "117": "\"The Phantom Secretly Existing on Your Back\"",
     "70": "Illusionary Memories \"Memory of the Bright Hidden Stars\"",
     "73": "Illusionary Memories \"Memory of the Overly Bright Hidden Stars\"",
     "84": "Winter Memories \"Guse Flash out of Common Sense\"",
