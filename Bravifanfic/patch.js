@@ -3,7 +3,7 @@
 		"nmlgc/base_tsa",
 		"nmlgc/script_latin",
 		"nmlgc/western_name_order",
-                "DTM/alphes"
+                "DTM/alphes/"
 	],
 	"fontrules": {
 		"*": "'Power Clear'"
