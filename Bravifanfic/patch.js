@@ -1,9 +1,9 @@
 {
 	"dependencies": [
-		"nmlgc/base_tsa",
-		"nmlgc/script_latin",
-		"nmlgc/western_name_order",
-		"DTM/alphes"
+		"archive": "nmlgc/base_tsa",
+		"archive": "nmlgc/script_latin",
+		"archive": "nmlgc/western_name_order",
+		"archive": "DTM/alphes"
 	],
 	"fontrules": {
 		"*": "'Power Clear'"
