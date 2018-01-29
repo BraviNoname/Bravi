@@ -53,13 +53,13 @@
     "107": "Nightmare Sign \"Shadow Stealer -Fast Version-\"",
     "108": "Crawling Nightmare \"Creeping Shadow\"",
     "109": "Darkness \"Dark Impulse Hand\"",
-    "110": "Earth \"Aimed Quake\"",
-    "111": "Magic Sign \"Dark Reflected Volley\"",
-    "112": "Guardian \"Constantly Racing Bullets\"",
+    "110": "Dark Earth \"Aimed Quake\"",
+    "111": "Dark Magic \"Dark Reflected Volley\"",
+    "112": "Pure Darkness \"Constantly Racing Bullets\"",
     "113": "Darkness \"Dark Wave\"",
-    "114": "Earth \"Racing Shockwave\"",
+    "114": "Dark Earth \"Racing Shockwave\"",
     "115": "Dark Planets \"Dark Lunatic Impact of Doom and Chaos\"",
-    "116": "Guardian \"Dark Soul\"",
+    "116": "Pure Darkness \"Dark Soul\"",
     "117": "\"Dark Shadow\"",
     "118": "Dual Limit \"Double Ars Solum -Danmaku Version-\""
 }
