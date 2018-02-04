@@ -49,7 +49,7 @@
     "98": "Light \"Shining Light within Darkness\"",
     "100": "Light \"Lingering Light within Darkness\"",
     "102": "Limit Break \"Falling Light within One's Heart\"",
-    "104": "Final Limit \"Newborn Hope within Darkness\"",
+    "104": "Final Limit \"Crumbling Heart\"",
     "106": "Nothingness \"Flying Random Swords\"",
     "107": "Nothingness \"Flying Arrows Combo\"",
     "108": "Absent Silhouette \"Aimed Despair\"",
