@@ -1,0 +1,168 @@
+{
+    "0": {
+        "32_0": {
+            "lines": [
+                "Ack, a human!?"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "oh?",
+                "She ran away."
+            ]
+        }
+    },
+    "1": {
+        "38_0": {
+            "lines": [
+                "Awww, my optical camouflage suit broke!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "You mean, I broke it.",
+                "Who are you?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "You're a human,",
+                "but you picked me out pretty well from the camo."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "You weren't hidden at all.",
+                "You really stood out."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "See you, human!",
+                "By the way, it's dangerous if you go any further!"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Listen when people talk to you!"
+            ]
+        }
+    },
+    "2": {
+        "38_0": {
+            "lines": [
+                "Oh, it's that human from before.",
+                "Didn't I tell you not to go any deeper?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Aw geez.",
+                "Are all the youkai in the mountain like you?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Sorry about that,",
+                "it's just been so long since I've actually seen a human."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I just wanted to give my new optical camouflage suit a test run."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "You want to make me a test subject? What an honor.",
+                "Please, perform your experiments on me."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Well, anyway, the mountain gets dangerous from",
+                "here in, so I thought I'd chase you away."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Let me tell you straight up...",
+                "Turn back now."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Saying that just makes me want to go on all the more."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Doesn't a big \"KEEP OUT\" sign just",
+                "make you want to see what's behind it?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "No, it doesn't!",
+                "It doesn't, so just go home."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Seems like everyone's just trying to chase me away.",
+                "If that's how it is, I'll keep on going as far as I can."
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "S-strong...",
+                "To think I'd lose to someone like you..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Now, up the mountain I go."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "You're an energetic human. Kappa and humans have been sworn",
+                "friends since ancient times, so let me tell you something."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "For the loser to claim to be a sworn friend is a little strange."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Recently, a threatening god has taken up residence at the top of the",
+                "mountain."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Thanks to that, us kappa and tengu have been bothered."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "What are you saying?",
+                "You want me to go solve it?"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Ah, I've said too much, don't worry about it."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Hmm. From this waterfall the game is on!"
+            ]
+        }
+    }
+}

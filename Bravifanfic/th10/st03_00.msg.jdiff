@@ -1,0 +1,180 @@
+{
+    "0": {
+        "32_0": {
+            "lines": [
+                "Ack, a human!?"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Wh-what?",
+                "Where are you going?"
+            ]
+        }
+    },
+    "1": {
+        "38_0": {
+            "lines": [
+                "Awww, my optical camouflage suit broke!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "What's that?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "You're a human,",
+                "but you picked me out pretty well from the camo."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "That's because my eyes are really good!",
+                "Or, maybe you weren't really hiding."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "See you, human!",
+                "By the way, it's dangerous if you go any further!"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "I'll still be going, anyway."
+            ]
+        }
+    },
+    "2": {
+        "38_0": {
+            "lines": [
+                "Oh, it's that human from before.",
+                "Didn't I tell you not to go any deeper?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "You really got in my way back there."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Did I?",
+                "I don't even know what you're doing."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "How can I get in your way?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "I have urgent business with the god that lives on top of the mountain.",
+                "Will you let me through?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "The god on top of the mountain?",
+                "But many gods live up there..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Let me tell you straight up ...",
+                "You'd better leave."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "I'm Nitori Kawashiro.",
+                "They call me Nitori the Valley Kappa."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Go on now, better get back to the village!",
+                "There's lots of folks who don't like humans up ahead."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Oh, I know that.",
+                "But sometimes there are things you just have to do."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Oh my, it's been so long since I met a human, my sworn friends.",
+                "Why did it have to turn out this way..."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Oh well, if you really want to get into the mountain,",
+                "you'll have to show me how serious you are!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "You're, you're strong, I can't believe my weapons couldn't beat you...",
+                "I didn't think humans could get that strong."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Well, time to move on."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Hey human! Kappa and humans have been sworn friends",
+                "since ancient times, so let me tell you something."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Sworn friends?",
+                "Are you sure you haven't mistaken an old enemy for a friend?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "It's true that there's been a restless god on top of the mountain lately."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Are you going to go beat her?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Well, what a surprising place to get such great information.",
+                "To tell you the truth, I'd forgotten why I'd come all the way up here."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Ah, I can't believe it. Humans are so flaky.",
+                "I knew I should have asked the tengu about this instead."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Well, I'll tell the kappa around here about you, so just go on ahead."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "I can see a waterfall up ahead...",
+                "And now for the main event!"
+            ]
+        }
+    }
+}
