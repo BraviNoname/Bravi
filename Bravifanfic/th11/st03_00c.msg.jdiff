@@ -1,0 +1,212 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Hey, you're pretty good."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Dunno who you are, but they say",
+                "a rowdy welcome is best for a rowdy guest!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "I like you!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "We'll have lots more fun, so",
+                "Keep following until you can't take anymore!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "<t$Aya >(Well, this has gotten a bit out of hand.)"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Geez!",
+                "Quit wandering around in front of me, you're in the way!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Oh, you're so cold.",
+                "And people from above almost never come down here."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Aya >(Ah, hello, hello.",
+                "<l$> Nice to meet you, I'm Shameimaru the Tengu.)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Huh? A tengu?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I wouldn't have guessed it by looking at you..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "No, I'm not a tengu, I'm a human."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Huh?",
+                "Well, what were you saying before, then?"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "<t$Aya >(No, no, I'm a tengu pretending to be a human.",
+                "<l$> There's something I needed to look into...)"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Just a-"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "<t$Aya >(I didn't think it would be a good idea for a tengu to",
+                "<l$> be down here, but I was able to sneak in like this.)"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Hm, strange to think a tengu would come down here..."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "I thought you didn't want to meet us, so you were",
+                "avoiding us."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "<t$Aya >(No, no, I thought I'd",
+                "<l$> come introduce myself later.)"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Hmm, and you're pretending to be a human?"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "You know, I really hate good tengu lies",
+                "like that."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "<t$Aya >(I'm so very sorry.",
+                "<l$> I didn't mean to come down here to spout lies to you.)"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Hm, so you sent me down here not because you couldn't move on",
+                "your own, but because there's someone you didn't want to bump into?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Hoho. Well, since we're such good friends with tengu, I'll",
+                "look over it this time... but on one condition."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "I only forgive the strong and the brave!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Well done!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Now, let's see what I'm forgiving such a strong person for!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "<t$Aya >(Heheh. Thank you very much.",
+                "<l$> Well, then, I suppose I'll get straight to the point.)"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "<t$Aya >(Evil spirits have begun to appear above ground.",
+                "<l$> Of course, I'm not saying that this is the oni's doing.)"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Eh? Evil spirits?",
+                "That's the first I've heard of this!"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Eh? What's that?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "<t$Aya >(It would be a problem for you, as well, if they were to",
+                "<l$> get out, right?)"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Hmmmm.",
+                "Well, you're not lying, right?"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "<t$Aya >(Why would I be lying?",
+                "<l$> In any case, we wanted to investigate these spirits...)"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "I see, well, I'll trust you this time, based on what",
+                "your strength and this saké tell me."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "<t$Aya >(Hehehe, you're far too kind.)"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "You two are going to go right along and keep",
+                "ignoring me, aren't you?"
+            ]
+        }
+    }
+}
