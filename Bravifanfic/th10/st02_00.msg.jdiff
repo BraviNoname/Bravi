@@ -8,17 +8,17 @@
         "38_0": {
             "lines": [
                 "The atmosphere is so heavy...",
-                "It's just noon, but the Sun doesn't shine here."
+                "Why is there a bulding underneath me?"
             ]
         },
         "42_0": {
             "lines": [
-                "Oh, are you still here?"
+                "...you should already know why..."
             ]
         },
         "110_0": {
             "lines": [
-                "And I was trying to chase you away just now..."
+                "...and I was trying to chase you away just now..."
             ]
         },
         "114_0": {
@@ -28,36 +28,36 @@
         },
         "122_0": {
             "lines": [
-                "Oh, never mind, it doesn't matter.",
-                "My job is chasing away lost humans."
+                "...you really didn't notice huh...",
+                "...I guess you really are stupid..."
             ]
         },
         "130_0": {
             "lines": [
                 "But I'm not lost.",
-                "I just want to go to the mountain."
+                "I just want to go to the castle."
             ]
         },
         "138_0": {
             "lines": [
-                "What are you going to do there?",
-                "Don't you know it's dangerous?"
+                "...then go on ahead...",
+                "...it's not like you were going to fall..."
             ]
         },
         "146_0": {
             "lines": [
-                "If you get in my way, I'll treat you like an enemy."
+                "Oh really."
             ]
         },
         "154_0": {
             "lines": [
-                "I'm a friend of humans.",
-                "I take their misfortune and pass them on to the gods."
+                "...you shall first see how much misfortune...",
+                "...a Nightmare like me can expell..."
             ]
         },
         "162_0": {
             "lines": [
-                "If you like, I can take on all of your tragedies."
+                "...then you'll go on ahead..."
             ]
         },
         "170_0": {
@@ -68,36 +68,36 @@
         },
         "178_0": {
             "lines": [
-                "Oh, really!"
+                "...heh..."
             ]
         }
     },
     "1": {
         "30_0": {
             "lines": [
-                "I was just trying to be nice and chase you away..."
+                "...hmph, you have some guts..."
             ]
         },
         "34_0": {
             "lines": [
-                "Chasing me away really isn't that nice."
+                "You said you were letting me go on."
             ]
         },
         "38_0": {
             "lines": [
-                "From here on is the world where the gods live."
+                "...you'll really know how weak you are..."
             ]
         },
         "46_0": {
             "lines": [
-                "You'll regret this.",
-                "It's no place for humans to go."
+                "...you'll regret this...",
+                "...you'll wander off the path..."
             ]
         },
         "54_0": {
             "lines": [
                 "Oh, good.",
-                "It looks like I finally made it to Youkai Mountain."
+                "It looks like I finally made it to the river near their home."
             ]
         }
     }
