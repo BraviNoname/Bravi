@@ -1,0 +1,96 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "It sure is hot..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Just glancing around here, there doesn't seem",
+                "to be anything abnormal happening..."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "What's up?"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "If the shrine maiden's out and about,",
+                "then did an incident happen, by any chance?"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "I've got more power than I know what to do with,",
+                "so how about I help you out?"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Good grief. Looks like the only ones benefiting from",
+                "this <i$season incident> are you dumb fairies."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I haven't sunk so low as to need help",
+                "from some fairy, you know."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Oh?",
+                "Then how about I kick up a storm?!"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "My blood's totally boiling",
+                "with midsummer heat!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "I surrenderrrr."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Whew. You were tougher than I thought."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I didn't think I had that much strength",
+                "in me either!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "This blue summer sky got me pumped up."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Right now, I feel like I could even",
+                "become the god of the new world!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I see..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "It doesn't seem like a coincidence that the fairies",
+                "are going nuts at the same time as the weather."
+            ]
+        }
+    }
+}
