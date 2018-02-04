@@ -1,0 +1,81 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "I'm sure I've seen that",
+                "probe-looking thing around here."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Commencing",
+                "immediate attack!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "<i$This is Seiran.>",
+                "<i$I've made contact with a belligerent earthling.>"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "<i$Now proceeding with purification.>"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Hm-m?",
+                "Those ears... Are you a rabbit?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "We are Eagle Ravi, the investigation corps of the moon rabbits."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Hindrances are to be eliminated!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Man,",
+                "Why don't I get any reinforcements?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "That's why they say that rabbits nowadays",
+                "are disobedient garbage!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "By the way, did you see a probe...",
+                "A mechanical spider-looking thing around here?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I guess you're talking about Earth probes.",
+                "They have returned to the base for now."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Wait, I'm not supposed to tell you this!",
+                "It's a secret to everyone!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I see, I see. So, if you're already at it,",
+                "could you please tell me where that base is?"
+            ]
+        }
+    }
+}
