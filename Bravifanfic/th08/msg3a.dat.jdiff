@@ -2,75 +2,75 @@
     "2": {
         "61_0": {
             "lines": [
-                "Is it you? Are you the ones trying to attack",
-                "the village in the middle of this night?"
+                "Oh so you managed to get past that nightmare",
+                "despite the danger of the black out?"
             ]
         },
         "62_0": {
             "lines": [
-                "This horrible scene is your doing, isn't it?",
-                "Where did you send the humans and their village?"
+                "Well, yes?",
+                "Don't underestimate us!"
             ]
         },
         "63_0": {
             "lines": [
-                "I won't hand the humans over to you youkai."
+                "Oh this nightmare could have been making you spin around."
             ]
         },
         "64_0": {
             "lines": [
-                "I'll make this night never have happened!"
+                "Now, let us begin the midboss spellcard!"
             ]
         }
     },
     "3": {
         "61_0": {
             "lines": [
-                "Aah, what the heck are you?"
+                "Still strong as I can see."
             ]
         },
         "62_0": {
             "lines": [
-                "Hey, put the village back!"
+                "Hey, why did you make us come here?"
             ]
         }
     },
     "0": {
         "60_0": {
             "lines": [
-                "So persistent."
+                "Welcome back."
             ]
         },
         "60_1": {
             "lines": [
-                "You don't matter right now."
+                "Well, I'll ask you again."
             ]
         },
         "61_0": {
             "lines": [
-                "The Human Village was supposed to be here, right?"
+                "Why did you make us come here?"
             ]
         },
         "62_0": {
             "lines": [
-                "But there's nothing here now. What happened",
-                "to the humans and their houses and everything?!"
+                "You know I'm not interested to this world,",
+                "and yet you insisted back at the shrine?!"
             ]
         },
         "63_0": {
             "lines": [
-                "Nothing."
+                "But Yukari accepted."
             ]
         },
         "64_h1_0": {
             "lines": [
-                "Keine Kamishirasawa"
+                "Xenamon"
             ]
         },
         "64_0": {
             "lines": [
-                "I just made it so that the village",
-                "was invisible to your kind."
+                "And whether it's what she planned",
+                "or not, that's very kind."
             ]
         },
         "65_0": {
@@ -80,7 +80,7 @@
         },
         "66_0": {
             "lines": [
-                "The Moon's gradually sinking lower as we speak."
+                "The city is fading away, and we won't be able to escape."
             ]
         },
         "67_0": {
@@ -90,23 +90,23 @@
         },
         "68_0": {
             "lines": [
-                "It's not like I can just ignore a youkai that erased",
-                "a whole village of humans."
+                "Tell me exactly why you made me",
+                "come here."
             ]
         },
         "69_0": {
             "lines": [
-                "\"Humans never settled here in the first place.\""
+                "\"I want my original to be known in Gensokyo.\""
             ]
         },
         "70_0": {
             "lines": [
-                "All I did was make it look that way."
+                "That's what I've said."
             ]
         },
         "71_0": {
             "lines": [
-                "I'll protect the humans from this ill-omened night."
+                "And now you're here, that helps me a lot."
             ]
         },
         "72_0": {
@@ -116,12 +116,12 @@
         },
         "73_0": {
             "lines": [
-                "I can see the humans just like usual, though."
+                "Now, what if I just do what you wish."
             ]
         },
         "74_0": {
             "lines": [
-                "Trickery of this level isn't useful at all,",
+                "You want us to come here,",
                 "is it?"
             ]
         },
@@ -132,17 +132,17 @@
         },
         "76_0": {
             "lines": [
-                "Really, what <i$are> you two?"
+                "Why yes?"
             ]
         },
         "77_0": {
             "lines": [
-                "Don't worry. They're invisible enough to me."
+                "Now, I'm kinda interested."
             ]
         },
         "78_0": {
             "lines": [
-                "Uu. Your pity isn't helping."
+                "But if you are too weak."
             ]
         },
         "79_0": {
@@ -152,30 +152,30 @@
         },
         "80_0": {
             "lines": [
-                "You're a half-beast, right?"
+                "You're a nobody, right?"
             ]
         },
         "81_0": {
             "lines": [
-                "I'm human when the Moon isn't full."
+                "Indeed, I'm the one you faced in front of Castle Oblivion."
             ]
         },
         "82_0": {
             "lines": [
-                "Not unlike a human-faced dog",
-                "or a human-faced rock, then."
+                "Oh and you fell for the trick",
+                "of that nobody messing with memories."
             ]
         },
         "83_0": {
             "lines": [
-                "Why does everything except my face have to change?",
-                "The transformation is full-body."
+                "Really, I couldn't do a thing,",
+                "a nobody is highly exposed to that."
             ]
         },
         "84_0": {
             "lines": [
-                "Or it's like Gozu and Mezu,",
-                "where only the head turns into a beast's."
+                "Don't worry though,",
+                "it's not like you could be a threat."
             ]
         },
         "85_0": {
@@ -185,47 +185,47 @@
         },
         "86_0": {
             "lines": [
-                "If you're going to say that, I won't let you take it back."
+                "If you're going to say that, I will make you take it back."
             ]
         },
         "87_0": {
             "lines": [
-                "Tonight, I'll make an imperial feast out of your history!"
+                "Let's see if this time you can win!"
             ]
         },
         "88_0": {
             "lines": [
-                "Myself aside, this one's history would amount",
-                "to some light snacks at best."
+                "Interesting, let's see if you're",
+                "really that powerful."
             ]
         },
         "89_0": {
             "lines": [
                 "Shut up.",
-                "Even then, that means every day is tea and snacks for me."
+                "Even then, he was no match for me."
             ]
         }
     },
     "1": {
         "60_0": {
             "lines": [
-                "Now, restore the Human Village!"
+                "See, we weren't that weak!"
             ]
         },
         "61_0": {
             "lines": [
-                "It'll be okay to put it back. We weren't thinking",
-                "anything of you and the humans here to begin with."
+                "What is this city by the way,",
+                "it's distorted and all."
             ]
         },
         "62_0": {
             "lines": [
-                "Then, where are you trying to go?"
+                "Ooof, my head..."
             ]
         },
         "63_0": {
             "lines": [
-                "That way."
+                "Let's go..."
             ]
         },
         "64_0": {
@@ -240,8 +240,8 @@
         },
         "66_0": {
             "lines": [
-                "If you're after the ones behind the recent unusual Moon,",
-                "they're that way."
+                "This contorted city is the result of some torments,",
+                "And if you want to go on, go that way."
             ]
         },
         "67_0": {
@@ -257,12 +257,12 @@
         "69_0": {
             "lines": [
                 "You're off by 110.",
-                "Wait, she figured out what we're trying to do?"
+                "And you really think he guessed right?"
             ]
         },
         "70_0": {
             "lines": [
-                "It'd be more strange if she hadn't figured it out."
+                "It'd be more strange if he hadn't."
             ]
         }
     }
