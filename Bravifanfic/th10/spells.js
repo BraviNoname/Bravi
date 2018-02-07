@@ -33,7 +33,7 @@
     "52": "\"Peerless Space Manipulator\"",
     "53": "Sleep \"Sleep Procession\"",
     "55": "Sleepra \"Nightmare-Inducing Shots\"",
-    "56": "Sleepga\"Remembrance Nightmare\"",
+    "56": "Sleepga \"Remembrance Nightmare\"",
     "57": "Remembrance \"Gray Thaumaturgy\"",
     "59": "Remembrance \"Forgotten Ritual\"",
     "60": "Remembrance \"Secretly Inherited Art of Danmaku\"",
