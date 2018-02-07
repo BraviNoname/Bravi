@@ -54,7 +54,7 @@
     "52": "Sun Snatch \"Royal Flare\"",
     "53": "Fire Water Wood Metal Earth Snatch \"Philosopher's Stone\"",
     "54": "Darkness \"Bullet Trap\"",
-    "55": "Darkness \"Charge Blade\"",
+    "55": "Darkness \"Blade Charge\"",
     "56": "Darkness \"Self Duplicate\"",
     "57": "Darkness \"Bind Wave\"",
     "58": "Darkness \"Dark Maze\"",
