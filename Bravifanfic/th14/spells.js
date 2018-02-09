@@ -23,7 +23,7 @@
     "46": "Shadow \"Demon Tide\"",
     "48": "Claw \"Wicked Musical Claw\"",
     "50": "Claw \"Malicious Musical Claw\"",
-    "51": "Claws \"Double Claws\"",
+    "51": "Claws \"Double Claw\"",
     "52": "Yatsuhashi Tsukumo \"Sounds of Anicca's Koto\"",
     "56": "Music \"Music Reflect\"",
     "58": "Music \"Music Reflera\"",
