@@ -27,6 +27,7 @@
     "41": "Final Limit \"Ayers Rock\"",
     "42": "Quake \"Lunatic Throw\"",
     "44": "Quake \"Lunatic Strike Raid\"",
+    "45": "Quake \"Lunatic Sinkable Raid\"",
     "46": "Vortex \"Deep Furies\"",
     "48": "Vortex \"Sinkable Furies\"",
     "50": "Limit Break \"Berserk\"",
