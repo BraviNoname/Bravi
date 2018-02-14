@@ -2,7 +2,7 @@
     "0": {
         "60_0": {
             "lines": [
-                "This place again. It's snowy in there..."
+                "This place again. It's very cold in there..."
             ]
         },
         "61_0": {
@@ -12,31 +12,31 @@
         },
         "62_0": {
             "lines": [
-                "Why is it snowy already?"
+                "Why is it cold already?"
             ]
         },
         "102_0": {
             "lines": [
-                "You're that human again,",
-                "you've come to the right place!"
+                "I take it,",
+                "you're Reimu."
             ]
         },
         "113_h1_0": {
             "lines": [
-                "Organisation XIII Mushroom",
-                "Mushroom IV"
+                "The Chilly Academic",
+                "Vexen"
             ]
         },
         "113_0": {
             "lines": [
-                "Where have we met again?",
-                "Were you that guy from the weird ocean?"
+                "Are you the one",
+                "responsible for this cold?"
             ]
         },
         "114_0": {
             "lines": [
-                "Yes, you remember me!",
-                "The incident is coming right here, you know?"
+                "You're half correct.",
+                "The incident of yours isn't quite the same."
             ]
         },
         "115_0": {
@@ -58,8 +58,8 @@
         },
         "118_0": {
             "lines": [
-                "Really, I'm not joking.",
-                "I'll show you what I can do!"
+                "Oh so it's a fight you want",
+                "Very well, I shall take you on!"
             ]
         },
         "119_0": {
@@ -71,12 +71,12 @@
     "1": {
         "60_0": {
             "lines": [
-                "Congratulations?"
+                "Oh he went away? As if he wanted me to follow him."
             ]
         },
         "60_1": {
             "lines": [
-                "Oh I get it, it was just a test, I'd better get going..."
+                "He went to this city right there..."
             ]
         }
     },
@@ -98,18 +98,18 @@
         },
         "102_h1_0": {
             "lines": [
-                "Organisation XIII Mushroom",
-                "Mushroom IV"
+                "The Chilly Academic",
+                "Vexen"
             ]
         },
         "102_0": {
             "lines": [
-                "That bland mushroom."
+                "Oh, one of those hooded guys."
             ]
         },
         "103_0": {
             "lines": [
-                "You know, there isn't supposed to be any seasons here."
+                "There isn't supposed to be any seasons here."
             ]
         },
         "104_0": {
@@ -119,7 +119,7 @@
         },
         "105_0": {
             "lines": [
-                "The winter is spreading through here."
+                "The winter of your previous incident is spreading through here."
             ]
         },
         "106_0": {
@@ -155,13 +155,13 @@
     "20": {
         "60_0": {
             "lines": [
-                "What is this place, and why is it's winter here?"
+                "What is this place, and why is it so cold here?"
             ]
         },
         "61_0": {
             "lines": [
                 "I thought it was spring,",
-                "but if it's winter here..."
+                "but if it's winter-like here..."
             ]
         },
         "101_0": {
@@ -171,8 +171,8 @@
         },
         "103_h1_0": {
             "lines": [
-                "Organisation XIII Mushroom",
-                "Mushroom IV"
+                "The Chilly Academic",
+                "Vexen"
             ]
         },
         "102_0": {
@@ -183,8 +183,8 @@
         },
         "104_0": {
             "lines": [
-                "No, wait!",
-                "I'm the mastermind, but I'm normal."
+                "Oh, not so fast.",
+                "I might manipulate the ice, but"
             ]
         },
         "106_0": {
@@ -195,31 +195,31 @@
         },
         "107_0": {
             "lines": [
-                "Don't you think this situation",
-                "isn't normal to begin with?"
+                "You really think you aren't",
+                "the culprit although you manipulate ice?"
             ]
         },
         "109_0": {
             "lines": [
-                "The snow crystals in Gensokyo are larger than in past years.",
-                "Three times larger."
+                 "Don't you make such assumptions,",
+                "as this is not the most important thing here."
             ]
         },
         "110_0": {
             "lines": [
-                "Well, that's true."
+                "Oh."
             ]
         },
         "111_0": {
             "lines": [
-                "On top of that, there's a",
-                "freaky flying maid coming toward me."
+                "Someone up there is aiming",
+                "for something far greater."
             ]
         },
         "112_0": {
             "lines": [
                 "Yeah, that too.",
-                "After all, you're the mastermind."
+                "And you're involved in this."
             ]
         }
     },
