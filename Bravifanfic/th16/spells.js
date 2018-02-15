@@ -35,8 +35,8 @@
     "74": "Summer Memories \"Heat Wave From All Sides\"",
     "78": "Fall Memories \"Die of Famine\"",
     "82": "Winter Memories \"Halo of the Guse Kannon out of Common Sense\"",
-    "86": "Spring Memories \"Fancy April Wizard\"",
-    "87": "Spring Memories \"Fancy April Wizard\"",
+    "86": "Spring Memories \"Reverse April Wizard\"",
+    "87": "Spring Memories \"Reverse April Wizard\"",
     "90": "Okina Matara \"Hidden Breezy Cherry Blossom\"",
     "94": "Okina Matara \"Hidden Perfect Summer Ice\"",
     "98": "Okina Matara \"Hidden Crazy Fall Wind\"",
@@ -58,5 +58,5 @@
     "40": "Magic Bullet \"Gigantic Test Slave\"",
     "68": "Darkness \"Try Hard Double Lasers\"",
     "110": "Filop \"Shot in the Back\"",
-    "112": "Reverse Secrecy \"Decree of the Dream Flames of Heaven & Earth\""
+    "112": "Reverse Secrecy \"Overturning All Behind You\""
 }
