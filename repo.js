@@ -8,5 +8,5 @@
 		"http://thcrap.nmlgc.net/repos/Bravi/",
 		"http://mirrors.thpatch.net/Bravi/"
 	],
-	"title": "Bravi's Story and Mod That Never Was"
+	"title": "Bravi's Strange Story and Mod That Never Was"
 }
