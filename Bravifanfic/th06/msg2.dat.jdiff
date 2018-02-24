@@ -1,0 +1,143 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "This door just made me end up in the sea?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "How surprising."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Was this road supposed to lead here?"
+            ]
+        },
+        "92_h1_0": {
+            "lines": [
+                "The Melodius Nocturne",
+                "Demyx"
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "Oh you! Did ya enjoy making fun of the enemies?"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "Oh, no, they just got in my way.",
+                "Tell me all you know about here."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "So, what brings an outsider like you here?",
+                "Could you go somewhere else, please?"
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "No, not yet,",
+                "spit it out!"
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "Silence, shrine maiden."
+            ]
+        },
+        "97_0": {
+            "lines": [
+                "Die out of this cold frozen water!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Ah, it's starting to get cold."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "Where am I supposed to go again?"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "What am I doing on the sea",
+                "right now?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Could it be because I'm going astray?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Besides which..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "That poor mushroom went harassing me,",
+                "did he just tell me to hurry up?"
+            ]
+        },
+        "93_h1_0": {
+            "lines": [
+                "The Melodius Nocturne",
+                "Demyx"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "How am I just able to float...?"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "So you were the cold one."
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "Hey, you're looking lively."
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "Scram!"
+            ]
+        },
+        "97_0": {
+            "lines": [
+                "Now that's just being rude!"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "What if I make you fall off?"
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "Oh, he just escaped through some darkness."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Let's fly up towards that dark sky",
+                "up there."
+            ]
+        }
+    }
+}

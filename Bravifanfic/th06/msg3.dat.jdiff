@@ -1,0 +1,211 @@
+{
+    "2": {
+        "60_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Are you what's causing that darkness?"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "...what do you want..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Thanks for leading the way!"
+            ]
+        },
+        "62_h1_0": {
+            "lines": [
+                "The Melee Nightmare",
+                "Anti Black Coat Nightmare"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "...oh, so you were following me...",
+                "...but you'll find nothing over here..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "You wouldn't flee somewhere where there's nothing, right?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "...you got a point there...",
+                "...and you just followed me like an idiot..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "By the way, who are you?"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "...I am a Nightmare whose existence makes people suffer..."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "And you attacked me before, didn't you?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "...I was testing you...",
+                "...but you attacked me first..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "...gee, how rude you are..."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "But I'm a normal shrine maiden."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "...oh, so you're that shrine maiden...",
+                "...good, we were waiting for you..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "...now that I got you, I'll just squash",
+                "you flat with my physical strenght..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Oh of course you will."
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "Well then, I'll have you show me the way."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "...well I just got you lost",
+                "since this is just a dead end..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Oh well, that's too bad."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "...so you really wanna go on..."
+            ]
+        }
+    },
+    "12": {
+        "60_0": {
+            "lines": [
+                "...I just got you now..."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Did he just speak through my mind?"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "...and you just followed me again..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "That telepathical weirdo, again."
+            ]
+        },
+        "63_h1_0": {
+            "lines": [
+                "The Melee Nightmare",
+                "Anti Black Coat Nightmare"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "...wait a minute...",
+                "...you don't..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "What's the matter?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "...you're clothes aren't red and white..."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Listen, you're in my way.",
+                "You are a guard around here?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "...you are the one in my way..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "So you are the guard?"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "...I guard this place from nuisances..."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "In short, you're a normal person.",
+                "I shall punish you here."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "...Begone..."
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "Just as I thought,",
+                "it isn't my style to fight normal people."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "...rrgh..."
+            ]
+        }
+    }
+}
