@@ -62,8 +62,8 @@
     "89": "Remembrance \"Devil's Recitation\"",
     "91": "Remembrance \"Devil's Recitation\"",
     "92": "Remembrance \"Devil's Recitation\"",
-    "94": "\"Sonic Book\"",
-    "95": "Superhuman Flowmotion \"Nonamé\"",
+    "94": "\"Dark Aura\"",
+    "95": "\"Dark Aura\"",
     "96": "\"Sealed Nothingness\"",
     "98": "\"Eternally Sealed Nothingness\"",
     "99": "\"Eternally Sealed Nothingness\"",
@@ -80,5 +80,5 @@
     "110": "Assumed Hearts \"Rainbow Dream Portals of Terror\"",
     "111": "\"Interdiction\"",
     "112": "Final Limit \"All-Vanity\"",
-    "93": "\"Sonic Dive\""
+    "93": "\"Dark Aura\""
 }
