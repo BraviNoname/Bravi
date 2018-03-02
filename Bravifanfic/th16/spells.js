@@ -31,7 +31,7 @@
     "115": "Light \"Inverse Burst\"",
     "106": "Light & Darkness \"Move in Your Safespot\"",
     "107": "Light & Darkness \"Crazy Back Storm\"",
-    "108": "Light & Darkness \"The Joining Two Halves\"",
+    "108": "Light & Darkness \"Union of the Two Halves\"",
     "74": "Summer Memories \"Heat Wave From All Sides\"",
     "78": "Fall Memories \"Die of Famine\"",
     "82": "Winter Memories \"Halo of the Guse Kannon out of Common Sense\"",
