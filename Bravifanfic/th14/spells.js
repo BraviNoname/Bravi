@@ -30,7 +30,7 @@
     "59": "Music \"Music Reflega\"",
     "60": "Filop \"Music Rising Just Behind You\"",
     "62": "Filop \"Chaotic Music Rising Just Behind You\"",
-    "64": "Deceit Sign \"Reverse Needle Attack\"",
+    "64": "Filop \"Reverse Blade Attack\"",
     "68": "Filop \"Danmaku Through the Looking-Glass\"",
     "70": "Filop \"Evil in the Mirror\"",
     "72": "Filop \"This Side Down\"",
