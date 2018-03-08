@@ -190,9 +190,9 @@
     "188": "\"Pure Furies Over Time -Dawn-\"",
     "189": "\"Pure Furies Over Time -Morning Star-\"",
     "190": "\"Pure Furies Over Time -Rising World-\"",
-    "191": "\"Dark Break\"",
-    "192": "Filop \"Dark Firaga\"",
-    "193": "\"Dark Aura\"",
+    "191": "First Duel \"Impulse\"",
+    "192": "Second Duel \"Maelstrom\"",
+    "193": "Final Duel \"Barrage\"",
     "194": "Battle Start \"Treasonous Knives\"",
     "195": "Immortal \"Flying Moltres\"",
     "196": "Return \"Bouncing Amulets\"",
@@ -212,7 +212,7 @@
     "210": "\"Ragnarok\"",
     "211": "\"Flying Ho-Oh\"",
     "212": "Tewi Inaba \"Ancient Duper\"",
-    "213": "\"Dark Firaja\"",
+    "213": "\"Dark Maelstrom\"",
     "214": "\"Unknown Dark Barrage\"",
     "215": "\"Dark Rush\""
 }
