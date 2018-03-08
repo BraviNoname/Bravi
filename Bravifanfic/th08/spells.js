@@ -209,7 +209,7 @@
     "207": "\"Nightmarish Abyss\"",
     "208": "\"Fast Catastrophe\"",
     "209": "\"Hidden Star in Nothingness\"",
-    "210": "\"Ragnarok\"",
+    "210": "\"Prism Ragnarok\"",
     "211": "\"Flying Ho-Oh\"",
     "212": "Tewi Inaba \"Ancient Duper\"",
     "213": "\"Dark Maelstrom\"",
