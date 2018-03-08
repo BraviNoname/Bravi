@@ -1,4 +1,4 @@
-Two years ago, just by playing different osts from youtube on the ZUNgame stage and boss battles, I imagined from these where the stages would take places, what enemies the player would face, the bosses, and thus make a story, but I still lacked of any ways of doing any image editiong, but now, I can also mod the graphics and images of the games and thus I made a mod out of this.
+Two years ago, just by playing different osts from youtube on the ZUNgames stages and boss battles, I imagined from these where the stages would take places, what enemies the player would face, the bosses, and thus, while being inspired by these songs, make a story. But I still lacked of any ways of doing any image editing, but now, I can also mod the graphics and images of the games and thus I made a mod out of this.
 
 The BGM have yet to be modded, you'll find a README.md file in each of the thXX folders right above that'd help you find the right osts to play.
 
