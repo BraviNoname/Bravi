@@ -1,6 +1,6 @@
-This is some fanfic I've imagined since one or two years ago just by playing different osts from youtube on stage and boss battles, and now, I can also mod the graphics and images of the games.
+Two years ago, just by playing different osts from youtube on the ZUNgame stage and boss battles, I imagined from these where the stages would take places, what enemies the player would face, the bosses, and thus make a story, but I still lacked of any ways of doing any image editiong, but now, I can also mod the graphics and images of the games and thus I made a mod out of this.
 
-The BGM are yet to be modded, you'll find a README.md file in each of the touhou folders that'd help you find the right ost.
+The BGM are yet to be modded, you'll find a README.md file in each of the touhou folders that'd help you find the right osts to play.
 
 Once I'll get the osts to be modded, ask me to get the bgm.dat files for that to work.                        
 
