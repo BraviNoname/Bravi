@@ -1,8 +1,8 @@
-This is some fanfic mod I've imagined since one or two years ago, and now, I'm able to do it.
+This is some fanfic I've imagined since one or two years ago just by playing different osts from youtube on stage and boss battles, and now, I can also mod the graphics and images of the games.
 
-The BGM are yet to be modded, you'll find a README.md file in each of the touhou folders.
+The BGM are yet to be modded, you'll find a README.md file in each of the touhou folders that'd help you find the right ost.
 
-Once I'll get the osts to be modded, ask me for the bgm.dat files.                        
+Once I'll get the osts to be modded, ask me to get the bgm.dat files for that to work.                        
 
 These, and the dialogues are still yet to be done, but nowadays, I don't feel inspired... 
 
