@@ -26,7 +26,6 @@ Title Theme : Sacred Moon ~ 358/2 Days
 Just so you get what's going on without relying on the ingame dialogue I have yet to make. Also, despite my decent english level, there can be some gramatical errors... Please don't be a grammar nazi. =<
 Each incident takes place after the one corresponding to each game.
 
-Th08:
 The protagonists saw a hooded figure hanging around in Gensokyo, they asked him what he was doing here and that he should get out. He invited them to go to their castle to make his original be known in Gensokyo.
 Reimu wasn't interested, but then Yukari was. Marisa, wanted to find something to do and she found it, and Alice agreed. Remilia and Yuyuko think it would be intresting meeting this "original", and Sakuya and Youmu followed.
 
