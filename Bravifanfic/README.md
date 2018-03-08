@@ -1,12 +1,10 @@
 Two years ago, just by playing different osts from youtube on the ZUNgame stage and boss battles, I imagined from these where the stages would take places, what enemies the player would face, the bosses, and thus make a story, but I still lacked of any ways of doing any image editiong, but now, I can also mod the graphics and images of the games and thus I made a mod out of this.
 
-The BGM are yet to be modded, you'll find a README.md file in each of the touhou folders that'd help you find the right osts to play.
+The BGM have yet to be modded, you'll find a README.md file in each of the thXX folders right above that'd help you find the right osts to play.
 
 Once I'll get the osts to be modded, ask me to get the bgm.dat files for that to work.                        
 
-These, and the dialogues are still yet to be done, but nowadays, I don't feel inspired... 
-
-The stage logos and story summaries can give you hints about the plot.
+These, and the dialogues are still yet to be done, but nowadays, I don't feel inspired... The stage logos and the same README.md files as the one mentionned above can give you some clues about the plot.
 
 About the dialogues :
 - th06 : done
