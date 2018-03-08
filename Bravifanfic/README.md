@@ -10,6 +10,10 @@ The stage logos and story summaries can give you hints about the plot.
 
 About the dialogues :
 - th06 : done
+- th07 : done
+- th08 : stages 1 to 3 Border Team done
+- th10 : stages 1 and 2 done
+- th06 : stages 6 and extra done
 
 Image Credits :
 
