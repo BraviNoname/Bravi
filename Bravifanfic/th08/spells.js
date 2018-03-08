@@ -203,7 +203,7 @@
     "201": "Advanced Fire Magic \"Firetooth\"",
     "202": "\"Possessed by the Book\"",
     "203": "\"Anarchy Spiral Hell\"",
-    "204": "\"Auto-Life\"",
+    "204": "\"Ultimate Auto-Life\"",
     "205": "Wriggle Nightbug \"Unseasonal Butterfly Storm\"",
     "206": "\"Nightmare Blackout\"",
     "207": "\"Nightmarish Abyss\"",
