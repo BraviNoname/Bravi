@@ -204,7 +204,7 @@
     "202": "\"Possessed by the Book\"",
     "203": "\"Anarchy Spiral Hell\"",
     "204": "\"Auto-Life\"",
-    "205": "\"Unseasonal Butterfly Storm\"",
+    "205": "Wriggle Nightbug \"Unseasonal Butterfly Storm\"",
     "206": "\"Nightmare Blackout\"",
     "207": "\"Nightmarish Abyss\"",
     "208": "\"Fast Catastrophe\"",
@@ -213,6 +213,6 @@
     "211": "\"Flying Ho-Oh\"",
     "212": "Tewi Inaba \"Ancient Duper\"",
     "213": "\"Dark Maelstrom\"",
-    "214": "\"Unknown Dark Barrage\"",
+    "214": "\"Absolute Dark Aura\"",
     "215": "\"Dark Rush\""
 }
