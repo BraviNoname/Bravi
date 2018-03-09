@@ -11,11 +11,11 @@ About the dialogues :
 - th07 : done
 - th08 : stages 1 to 3 Border Team done
 - th10 : stages 1 and 2 done
-- th11 : not begun
-- th12 : not begun
-- th13 : not begun
-- th14 : not begun
-- th15 : not begun
+- th11 : not started
+- th12 : not started
+- th13 : not started
+- th14 : not started
+- th15 : not started
 - th16 : stages 6 and extra done
 
 Image Credits :
