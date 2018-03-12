@@ -9,7 +9,7 @@ Also, I don't think you'll have trouble finding the OSTs on youtube. That's what
 Title Theme : Sacred Moon ~ 358/2 Days
 (but who cares)
 
-- S1 : Sacred Moon / Boss : Battle! Gladion ~ Pokémon Sun and Moon
+- S1 : Sacred Moon / Boss : Battle ~ Vs. Kanto Trainer
 - S2 : Flowering Passage / Boss : Ghost Lead
 - S3 : Sacred Distance / Boss : Struggle Away
 - S4 : Into Backdoor / Boss : L'Eminenza Oscura I
