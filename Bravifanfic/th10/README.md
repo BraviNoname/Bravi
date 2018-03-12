@@ -11,7 +11,7 @@ Title Theme : Sacred Moon ~ 358/2 Days
 
 - S1 : Into Backdoor / Boss : Working Together ~ Birth by Sleep
 - S2 : Sacred Distance / Boss : Dread of Night
-- S3 : The Colorless Wind on Youkai Mountain / Boss : Battle! Gladion ~ Pokémon Sun and Moon
+- S3 : The Colorless Wind on Youkai Mountain / Boss : Battle ~ Vs. Kanto Trainer
 - S4 : Splash Canyon / Boss : The 13th Dilemma
 - S5 : The Dream Palace Great Mausoleum / Boss : Lunatic Eyes ~ Invisible Full Moon (PoFV)
 - S6 : Deep Drop / Boss : L'Oscurita dell'Ignot
