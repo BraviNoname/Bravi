@@ -9,7 +9,7 @@ Also, I don't think you'll have trouble finding the OSTs on youtube. That's what
 Title Theme : Sacred Moon ~ 358/2 Days
 (but who cares)
 
-- S1 : Into Backdoor / Boss : Working Together ~ Birth by Sleep
+- S1 : Dark Blowhole / Boss : Working Together ~ Birth by Sleep
 - S2 : Storm Diver / Boss : Dread of Night
 - S3 : Black Garden / Boss : The Tumbling
 - S4 : Cavern of Remembrance / Boss : The 13th Struggle ~ II.5 HD ReMiX
