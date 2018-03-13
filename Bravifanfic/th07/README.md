@@ -9,7 +9,7 @@ Also, I don't think you'll have trouble finding the OSTs on youtube. That's what
 Title Theme : Sacred Moon ~ 358/2 Days
 (but who cares)
 
-- S1 : Route 206 (Alternate) / Boss : Ice-Hot Lobster
+- S1 : Paradise ~ Deep Mountain / Boss : Ice-Hot Lobster
 - S2 : Sacred Distance / Boss : Dread of Night
 - S3 : Flowering Passage / Boss : Doll Judgement ~ the Girl Who Played with People's Shapes
 - S4 : Babylon Garden / Boss : The 13th Dilemma
