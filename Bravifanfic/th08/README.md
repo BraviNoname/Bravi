@@ -31,7 +31,7 @@ Reimu wasn't interested, but then Yukari was. Marisa, wanted to find something t
 
 Stage 1 :
 
-As the protagonists went through the door the hooded boy went through, they ended up in the same underground path, and they met Mushroom XIII, who explained them about their powers to imitate danmaku using cards with the imitated person's picture on it, then it attacked, only to lose.
+As the protagonists went through the door the hooded boy went through, they ended up in the same mysterious pitch black zone, and they met Mushroom XIII, who explained them about their powers to imitate danmaku using cards with the imitated person's picture on it, then it attacked, only to lose.
 
 Stage 2 :
 
