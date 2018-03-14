@@ -48,9 +48,7 @@ The castle is on fire, and the source of it must be at the bottom. The dark mush
 
 Stage 6 :
 
-As the protagonists get warmer, they meet Antinitas who told them that's not of their concern, but got defeated at last. At the very bottom, they meet Nonamé, who wields a Keyblade that's named Bond of Flame, which has the same abilities as some hell raven's
-third leg, This Keyblade must be the source of that incident, and the protagonists have to destroy it. As Nonamé told them that Keyblade can't be destroyed, they engaged a fierce battle, and both lost. The protagonists had to get out of the area and Nonamé
-just overflowed.
+As the protagonists get warmer, they meet Antinitas who told them that's not of their concern, but got defeated at last. At the very bottom, they meet Nonamé, who has been influenced by Ansem's remaining darkness, which caused her to be corrupted by the Yatagarasu, and the protagonists had to seal it away. As Nonamé told them this Yatagarasu couldn't be destroyed, they engaged a fierce battle, and both lost. The protagonists had to get out of the area as Nonamé just overflowed and thus got rid of both the Yatagarasu and Ansem's darkness.
 
 Ex Stage :
 
