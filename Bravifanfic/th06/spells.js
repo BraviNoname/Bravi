@@ -53,14 +53,14 @@
     "51": "Moon Snatch \"Silent Selene\"",
     "52": "Sun Snatch \"Royal Flare\"",
     "53": "Fire Water Wood Metal Earth Snatch \"Philosopher's Stone\"",
-    "54": "Darkness \"Bullet Trap\"",
+    "54": "Darkness \"Dark Trap\"",
     "55": "Darkness \"Blade Charge\"",
     "56": "Darkness \"Self Duplicate\"",
-    "57": "Darkness \"Bind Wave\"",
-    "58": "Darkness \"Dark Maze\"",
-    "59": "Forbidden Darkness \"Kick Wave\"",
+    "57": "Darkness \"Prison Kick\"",
+    "58": "Darkness \"Dark Spiral\"",
+    "59": "Forbidden Darkness \"Wave Kick\"",
     "60": "Forbidden Darkness \"Dark Shot Reflega\"",
     "61": "Forbidden Darkness \"Distortion of Space and Time\"",
     "62": "\"Creeping Darkness\"",
-    "63": "\"Dark Ripples\""
+    "63": "\"Dark Burst\""
 }
