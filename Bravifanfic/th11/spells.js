@@ -69,7 +69,7 @@
     "164": "Divine Virtue \"Bumper Crop Rice Shower\"",
     "165": "Darkness \"Helm Split Columns\"",
     "166": "Magic \"Bind\"",
-    "167": "Forth\"Revealed Light Star\"",
+    "167": "Forth \"Revealed Light Star\"",
     "168": "Back \"Hidden Dark Star\"",
     "169": "Darkness \"Dark Splicer\"",
     "170": "Subconscious \"Frozen Maelstrom\"",
