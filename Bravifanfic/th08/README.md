@@ -66,11 +66,11 @@ Stage 6B :
 
 Noname tried to lure the protagonists, but they suddenly went the other direction, where the corridor is real. Noname told them they weren't supposed to go that way, but got defeated.
 That other corridor was leading to the Station of Remembrance. There, Nonamé, introduced herself as a friend of Noname (who is not related by blood, totally not :3), she told them what he wants and this world is : it's a representation
-of Noname's spirit and thoughts, an exact copy of The World That Never Was, who can easily be mixed with the original world. As this world is an illusion, it's as real as Gensokyo is, and thus can be linked to it and ignore the Hakurei Border without damaging it.
+of Noname's spirit and thoughts, an exact copy of The World That Never Was, who can easily be mixed with the original world. As this world is an illusion, it's as real as Gensokyo is, and thus can be linked to it and ignore the Hakurei Border without damaging it. Yukari remained doubtful about these statements and guess there's another reason, but she kept it silent.
 
 Ex Stage :
 
-What practice was this girl talking about ? They said it would be worth taking a look. It often takes place at the Cavern of Remembrance. In which they made Nonamé, who removed her coat wondered if they're taking this challenge on.
+They didn't face properly Noname, so the protagonists went back to the Cavern of Remembrance to make things clear. In which cavern they met Nonamé, who removed her coat wondered if they're taking this challenge on.
 At the end, they met Noname who removed his coat too, and told them he didn't introduce to them properly, he just simply said he wanted to make some friends. And the protagonists understood that. As Noname assumed the proper greeting would work that way, he wanted an immortally blazing fight "We're not
 in Gensokyo, but there still is no common sense!". After getting defeated feeling what an immortal's life feels like, he said that sucks, and a frenchfag like him wouldn't live like that anyways. After he said that, the protagonists were surprised to see he could speak their language
 and that Gensokyo was known in France. Marisa knows someone who's also french, as well as Remilia's sister. (guess who) Noname didn't catch that, and told in a cringy way that he's french, but that he won't talk any further about that, told them they can come anytime they want and fled.
