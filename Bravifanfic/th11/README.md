@@ -20,7 +20,7 @@ Title Theme : Sacred Moon ~ 358/2 Days
 Just so you get what's going on without relying on the ingame dialogue I have yet to make. Also, despite my decent english level, there can be some gramatical errors... Please don't be a grammar nazi. =<
 Each incident takes place after the one corresponding to each game.
 
-There's some abnormal heat around the Hakurei Shrine. The protagonists wonder where this comes from, and could only guess Noname's world.
+There's some abnormal heat around the Hakurei Shrine even if this is winter. The protagonists wonder where this comes from, and could only guess Noname's world.
 
 Stage 1 :
 
