@@ -49,8 +49,8 @@ He has been vanquished after using strong light attacks. He then apologized for 
 
 Stage 6 :
 
-Into the Realm of Nothingness, they met the dark shadow again, who then fled. They met Nonamé, again, who seems to have changed, and wanted to test the new ability she got after having defeated Xemnas. She apologized for being greedy this time, but a danmaku
-battle can solve everything, and so they fought for a long time, Nonamé lost after having sealed the Nothingness around here, and made both her and the protagonists escape this place.
+Into the Realm of Nothingness, they met the dark shadow again, who then fled. They met Nonamé, again, who seems to have matured due to the power she has been holding in her book, and wanted to test this new ability she got when she has defeated Xemnas. She apologized for being greedy this time, but a danmaku
+battle can solve everything, and so they fought viciously, Nonamé lost after having sealed the Nothingness off this world, admitted defeat and made both her and the protagonists escape this place.
 
 Ex Stage :
 
