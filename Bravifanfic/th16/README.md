@@ -47,7 +47,7 @@ The protagonists ended up at the Transport of Remembrance filled with doors remi
 
 Stage 6 :
 
-That trap was a Door to Remembrance, made up by Nonamé, who told the protagonists they still didn't notice they were still using those season powers and that trap was going to make them lose. 
+That trap was a Door to the Mystery Zone made up by Nonamé, who told the protagonists they still didn't notice they were still using those season powers and that trap was going to make them lose. 
 As she wanted to buy some time for Noname, she made sure they can't escape. She then forcefully fought them, making them visiting the seasonal places of their memories, and they lost because of her book to steal their powers and once the protagonists were forced to give up, they were sent back to their respective places.
 
 Afterwards, she felt satisfied but sorry, but Reimu and Marisa enjoyed this battle and forgave her as she could win for once.
