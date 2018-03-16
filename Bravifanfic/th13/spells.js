@@ -13,7 +13,7 @@
     "26": "Remembrance \"Bullet Magnet\"",
     "28": "Remembrance \"Bullet Magnera\"",
     "29": "Remembrance \"Bullet Magnega\"",
-    "30": "Rainbow Sign \"Umbrella Cyclone\"",
+    "30": "Light \"Prism Windmill\"",
     "32": "Recovery \"Shadow Cure\"",
     "34": "Recovery \"Shadow Cura\"",
     "35": "Recovery \"Shadow Curaga\"",
