@@ -9,7 +9,7 @@ Also, I don't think you'll have trouble finding the OSTs on youtube. That's what
 Title Theme : Sacred Moon ~ 358/2 Days
 (but who cares)
 
-- S1 : At the End of Spring / Boss : Ghost Lead
+- S1 : Route 206 (Alternate) / Boss : Ghost Lead
 - S2 : Babylon Garden / Boss : Beware the Umbrella Left There Forever
 - S3 : Mystic Moon / Boss : The 13th Struggle ~ Re: Chain of Memories
 - S4 : Deep Drive / Boss : The 13th Dilemma
