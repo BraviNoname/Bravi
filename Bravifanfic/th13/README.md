@@ -29,21 +29,21 @@ The protagonists meet Noname at the Dark City. They asked him if he was alright,
 Stage 2 :
 
 The protagonists woke up on a route near the Home that Never Was, they met Nonamé who tried to challenge them, to see if they're ready to face Noname's darkness. She told them he has a real life, and something bad happened, which caused darkness
-and desire spirits to appear. She told Youmu her swords could be of good use, as well as Reimu's amulets.
+and dark desire spirits to appear. She told Youmu her swords could be of good use, as well as Reimu's amulets. Once defeated she led them towards the Contorted City
 
 Stage 3 :
 
-At the Contorted City, the protagonists met Kogasa, she wanted to surprise people here, but she sensed some hurting feelings beyond this place, she challenged them to see if they were ready to face it.
-Going further, they met a shadowy other, who telepathically told them that Noname was going to get extinguished, then it attacked the protagonists, and vanished once defeated.
+At the Contorted City, the protagonists were following Noname, who couldn't face the threat who was protecting an entrance towards Noname's heart. As she couldn't go further, she challenged them once again, but her light spell was too feeble, and she let the protagonists go.
+Going further, they met a shadowy other, who telepathically told them that Noname was going to get extinguished by his own darkness, then it attacked the protagonists, and vanished once defeated.
 
 Stage 4 :
 
-A door appeared when the Guardian has been defeated, the protagonists went through it, and met Ansem, Seeker of Darkness, who is only a lingering foreshadow who wanted to possess Noname. He, and his Guardian fought seperately, and lost, told
+A door appeared when the Guardian has been defeated, the protagonists went through it, and met Ansem, Seeker of Darkness, who is only a lingering foreshadow who wanted to possess Noname. Him, and his Guardian fought seperately, and lost, told
 them the real him will return, before vanishing.
 
 Stage 5 :
 
-The protagonists were transported to a place named Dive into the Heart : Surroundings, they meet Antinitas, and Antinitasé, who both wanted to torment Noname again so they might dominate him. They wanted the protagonists to fear their powers, and then they lost.
+The protagonists were transported to a place named Dive into the Heart, they meet Antinitas, and Antinitasé, who both wanted to torment Noname again so they might dominate him. They wanted the protagonists to fear their powers, and then they lost.
 
 Stage 6 :
 
