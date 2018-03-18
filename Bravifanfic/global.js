@@ -1,5 +1,5 @@
 {
 	"fontrules": {
-		"*": "'Power Clear' 34 15 100"
+		"*": "'RussellSquare' 32 10 100"
 	}
 }
