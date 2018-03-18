@@ -35,15 +35,15 @@ As they made their way to the Door Road, the fall season seems to be there sudde
 Stage 3 :
 
 Cherry trees have grown in the Castle that Never Was just like at the Hakurei Shrine, they meet Mushroom XI who greets them with flower danmaku, and falls in defeat.
-Afterwards, they meet a replica of Reimu, who tried to tell them that someone is after that appearance of herself and the other clones, after testing them, she guided them to the skies.
+Afterwards, they meet a replica of Reimu, who tried to tell them the reason replicas like her appeared is still unknown to her and the other clones, after testing them, she guided them to the skies.
 
 Stage 4 :
 
-The Reimu replica points the protagonists towards the winter skies of this world, they meet Antinitas who spawned a clone of Marisa, and fled. That same clone Marisa fought the protagonists, lost and a door appeared on her back.
+The Reimu replica points the protagonists towards the winter skies of this world, they meet Antinitas who spawned a replica of Marisa, and fled. That same clone Marisa fought the protagonists, lost and a door appeared on her back.
 
 Stage 5 :
 
-The protagonists ended up at the Transport of Remembrance filled with doors reminding them of the worlds under the season incident. they meet Antinitas and Noname, as the latter tried to find someone to join in so he can finally be faceless no more. As he has become faceless after being dragged out from Xehanort's grasp. He found Antinitas and had no choice to fight with him so he can get rid of the nuisance that is the protagonist. After getting beaten, a door has trapped the protagonists in.
+The protagonists ended up at the Transport of Remembrance filled with doors reminding them of the worlds under the season incident. they meet Antinitas and Noname, as the latter tried to find someone to join in so he can finally be faceless no more. As he has become faceless after being dragged out from Xehanort's grasp. He just found Antinitas and had no choice to fight with him so he can get rid of the nuisance that is the protagonist. After getting beaten, a door has trapped the protagonists in.
 
 Stage 6 :
 
@@ -58,4 +58,4 @@ Ex Stage :
 The protagonists meet the Noname and Antinitas again at the Transport to Remembrance, and as they wanted to join in for good, they fought and as they lost, they merged and fled.
 Once they catch up with Noname, who's expecting a rematch on him, he claims that he can use this seasonal power again to win, and he revealed his face, as a result with merging back with his other half, Antinitas, forever and mastering his darkness.
 The protagonists told him they were gonna use the border between seasons to win. Noname said that this could be a possibility, he then opened his book which once upside down reveals a door, and attacks them, as he wants them to make it so he pays for Nonamé's unfair victory against them, but this time, with the back door powers, 
-thinking of a merciless and vicious battle. He then lost and kind of accepts that. He also explained that Okina let her and him use her backdoor powers to freely move to Gensokyo without damaging the border, and thus when it all started, being the true reason behind the connection between Gensokyo and The World That Never Was. And not long after the season incident, Okina lend to both him and Nonamé the season magic. Noname also felt that Nonamé united with Antinitasé the same time he did with Antinitas, and this has changed her, making her look younger...
+thinking of a merciless and vicious battle. He then lost and kind of accepts that. He also explained that Okina let her and him use her backdoor powers to freely move to Gensokyo without damaging the border, and thus when it all started, being the true reason behind the connection between Gensokyo and The World That Never Was. And not long after the season incident, Okina lend to both him and Nonamé the season magic. Noname also felt that Nonamé united with Antinitasé the same time he did with Antinitas, and this has changed her, making her look younger... This destroyed the replicas for good and removed the seasons from this unseasonal world.
