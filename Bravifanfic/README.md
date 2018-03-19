@@ -1,6 +1,6 @@
 Two years ago, just by playing different osts from youtube on the ZUNgames stages and boss battles, I've then imagined from these different stages than the regular ones, what enemies the player would face, the bosses, and thus, while being inspired by these songs, made a story, while being consistent regarding the original game and making references at the same time. But I still lacked of any ways of doing any image modding, but now, I can mod the graphics and images of the games and thus I made mod patch out of these ideas and the fact I've already had the portraits and spellcard background idea pics before getting started. In the end it became a crossover between my characters, Kingdom Hearts and Touhou.
 
-The BGM have yet to be modded, you'll find a README.md file in each of the thXX folders right above that'd help you find the right osts to play.
+The BGM have yet to be modded, you'll find a README.md file in each of the thXX folders right above that'd help you find the right osts to play. You should play extended versions so they don't end in the middle of a boss fight/stage.
 
 Once I'll get the osts to be modded, ask me to get the bgm.dat files for that to work.                        
 
