@@ -1,5 +1,5 @@
 {
 	"fontrules": {
-		"*": "'RussellSquare' 32 11 100"
+		"*": "'RussellSquare' 32 10 100"
 	}
 }
