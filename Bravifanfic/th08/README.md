@@ -9,7 +9,7 @@ Also, I don't think you'll have trouble finding the OSTs on youtube. That's what
 Title Theme : Sacred Moon ~ 358/2 Days
 (but who cares)
 
-- S1 : Route 206 (Alternate) / Boss : Working Together ~ Birth by Sleep
+- S1 : Into Backdoor / Boss : Working Together ~ Birth by Sleep
 - S2 : Babylon Garden / Boss : Dread of Night
 - S3 : Sacred Distance / Boss : Battle! N
 - S4 : Cavern of Remembrance
