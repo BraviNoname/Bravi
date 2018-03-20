@@ -28,8 +28,7 @@ The protagonists meet Noname at the Dark City. They asked him if he was alright,
 
 Stage 2 :
 
-The protagonists woke up on a route near the Home that Never Was, they met Nonamé who tried to challenge them, to see if they're ready to face Noname's darkness. She told them he has a real life, and something bad happened, which caused darkness
-and dark desire spirits to appear. She told Youmu her swords could be of good use, as well as Reimu's amulets. Once defeated she led them towards the Contorted City
+The protagonists woke up on a route near the Home that Never Was, they met a naturally older Nonamé who tried to challenge them, to see if they're ready to face Noname's darkness. She told them that this heartless might be back, after something bad happened to Noname, which caused darkness and dark desire spirits to appear. She told Youmu her swords could be of good use, as well as Reimu's amulets. Once defeated she led them towards the Contorted City.
 
 Stage 3 :
 
@@ -38,8 +37,7 @@ Going further, they met a shadowy other, who telepathically told them that Nonam
 
 Stage 4 :
 
-A door appeared when the Guardian has been defeated, the protagonists went through it, and met Ansem, Seeker of Darkness, who is only a lingering foreshadow who wanted to possess Noname. Him, and his Guardian fought seperately, and lost, told
-them the real him will return, before vanishing.
+A door appeared when the Guardian has been defeated, the protagonists went through it, and met Ansem, Seeker of Darkness, who is only a lingering foreshadow who wanted to possess Noname. Him, and his Guardian fought seperately, and lost, told them the real him will return, before vanishing.
 
 Stage 5 :
 
