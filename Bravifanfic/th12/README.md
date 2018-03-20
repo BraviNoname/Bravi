@@ -52,6 +52,8 @@ Stage 6 :
 Into the Realm of Nothingness, they met the dark shadow again, who then fled. They met Nonamé, again, who seems to have matured due to the power she has been holding in her book and only to that, and wanted to test this new ability she got when she has defeated Xemnas. She apologized for being greedy this time, but a danmaku
 battle can solve everything, and so they fought viciously, she admitted defeat and made both her and the protagonists escape this place after breaking her last spell.
 
+She then got back her younger appearance after having used all of that magic.
+
 Ex Stage :
 
 The protagonists went to the World of Nothingness where they fought Nonamé, where Xemnas hasn't been won exactly and is waiting for them. They meet Kogasa again, who wanted to attempt to surprise them in an unexpected place, only to lose.
