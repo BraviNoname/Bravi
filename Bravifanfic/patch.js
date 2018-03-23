@@ -14,5 +14,5 @@
 		"http://thcrap.nmlgc.net/repos/Bravi/Bravifanfic/",
 		"http://mirrors.thpatch.net/Bravi/Bravifanfic/"
 	],
-	"title": "Bravi's Story That Never Was\n                           Some (incomplete) fanfic mod with some retext as well.\n                          \n                           (open the readme.md files (with Notepad) for important details)"
+	"title": "Bravi's Story That Never Was\n                           (open the readme.md files (with Notepad) for important details)"
 }
