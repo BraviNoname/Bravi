@@ -66,7 +66,7 @@
     "99": "Nothingness \"Drop Shot\"",
     "100": "Battle Start \"Weren't You Behind Me?\"",
     "101": "Light \"Reflected Light\"",
-    "102": "Ability \"Circle Raid\"",
+    "102": "Rings \"Circle Raid\"",
     "103": "Shotlock \"Cornering Lanes\"",
     "104": "Quake \"Broken Bullets\"",
     "105": "Bind \"Seven Stones and Seven Bind Columns\"",
