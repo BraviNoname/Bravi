@@ -12,7 +12,7 @@
     "20": "Cloning \"Dream and Fearsome Nightmare\"",
     "22": "Malice Sign \"Nightmarish Abyss\"",
     "24": "Malice Sign \"Seventh Nightmarish Abyss\"",
-    "26": "Power Sign \"Anomalies, Strength, Disorder, & Spirits\"",
+    "26": "Power Sign \"Quake Scramble\"",
     "30": "Quake \"Lingering Quakes\"",
     "32": "Bind \"Lingering Binding Quakes\"",
     "34": "Rock Shatter \"Rock Storm\"",
