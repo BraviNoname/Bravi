@@ -66,7 +66,7 @@
     "119": "Book Overdrive \"Cherry Blossom Blizzard Hell Snatch\"",
     "120": "Remembrance \"Deep Anxiety Confusion Echo\"",
     "121": "Poison Arrow \"Shadow Murderer\"",
-    "122": "Special Attack \"Mega Destruction Dark Balls of Darkness and Destruction & Knuckles\"",
+    "122": "Darkness \"Darkest Storm\"",
     "123": "Darkness \"Die in a Thunderstorm\"",
     "124": "Darkness \"Invitation to the Deepest Abyss\"",
     "125": "\"Heart Particle Storm\"",
