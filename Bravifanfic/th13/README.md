@@ -13,7 +13,7 @@ Title Theme : Sacred Moon ~ 358/2 Days
 - S2 : Flowering Passage / Boss : Ghost Lead
 - S3 : Sacred Distance / Boss : Struggle Away
 - S4 : Into Backdoor / Boss : L'Eminenza Oscura I
-- S5 : The Dream Palace Great Mausoleum (Spirit World Version) / Boss : Legend System of 380 Billion Square Meters
+- S5 : Cavern of Remembrance / Boss : Legend System of 380 Billion Square Meters
 - S6 : My Heart's Descent / Boss : Secret God Matara ~ Hidden Star in All Seasons
 - Ex : Future Masters / Boss : Master, Tell Me The Truth
 
