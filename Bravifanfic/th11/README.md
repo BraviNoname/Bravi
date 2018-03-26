@@ -15,7 +15,7 @@ Title Theme : Sacred Moon ~ 358/2 Days
 - S4 : Cavern of Remembrance / Boss : The 13th Struggle ~ II.5 HD ReMiX
 - S5 : Deep Drive / Boss : Enter the Darkness
 - S6 : Deep Drop / Boss : Solar Sect of Mystic Wisdom ~ Nuclear Fusion
-- Ex : Last Remote / Boss : Secret God Matara ~ Hidden Star in All Seasons
+- Ex : No More Going Through Doors / Boss : Secret God Matara ~ Hidden Star in All Seasons
 
 Just so you get what's going on without relying on the ingame dialogue I have yet to make. Also, despite my decent english level, there can be some gramatical errors... Please don't be a grammar nazi. =<
 Each incident takes place after the one corresponding to each game.
