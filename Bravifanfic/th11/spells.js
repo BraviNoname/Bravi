@@ -76,5 +76,5 @@
     "171": "Crawling Fire \"The Embers of Love\"",
     "172": "Darkness \"Dark Random Aura\"",
     "173": "\"Hidden Shadow in Three Sides\"",
-    "174": "Final Limit \"Hidden Subterranean Rose\""
+    "174": "Final Limit \"Hidden Subterranean Darkness\""
 }
