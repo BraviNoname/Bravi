@@ -71,10 +71,10 @@
     "166": "Magic \"Bind\"",
     "167": "Front Sign \"Revealed Light Star\"",
     "168": "Back Sign \"Hidden Dark Star\"",
-    "169": "Darkness Stop \"Dark Splicer\"",
-    "170": "Subconscious Darkness \"Frozen Maelstrom\"",
+    "169": "Dark Stopga \"Dark Splicer\"",
+    "170": "Dark Subconscious \"Frozen Maelstrom\"",
     "171": "Crawling Dark Firaga \"The Embers of Love\"",
-    "172": "Darkness \"Dark Random Aura\"",
-    "173": "\"Hidden Shadow in Three Sides\"",
+    "172": "Deep Darkness \"Dark Aura\"",
+    "173": "\"Hidden Shadow in Dark Auras\"",
     "174": "Final Limit \"Hidden Subterranean Darkness\""
 }
