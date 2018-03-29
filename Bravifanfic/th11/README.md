@@ -54,5 +54,5 @@ Ex Stage :
 
 The incident seems to be gone, but the protagonists took a look near Nonamé's home, and meet Sanae, who tells them she ended up here while training at Transport to Remembrance and the protagonists were a target. She got defeated.
 They meet then Nonamé who seemed to have become normal, and tells them nobody lost, but the protagonists told her that they didn't win either, and they have to get revenge on Nonamé. She accepts and fights them.
-Once defeated, she admits even using the subconcious powers being her darkness was no good, and she's already glad the shrine maiden or the magician lost once, even if she didn't win herself. Suwako suddenly showed up, as she was just checking if Sanae's training was going well.
+Once defeated, she admits even using the subconcious powers being her darkness wasn't going to make her win now, and she's already glad the shrine maiden or the magician lost once, even if she didn't win herself. Suwako suddenly showed up, as she was just checking if Sanae's training was going well.
 And the protagonists told her they beat her. Suwako then tells them that's okay, she's only getting started, but one day she'll outmatch the protagonists.
