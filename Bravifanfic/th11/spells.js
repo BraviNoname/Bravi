@@ -75,6 +75,6 @@
     "170": "Dark Subconscious \"Frozen Maelstrom\"",
     "171": "Crawling Dark Firaga \"The Embers of Love\"",
     "172": "Deep Darkness \"Dark Aura\"",
-    "173": "\"Hidden Shadow in Dark Auras\"",
+    "173": "\"Hidden Shadow in Three Auras\"",
     "174": "Final Limit \"Hidden Subterranean Darkness\""
 }
