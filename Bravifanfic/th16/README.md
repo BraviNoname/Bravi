@@ -15,7 +15,7 @@ Title Theme : Sacred Moon ~ 358/2 Days
 - S4 : Babylon Garden / Boss : Magus Night
 - S5 : Cavern of Remembrance / Boss : Enter the Darkness
 - S6 : Into Backdoor / Boss : The Concealed Four Seasons
-- Ex : Deep Anxiety / Boss : Unbreakable Chains
+- Ex : No More Going Through Doors / Boss : Unbreakable Chains
 
 Just so you get what's going on without relying on the ingame dialogue I have yet to make. Also, despite my decent english level, there can be some gramatical errors... Please don't be a grammar nazi. =<
  
