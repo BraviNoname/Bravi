@@ -33,7 +33,7 @@ They were following Nonamé through the skies, which are getting darker, and the
 
 Stage 3 :
 
-The protagonists arrived at the Castle That Never Was, where they meet Lexaeus, who told them there was no way for them to pass. The protagonists told him there's nothing to say, Lexeus said he won't lose again to Reimu and Marisa, only to be defeated even through
+The protagonists arrived at the Rear Castle That Never Was, where they meet Lexaeus, who told them there was no way for them to pass. The protagonists told him there's nothing to say, Lexeus said he won't lose again to Reimu and Marisa, only to be defeated even through
 the furies of his Axe Sword.
 
 Stage 4 :
