@@ -40,7 +40,7 @@ As they went further through the lanes between, they met Anti Black Coat, who wa
 
 Stage 4 :
 
-They went to the World That Never Was, where they met a phantom apparition of Reimu, who is a personification of her cold and unfriendly side. She attacked them using cursed versions of Reimu's techniques, lost, and afterwards,
+They went to the Rear World That Never Was, where they met a phantom apparition of Reimu, who is a personification of her cold and unfriendly side. She attacked them using cursed versions of Reimu's techniques, lost, and afterwards,
 as Reimu's heart is innocent enough, she told them to learn the truth about what's going on by going on the dark lanes around the castle, she told them she doesn't know that much, she has just appeared from someone's dark perceptions.
 
 Stage 5 :
