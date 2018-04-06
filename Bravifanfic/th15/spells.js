@@ -58,7 +58,7 @@
     "112": "\"Constantly Racing Darkness\"",
     "113": "Darkness \"Dark Wave\"",
     "114": "Dark Earth \"Racing Shockwave\"",
-    "115": "Dark Planets \"Dark Lunatic Impact of Doom and Chaos\"",
+    "115": "Dark Planets \"Darkest Impact\"",
     "116": "\"Dark Soul\"",
     "117": "\"Dark Shadow\"",
     "118": "Dual Limit \"Double Ars Solum -Danmaku Version-\""
