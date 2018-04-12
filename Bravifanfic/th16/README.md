@@ -11,7 +11,7 @@ Title Theme : Sacred Moon ~ 358/2 Days
 
 - S1 : Flowering Passage / Boss : A Midsummer Fairy's Dream
 - S2 : Sacred Distance / Boss : Wind Circulation ~ Wind Tour
-- S3 : Sacred Moon / Boss : Maiden's Cappricio ~ Dream Battle
+- S3 : Sacred Moon / Boss : Spring Lane ~ Colorful Path
 - S4 : Babylon Garden / Boss : Magus Night
 - S5 : Cavern of Remembrance / Boss : Enter the Darkness
 - S6 : Into Backdoor / Boss : The Concealed Four Seasons
