@@ -34,7 +34,7 @@ As they made their way to the Door Road, the fall season seems to be there sudde
 
 Stage 3 :
 
-Cherry trees have grown in the Castle that Never Was just like at the Hakurei Shrine, they meet Mushroom XI who greets them with flower danmaku, and falls in defeat.
+Cherry trees have grown in the Castle that Never Was just like at the Hakurei Shrine, they are greeted by a Lily who resembles Junko, who looks surprised by this fake spring.
 Afterwards, they meet a replica of Reimu, who tried to tell them the reason replicas like her appeared is still unknown to her and the other clones, after testing them, she guided them to the skies.
 
 Stage 4 :
