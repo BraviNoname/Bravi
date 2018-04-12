@@ -9,7 +9,7 @@
     "14": "Wind \"Storm Grind\"",
     "16": "Tornado \"Blade Gust\"",
     "18": "Tornado \"Bloody Gust\"",
-    "20": "Lily White \"Surprise Spring\"",
+    "20": "\"Pure Illusionary Spring\"",
     "22": "Reality Sign \"Non-Fantasy Seal -Concentrate-\"",
     "24": "Reality Sign \"Non-Fantasy Seal -Marred-\"",
     "26": "\"Persuasion Curvy Needles\"",
