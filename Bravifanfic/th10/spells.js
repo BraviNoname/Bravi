@@ -73,5 +73,5 @@
     "106": "Wisdom Form \"Illusionary Waterfall\"",
     "107": "Final Form \"Sonic Blade\"",
     "108": "Final Form \"Fiction War - Canon Vs. Not Canon\"",
-    "109": "Hidden Rage \"Rage Awakened -Green Phase-\""
+    "109": "\"Hidden Rage Awakened -Green Phase-\""
 }
