@@ -28,7 +28,7 @@ but doesn't remember who, and asked Reisen to give that improved Elixir to the p
 
 Stage 1 :
 
-The protagonists went through the Door Road to ask Mushroom XIII what's going on. After testing them, it told them it doesn't have a clue, but led them to the pure lanes between worlds.
+The protagonists went through the door near the shrine, and a mysterious replica of Reisen appeared. After testing them, the replica had a bad feeling, and led them to the pure lanes between worlds.
 
 Stage 2 :
 
