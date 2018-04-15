@@ -9,7 +9,7 @@ Also, I don't think you'll have trouble finding the OSTs on youtube. That's what
 Title Theme : Sacred Moon ~ 358/2 Days
 (but who cares)
 
-- S1 : Into Backdoor / Boss : Working Together ~ Birth by Sleep
+- S1 : Into Backdoor / Boss : Ghost Lead
 - S2 : Sacred Distance / Boss : Dread of Night
 - S3 : The Colorless Wind on Youkai Mountain / Boss : Battle ~ Vs. Kanto Trainer
 - S4 : Splash Canyon / Boss : The 13th Dilemma
