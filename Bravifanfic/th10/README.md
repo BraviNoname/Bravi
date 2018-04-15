@@ -24,7 +24,7 @@ Both Reimu and Marisa thought it would be some great opportunity to see Noname's
 
 Stage 1 :
 
-The door made the protagonists find their way into the same Door Road in which there is a out of place fall temperature, and they met Mushroom XIII again, who tried to imitate some harvest god's powers to test the protagonists again, but it got taken down.
+The door made the protagonists find their way into the same Door Road in which there is a out of place fall temperature, and they met Mushroom XIII and Nonamé, who seems to have changed since the last encounter, being blindfolded due to the teeming darkness lurking in the Rear World That Never Was.
 
 Stage 2 :
 
