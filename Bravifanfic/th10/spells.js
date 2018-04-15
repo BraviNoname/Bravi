@@ -1,9 +1,9 @@
 ﻿{
     "0": "Shizuha Aki \"Falling Leaves of Madness\"",
-    "2": "Hidden Fall \"Dark Fall Sky\"",
-    "4": "Hidden Fall \"The Hidden Fall Dark Season\"",
-    "6": "Hidden Fall \"Dark Fall Radiance\"",
-    "8": "Hidden Fall \"Bright Fall Miracle\"",
+    "2": "Hidden Fall \"Dark Sky\"",
+    "4": "Hidden Fall \"The Hidden Dark Season\"",
+    "6": "Hidden Fall \"Dark Radiance\"",
+    "8": "Hidden Fall \"Bright Feeble Darkness\"",
     "10": "Nightmare \"Nightmarish Fortune\"",
     "12": "Nightmare \"Nightmarish Misfortune\"",
     "14": "Flawed Sign \"Broken Dream\"",
