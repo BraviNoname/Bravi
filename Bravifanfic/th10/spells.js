@@ -70,7 +70,7 @@
     "103": "Shotlock \"Cornering Lanes\"",
     "104": "Quake \"Broken Bullets\"",
     "105": "Bind \"Seven Stones and Seven Bind Columns\"",
-    "106": "Wisdom Form \"Illusionary Waterfall\"",
+    "106": "Secrecy \"Back Waterfall\"",
     "107": "Final Form \"Sonic Blade\"",
     "108": "Final Form \"Fiction War - Canon Vs. Not Canon\"",
     "109": "\"Hidden Rage Awakened -Green Phase-\""
