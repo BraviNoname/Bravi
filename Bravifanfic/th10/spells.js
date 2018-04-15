@@ -1,9 +1,9 @@
 ﻿{
     "0": "Shizuha Aki \"Falling Leaves of Madness\"",
-    "2": "Minoriko Aki \"Fall Sky\"",
-    "4": "Minoriko Aki \"The Fall Sky and a Maiden's Heart\"",
-    "6": "Minoriko Aki \"Owotoshi Harvester\"",
-    "8": "Minoriko Aki \"Promise of the Wheat God\"",
+    "2": "Hidden Fall \"Dark Fall Sky\"",
+    "4": "Hidden Fall \"The Hidden Fall Dark Season\"",
+    "6": "Hidden Fall \"Dark Fall Radiance\"",
+    "8": "Hidden Fall \"Bright Fall Miracle\"",
     "10": "Nightmare \"Nightmarish Fortune\"",
     "12": "Nightmare \"Nightmarish Misfortune\"",
     "14": "Flawed Sign \"Broken Dream\"",
