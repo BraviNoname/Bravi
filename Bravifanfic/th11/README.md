@@ -9,7 +9,7 @@ Also, I don't think you'll have trouble finding the OSTs on youtube. That's what
 Title Theme : Sacred Moon ~ 358/2 Days
 (but who cares)
 
-- S1 : Into Backdoor / Boss : Working Together ~ Birth by Sleep
+- S1 : Into Backdoor / Boss : Battle ~ N
 - S2 : Storm Diver / Boss : Dread of Night
 - S3 : Black Garden / Boss : The Tumbling
 - S4 : Cavern of Remembrance / Boss : The 13th Struggle ~ II.5 HD ReMiX
@@ -24,7 +24,7 @@ There's some abnormal heat around the Hakurei Shrine even if this is winter. The
 
 Stage 1 :
 
-The protagonists meet Mushroom XIII, who challenges them with the power of demonic flames and illness. But, once defeated it told them to keep going on.
+The same Mushroom as before fell on the protagonists and got defeated. But, as they go through the Mystery Zone, Xenamon appeared before them, something being unusual, he felt that one of his originals are in danger, after testing the protagonists, he let them go down to Radiant Garden, where they can at least meet someone
 
 Stage 2 :
 
@@ -38,9 +38,9 @@ Afterwards the protagonists found an entrance towards the Cavern of Remembrance.
 
 Stage 4 :
 
-In the Cavern of Remembrance, the protagonists met a red mushroom who's unlike any others, as it likes using dark spirits and wears purple marks on its clothing. Once it flew away, they meet Noname, who didn't wanted them to get involved this time as he told them it's too dangerous.
+In the Cavern of Remembrance, the protagonists met a red mushroom who's unlike any others, as it likes using dark spirits and wears purple marks on its clothing. Once it flew away, they meet Noname, hiding in this cavern who didn't wanted them to get involved this time as he told them it's too dangerous.
 The protagonists told him they had to go through Hell once and they'll be okay. Noname wanted to know if it's true and challenged them via bringing recollections of their youkai partners, but got defeated, and wishes them good luck with their dodging endeavors.
-He led them to the Burning Castle That Never Was.
+He led them to the Burning Rear Castle That Never Was once this was over.
 
 Stage 5 :
 
