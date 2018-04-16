@@ -1,9 +1,9 @@
 ﻿{
     "0": "Horror \"Cave Mushroom Apparition\"",
-    "2": "Yamame Kurodani \"Capture Web\"",
-    "4": "Yamame Kurodani \"Cave Spider's Nest\"",
-    "6": "Yamame Kurodani \"Filled Miasma\"",
-    "8": "OH BOI \"Hidden Mickey\"",
+    "2": "Magic \"Capture Bind\"",
+    "4": "Magic \"Collision Magnet\"",
+    "6": "Shards \"Icebreaker\"",
+    "8": "Light Shards \"Hidden Mickey\"",
     "10": "Nightmare \"Green Shadow\"",
     "12": "Nightmare \"Green Invisible Shadow\"",
     "14": "Poison \"Poison Flowers\"",
