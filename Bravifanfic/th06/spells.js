@@ -61,6 +61,6 @@
     "59": "Forbidden Darkness \"Wave Kick\"",
     "60": "Forbidden Darkness \"Dark Shot Reflega\"",
     "61": "Forbidden Darkness \"Distortion of Space and Time\"",
-    "62": "\"Creeping Darkness\"",
-    "63": "\"Dark Burst\""
+    "62": "\"Teeming Darkness\"",
+    "63": "\"Wrath of Darkness\""
 }
