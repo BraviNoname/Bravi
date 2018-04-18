@@ -211,7 +211,7 @@
     "209": "\"Hidden Star in Nothingness\"",
     "210": "\"Prism Ragnarok\"",
     "211": "\"Flying Ho-Oh\"",
-    "212": "Tewi Inaba \"Ancient Duper\"",
+    "212": "\"Dark Link\"",
     "213": "\"Darkest Maelstrom\"",
     "214": "\"Absolute Dark Aura\"",
     "215": "\"Dark Rush\""
