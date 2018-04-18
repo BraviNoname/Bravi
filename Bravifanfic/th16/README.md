@@ -34,7 +34,7 @@ As they made their way to the Door Road, the fall season seems to be there sudde
 
 Stage 3 :
 
-Cherry trees have grown in the Castle that Never Was just like at the Hakurei Shrine, they are greeted by a Lily who resembles Junko, who looks surprised by this fake spring.
+Cherry trees have quickly out of nowhere grown in the Castle that Never Was just like at the Hakurei Shrine, they are greeted by a Lily who resembles Junko, who looks surprised by this fake spring.
 Afterwards, they meet a replica of Reimu, who tried to tell them the reason replicas like her appeared is still unknown to her and the other clones, after testing them, she guided them to the skies.
 
 Stage 4 :
@@ -48,7 +48,7 @@ The protagonists ended up at the Transport of Remembrance filled with doors remi
 Stage 6 :
 
 That trap was a Door to the Mystery Zone made up by Nonamé, who told the protagonists they still didn't notice they were still using those season powers and that trap was going to make them lose.
-As she wanted to buy some time for Noname, she made sure they can't escape. She then forcefully fought them through her current new form, making them visiting the seasonal places of their memories, and they lost because of her book to steal their powers and once the protagonists were forced to give up, they were sent back to their respective places.
+As she wanted to buy some time for Noname, she made sure they can't escape. She then forcefully fought them through her current new form, making them visiting the seasonal places of their memories, and they lost because of her book acting like Okina's door ability to steal their powers and once the protagonists were forced to give up, they were sent back to their respective places.
 
 Afterwards, she felt satisfied but sorry, but Reimu and Marisa enjoyed this battle and forgave her as she could win for once. They also noticed how her appearance changed after their fight, like her fore hair being different, where she doesn't use Okina's seasonal or any strong magic anymore, and these haircolors are only a remnant of what she looked like before Xehanort got sealed off from Noname. If she abuses a powerful magic, this might influe even more on her appearance like it did here, but it's temporary (see the probably future th17 mod). This kind of appearance change has already been seen in a previous fight of a previous incident where she looked a bit older when she gathered enough light magic.
 The protagonists still wanted to know what has truly become of Noname. Nonamé showed a door to their basement instead of the cavern they ended up in. They just took the border between seasons as they assume he will use the powers that god sage uses.
