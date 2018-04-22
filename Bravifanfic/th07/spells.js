@@ -125,7 +125,7 @@
     "123": "Unversed \"X-Charge\"",
     "124": "Unversed \"Dark Blizzaga\"",
     "125": "Nightmare \"Anti Black Coat Nightmare\"",
-    "126": "\"Flowing Time\"",
+    "126": "\"Shadow Sneak\"",
     "127": "Limit Break \"Wild Danmaku Arcanum\"",
     "128": "Unversed \"Noname and Antinitas\"",
     "129": "Unversed \"Dark Spiral\"",
@@ -137,7 +137,7 @@
     "135": "Dream Butterfly \"X-Charge\"",
     "136": "Finish \"Double Black Death Butterfly\"",
     "137": "Unversed \"Antinitas Remnant\"",
-    "138": "\"Restricting Clock\"",
+    "138": "\"Clock Bind\"",
     "139": "Limit Break \"Wild Danmaku Arcanum\"",
     "140": "Time Stop \"Danmaku Clock Barrier\""
 }
