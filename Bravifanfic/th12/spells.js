@@ -76,7 +76,7 @@
     "106": "Assumed Hearts \"Blue Dream Portals of Grief\"",
     "107": "Illusion \"Danmaku Chimera\"",
     "108": "Assumed Hearts \"Green Dream Portals of Justice\"",
-    "109": "Flying Swords \"Undefined Darkness\"",
+    "109": "Flying Swords \"Darkness of the Unknown\"",
     "110": "Assumed Hearts \"Rainbow Dream Portals of Terror\"",
     "111": "\"Interdiction\"",
     "112": "Final Limit \"All-Vanity\"",
