@@ -50,7 +50,7 @@
     "72": "Double Canon \"Expanded Double Strike Raid\"",
     "73": "Side Sign \"Hidden Radiance\"",
     "75": "Side Sign \"Hidden Radiance\"",
-    "76": "\"Completely Hidden Light\"",
+    "76": "\"Ultimate Absolute Hidden Light\"",
     "77": "Light \"Dream Mist\"",
     "79": "Light \"Dream Cloud\"",
     "80": "Darkness \"Nightmarish Cloud\"",
