@@ -98,7 +98,7 @@
     "96": "Darkness \"Shoot the City\"",
     "97": "Supreme Darkness \"Final Dark Cannon\"",
     "98": "Supreme Darkness \"Final Dark Cannon\"",
-    "99": "Supreme Darkness \"Final Dark Cannon of Darkness and Chaos\"",
+    "99": "Supreme Darkness \"Absolutely Ultimate Dark Cannon\"",
     "100": "Wave Sign \"Book Hypnosis\"",
     "101": "Wave Sign \"Book Hypnosis\"",
     "102": "Illusion Wave \"Book Hypnosis of Confusion\"",
