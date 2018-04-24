@@ -74,7 +74,7 @@
     "104": "Assumed Hearts \"Red Dream Portals of Rage\"",
     "105": "Nothingness \"Green Bind\"",
     "106": "Assumed Hearts \"Blue Dream Portals of Grief\"",
-    "107": "Illusion \"Danmaku Chimera\"",
+    "107": "Illusion \"Mirage Laser\"",
     "108": "Assumed Hearts \"Green Dream Portals of Justice\"",
     "109": "Flying Swords \"Darkness of the Unknown\"",
     "110": "Assumed Hearts \"Rainbow Dream Portals of Terror\"",
