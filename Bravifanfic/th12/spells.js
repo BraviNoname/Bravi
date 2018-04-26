@@ -14,7 +14,7 @@
     "20": "Umbrella \"Super Water-Repelling Bone-Dry Monster\"",
     "22": "Monster Sign \"A Forgotten Umbrella's Night Train\"",
     "24": "Monster Train \"Spare Umbrella Express Night Carnival\"",
-    "26": "Rock Slide \"Knock Down Rock Slide\"",
+    "26": "Rock Slide \"Knocking Down Rock Slide\"",
     "28": "Rock Slide \"Hell Rock Storm\"",
     "29": "Rock Slide \"Hellish Falling Earth\"",
     "30": "Rock Slide \"Side Quake\"",
