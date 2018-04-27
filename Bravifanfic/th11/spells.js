@@ -1,7 +1,7 @@
 ﻿{
     "0": "Horror \"Cave Mushroom Apparition\"",
-    "2": "Magic \"Capture Bind\"",
-    "4": "Magic \"Collision Magnet\"",
+    "2": "Magic \"Collision Magnet\"",
+    "4": "Magic \"Collision Magnega\"",
     "6": "Shards \"Icebreaker\"",
     "8": "Light Shards \"Hidden Mickey\"",
     "10": "Nightmare \"Green Shadow\"",
@@ -71,7 +71,7 @@
     "166": "Magic \"Bind\"",
     "167": "Front Sign \"Revealed Light Star\"",
     "168": "Back Sign \"Hidden Dark Star\"",
-    "169": "Dark Stopga \"Dark Splicer\"",
+    "169": "Dark Clock \"Dark Splicer\"",
     "170": "Dark Subconscious \"Frozen Maelstrom\"",
     "171": "Crawling Dark Firaga \"The Embers of Love\"",
     "172": "Deep Darkness \"Crawling Dark Aura\"",
