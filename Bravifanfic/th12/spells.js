@@ -55,7 +55,7 @@
     "79": "Light \"Dream Cloud\"",
     "80": "Darkness \"Nightmarish Cloud\"",
     "81": "Back Sign \"Butterfly of Nothingness\"",
-    "83": "Back Sign \"Hidden Butterfly from the Back Door\"",
+    "83": "Back Sign \"Hidden Butterfly of the Back Door\"",
     "85": "Light Magic \"Circle Ragnarok\"",
     "87": "Light Magic \"Great Circle Ragnarok\"",
     "88": "Light Magic \"Great Circle Ragnarok\"",
