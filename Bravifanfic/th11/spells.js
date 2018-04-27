@@ -67,7 +67,7 @@
     "162": "Esoterica \"Nine Syllable Stabs\"",
     "163": "Miracle \"Miracle Fruit\"",
     "164": "Divine Virtue \"Bumper Crop Rice Shower\"",
-    "165": "Back Sign \"Rising Aura of the Secret Got\"",
+    "165": "Back Sign \"Rising Aura of the Hidden Star\"",
     "166": "Magic \"Bind\"",
     "167": "Front Sign \"Revealed Light Star\"",
     "168": "Back Sign \"Hidden Dark Star\"",
