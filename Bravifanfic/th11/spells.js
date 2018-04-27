@@ -67,14 +67,14 @@
     "162": "Esoterica \"Nine Syllable Stabs\"",
     "163": "Miracle \"Miracle Fruit\"",
     "164": "Divine Virtue \"Bumper Crop Rice Shower\"",
-    "165": "Darkness \"Helm Split Columns\"",
+    "165": "Back Sign \"Rising Aura of the Secret Got\"",
     "166": "Magic \"Bind\"",
     "167": "Front Sign \"Revealed Light Star\"",
     "168": "Back Sign \"Hidden Dark Star\"",
     "169": "Dark Stopga \"Dark Splicer\"",
     "170": "Dark Subconscious \"Frozen Maelstrom\"",
     "171": "Crawling Dark Firaga \"The Embers of Love\"",
-    "172": "Deep Darkness \"Dark Aura\"",
+    "172": "Deep Darkness \"Crawling Dark Aura\"",
     "173": "\"Hidden Shadow in Three Auras\"",
     "174": "\"Hidden Dark Outflow\""
 }
