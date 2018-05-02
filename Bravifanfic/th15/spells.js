@@ -43,7 +43,7 @@
     "82": "\"Ultima Arrows\"",
     "86": "\"Flames of Hatred\"",
     "88": "\"Flames of Hatred and Confusion\"",
-    "90": "\"Trembling, Shivering Bane of Existence\"",
+    "90": "\"Continuous Earthquake\"",
     "94": "\"Binding Chains\"",
     "98": "\"Pure Invisible Drones\"",
     "101": "\"Pure, Refining Invisible Drones\"",
