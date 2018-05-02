@@ -3,7 +3,7 @@
     "2": "Forgotten Challenge \"Homing Gale of Severance - Cherry Blossoms -\"",
     "4": "Forgotten Challenge \"Small Whirlwind to the Void\"",
     "6": "Forgotten Challenge \"Small Whirlwind to the Void - Cherry Blossoms -\"",
-    "8": "Forgotten Challenge \"Disappearance in Cherry Blossom\"",
+    "8": "Sleep Sign \"Endless Nap under Breezy Cherry Blossoms\"",
     "12": "Limit \"Full Bloom\"",
     "14": "Magic \"Bullet Reflect\"",
     "16": "Magic \"Scrambled Reflect\"",
