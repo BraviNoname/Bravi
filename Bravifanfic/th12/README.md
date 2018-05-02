@@ -9,7 +9,7 @@ Also, I don't think you'll have trouble finding the OSTs on youtube. That's what
 Title Theme : Sacred Moon ~ 358/2 Days
 (but who cares)
 
-- S1 : Into Backdoor / Boss : Ghost Lead
+- S1 : Into Backdoor / Boss : Battle ~ Vs. Kanto Trainer
 - S2 : Babylon Garden / Boss : Beware the Umbrella Left There Forever
 - S3 : Mystic Moon / Boss : The 13th Struggle ~ Re: Chain of Memories
 - S4 : Deep Drive / Boss : The 13th Dilemma
@@ -24,12 +24,11 @@ The protagonists wanted to know more about this World that Never Was, so they we
 
 Stage 1 :
 
-As they go through the door near the Hakurei Shrine, but in its road filled with blinding light, they meet Nonamé, who told them they were planning to vanquish Xemnas for good, but this was too late for the heroines to interfere, as Noname was already going to beat him. The protagonists wanted to help in case they
-fail, but Nonamé greeted them with some light danmaku, and fled.
+As they go through the door near the Hakurei Shrine, but in its road filled with blinding light, they meet Noname, who told them they were planning to vanquish Xemnas for good, but this was too late for the heroines to interfere, as Nonamé was already going to beat him. The protagonists wanted to help in case they fail, but the boy greeted them with his danmaku, and fled.
 
 Stage 2 :
 
-They were following Nonamé through the skies, which are getting darker, and they meet Kogasa, who tried to surprise them by being in an unexpected place. After getting defeated, she told them she went to this place, guessing it's dark enough to scare people.
+They were following Noname through the skies, which are getting darker, and they meet Kogasa, who tried to surprise them by being in an unexpected place. After getting defeated, she told them she went to this place, guessing it's dark enough to scare people.
 
 Stage 3 :
 
@@ -43,13 +42,12 @@ to go through, and won against those sinking furies the Nobody threw at them.
 
 Stage 5 :
 
-They found their way into the Nothingness Space, where they meet Nonamé again, who told them she's done what to do, and gathered enough Dream Portals to defeat Xemnas.
-They found afterwards Noname, who told them they were about to win, but there was one thing left to do : not letting the protagonists get in their way as this threat is only their concern. He also mentionned those Dream Portals are the only way of getting rid of Xemnas's lingering spirit.
+They found their way into the World of Nothingness, and they finally caught up Noname, who told them she's done what to do, but there was one thing left to do : not letting the protagonists get in their way as this threat is only their concern. He also mentionned those Dream Portals are the only way of getting rid of Xemnas's lingering spirit.
 He has been vanquished after using strong light attacks. He then apologized for being mean, but as the protagonists had some fun (supposedly) in this fight, they let it slide. Noname asked why, and they answered fighting is a sign of friendship in their world.
 
 Stage 6 :
 
-Into the Realm of Nothingness, they met the dark shadow again, who then fled. They met Nonamé, again, who seems to have matured due to the power she has been holding in her book and only to that, and wanted to test this new ability she got when she has defeated Xemnas. She apologized for being greedy this time, but a danmaku
+Into the Realm of Nothingness, they met the dark shadow again, who then fled. They met a mature Nonamé, due to the power she has been holding in her book and only to that, and wanted to test this new ability she used when she has defeated Xemnas. She apologized for being greedy this time, but a danmaku
 battle can solve everything, and so they fought viciously, she admitted defeat and made both her and the protagonists escape this place after breaking her last spell.
 
 She then got back her younger appearance after having used all of that magic.
