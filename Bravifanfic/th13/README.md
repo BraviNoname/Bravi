@@ -24,7 +24,7 @@ The protagonists, along with Youmu, learned Noname wasn't going well... At first
 
 Stage 1 :
 
-The protagonists meet Nonamé at the Dark City, as she planned. She wanted to test them, where Nonamé wanted to see if they're ready to face Noname's darkness. She told them that this heartless might be back, after something bad happened to Noname, which caused darkness and dark desire spirits to appear. But suddenly as she was about to be taken down, the protagonists fell asleep.
+The protagonists meet a naturally matured Nonamé at the Dark City, as she planned. She wanted to test them, where Nonamé wanted to see if they're ready to face Noname's darkness. She told them that this heartless might be back, after something bad happened to Noname, which caused darkness and dark desire spirits to appear. But suddenly as she was about to be taken down, the protagonists fell asleep.
 
 Stage 2 :
 
