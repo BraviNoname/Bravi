@@ -9,8 +9,8 @@ Also, I don't think you'll have trouble finding the OSTs on youtube. That's what
 Title Theme : Sacred Moon ~ 358/2 Days
 (but who cares)
 
-- S1 : Sacred Moon / Boss : Battle ~ Vs. Kanto Trainer
-- S2 : Flowering Passage / Boss : Ghost Lead
+- S1 : Sacred Moon / Boss : Ghost Lead
+- S2 : Flowering Passage / Boss : Unknown Princess ~ Rude Rabbit
 - S3 : Sacred Distance / Boss : Struggle Away
 - S4 : Into Backdoor / Boss : L'Eminenza Oscura I
 - S5 : Cavern of Remembrance / Boss : Legend System of 380 Billion Square Meters
