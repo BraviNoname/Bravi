@@ -9,8 +9,8 @@ Also, I don't think you'll have trouble finding the OSTs on youtube. That's what
 Title Theme : Sacred Moon ~ 358/2 Days
 (but who cares)
 
-- S1 : Sacred Moon / Boss : Battle ~ Vs. Kanto Trainer
-- S2 : Flowering Passage / Boss : Ghost Lead
+- S1 : Sacred Moon / Boss : Ghost Lead
+- S2 : Flowering Passage / Boss : Battle ~ Vs. Kanto Trainer
 - S3 : Sacred Distance / Boss : Struggle Away
 - S4 : Into Backdoor / Boss : L'Eminenza Oscura I
 - S5 : Cavern of Remembrance / Boss : Legend System of 380 Billion Square Meters
@@ -24,15 +24,15 @@ The protagonists, along with Youmu, learned Noname wasn't going well... At first
 
 Stage 1 :
 
-The protagonists meet Noname at the Dark City. They asked him if he was alright, but he replied that if they were ready for this, they had to take him down. Which they did, Noname collapsed and this had the effect of making the protagonists fall asleep.
+The protagonists meet Nonamé at the Dark City, as she planned. She wanted to test them, where Nonamé wanted to see if they're ready to face Noname's darkness. She told them that this heartless might be back, after something bad happened to Noname, which caused darkness and dark desire spirits to appear. But suddenly as she was about to be taken down, the protagonists fell asleep.
 
 Stage 2 :
 
-The protagonists woke up on a route near the Home that Never Was, they met a naturally older Nonamé who tried to challenge them, to see if they're ready to face Noname's darkness. She told them that this heartless might be back, after something bad happened to Noname, which caused darkness and dark desire spirits to appear. She told Youmu her swords could be of good use, as well as Reimu's amulets. Once defeated she led them towards the Contorted City.
+The protagonists woke up on a route near the Home that Never Was. Here, Nonamé showed up again to check if their abilities were alright after falling asleep. And once defeated, she thought about Youmu and her swords being of good use, as well as Reimu's amulets. She led them towards the Contorted City.
 
 Stage 3 :
 
-At the Contorted City, the protagonists were following Noname, who couldn't face the threat who was protecting an entrance towards Noname's heart. As she couldn't go further, she challenged them once again, but her light spell was too feeble, and she let the protagonists go.
+At the Contorted City, the protagonists were following Nonamé, who couldn't face the threat who was protecting an entrance towards Noname's heart. As she couldn't go further, she challenged them once again, but her light spell was too feeble, and she let the protagonists go.
 Going further, they met a shadowy other, who telepathically told them that Noname was going to get extinguished by his own darkness, then it attacked the protagonists, and vanished once defeated.
 
 Stage 4 :
