@@ -44,7 +44,7 @@
     "113": "Reversal \"Spiral Return\"",
     "114": "Reversal \"Reverse Spiral Attack\"",
     "116": "Reversal \"Falling Enemies\"",
-    "111": "Bind \"Dupion Danmaku\"",
+    "111": "Bind \"Danmaku Catcher\"",
     "37": "Orb Sign \"Tight Orb Spot\"",
     "44": "Light Blast \"Flames Reaching the Moon at Winter\"",
     "117": "\"The Phantom Secretly Existing on Your Back\"",
