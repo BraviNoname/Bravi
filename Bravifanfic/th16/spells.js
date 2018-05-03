@@ -41,7 +41,7 @@
     "94": "Okina Matara \"Hidden Perfect Summer Ice\"",
     "98": "Okina Matara \"Hidden Crazy Fall Wind\"",
     "102": "Okina Matara \"Hidden Extreme Winter\"",
-    "113": "Reversal \"Spiral Return\"",
+    "113": "Reversal \"Dark Spiral\"",
     "114": "Reversal \"Reverse Spiral Attack\"",
     "116": "Reversal \"Falling Enemies\"",
     "111": "Bind \"Danmaku Catcher\"",
