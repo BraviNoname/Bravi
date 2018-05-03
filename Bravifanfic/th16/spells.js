@@ -23,8 +23,8 @@
     "48": "Darkness \"Dark Green Thundaga\"",
     "50": "Light \"Purple Ragnarok\"",
     "54": "Darkness \"Chaos Stars\"",
-    "62": "Light & Darkness \"Buttfest\"",
-    "58": "Reverse Light \"Behind You\"",
+    "62": "Light & Darkness \"Storm Reversal\"",
+    "58": "Reverse Light \"Behind Reversal\"",
     "66": "Light & Darkness \"Double Lasers\"",
     "118": "Okina Matara \"Anarchy Bullet Hell\"",
     "109": "Reverse Secrecy \"Reverse Darkness\"",
@@ -57,7 +57,7 @@
     "88": "Spring Memories \"Reverse Abnormal Cherry Blossom Attack\"",
     "89": "Spring Memories \"Reverse Abnormal Cherry Blossom Attack\"",
     "40": "Magic Bullet \"Gigantic Test Slave\"",
-    "68": "Darkness \"Try Hard Double Lasers\"",
+    "68": "Light & Darkness \"Try Hard Double Lasers\"",
     "110": "Deceit Secrecy \"Shot in the Back\"",
     "112": "Reverse Secrecy \"Overturning All Behind You\""
 }
