@@ -46,7 +46,7 @@
     "90": "\"Continuous Earthquake\"",
     "94": "\"Binding Chains\"",
     "98": "\"Pure Invisible Drones\"",
-    "101": "\"Pure, Refining Invisible Drones\"",
+    "101": "\"Purest Invisible Drones\"",
     "102": "\"Desperation Move\"",
     "104": "\"Desperation Move\"",
     "106": "Nightmare Sign \"Nightmarish Butterfly\"",
@@ -60,6 +60,6 @@
     "114": "Dark Earth \"Racing Shockwave\"",
     "115": "Dark Planets \"Darkest Impact\"",
     "116": "\"Dark Soul\"",
-    "117": "\"Dark Shadow\"",
+    "117": "\"Dark Three Shadows\"",
     "118": "Dual Limit \"Double Danmaku Ars Solum\""
 }
