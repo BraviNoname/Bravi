@@ -39,7 +39,7 @@
     "37": "Zero Shot \"Illusionary Block\"",
     "38": "Zero Shot \"The World\"",
     "39": "Zero Shot \"Time Reversal\"",
-    "40": "\"Eternal Despair\"",
+    "40": "\"Desperation Move\"",
     "41": "Darkness \"Omni Laser\"",
     "42": "Ice Sign \"Dark Red Blizzard\"",
     "43": "Darkness \"Dark Chaos\"",
