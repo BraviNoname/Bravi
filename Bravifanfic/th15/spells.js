@@ -52,14 +52,14 @@
     "106": "Nightmare Sign \"Nightmarish Butterfly\"",
     "107": "Nightmare Sign \"Quick Shadow\"",
     "108": "Crawling Nightmare \"Creeping Shadow\"",
-    "109": "Darkness \"Dark Impulse Hand\"",
+    "109": "Darkness Sign \"Dark Impulse Hand\"",
     "110": "Dark Earth \"Back Aimed Earthquake\"",
     "111": "Dark Moon \"Dark Reflected Volley\"",
     "112": "\"Constantly Racing Darkness\"",
-    "113": "Darkness \"Dark Wave\"",
+    "113": "Darkness Sign \"Dark Wave\"",
     "114": "Dark Earth \"Back Racing Earthquake\"",
     "115": "Dark Moon \"Darkest Impact\"",
     "116": "\"Dark Soul\"",
-    "117": "\"Dark Three Shadows\"",
+    "117": "\"Dark Trinity Shadow\"",
     "118": "Dual Limit \"Double Danmaku Ars Solum\""
 }
