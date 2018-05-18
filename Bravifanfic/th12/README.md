@@ -14,8 +14,8 @@ Title Theme : Sacred Moon ~ 358/2 Days
 - S3 : Mystic Moon / Boss : The 13th Struggle ~ Re: Chain of Memories
 - S4 : Deep Drive / Boss : The 13th Dilemma
 - S5 : Darkness of the Unknown (Dragon) / Boss : Reverse Ideology
-- S6 : The Mahoujou of Light and Shadow / Boss : The Concealed Four Seasons
-- Ex : Darkness of the Unknown (Xemnas) / Boss : Disappeared ~ I.5 HD ReMiX
+- S6 : Darkness of the Unknown (Xemnas) / Boss : The Concealed Four Seasons
+- Ex : Sinister Shadows / Boss : Disappeared ~ I.5 HD ReMiX
 
 Just so you get what's going on without relying on the ingame dialogue I have yet to make. Also, despite my decent english level, there can be some gramatical errors... Please don't be a grammar nazi. =<
 Each incident takes place after the one corresponding to each game.
