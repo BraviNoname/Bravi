@@ -16,7 +16,7 @@ About the dialogues :
 - th13 : not started
 - th14 : not started
 - th15 : not started
-- th16 : stages 6 and extra done
+- th16 : stages 5 (Reimu only for now), 6 and extra done
 
 Image Credits :
 
