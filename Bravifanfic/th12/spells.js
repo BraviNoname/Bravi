@@ -38,7 +38,7 @@
     "56": "Dark Fading \"Dark Nobody\"",
     "57": "Light Sign \"Omni Laser\"",
     "59": "Light Sign \"Omni Laser\"",
-    "60": "Light Sigh \"Omni Laser\"",
+    "60": "Light Sign \"Omni Laser\"",
     "61": "Secret Light \"Ultima Laser\"",
     "63": "Secret Light \"Ultima Laser\"",
     "64": "Secret Light \"Ultima Laser\"",
