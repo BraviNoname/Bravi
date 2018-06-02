@@ -14,7 +14,7 @@ Title Theme : Sacred Moon ~ 358/2 Days
 - S3 : Babylon Garden / Boss : Dread of Night
 - S4 : Sacred Distance / Boss : Aqua (Reimu) -0.2 ver-
 - S5 : Battleship Bravery / Boss : Decisive Battle ~ N
-- S6 : Keyblade Graveyard Horizon / Boss : Rage Awakened
+- S6 : Keyblade Graveyard Horizon / Boss : Rage Awakened -The Origin-
 - Ex : Extreme Encounters / Boss : Dismiss
 
 Yup, it's really dark themed this time...
