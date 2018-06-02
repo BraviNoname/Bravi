@@ -72,6 +72,6 @@
     "105": "Secret God \"Seven Swords and Seven Stars\"",
     "106": "Back Sign \"Back Waterfall\"",
     "107": "Final Form \"Sonic Blade\"",
-    "108": "Final Form \"Fiction War - Canon Vs. Not Canon\"",
+    "108": "Outcast Sign \"Fiction War - Canon Vs. Not Canon\"",
     "109": "\"Hidden Rage Awakened -Green Phase-\""
 }
