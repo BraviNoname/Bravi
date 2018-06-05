@@ -11,7 +11,7 @@ Title Theme : Sacred Moon ~ 358/2 Days
 
 - S1 : Into Backdoor / Boss : Battle ~ N
 - S2 : Storm Diver / Boss : Dread of Night
-- S3 : Black Garden / Boss : The Tumbling
+- S3 : Scherzo di Notte / Boss : The Tumbling
 - S4 : Cavern of Remembrance / Boss : The 13th Struggle ~ II.5 HD ReMiX
 - S5 : Deep Drive / Boss : Enter the Darkness
 - S6 : Deep Drop / Boss : Solar Sect of Mystic Wisdom ~ Nuclear Fusion
