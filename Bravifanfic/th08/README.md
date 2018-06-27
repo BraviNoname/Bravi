@@ -49,14 +49,11 @@ only to lose and let the protagonists go on.
 
 Stage 5 : 
 
-The protagonists are now going through the real Dark City, they met a Mushroom X, who at the end told that original that the protagonists was arriving. That original is Noname, who apologized for what happened at the
-previous incident and that he had no idea what he was doing. The protagonists didn't mind, but then told him they want to know what powers he can imitate, and he answered by a battle using illusions. After having lost, he lost his hood and tried to lure them to an illusionary corridor in the castle.
+The protagonists are now going through the real Dark City, they met a hooded girl who at the end told that original that the protagonists was arriving. That original is Noname, who apologized for what happened at the previous incident and that he had no idea what he was doing. The protagonists didn't mind, but as the hooded girl fled back to an unknown location out of the protagonists's vision, Noname battled agains them to buy some time. After having lost, he lost his hood and left where the hooded girl went.
 
 Stage 6A :
 
-As the protagonists go through a corridor in the castle, they meet Noname again, telling them he's accomplishing his mission. What was his mission ? To make sure he can be known to Gensokyo without being seen as a threat.
-To be sure that Noname is a good guy ! The protagonists ask about what's a gappy. He told them to ignore it. Thus, the protagonists brought him back to reality by saying he's a pathetic kid who wanted some attention and wants to shine by stealing abilities.
-As this filled Noname with frustration, he told them to remember what that Mushroom said, in this world, the only way any dweller can attack is by using cards imitating powers, and then engaged a fight where he can never lose if he imitates a genius's techniques.
+But this time Noname wasn't going to where the girl went, he lured the protagonists to the fake corridor, he wanted to meet the protagonists for real, then engaged them for a battle.
 He fought the protagonists in each place of the castle where the organisation members of that castle met their end.
 Except that he did lose. As he layed down, he then weakly said "You'll never sway me from the one cause that pushes me to keep on fighting : I Want To Go To Gensokyo !", got up and then brought a spellcard that works like an emergency red card for the target.
 
@@ -64,9 +61,9 @@ Once the battle ended, the protagonists forcibly went back to their home, they w
 
 Stage 6B :
 
-Noname tried to lure the protagonists, but they suddenly went the other direction, where the corridor is real. Noname told them they weren't supposed to go that way, but got defeated.
-That other corridor was leading to the Station of Remembrance. There, Nonamé, introduced herself as a friend of Noname (who is not related by blood, totally not :3), she told them what he wants and this world is : it's a representation
-of Noname's spirit and thoughts, an exact copy of The World That Never Was, who can easily be mixed with the original world. As this world is an illusion, it's as real as Gensokyo is, and thus can be linked to it and ignore the Hakurei Border without damaging it. Yukari remained doubtful about these statements and guess there's another reason, but she kept it silent.
+Noname tried to lure the protagonists, but they noticed there was another corridor behind the one Noname took, this one leading where the corridor is real. He tried to stop them but failed.
+That other corridor was leading to the Station of Remembrance. There, Nonamé, introduced herself as a friend of Noname, she told them what he wants and this world is : it's a representation
+of Noname's spirit and thoughts, an exact copy of The World That Never Was, who can easily be mixed with the original world, but is only the back version of it. As this world is an illusion, it's as real as Gensokyo is, and thus can be linked to it and ignore the Hakurei Border without damaging it. Yukari remained doubtful about these statements and guess there's another reason, but she kept it silent.
 
 Ex Stage :
 
