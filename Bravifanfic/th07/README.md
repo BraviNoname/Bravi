@@ -11,7 +11,7 @@ Title Theme : Sacred Moon ~ 358/2 Days
 
 - S1 : Into Backdoor / Boss : Ice-Hot Lobster
 - S2 : Sacred Distance / Boss : Dread of Night
-- S3 : Flowering Passage / Boss : Doll Judgement ~ the Girl Who Played with People's Shapes
+- S3 : Sacred Moon / Boss : Doll Judgement ~ the Girl Who Played with People's Shapes
 - S4 : Babylon Garden / Boss : The 13th Dilemma
 - S5 : Forgotten Challenge / Boss : Graceful Assassin
 - S6 : Scythe of Petals / Boss : Lord of the Castle / RB : The 13th Reflection
