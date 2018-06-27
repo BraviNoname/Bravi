@@ -54,7 +54,7 @@ previous incident and that he had no idea what he was doing. The protagonists di
 
 Stage 6A :
 
-As the protagonists go through a corridor in the castle, they meet Noname again, telling them he's accomplishing his mission. What was his mission ? To make sure he can be known to Gensokyo without being seen as a threat or a gappy to which people make fun of. 
+As the protagonists go through a corridor in the castle, they meet Noname again, telling them he's accomplishing his mission. What was his mission ? To make sure he can be known to Gensokyo without being seen as a threat.
 To be sure that Noname is a good guy ! The protagonists ask about what's a gappy. He told them to ignore it. Thus, the protagonists brought him back to reality by saying he's a pathetic kid who wanted some attention and wants to shine by stealing abilities.
 As this filled Noname with frustration, he told them to remember what that Mushroom said, in this world, the only way any dweller can attack is by using cards imitating powers, and then engaged a fight where he can never lose if he imitates a genius's techniques.
 He fought the protagonists in each place of the castle where the organisation members of that castle met their end.
@@ -70,7 +70,5 @@ of Noname's spirit and thoughts, an exact copy of The World That Never Was, who 
 
 Ex Stage :
 
-They didn't face properly Noname, so the protagonists went back to the Cavern of Remembrance to make things clear. In which cavern they met Nonamé, who removed her coat wondered if they're taking this challenge on.
-At the end, they met Noname who removed his coat too, and told them he didn't introduce to them properly, he just simply said he wanted to make some friends. And the protagonists understood that. As Noname assumed the proper greeting would work that way, he wanted an immortally blazing fight "We're not
-in Gensokyo, but there still is no common sense!". After getting defeated feeling what an immortal's life feels like, he said that sucks, and a frenchfag like him wouldn't live like that anyways. After he said that, the protagonists were surprised to see he could speak their language
-and that Gensokyo was known in France. Marisa knows someone who's also french, as well as Remilia's sister. (guess who) Noname didn't catch that, and told in a cringy way that he's french, but that he won't talk any further about that, told them they can come anytime they want and fled.
+They didn't face properly Noname, so the protagonists went to the Transport to Remembrance to make things clear. In which cavern they met Nonamé, who removed her coat wondered if they're taking this challenge on.
+At the end, they met Noname who removed his coat too, and told them he didn't introduce to them properly, he just simply said he wanted to make some friends. And the protagonists understood that. They fought each other, Noname lost, but he wasn't expecting a victory, he just got what he wanted and then fled back towards his world.
