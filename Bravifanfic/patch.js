@@ -4,7 +4,8 @@
 		"nmlgc/script_latin",
 		"nmlgc/western_name_order",
 		"thpatch/lang_en",
-		"DTM/alphes"
+		"DTM/alphes",
+		"Bravi/Braviretex"
 	],
 	"fontrules": {
 		"*": "'Power Clear'"
