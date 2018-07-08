@@ -8,10 +8,5 @@
 	"fontrules": {
 		"*": "'Power Clear'"
 	},
-	"id": "Bravifanfic",
-	"servers": [
-		"http://thcrap.nmlgc.net/repos/Bravi/Bravimemes/",
-		"http://mirrors.thpatch.net/Bravi/Bravimemes/"
-	],
 	"title": "Modding the game for whatever reason"
 }

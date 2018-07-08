@@ -8,10 +8,5 @@
 	"fontrules": {
 		"*": "'Power Clear'"
 	},
-	"id": "Bravifanfic",
-	"servers": [
-		"http://thcrap.nmlgc.net/repos/Bravi/Braviretex/",
-		"http://mirrors.thpatch.net/Bravi/Braviretex/"
-	],
 	"title": "Bravi's Retex But No Fanfic"
 }
