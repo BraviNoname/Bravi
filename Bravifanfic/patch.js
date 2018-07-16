@@ -10,5 +10,5 @@
 	"fontrules": {
 		"*": "'Power Clear'"
 	},
-	"title": "Bravi's Story That Never Was\n                           (I'm not touching this anymore, but open the readme.md files (with Notepad) for important details)"
+	"title": "Bravi's Story That Never Was\n                           (I'm not touching this anymore, and so shouldn't you)"
 }
