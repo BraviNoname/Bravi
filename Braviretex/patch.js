@@ -8,5 +8,5 @@
 	"fontrules": {
 		"*": "'Power Clear'"
 	},
-	"title": "Bravi's Retex But No Fanfic"
+	"title": "Bravi's Retexture Patch (for most of the main games)"
 }
