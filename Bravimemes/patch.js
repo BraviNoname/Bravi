@@ -8,5 +8,5 @@
 	"fontrules": {
 		"*": "'Power Clear'"
 	},
-	"title": "Modding the game for whatever reason"
+	"title": "Random stuff that I want to publish"
 }
