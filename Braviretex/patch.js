@@ -5,8 +5,8 @@
 		"nmlgc/western_name_order",
 		"thpatch/lang_en"
 	],
-	"fontrules": {
-		"*": "'RussellSquare'"
+	"fonts": {
+		"RussellSquare.ttf": true
 	},
 	"title": "Bravi's Retexture Patch (for most of the main games)"
 }
