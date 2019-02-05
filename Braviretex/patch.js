@@ -6,7 +6,7 @@
 		"thpatch/lang_en"
 	],
 	"fontrules": {
-		"*": "'Power Clear'"
+		"*": "'RussellSquare'"
 	},
 	"title": "Bravi's Retexture Patch (for most of the main games)"
 }

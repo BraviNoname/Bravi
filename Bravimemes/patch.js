@@ -6,7 +6,7 @@
 		"thpatch/lang_en"
 	],
 	"fontrules": {
-		"*": "'Power Clear'"
+		"*": "'RussellSquare'"
 	},
 	"title": "Okina memes and all that comes in my mind... Don't take it too seriously or badly."
 }
