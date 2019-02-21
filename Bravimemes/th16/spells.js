@@ -24,6 +24,6 @@
     "114": "Secret Chaos \"Blizzard Maze\"",
     "115": "Secret Chaos \"Shining Seven Stars\"",
     "116": "Secret Chaos \"Performers who Never Were\"",
-    "117": "\"Impaled by the Secret Human\"",
+    "117": "\"Unfortunately Impaled by the Secret Human\"",
     "118": "\"The Secret Human who Never Was\""
 }
