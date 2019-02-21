@@ -457,23 +457,24 @@
         },
         "366_0": {
             "lines": [
-                "What if I come along to be sure?"
+                "What if I come along?"
             ]
         },
         "374_0": {
             "lines": [
-                "Yes, please..."
+                "Yes, please...",
+				"...? Did you say something?"
             ]
         },
         "382_0": {
             "lines": [
-                "While we're at it, why don't I and Okina join you for some",
-                "drinks and a flower-viewing at the shrine?"
+                "There's one place I want to go,",
+                "if you please..."
             ]
         },
         "390_0": {
             "lines": [
-                "If only she was there to fight with you in the first place..."
+                "...I'd like to rest easy inside your heart..."
             ]
         }
     }
