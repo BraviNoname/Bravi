@@ -16,7 +16,7 @@
     "106": "Drum Dance \"Powerful Cheers\"",
     "107": "Mad Dance \"Crazy Backup Dance\"",
     "108": "Bullet Dance \"Twin Typhoons\"",
-    "109": "Secret Chaos \"Behind Dark Maze\"",
+    "109": "Secret Chaos \"Behind the Scene's Dark Maze\"",
     "110": "Secret Chaos \"Disobedient Back Attackers\"",
     "111": "Secret Chaos \"Creeping Dupion Burst\"",
     "112": "Secret Chaos \"Back Firaga Burst\"",
