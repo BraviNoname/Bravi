@@ -1,7 +1,7 @@
 {
     "70": "Light in the Back \"Dazzling Gleam of a Secret Human\"",
     "73": "Light in the Back \"Dazzling Gleam of an Absolute Secret Human\"",
-    "74": "Hidden Summer \"Inferno of the Summer Sun\"",
+    "74": "Hidden Summer \"Heat Scorch of the Summer Sun\"",
     "76": "Hidden Summer \"Abnormal Inferno of the Harsh Sun\"",
     "78": "Hidden Fall \"Withering Vitality\"",
     "80": "Hidden Fall \"Abnormal Withering Burst\"",
