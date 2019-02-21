@@ -21,7 +21,7 @@
     "111": "Secret Chaos \"Creeping Dupion Burst\"",
     "112": "Secret Chaos \"Back Firaga Burst\"",
     "113": "Secret Chaos \"Clumsy Yet Effective Bullet Reversal\"",
-    "114": "Secret Chaos \"Icicle Maze\"",
+    "114": "Secret Chaos \"Blizzard Maze\"",
     "115": "Secret Chaos \"Shining Seven Stars\"",
     "116": "Secret Chaos \"Performers who Never Were\"",
     "117": "\"Impaled by the Secret Human\"",
