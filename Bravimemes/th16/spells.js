@@ -18,12 +18,12 @@
     "108": "Bullet Dance \"Twin Typhoons\"",
     "109": "Mirage Secret \"Reverse Dark Maze Illusion\"",
     "110": "Light Sign \"Radiance from the Back\"",
-    "111": "Native Secrecy \"Double Snakes and the Crawling Frogs\"",
+    "111": "Native Secrecy \"Double Snake and the Crawling Frogs\"",
     "112": "Reversed Secret \"Reversal Bow of Heaven & Earth\"",
     "113": "Lunatic Secret \"Gun of the Real Thing\"",
     "114": "Secret Dream \"Barrier of Non Existence\"",
     "115": "Secret Stars \"Shining Seven Sapphires\"",
-    "116": "Secret Foes \"Reckless Comets VS. Lunar Danmaku\"",
+    "116": "Secret Enemies \"Reckless Comets VS. Lunar Danmaku\"",
     "117": "\"Mirage Split Sword\"",
     "118": "\"The Secret Human who Never Was\""
 }
