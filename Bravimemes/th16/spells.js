@@ -24,6 +24,6 @@
     "114": "Secret Dream \"Seal Barrage of Non Existence\"",
     "115": "Secret Stars \"Shining Seven Sapphires\"",
     "116": "Secret Enemies \"Reckless Meteors VS. Lunar Danmaku\"",
-    "117": "\"Mirage Split Sword\"",
+    "117": "\"Mirage Split Back Sword\"",
     "118": "\"The Secret Human who Never Was\""
 }
