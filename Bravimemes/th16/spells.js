@@ -17,7 +17,7 @@
     "107": "Mad Dance \"Crazy Backup Dance\"",
     "108": "Bullet Dance \"Twin Typhoons\"",
     "109": "Secret Love \"Light Stars in Darkness\"",
-    "110": "Secret Earth \"Erupting Rocks from the Earth's Power\"",
+    "110": "Secret Earth \"Rock Burst from the Earth's Power\"",
     "111": "Native Secrecy \"Double Snake and the Crawling Frogs\"",
     "112": "Reversed Secret \"Reversal Bow of Back & Forth\"",
     "113": "Lunatic Secret \"Gun of the Original Rabbit\"",
