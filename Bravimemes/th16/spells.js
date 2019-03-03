@@ -1,7 +1,7 @@
 {
     "70": "Light in the Back \"Hidden Stars of a Secret Human\"",
     "73": "Light in the Back \"Hidden Stars of an Absolutely Secret Human\"",
-    "74": "Hidden Summer \"Zenith Summer Sunshine\"",
+    "74": "Hidden Summer \"Taste the Sunlight\"",
     "76": "Hidden Summer \"Blinded by the Abnormal Zenith Sunshine\"",
     "78": "Hidden Fall \"Windy Fall Leaves Crop\"",
     "80": "Hidden Fall \"Hurricane on the Fall Leaves Crop\"",
