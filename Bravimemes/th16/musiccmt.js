@@ -122,9 +122,9 @@
         "This is Okina Matara's theme, played as Sereinae Matara's casual theme.",
         "",
         "I chose to keep this song as it is because it fits in with the seasons you battle in.",
-        "Just because it is my favorite song, so I couldn't just throw it away,",
-        "it first gives a shy and eerie feeling at the start of the song, and then at the end it becomes grand at the climax,",
-        "wanting you give everything you got. But then becomes eerie again because of what happened to the protagonists..."
+        "Just because it is my favorite song, so I couldn't just throw it away, it first gives",
+        "a shy and eerie feeling at the start of the song, and then at the end it becomes grand,",
+        "wanting you give all you got. But then becomes eerie again because of what happened at the end..."
     ],
     "14": [
         "@",
@@ -142,9 +142,9 @@
         "The theme for Okina Matara (True), played as Sereinae Matara's final theme.",
         "",
         "I couldn't put a different boss because of the fact they share the same name on screen.",
-        "This song fits for someone who got created by a secret god, and she helps outcasts and disabled people,",
-        "being the reason why I thought the sad parts of this song fit in, as well as the cheerful, yet strong finale.",
-        "Because indeed she's kind of cheerful, yet she tends to be vicious when in action, as in shooting behind you."
+        "This song fits for someone who got created by a secret god, and she helps outcasts and the disabled,",
+        "being why I thought the sad parts of this song fit in, as well as the cheerful, yet strong finale.",
+        "Because indeed she's cheerful, yet she tends to be vicious when in action, as in shooting behind you."
     ],
     "16": [
         "@",
