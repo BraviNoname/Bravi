@@ -119,32 +119,32 @@
     "13": [
         "@",
         "",
-        "This is Okina Matara's theme, played as Sereinae Matara's theme.",
+        "This is Okina Matara's theme, played as Sereinae Matara's casual theme.",
         "",
-        "A very \"This is the climax!\" sort of song with a lot of strength to it.",
-        "It has a strong melody, even compared to the other songs in the game, so it might've",
-        "been nice if I just went all-in and started singing lyrics to it. It's very likely that ",
-        "you'd start laughing too hard to even play the game, but that might actually be the best outcome."
+        "I chose to keep this song as it is because it fits in with the seasons you battle in.",
+        "Just because it is my favorite song, so I couldn't just throw it away,",
+        "it first gives a shy and eerie feeling at the start of the song, and then at the end it becomes grand at the climax,",
+        "wanting you give everything you got. But then becomes eerie again because of what happened to the protagonists..."
     ],
     "14": [
         "@",
         "",
-        "This is the Extra Stage theme.",
+        "This is the (modded by Bravi) Extra Stage theme. Composed by Yoko Shimomura.",
         "",
-        "A mysterious world that we dive into once more, having mustered up our resolve.",
-        "It's a song that combines both eeriness and gentleness.",
-        "",
-        "The song does a good job of conveying the stage's difficulty, so it's pretty depressing. (lol)"
+        "I chose this song as it gives a feeling of revenge for losing at stage 6.",
+        "So, it's eerie as usual and mostly gives the vibes about the place we're in,",
+        "but I can't seem to find anything related to a daily life mixed with action in this area...",
+        "That's rather funny that these KH songs conveniently fit in the midboss's appearance."
     ],
     "15": [
         "@",
         "",
-        "The theme for Okina Matara (True).",
+        "The theme for Okina Matara (True), played as Sereinae Matara's final theme.",
         "",
-        "Even though it's an Extra Stage, it wound up being part of the main story.",
-        "Since it's your true battle with Okina, I swept away all the refreshing feeling of nature,",
-        "but still made it a song with a strong melody befitting of the true final boss.",
-        "Honestly, getting attacked from behind is just the worst!"
+        "I couldn't put a different boss because of the fact they share the same name on screen.",
+        "This song fits for someone who got created by a secret god, and she helps outcasts and disabled people,",
+        "being the reason why I thought the sad parts of this song fit in, as well as the cheerful, yet strong finale.",
+        "Because indeed she's kind of cheerful, yet she tends to be vicious when in action, as in shooting behind you."
     ],
     "16": [
         "@",
