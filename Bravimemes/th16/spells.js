@@ -5,8 +5,8 @@
     "76": "Hidden Summer \"Blinded by the Abnormal Zenith Sunshine\"",
     "78": "Hidden Fall \"Windy Fall Leaves Crop\"",
     "80": "Hidden Fall \"Hurricane on the Fall Leaves Crop\"",
-    "82": "Hidden Winter \"Sharp After-Snow Ice Blizzard\"",
-    "84": "Hidden Winter \"After-Snow Ice Blades of an Abnormal Blizzard\"",
+    "82": "Hidden Winter \"Dark Blizzard\"",
+    "84": "Hidden Winter \"Darkness Hiding the Abnormal Blizzard\"",
     "86": "Hidden Spring \"Evening Spring Blossom Shower\"",
     "88": "Hidden Spring \"Endless Evening Abnormal Blossom Butterflies\"",
     "90": "Hidden You \"Hidden Breezy Cherry Blossom\"",
@@ -25,5 +25,6 @@
     "115": "Secret Stars \"Shining Seven Sapphires\"",
     "116": "Secret Enemies \"Reckless Stars VS. Lunar Danmaku\"",
     "117": "\"Mirage Split Back Sword\"",
-    "118": "\"The Secret Human who Never Was\""
+    "118": "\"The Secret Human who Never Was\"",
+    "119": "\"Hidden Cold Seasons and Warm Seasons\""
 }
