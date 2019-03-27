@@ -110,7 +110,8 @@
     "12": [
         "@",
         "",
-        "This is the (modded by Bravi) Stage 6 theme. Composed by Yoko Shimomura.",
+        "This is the Stage 6 theme of this mod.",
+		"Originally played in : Kingdom Hearts 3D. Composed by Yoko Shimomura.",
         "",
         "Just as the original theme I chose this song as it hastens you to find the culprit.",
         "As you go into a corridor in an unknown and far away world,",
@@ -129,8 +130,8 @@
     "14": [
         "@",
         "",
-        "This is the (modded by Bravi) Extra Stage theme. Composed by Yoko Shimomura.",
-        "",
+        "This is the Extra Stage theme of this mod.",
+		"Originally played in : Kingdom Hearts 358/2 Days. Composed by Yoko Shimomura.",
         "I chose this song as it gives a feeling of revenge for losing at stage 6.",
         "So, it's eerie as usual and mostly gives the vibes about the place we're in,",
         "but I can't seem to find anything related to a daily life mixed with action in this area...",
