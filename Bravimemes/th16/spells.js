@@ -9,10 +9,11 @@
     "84": "Hidden Winter \"Nightmarish Abnormal Snow Ball Blizzard\"",
     "86": "Hidden Spring \"Evening Spring Blossom Shower\"",
     "88": "Hidden Spring \"Endless Evening Abnormal Blossom Butterflies\"",
-    "90": "Hidden You \"Hidden Breezy Cherry Blossom\"",
-    "94": "Hidden You \"Hidden Perfect Summer Ice\"",
-    "98": "Hidden You \"Hidden Crazy Fall Wind\"",
-    "102": "Hidden You \"Hidden Extreme Winter\"",
+    "131": "Hidden Wet&Dry Seasons \"From Thunderstorm to Heat Wave\"",
+    "90": "Hidden Snatch \"Hidden Breezy Cherry Blossom\"",
+    "94": "Hidden Snatch \"Hidden Perfect Summer Ice\"",
+    "98": "Hidden Snatch \"Hidden Crazy Fall Wind\"",
+    "102": "Hidden Snatch \"Hidden Extreme Winter\"",
     "106": "Drum Dance \"Powerful Cheers\"",
     "107": "Mad Dance \"Crazy Backup Dance\"",
     "108": "Bullet Dance \"Twin Typhoons\"",
@@ -25,6 +26,5 @@
     "115": "Secret Stars \"Shining Seven Sapphires\"",
     "116": "Secret Enemies \"Reckless Stars VS. Lunar Danmaku\"",
     "117": "\"Mirage Split Back Sword\"",
-    "118": "\"The Secret Human who Never Was\"",
-    "131": "\"Hidden Wet and Dry Seasons\""
+    "118": "\"The Secret Human who Never Was\""
 }
