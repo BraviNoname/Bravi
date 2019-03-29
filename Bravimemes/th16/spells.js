@@ -7,7 +7,7 @@
     "80": "Hidden Fall \"Abnormal Bumper Crop of the Reversed Miracle\"",
     "82": "Hidden Winter \"Dark Snow Cloak\"",
     "84": "Hidden Winter \"Nightmarish Abnormal Snow Ball Blizzard\"",
-    "86": "Hidden Spring \"Evening Spring Blossom Shower\"",
+    "86": "Hidden Spring \"Spring Evening Blossom Shower\"",
     "88": "Hidden Spring \"Endless Evening Abnormal Blossom Butterflies\"",
     "131": "Hidden Wet&Dry Seasons \"From Thunderstorm to Heat Wave\"",
     "90": "Hidden Snatch \"Hidden Breezy Cherry Blossom\"",
