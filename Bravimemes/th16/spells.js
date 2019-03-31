@@ -21,7 +21,7 @@
     "110": "Secret Earth \"Rock Burst from the Earth's Power\"",
     "111": "Native Secrecy \"Double Snake and the Crawling Frogs\"",
     "112": "Reversed Secret \"Reversal Bow of Back & Forth\"",
-    "113": "Secret Dream \"Homing Amulet Barrage\"",
+    "113": "Secret Dream \"Pseudo-Homing Amulet Barrage\"",
     "114": "Lunatic Secret \"Warped Gun of the Original Rabbit'\"",
     "115": "Secret Stars \"Shining Seven Sapphires\"",
     "116": "Secret Enemies \"Reckless Stars VS. Lunar Danmaku\"",
