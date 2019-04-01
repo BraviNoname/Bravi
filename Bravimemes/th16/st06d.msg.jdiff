@@ -3,7 +3,7 @@
         "34_0": {
             "lines": [
                 "So where exactly is she?",
-                "This hidden god of theirs?"
+                "That friend they've talked about?"
             ]
         },
         "42_0": {
@@ -18,7 +18,8 @@
         },
         "118_0": {
             "lines": [
-                "She's not there, but here I am!"
+                "I'm here! Welcome to the Corridor of Remembrance!",
+				"Where stuff from the outside becomes déjà vu here."
             ]
         },
         "156_0": {
@@ -56,8 +57,8 @@
         },
         "204_0": {
             "lines": [
-                "My name is Sereinae Matara.",
-				"As in, someone who originates from Okina Matara."
+                "My name is Sereinae Matara. As in, someone who originates from",
+				"Okina Matara, the Ultimate, Absolute Secret God."
             ]
         },
         "212_0": {

@@ -25,8 +25,8 @@
         },
         "156_0": {
             "lines": [
-                "|\tA tengu, in the \t,\tLand of the Back Door\t,Ushirodo-no-Kuni",
-                "A tengu, in the Land of the Back Door!",
+                "|\tA tengu, arriving from the \t,\tLand of the Back Door\t,Ushirodo-no-Kuni",
+                "A tengu, arriving from the Land of the Back Door!",
                 "Just what is this world coming to?"
             ]
         },
@@ -44,8 +44,8 @@
         },
         "180_0": {
             "lines": [
-                "My name is Sereinae Matara.",
-				"As in, someone who originates from Okina Matara."
+                "My name is Sereinae Matara. As in, someone who originates from",
+				"Okina Matara, the Ultimate, Absolute Secret God."
             ]
         },
         "188_0": {
