@@ -21,10 +21,10 @@
     "110": "Secret Earth \"Rock Burst from the Earth's Power\"",
     "111": "Native Secrecy \"Double Snake and the Crawling Frogs\"",
     "112": "Reversed Secret \"Reversal Bow of Back & Forth\"",
-    "113": "Secret Spirit \"Pseudo-Homing Amulet Barrage\"",
-    "114": "Lunatic Secret \"Four Directions Mesmerism of the Original Rabbit\"",
+    "113": "Secret Barrier \"Pseudo-Homing Amulet Barrage\"",
+    "114": "Lunatic Illusion \"Returning Back Shots Cross (Perpendicular Cross)\"",
     "115": "Secret Stars \"Shining Seven Sapphires\"",
-    "116": "Secret Enemies \"Reckless Stars VS. Lunar Danmaku\"",
+    "116": "Secret Enemies \"Recklessly Vengeful Stars VS. Lunatic Danmaku\"",
     "117": "\"Mirage Split Back Sword\"",
     "118": "\"The Secret Human who Never Was\""
 }
