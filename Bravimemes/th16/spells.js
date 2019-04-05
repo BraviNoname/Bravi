@@ -25,6 +25,6 @@
     "114": "Lunatic Illusion \"Returning Back Shots Cross (Perpendicular Cross)\"",
     "115": "Secret Stars \"Shining Seven Sapphires\"",
     "116": "Secret Enemies \"Recklessly Vengeful Stars VS. Lunatic Danmaku\"",
-    "117": "\"Mirage Split Back Sword\"",
+    "117": "Reality Shift \"Mirage Split Back Sword\"",
     "118": "\"The Secret Human who Never Was\""
 }
