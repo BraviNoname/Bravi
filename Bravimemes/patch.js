@@ -5,5 +5,5 @@
 		"nmlgc/western_name_order",
 		"thpatch/lang_en"
 	],
-	"title": "Okina memes and all that comes in my mind... Don't take it too seriously or badly."
+	"title": "Th16 Stage 6 and Extra Stage remaster with a character of mine."
 }
