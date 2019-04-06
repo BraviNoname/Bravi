@@ -22,5 +22,5 @@
     "14_6": [
         "She taaalked! She revealed herself as a human and... fellow outsider...?",
         "That aside, though, I can feel so much power flowing from my back!"
-    ],
+    ]
 }
