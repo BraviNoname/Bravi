@@ -6,5 +6,5 @@
     "55": "Secret Lock \"Pseudo-Time Rewind Bind\"",
     "93": "\"Lunatic Secret Barrier\"",
     "95": "Union \"Sneak-Photographer Exorcism from the Back\"",
-    "97": "Union \"Coward's Master Spark\"",
+    "97": "Union \"Coward's Master Spark\""
 }
