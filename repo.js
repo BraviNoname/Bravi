@@ -7,8 +7,7 @@
 		"Braviretex": "Bravi's Retexture Patch (for most of the main games)"
 	},
 	"servers": [
-		"http://thcrap.nmlgc.net/repos/Bravi/",
-		"http://mirrors.thpatch.net/Bravi/"
+		"https://mirrors.thpatch.net/Bravi/"
 	],
 	"title": "Bravi's Strange Creativity"
 }

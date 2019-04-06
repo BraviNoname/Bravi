@@ -8,5 +8,8 @@
 	"fonts": {
 		"RussellSquare.ttf": true
 	},
+		"servers": [
+		"https://mirrors.thpatch.net/Bravi/Braviretex/"
+	],
 	"title": "Bravi's Retexture Patch (for most of the main games)"
 }
