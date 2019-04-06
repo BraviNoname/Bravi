@@ -12,8 +12,8 @@
         "comfort of her chair. Bet she doesn't get enough exercise."
     ],
     "14_4": [
-        "Woah, she, for a second reminded me of the lunar rabbits, maybe there's a link.",
-        "I feel like danmaku photos can show you someone's personality, too."
+        "Woah, for a second she reminded me of the lunar rabbits.",
+        "I feel like danmaku photos can show you someone's origins, too."
     ],
     "14_5": [
         "It's hard to tell from just a photo,",
