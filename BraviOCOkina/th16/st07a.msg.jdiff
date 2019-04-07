@@ -200,8 +200,8 @@
         },
         "380_0": {
             "lines": [
-                "You're the Hakurei shrine maiden,",
-                "as said before, I can't hire you as her subordinate."
+                "You're the Hakurei shrine maiden, you're then worshipping a god I don't know",
+                "anything about, then I can't hire you as the Secret God's subordinate."
             ]
         },
         "388_0": {
@@ -269,7 +269,7 @@
         },
         "90_0": {
             "lines": [
-                "And without their successors, these two girls",
+                "And without their successors, these two pals",
                 "can't live a normal life any time soon. Poor things..."
             ]
         },
@@ -478,7 +478,7 @@
         },
         "390_0": {
             "lines": [
-                "...There's somewhere I'd like to rest easy..."
+                "I'm really tired now, I need to lay down somewhere."
             ]
         }
     }
