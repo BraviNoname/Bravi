@@ -9,5 +9,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/BraviOCOkina/"
 	],
-	"title": "Th16 Stage 6 and Extra Stage remaster, and 16.5 Okina with a character of mine."
+	"title": "Th16 Stage 6 and Extra Stage Hard Mode remaster, and 16.5 Okina with a character of mine."
 }
