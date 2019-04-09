@@ -1,0 +1,177 @@
+{
+    "0": {
+        "1_0": {
+            "lines": [
+                "A shrine on the eastern end of Gensokyo. Commonly known as the \"Youkai Shrine.\""
+            ]
+        },
+        "0_0": {
+            "lines": [
+                "<ts$Aunn  $Reimu  >The Hakurei Shrine."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Aunn  >\"Now that you're back, Reimu, the spring at the shrine is going to end soon, huh?\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Reimu  >\"I sure hope so.\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Aunn  >\"You sound awfully unsure.",
+                "<l$>  You did manage to meet the mastermind, right?\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Reimu  >\"Of course I did.",
+                "<l$>  I made sure she wouldn't spread her activities to the fairies, but she didn't seem to be aware.\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Aunn  >\"Spread to the fairies?\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Reimu  >\"Her two friends were making the fairies go berserk from someone's orders actually,",
+                "<l$>  which was apparently making the seasons go out of control. I doubt she's a mastermind but...\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Reimu  >\"Now that I made her make them stop,",
+                "<l$>  it should gradually return to normal. Pretty sure anyway.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Aunn  >\"Hmm... Sounds like you're not telling me something.\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Reimu  >\"Actually... I never got a promise from her or anything.",
+                "<l$>  I just kinda shouted at her to stop it mid-fight.\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Reimu  >\"It seems I got caught in her trap, so she got away.\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Aunn  >\"Oh my, that's rare for you, Reimu.\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Reimu  >\"It looked like she could open doors to go anywhere in an instant,",
+                "<l$>  so she had vanished before I realized what was going on.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Aunn  >\"But, I know it'll all work out.\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Reimu  >\"?\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Aunn  >\"I mean, you always win in the end, right Reimu?\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Reimu  >\"I sure hope so, but...\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Reimu  >\"If I don't do something about those mysterious back doors,",
+                "<l$>  she could be hiding anywhere. What a pain.\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Aunn  >\"Back doors... oh!\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Reimu  >\"I did manage to find her by jumping into the door",
+                "<l$>  of a Jizo I met in the forest though.\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Aunn  >\"In that case, shouldn't finding her again be a piece of cake?",
+                "<l$>  I mean, right on your back you have...\""
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "Aunn pointed to Reimu's back."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "Attached to it was a mysterious door."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "However, Reimu wasn't surprised."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "Most of them were a group who didn't mind",
+                " throwing Gensokyo's entire climate into chaos."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "Although the hidden human kept the hidden god undiscovered,",
+                " they'd at least keep an eye on her."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "But this was her chance."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Reimu vowed to reenter a back door and have a rematch with",
+                " the mysterious human of the hidden god."
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "But this time, instead of equipping a sub-season..."
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<c$Ending No. 01 — Resolved to a Rematch$>"
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "<c$Congratulations!$>",
+                "<c$No Continue Clear!$>"
+            ]
+        }
+    }
+}
