@@ -1,7 +1,7 @@
 {
     "70": "Light in the Back \"Easygoing Hidden Stars of a Secret Human\"",
     "71": "Light in the Back \"Hidden Stars of a Secret Human\"",
-    "72": "Light in the Back \"Hard Hidden Stars of a Secret Human\"",
+    "72": "Light in the Back \"Try Hard Hidden Stars of a Secret Human\"",
     "73": "Light in the Back \"Lunatic Hidden Stars of an Absolutely Secret Human\"",
     "74": "Hidden Summer \"Taste the Sunlight\"",
     "76": "Hidden Summer \"Zenith Sunshine of Abnormal Agressivity\"",
