@@ -12,15 +12,15 @@
         "She doesn't get enough exercise from her comfort, does she?"
     ],
     "14_4": [
-        "This whole mess of amulets reminds me of the way Reimu-cchi throws them.",
-        "Was she trying to impersonate her or is she showing something I don't know?"
+        "This whole mess of amulets reminds me of Reimu-cchi. Was she trying",
+        "to impersonate her or is she showing something I don't know?"
     ],
     "14_5": [
         "It's hard to tell from just a photo, this danmaku looked",
         "like time rewinds itself along with the bullet movement."
     ],
     "14_6": [
-        "She taaalked! She revealed herself as a human and fellow outsider, interesting.",
+        "She revealed herself as a human and fellow outsider, interesting.",
         "That aside, though, I can feel so much power flowing from my back!"
     ],
     "21_1": [
