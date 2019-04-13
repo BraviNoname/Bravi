@@ -21,7 +21,7 @@
     "111": "Native Secrecy \"Double Snake and the Crawling Frogs\"",
     "112": "Reversed Secret \"Reversal Bow of Back & Forth\"",
     "113": "Secret Barrier \"Pseudo-Homing Amulet Barrage\"",
-    "114": "Lunatic Illusion \"Returning Back Shots Cross (Perpendicular Cross)\"",
+    "114": "Secret Illusion \"Returning Back Shots Cross (Perpendicular Cross)\"",
     "115": "Secret Stars \"Shining Seven Sapphires\"",
     "116": "Secret Enemies \"Recklessly Vengeful Stars VS. Lunatic Danmaku\"",
     "117": "Reality Shift \"Mirage Split Back Sword\"",
