@@ -1,7 +1,7 @@
 {
     "14_1": [
         "She wanted me to drown in the darkness she cast on herself?",
-        "She looked despaired that way."
+        "She looked despaired that way, in contrast to the light."
     ],
     "14_2": [
         "Quit raining from below! (I am a girl, let's not forget.)",
