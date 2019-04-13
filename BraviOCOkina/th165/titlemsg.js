@@ -12,24 +12,24 @@
         "She doesn't get enough exercise from her comfort, does she?"
     ],
     "14_4": [
-        "The way she shoots these bullets reminds me of lunar rabbits.",
-        "I feel like danmaku photos can show you someone's origins, too."
+        "This whole mess of amulets reminds me of the way Reimu-cchi throws them.",
+        "Was she trying to impersonate her or is she showing something I don't know?"
     ],
     "14_5": [
         "It's hard to tell from just a photo, this danmaku looked",
         "like time rewinds itself along with the bullet movement."
     ],
     "14_6": [
-        "She taaalked! She revealed herself as a human and... fellow outsider...?",
+        "She taaalked! She revealed herself as a human and fellow outsider, interesting.",
         "That aside, though, I can feel so much power flowing from my back!"
     ],
     "21_1": [
         "Danmaku from every direction! Now this is what I call",
-        " danmaku freestyle! They do not seem to get along very well though."
+        "danmaku freestyle! They do not seem to get along very well though."
     ],
     "21_3": [
-        "A union they say? What do these two have in common to be called so?",
-        "I'd better be careful not to get flamed for this ...sneak photography...?"
+        "A union they say? What do these two actually share to be called so?",
+        "A sneak photography, huh. I'd better be careful not to get flamed for this."
     ],
     "21_5": [
         "Quit aiming at me from below already! Her lack of common",
