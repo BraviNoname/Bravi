@@ -1,14 +1,14 @@
 {
-    "70": "Hidden Light \"Easygoing Stars of a Secret Human\"",
-    "71": "Hidden Light \"Stars of a Secret Human\"",
-    "72": "Hidden Light \"Try Hard Stars of a Secret Human\"",
+    "70": "Hidden Light \"Gentle Stars of a Secret Human\"",
+    "71": "Hidden Light \"Ordinary Stars of a Secret Human\"",
+    "72": "Hidden Light \"Harsh Stars of a Secret Human\"",
     "73": "Hidden Light \"Lunatic Stars of an Absolutely Secret Human\"",
     "74": "Hidden Summer \"Taste the Sunlight\"",
     "76": "Hidden Summer \"Zenith Sunshine of Abnormal Agressivity\"",
     "78": "Hidden Fall \"Bumper Crop Turnabout\"",
     "80": "Hidden Fall \"Reversal of the Abnormal Bumper Crop\"",
     "82": "Hidden Winter \"Dark Snow Cloak\"",
-    "84": "Hidden Winter \"Nightmarish Abnormal Snow Ball Blizzard\"",
+    "84": "Hidden Winter \"Snow Cloak Within Abnormal Darkness\"",
     "86": "Hidden Spring \"Spring Evening Blossom Shower\"",
     "88": "Hidden Spring \"Endless Evening Abnormal Blossom Butterflies\"",
     "132": "Hidden Wet&Dry Seasons \"From Thunderstorm to Heat Wave\"",
@@ -25,5 +25,5 @@
     "115": "Secret Stars \"Shining Seven Sapphires\"",
     "116": "Secret Sun&Moon \"Recklessly Vengeful Stars VS. Lunatic Danmaku\"",
     "117": "Reality Shift \"Mirage Split Back Sword\"",
-    "118": "\"The Secret Human who Never Was\""
+    "118": "\"The Secret Human Who Never Was\""
 }
