@@ -6,5 +6,5 @@
     "55": "Secret Time Lock \"Pseudo-Time Rewind Bind\"",
     "93": "Border Nightmare \"Starry Sapphire Barrier\"",
     "95": "Nightmare Union \"Starry Sneak-Photographer Exorcism from the Back\"",
-    "97": "Nightmare Union \"Coward's Starry Master Spark\""
+    "97": "Nightmare Union \"Coward's Sapphire Master Spark\""
 }
