@@ -23,7 +23,7 @@
     "113": "Secret Spirit \"Homing Amulet Barrage\"",
     "114": "Secret Illusion \"Returning Back Shots Cross (Perpendicular Cross)\"",
     "115": "Secret Stars \"Shining Seven Sapphires\"",
-    "116": "Secret Enemies \"Recklessly Vengeful Stars VS. Lunatic Danmaku\"",
+    "116": "Secret Sun&Moon \"Recklessly Vengeful Stars VS. Lunatic Danmaku\"",
     "117": "Reality Shift \"Mirage Split Back Sword\"",
     "118": "\"The Secret Human who Never Was\""
 }
