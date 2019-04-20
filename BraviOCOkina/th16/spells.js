@@ -10,7 +10,7 @@
     "82": "Hidden Winter \"Dark Snow Cloak\"",
     "84": "Hidden Winter \"Snow Cloak Within Abnormal Darkness\"",
     "86": "Hidden Spring \"Spring Evening Blossom Shower\"",
-    "88": "Hidden Spring \"Endless Evening Abnormal Blossom Butterflies\"",
+    "88": "Hidden Spring \"Endless Evening Abnormal Netherworld Butterflies\"",
     "132": "Hidden Wet&Dry Seasons \"From Thunderstorm to Heat Wave\"",
     "90": "Hidden Snatch \"Hidden Breezy Cherry Blossom\"",
     "94": "Hidden Snatch \"Hidden Perfect Summer Ice\"",
