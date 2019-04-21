@@ -1,7 +1,7 @@
 {
     "51": "Hidden Darkness \"Drowning Nightmare into the Dark Whirlpool\"",
     "52": "Surprise Secret \"Sudden Drop and the Uprising Rain\"",
-    "53": "Hidden Light \"Dream Stars of an Absolutely Secret Human\"",
+    "53": "Hidden Starlight \"Dream Stars of a Human of the Back Side\"",
     "54": "Secret Charms \"Covered Four Gods-Serving Maidens's Danmaku\"",
     "55": "Secret Time Lock \"Pseudo-Time Rewind Bind\"",
     "93": "Border Nightmare \"Starry Sapphire Barrier\"",
