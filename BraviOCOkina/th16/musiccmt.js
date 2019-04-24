@@ -23,10 +23,10 @@
         "@",
         "",
         "This is the Extra Stage theme of this mod.",
-		"Originally played in : Kingdom Hearts 358/2 Days. Composed by Yoko Shimomura.",
+		"Originally played in : Kingdom Hearts II: Final Mix. Composed by Yoko Shimomura.",
         "I chose this song as it gives a feeling of revenge for losing at stage 6.",
         "So, it's eerie as usual, mostly gives the vibes about the place we're in,",
-        "and expresses the difficulty increase due to the modded stage itself,",
+        "and mostly expresses the difficulty increase due to the modded stage itself,",
         "but I can't seem to find anything related to a daily life mixed with action in this area..."
     ],
     "15": [
