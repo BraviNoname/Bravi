@@ -12,7 +12,7 @@
     "13": [
         "@",
         "",
-        "This is Okina Matara's theme, played as Sereinae Matara's casual theme.",
+        "This is Okina Matara's theme, played as Sereinae Matara's public theme.",
         "",
         "I chose to keep this song as it is because it fits in with the seasons you battle in.",
         "Just because it is my favorite song, so I couldn't just throw it away, it first gives",
@@ -32,7 +32,7 @@
     "15": [
         "@",
         "",
-        "The theme for Okina Matara (True), played as Sereinae Matara's final theme.",
+        "The theme for Okina Matara (True), played as Sereinae Matara's true final theme.",
         "",
         "I couldn't put a different boss because of the fact they share the same name on screen.",
         "This song fits for someone who got created by a secret god, who lends a hand to the people in need,",
