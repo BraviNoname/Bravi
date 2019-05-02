@@ -1,8 +1,8 @@
 {
-    "70": "Hidden Starlight \"Gentle Stars of a Human of the Back Side\"",
-    "71": "Hidden Starlight \"Ordinary Stars of a Human of the Back Side\"",
-    "72": "Hidden Starlight \"Harsh Stars of a Human of the Back Side\"",
-    "73": "Hidden Starlight \"Lunatic Stars of a Human of the Back Side\"",
+    "70": "Hidden Starlight \"Gentle Stars of a Human of the Hidden Side\"",
+    "71": "Hidden Starlight \"Ordinary Stars of a Human of the Hidden Side\"",
+    "72": "Hidden Starlight \"Harsh Stars of a Human of the Hidden Side\"",
+    "73": "Hidden Starlight \"Lunatic Stars of a Human of the Hidden Side\"",
     "74": "Hidden Summer \"Taste the Sunlight\"",
     "76": "Hidden Summer \"Zenith Sunshine of Abnormal Agressivity\"",
     "78": "Hidden Fall \"Bumper Crop Turnabout\"",
