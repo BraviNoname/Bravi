@@ -31,8 +31,8 @@
         },
         "140_0": {
             "lines": [
-                "Why did you quit in the middle of the test?",
-                "I thought you were stronger than that, Marisa."
+                "I thought you were stronger than that, Marisa.",
+                "But I guess you weren't, and off you went..."
             ]
         },
         "148_0": {
@@ -42,7 +42,7 @@
         },
         "156_0": {
             "lines": [
-                "I ran away durin' the test...?",
+                "I went off durin' the test...?",
                 "So that's really what happened, then?"
             ]
         },
@@ -54,12 +54,13 @@
         "172_0": {
             "lines": [
                 "But when I thought it over,",
-                "it did seem pretty likely that I had run myself."
+                "it did seem pretty likely that I'm the one who went off."
             ]
         },
         "180_0": {
             "lines": [
-                "What do you want then? You wanna hit and run like a coward again?"
+                "What do you want then?",
+				"You wanna show me how disappointing you are again?"
             ]
         },
         "188_0": {
@@ -92,7 +93,7 @@
         "228_0": {
             "lines": [
                 "You get now why you couldn't do anything against me",
-                "and had to fly away."
+                "and was forced to retreat."
             ]
         },
         "236_0": {
@@ -121,7 +122,7 @@
         },
         "268_0": {
             "lines": [
-                "Huh? You didn't escape? I led you out? Ho that's right, I did.",
+                "Yes, indeed, you didn't flee, I led you out.",
                 "You've become helpless and never stood a single chance anyways."
             ]
         },
@@ -199,7 +200,7 @@
         },
         "380_0": {
             "lines": [
-                "I thought she wouldn't want a coward like you,",
+                "I thought she would consider someone like you as a weakling,",
                 "but you're actually not!"
             ]
         },
