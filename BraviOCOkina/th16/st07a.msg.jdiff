@@ -21,7 +21,7 @@
     "0": {
         "34_0": {
             "lines": [
-                "Come on out already!"
+                "Serein! I know where you're hiding! Show yourself!"
             ]
         },
         "102_0": {
@@ -32,14 +32,14 @@
         },
         "140_0": {
             "lines": [
-                "How did you get here?",
-                "You couldn't go to this world by any door..."
+                "You couldn't go to this world by any door...",
+                "How did you get here?"
             ]
         },
         "148_0": {
             "lines": [
-                "That aside... You can't win.",
-                "As you've seen, any battle will still already be over."
+                "But I guess you're here anyways. What do you want?",
+                "You've learned the hard way that you can't win. So what now?"
             ]
         },
         "156_0": {
@@ -56,7 +56,8 @@
         },
         "172_0": {
             "lines": [
-                "You're the one who flew off. You remember?"
+                "I was assuming I'd get more resistance from you in that fight.",
+				"But in the end you're the one who went off. You remember?"
             ]
         },
         "180_0": {
@@ -68,12 +69,12 @@
         "188_0": {
             "lines": [
                 "...that I could snatch that power away, making you helpless,",
-                "and you got kicked out of this world."
+                "and you got driven out of this world."
             ]
         },
         "196_0": {
             "lines": [
-                "I fled?",
+                "Did I flee?",
                 "That's ridiculous. There's no way."
             ]
         },
@@ -177,7 +178,7 @@
         },
         "348_0": {
             "lines": [
-                "I can say you got me there.",
+                "You got me there.",
                 "Good job on that part."
             ]
         },
