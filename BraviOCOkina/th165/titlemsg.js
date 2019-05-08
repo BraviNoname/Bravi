@@ -1,7 +1,7 @@
 {
     "14_1": [
         "Did she clean these dark fireballs she cast towards herself?",
-        "She looks like a washing machine when I think about it."
+        "She behaves like a washing machine when I think about it."
     ],
     "14_2": [
         "Quit raining from below! (I am a girl, let's not forget.)",
