@@ -1,7 +1,7 @@
 {
     "14_1": [
-        "She wanted me to drown in the darkness she cast on herself?",
-        "She looked despaired that way, in contrast to the light."
+        "Did she clean these dark fireballs she cast towards herself?",
+        "She looks like a washing machine when I think about it."
     ],
     "14_2": [
         "Quit raining from below! (I am a girl, let's not forget.)",
