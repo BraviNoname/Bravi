@@ -1,5 +1,5 @@
 {
-    "51": "Hidden Darkness \"Consume the Darkness - Return it to Light\"",
+    "51": "Hidden Darkness \"Consume the Darkness, Return it to Light\"",
     "52": "Surprise Secret \"Sudden Drop and the Uprising Rain\"",
     "53": "Hidden Starlight \"Dream Stars of a Human of the Hidden Side\"",
     "54": "Secret Charms \"Covered Four Gods-Serving Maidens's Danmaku\"",
