@@ -94,14 +94,14 @@
         "228_0": {
             "lines": [
                 "Indeed who am I.",
-                "|\tOh well, I suppose \t,\tfairies will be fairies\t,fools will be fools",
+                "|\tOh well, I suppose \t,\tfairies will be fairies\t,fools will be idiots",
                 "Oh well, I suppose fairies will be fairies."
             ]
         },
         "236_0": {
             "lines": [
                 "Aw, I thought you were THAT great of a fairy.",
-                "I felt I had witnessed the beginning of a new era of fairies."
+                "And there I was thinking this would represent a new era for fairies."
             ]
         },
         "244_0": {
@@ -196,14 +196,15 @@
         },
         "42_0": {
             "lines": [
-                "Wew, you could withstand all that madness.",
+                "|\tFirst try, \t,\tfairy\t,idiot",
+                "First try, fairy! You withstood them all!",
                 "No wonder you could win that fairy war!"
             ]
         },
         "50_0": {
             "lines": [
-                "Actually, correction, you had a perfect master",
-                "of the power given by the door on your back."
+                "And you had as well a perfect master",
+                "of the power given by the door on your back!"
             ]
         },
         "58_0": {
@@ -243,14 +244,14 @@
         },
         "106_0": {
             "lines": [
-                "|\tSo you really are just a \t,\tfairy\t,fool",
+                "|\tSo you really are just a \t,\tfairy\t,idiot",
                 "So you really are just a fairy then."
             ]
         },
         "114_0": {
             "lines": [
                 "Was that power you got a coincidence?",
-                "No, it must be something else."
+                "No, it must be something else..."
             ]
         },
         "122_0": {
@@ -322,13 +323,14 @@
         },
         "218_0": {
             "lines": [
-                "Oh, I get it, maybe it wasn't a butterfly fairy at all,",
-                "but a Tokoyo god!"
+                "Maybe it wasn't a butterfly fairy at all...",
+                "Mommy told me about that...  a Tokoyo god?"
             ]
         },
         "226_0": {
             "lines": [
-                "A god who is one of my mo... I mean the Secret God's enemies."
+                "A god who is one of my mo... I mean the Secret God's enemies.",
+				"Yeah, I'm sure that's it."
             ]
         },
         "234_0": {
@@ -338,7 +340,7 @@
         },
         "242_0": {
             "lines": [
-                "But no matter. It doesn't change the fact that",
+                "But no matter what. It doesn't change the fact that",
                 "I discovered an interesting fairy for you!"
             ]
         },
@@ -362,7 +364,7 @@
         },
         "274_0": {
             "lines": [
-                "All the job requires is that you dance and make a big dumb racket.",
+                "All the job requires is that you dance like that and make a big dumb racket.",
                 "There's no precedent, but perhaps even a fairy would do."
             ]
         },
