@@ -80,14 +80,14 @@
         },
         "204_0": {
             "lines": [
-                "Oh, I guess you don't remember.",
-                "But I do, though!"
+                "Oh, I guess you don't remember. But I do, though!",
+                "Your shots were reduced to almost nothing, and you shouted at me to stop. "
             ]
         },
         "212_0": {
             "lines": [
-                "Your shots were reduced to almost nothing and even if you've eventually struggled, your",
-                "back-door led you to the place corresponding to the season magic you've collected."
+                "But even if you've eventually struggled, the back-door you took led you",
+                "to the place corresponding to the season magic you've collected anyways."
             ]
         },
         "228_0": {
