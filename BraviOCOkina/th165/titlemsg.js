@@ -1,19 +1,19 @@
 {
     "14_1": [
-        "Did she clean these dark fireballs she cast towards herself?",
+        "Did she turn these dark fireballs she dragged into light?",
         "She behaves like a washing machine when I think about it."
     ],
     "14_2": [
-        "Quit raining from below! (I am a girl, let's not forget.)",
-        "What's with this girl? She's got, like, no manners!"
+        "Quit harrassing me from below (I am a girl, let's not forget.)",
+        "This girl has, like, no manners! And this rain doesn't help either."
     ],
     "14_3": [
-        "She makes her light shine in contrast to the dark.",
+        "She makes her light shine in a very exagerated way.",
         "She doesn't get enough exercise from her comfort, does she?"
     ],
     "14_4": [
-        "This whole mess of amulets reminds me of Reimu-cchi. Was she trying",
-        "to impersonate her or is she showing something I don't know?"
+        "These butterflies she shoots emerge from the dark, or the dead.",
+        "I have sudden chills just by thinking about that."
     ],
     "14_5": [
         "It's hard to tell from just a photo, this danmaku looked",
