@@ -11,5 +11,5 @@
 		"servers": [
 		"https://mirrors.thpatch.net/Bravi/Braviretex/"
 	],
-	"title": "Bravi's Retexture Patch (for most of the main games)"
+	"title": "Bravi's Retexture Patch, for all Windows shooting games."
 }

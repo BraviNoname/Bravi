@@ -10,5 +10,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/Bravimemes/"
 	],
-	"title": "Memes that come in my mind... Like Metaklang's crapapella retexture."
+	"title": "Memes that come in my mind... Like Subterranean Oparism."
 }
