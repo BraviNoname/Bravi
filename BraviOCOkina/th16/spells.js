@@ -18,7 +18,7 @@
     "102": "Hidden Snatch \"Extreme Winter\"",
     "109": "Secret Magic \"Light Stars in Darkness\"",
     "110": "Secret Heaven&Earth \"The Earth's Power Reaching the Heavens\"",
-    "111": "Secret Nativity \"Double Snake and the Crawling Frogs\"",
+    "111": "Secret Nativities \"Double Snake and the Crawling Frogs\"",
     "112": "Secret Reverse \"Turnabout Bow of Back & Forth\"",
     "113": "Secret Spirit \"Homing Amulet Barrage\"",
     "114": "Secret Illusion \"Four Directions Cross (Perpendicular Cross)\"",
