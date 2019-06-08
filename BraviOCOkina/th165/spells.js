@@ -4,7 +4,7 @@
     "53": "Hidden Starlight \"Dream Stars of a Human of the Hidden Side\"",
     "54": "Secret Mystic \"Netherworld Butterflies in Four Seasons\"",
     "55": "Secret Time Lock \"Pseudo-Time Rewind Bind\"",
-    "93": "Secret Border Nightmare \"Starry Sapphire Barrier\"",
-    "95": "Nightmare Union \"Sneak-Photographer Starry Exorcism from the Back\"",
-    "97": "Nightmare Union \"Coward's Sapphire Master Spark\""
+    "93": "\"Nightmarish Starry Sapphire Barrier\"",
+    "95": "\"Sneak-Photographer Starry Nightmarish Exorcism from the Back\"",
+    "97": "\"Coward's Nightmarish Sapphire Master Spark\""
 }
