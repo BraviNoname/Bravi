@@ -8,7 +8,7 @@
         },
         "308_0": {
             "lines": [
-                "I heard you've annoyed Serein and our master."
+                "I heard you've annoyed Serein."
             ]
         },
         "432_0": {
@@ -122,8 +122,8 @@
         },
         "268_0": {
             "lines": [
-                "Yes, indeed, you didn't flee, I led you out.",
-                "You've become helpless and never stood a single chance anyways."
+                "Yes, indeed, you didn't flee, I led you out. You've become helpless",
+                "and never stood a single chance anyways, it was better than continuing."
             ]
         },
         "276_0": {
@@ -179,13 +179,13 @@
         },
         "348_0": {
             "lines": [
-                "It's my loss on that point."
+                "That's good! That's very good!"
             ]
         },
         "356_0": {
             "lines": [
-                "But, even if it's not guaranteed to work,",
-                "that's still an amazing thing you came up with!"
+                "Why should I use that door technique anymore?",
+                "In my opinion, it's an amazing thing you came up with!"
             ]
         },
         "364_0": {
@@ -201,7 +201,7 @@
         "380_0": {
             "lines": [
                 "I thought she would consider someone like you as a weakling,",
-                "but you're actually not!"
+                "hence the reason to lead you out, but you're actually not!"
             ]
         },
         "388_0": {
