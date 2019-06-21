@@ -104,13 +104,13 @@
         },
         "268_0": {
             "lines": [
-                "I suppose you could say you'd be a fixer,",
-                "keeping the balance in Gensokyo from behind the scenes."
+                "Err, you could be a fixer, I suppose.",
+                "You'd keep the balance of Gensokyo behind the scenes."
             ]
         },
         "276_0": {
             "lines": [
-                "Well, from what I've seen, it's a kinda easy job."
+                "Well, from what I've seen, it's a kinda easy job...?"
             ]
         },
         "284_0": {
@@ -155,7 +155,7 @@
         },
         "340_0": {
             "lines": [
-                "If I find a candidate, they will become a new servant.",
+                "If Mai and Satono approve a candidate, they will become a new servant.",
                 "And unfortunately, there's nothing much you can do..."
             ]
         },
@@ -173,8 +173,8 @@
         },
         "364_0": {
             "lines": [
-                "Let's see if you can pass this test where one faces their",
-                "memories of seasons. Prepare yourself, magician!"
+                "Now let's begin the very test where one faces their memories of",
+                "seasons through mental force. Prepare yourself, magician!"
             ]
         }
     }
