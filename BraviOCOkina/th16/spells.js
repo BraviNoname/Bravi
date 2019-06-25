@@ -18,7 +18,7 @@
     "102": "Hidden Snatch \"Extreme Winter\"",
     "106": "Drum Dance \"Most Powerful Cheers\"",
     "107": "Mad Dance \"Craziest Backup Dance\"",
-    "108": "Bullet Dance \"Twin Typhoons -V2-\"",
+    "108": "Bullet Dance \"Twin Hurricanes\"",
     "109": "Secret Magic \"Light Stars in Darkness\"",
     "110": "Secret Heaven&Earth \"The Earth's Power Reaching the Heavens\"",
     "111": "Secret Nativities \"Double Snake and the Crawling Frogs\"",
