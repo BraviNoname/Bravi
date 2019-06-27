@@ -12,8 +12,8 @@
         "She doesn't get enough exercise from her comfort, does she?"
     ],
     "14_4": [
-        "These butterflies she shoots emerge from the dark, or the dead.",
-        "I have sudden chills just by thinking about that."
+        "These bullets all represent an element according to the colors.",
+        "Is this girl a magician like Marisa-cchi?"
     ],
     "14_5": [
         "It's hard to tell from just a photo, this danmaku looked",
