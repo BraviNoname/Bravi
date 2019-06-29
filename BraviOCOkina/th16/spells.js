@@ -1,4 +1,6 @@
 {
+    "38": "Cute Magic Sign \"Buwwet Golwem\"",
+    "40": "Cute Magic Sign \"Gigwantic Pwet Buwwet Lifefowm\"",
     "70": "Hidden Starlight \"Gentle Stars of a Human of the Hidden Side\"",
     "71": "Hidden Starlight \"Ordinary Stars of a Human of the Hidden Side\"",
     "72": "Hidden Starlight \"Harsh Stars of a Human of the Hidden Side\"",
@@ -16,8 +18,8 @@
     "94": "Hidden Snatch \"Perfect Summer Ice\"",
     "98": "Hidden Snatch \"Crazy Fall Wind\"",
     "102": "Hidden Snatch \"Extreme Winter\"",
-    "106": "Drum Dance \"Most Powerful Cheers\"",
-    "107": "Mad Dance \"Craziest Backup Dance\"",
+    "106": "Drum Dance \"Tremendous Cheers\"",
+    "107": "Mad Dance \"Lunatic Backup Dance\"",
     "108": "Bullet Dance \"Twin Hurricanes\"",
     "109": "Secret Magic \"Light Stars in Darkness\"",
     "110": "Secret Heaven&Earth \"The Earth's Power Reaching the Heavens\"",
