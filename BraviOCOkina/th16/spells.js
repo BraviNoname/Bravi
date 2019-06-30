@@ -21,14 +21,14 @@
     "106": "Drum Dance \"Tremendous Cheers\"",
     "107": "Mad Dance \"Lunatic Backup Dance\"",
     "108": "Bullet Dance \"Twin Hurricanes\"",
-    "109": "Secret Magic \"Light Stars in Darkness\"",
+    "109": "Secret Magic \"Omnidirectional Dark Milky Way\"",
     "110": "Secret Heaven&Earth \"The Earth's Power Reaching the Heavens\"",
-    "111": "Secret Nativities \"Double Snake and the Crawling Frogs\"",
+    "111": "Secret Miracle \"Summon of the Native Gods's Spirits\"",
     "112": "Secret Reverse \"Mirage Bow of the Reversed Arrow Rain\"",
     "113": "Secret Spirit \"Homing Amulet Barrage\"",
     "114": "Secret Illusion \"Four Directions Cross (Perpendicular Cross)\"",
     "115": "Secret Stars \"Shining Seven Sapphires\"",
-    "116": "Secret Sun&Moon \"Recklessly Vengeful Stars VS. Lunatic Danmaku\"",
+    "116": "Secret Sun&Moon Clash \"Reckless Stars VS. Lunatic Danmaku\"",
     "117": "Reality Shift \"Mirage Split Back Sword\"",
     "118": "\"Hidden God of the Four Seasons\""
 }
