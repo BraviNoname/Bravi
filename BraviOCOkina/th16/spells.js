@@ -8,7 +8,7 @@
     "74": "Summer Remembrance \"Taste the Sunlight, Nature!\"",
     "76": "Summer Remembrance \"Sunshine of Abnormal Nature Madness\"",
     "78": "Fall Remembrance \"Life Force Harvester\"",
-    "80": "Fall Remembrance \"Bumper Crop of Abnormal Gluttony\"",
+    "80": "Fall Remembrance \"Transient Abnormal Bumper Crop\"",
     "82": "Winter Remembrance \"Dark Snow Cloak\"",
     "84": "Winter Remembrance \"Shadow in the Abnormal Dark Blizzard\"",
     "86": "Spring Remembrance \"Spring Evening Blossom Shower\"",
