@@ -26,7 +26,7 @@
     "111": "Secret Miracle \"Summon of the Native Gods's Spirits\"",
     "112": "Secret Reverse \"Mirage Bow of the Reversed Arrow Rain\"",
     "113": "Secret Spirit \"Homing Amulet Barrage\"",
-    "114": "Secret Illusion \"Four Directions Cross (Perpendicular Cross)\"",
+    "114": "Secret Illusion \"Four Directions Remote Mesmerism (Origin Remote)\"",
     "115": "Secret Stars \"Shining Seven Sapphires\"",
     "116": "Secret Sun&Moon Clash \"Reckless Stars VS. Lunatic Danmaku\"",
     "117": "Reality Shift \"Mirage Split Back Sword\"",
