@@ -1,6 +1,6 @@
 {
-    "38": "Cute Magic Sign \"Buwwet Golwem\"",
-    "40": "Cute Magic Sign \"Gigwantic Pwet Buwwet Lifefowm\"",
+    "38": "Cute Meme Sign \"Buwwet Golwem\"",
+    "40": "Cute Meme Sign \"Gigwantic Pwet Buwwet Lifefowm\"",
     "70": "Hidden Starlight \"Beginning Light in the Back\"",
     "71": "Hidden Starlight \"Standard Light in the Back\"",
     "72": "Hidden Starlight \"Proud Light in the Back\"",
