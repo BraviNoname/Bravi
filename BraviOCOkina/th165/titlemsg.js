@@ -16,8 +16,8 @@
         "Is this girl a magician like Marisa-cchi?"
     ],
     "14_5": [
-        "It's hard to tell from just a photo, this danmaku looked",
-        "like time rewinds itself along with the bullet movement."
+        "She pretends rewinding time by showing backwards-moving bullets.",
+        "These photos make them look like flower-shaped chains more than anything."
     ],
     "14_6": [
         "She revealed herself as a human and fellow outsider, interesting.",
