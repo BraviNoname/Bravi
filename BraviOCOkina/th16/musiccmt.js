@@ -24,10 +24,10 @@
         "",
         "This is the Extra Stage theme of this mod.",
 		"Originally played in : Kingdom Hearts II: Final Mix. Composed by Yoko Shimomura.",
-        "I chose this song as it gives a feeling of revenge for losing at stage 6 and oppression.",
-        "So, it's eerie as usual, gives the vibes about the place we're in, and mostly expresses",
-        "the difficulty increase due to the modded stage itself and where this BGM originally",
-        "played, still I can't seem to find anything related to a daily life mixed with action..."
+        "I chose this song as it introduces that area where one remembers their travels.",
+        "It's rather calm and serene, gives the vibes about the place we're in, and helps relaxing",
+        "with the difficulty increase due to the modded stage itself and where this BGM originally",
+        "played, still, I apologize if the loop isn't long enough..."
     ],
     "15": [
         "@",
