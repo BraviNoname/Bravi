@@ -21,24 +21,24 @@
     "0": {
         "34_0": {
             "lines": [
-                "Serein! I know where you're hiding! Show yourself!"
+                "Hey, wait up!"
             ]
         },
         "102_0": {
             "lines": [
-                "Oh you came back Reimu,",
+                "Oh you found me, Reimu,",
                 "how unexpected."
             ]
         },
         "140_0": {
             "lines": [
                 "You couldn't go to this world by any door...",
-                "How did you get here?"
+                "How did you get here anyways?"
             ]
         },
         "148_0": {
             "lines": [
-                "But I guess you're here anyways. What do you want?",
+                "But I guess you're here. What do you want?",
                 "You've learned the hard way that you can't win. So what now?"
             ]
         },
@@ -56,7 +56,7 @@
         },
         "172_0": {
             "lines": [
-                "Although you performed admirably...",
+                "Although you bravely fought...",
 				"In the end you're the one who went off. You remember?"
             ]
         },
@@ -173,7 +173,7 @@
         "340_0": {
             "lines": [
                 "That's the Doyou, the border between seasons",
-                "where pretty much lifeforce equals to nothingness."
+                "where lifeforce equals to nothingness."
             ]
         },
         "348_0": {
@@ -196,7 +196,7 @@
         },
         "372_0": {
             "lines": [
-                "How determinated you are! I like you!"
+                "I'm glad I owe my existence to determinated people like you."
             ]
         },
         "380_0": {
@@ -207,7 +207,8 @@
         },
         "388_0": {
             "lines": [
-                "In return for that awesome countermeasure, I'll be fair this time!"
+                "But you got wise, clever and bold enough to plan about somethiing else.",
+				"Lemme welcome you as expected!"
             ]
         },
         "396_0": {
@@ -259,7 +260,7 @@
         },
         "74_0": {
             "lines": [
-                "But I'm pretty much gonna be scolded aren't I?",
+                "But I'm gonna be scolded aren't I?",
 				"I still haven't found successors for her servants or anything."
             ]
         },
@@ -378,8 +379,8 @@
         },
         "242_0": {
             "lines": [
-                "From where Okina is standing, though,",
-                "I'd like to join your side."
+                "From where we're standing, though,",
+                "I'd say we're more on your side."
             ]
         },
         "250_0": {
@@ -395,8 +396,8 @@
         },
         "266_0": {
             "lines": [
-                "If you want the Hakurei Shrine, I'd recommend the",
-                "door 2nd from the bottom and 40th from the right."
+                "The Hakure Shrine, uh, lemme see...",
+                "The door 2nd from the bottom and 40th from the right...?"
             ]
         },
         "274_0": {
@@ -475,8 +476,8 @@
         },
         "382_0": {
             "lines": [
-                "There's one place I want to go,",
-                "if you please..."
+                "...the Secret God would like to talk to you,",
+                "soon enough, if you please, but..."
             ]
         },
         "390_0": {
