@@ -10,5 +10,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/"
 	],
-	"title": "Bravi's Strange Creativity"
+	"title": "Bravi's Cringe, I mean, Strange Creativity (still WIP tho)"
 }
