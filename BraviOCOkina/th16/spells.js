@@ -23,7 +23,7 @@
     "108": "Bullet Dance \"Twin Hurricanes\"",
     "109": "Secret Magic \"Omnidirectional Dark Milky Way\"",
     "110": "Secret Heaven&Earth \"The Earth's Power Reaching the Heavens\"",
-    "111": "Secret Miracle \"Summon of the Native Gods's Spirits\"",
+    "111": "Secret Miracle \"Thaumaturgy of the Native Gods\"",
     "112": "Secret Reverse \"Mirage Bow of the Reversed Arrow Rain\"",
     "113": "Secret Spirit \"Homing Amulet Barrage\"",
     "114": "Secret Illusion \"Four Directions Remote Mesmerism (Origin Remote)\"",
