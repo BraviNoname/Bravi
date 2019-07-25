@@ -16,8 +16,8 @@
         "",
         "I chose to keep this song as it is because it fits in with the seasons you battle in.",
         "Just because it is my favorite song, so I couldn't just throw it away, it first gives",
-        "a shy and eerie feeling at the start of the song, and then at the end it becomes grand,",
-        "wanting you give all you got. But then becomes eerie again because of what happened at the end..."
+        "a shy and eerie feeling at the start of the song, it becomes then warm, hyperactive and grand,",
+        "wanting you give all you got, and I think it fits Serein's eerie look, yet warm personality."
     ],
     "14": [
         "@",
@@ -35,8 +35,8 @@
         "The theme for Okina Matara (True), played as Sereinae Matara's true final theme.",
         "",
         "I couldn't put a different boss because of the fact they share the same name on screen.",
-        "This song fits for someone who got created by a secret god, who lends a hand to the people in need,",
-        "being why I thought the sad parts of this song fit in, as well as the cheerful, yet strong finale.",
-        "Because indeed she's cheerful, yet she tends to be vicious when in action, as in shooting behind you."
+        "This song fits for someone who got created by Okina, and playing the avatar role for her,",
+        "I thought the sad parts of this song would fit in, as well as the cheerful, yet strong finale.",
+        "Because indeed she's cheerful, yet is a shut-in person, who would like to socialize."
     ]
 }
