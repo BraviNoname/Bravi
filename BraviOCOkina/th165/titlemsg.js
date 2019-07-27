@@ -17,7 +17,7 @@
     ],
     "14_5": [
         "She pretends rewinding time by showing backwards-moving bullets.",
-        "These photos make them look like flower-shaped chains more than anything."
+        "These photos make them look like grey flowers more than anything."
     ],
     "14_6": [
         "She revealed herself as a human and fellow outsider, interesting.",
