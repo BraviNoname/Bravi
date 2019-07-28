@@ -1,38 +1,38 @@
 {
     "14_1": [
-        "Did she turn these dark fireballs she dragged into light?",
-        "She behaves like a washing machine when I think about it."
+        "She draws in these dark balls and turns them into light.",
+        "That's some perfect darkness and light balance concept."
     ],
     "14_2": [
         "Quit harrassing me from below (I am a girl, let's not forget.)",
-        "This girl has, like, no manners! And this rain doesn't help either."
+        "And with this rain, I'm gonna catch a cold...!"
     ],
     "14_3": [
         "She makes her light shine in a very exagerated way.",
-        "She doesn't get enough exercise from her comfort, does she?"
+        "Why can't she move out of her chair, by the way?"
     ],
     "14_4": [
         "These bullets all represent an element according to the colors.",
-        "Is this girl a magician like Marisa-cchi?"
+        "She seems to have some magic knowledge."
     ],
     "14_5": [
-        "She pretends rewinding time by showing backwards-moving bullets.",
-        "These photos make them look like grey flowers more than anything."
+        "Stop harrassing me with these knives! They're dangerous you know!",
+        "And with these grey chains everywhere, no teleports can help."
     ],
     "14_6": [
-        "She revealed herself as a human and fellow outsider, interesting.",
-        "That aside, though, I can feel so much power flowing from my back!"
+        "She appears to be rather friendly. Is she an outsider as well?",
+        "She has my thanks for willing to help me, I feel some power on my back."
     ],
     "21_1": [
-        "Danmaku from every direction! Now this is what I call",
-        "danmaku freestyle! They do not seem to get along very well though."
+        "Why is she being aided by these dream dwellers?",
+        "Her red eyes tell me that this is the Nightmare self she talked about."
     ],
     "21_3": [
-        "A union they say? What do these two actually share to be called so?",
-        "A sneak photography, huh. I'd better be careful not to get flamed for this."
+        "A union they say? What do these two share to be called so?",
+        "She calls herself a shut-in? But why is she showing up to me?"
     ],
     "21_5": [
-        "Quit aiming at me from below already! Her lack of common",
-        "sense infected Marisa-cchi too, and they cooperate in unison so well."
+        "Quit aiming at me from below already! And Marisa-cchi seems to",
+        "appreciate this Nightmare's lack of common sense."
     ]
 }
