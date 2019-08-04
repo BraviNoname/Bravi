@@ -1,6 +1,6 @@
 {
     "14_1": [
-        "She draws in these dark balls and turns them into light.",
+        "She turns into a sun that radiates from these dark fireballs.",
         "That's some perfect darkness and light balance concept."
     ],
     "14_2": [
