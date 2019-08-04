@@ -8,7 +8,7 @@
         "And with this rain, I'm gonna catch a cold...!"
     ],
     "14_3": [
-        "She makes her light shine in a very exagerated way.",
+        "She thought these dark stars would get me confused eh.",
         "Why can't she move out of her chair, by the way?"
     ],
     "14_4": [
