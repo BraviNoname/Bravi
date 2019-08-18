@@ -1,0 +1,119 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "What?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "This here's supposed to be my territory."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "So the incident has spread around here...",
+                "It suddenly got colder."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Are ya listening? Outsiders like you",
+                "shouldn't be bargin' on in here."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Oh, I'm sorry, the incident got me",
+                "to this place..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "So, uh...",
+                "Who are you?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Who am I? Ain't nobody's problem."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "If you stick around here any longer, you're",
+                "just gonna wind up as my winter food supply."
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Y'sure are strong!",
+                "Who are ya, anyway?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Who am I? It shouldn't be anybody's problem either.",
+                "Just kidding. I'm just a passerby who investigates on an incident."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "An incident? What is that about?",
+                "Feh. First I've heard of ya."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I can't help but like strong folks, though!",
+                "Wanna come by my place?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Hm, let's see... Oh that's what..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Living alone in the mountains..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "There's these super-isolated youkai whose lifestyle is unknown,",
+                "and who forgo forming societies or any connections with others."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "|\tYou're a \t,\tyamanba\t,mountain hag",
+                "You're a yamanba, aren't you?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Yeah, I've been called that a couple a' times."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "The autumn sun sets as quick as a well-bucket droppin' now."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "It's gonna get freezin' cold up here on the mountain.",
+                "You should drop by an' have some tea! C'mon, don't be shy."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Depends of what it will cost to me, think I'll pass.",
+                "Alright, to the next area."
+            ]
+        }
+    }
+}
