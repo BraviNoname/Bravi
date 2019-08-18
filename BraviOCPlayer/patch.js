@@ -1,5 +1,5 @@
 {
-     "id": "BraviOCPlayer",
+	"id": "BraviOCPlayer",
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/BraviOCPlayer/"
 	],

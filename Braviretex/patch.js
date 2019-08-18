@@ -8,7 +8,8 @@
 	"fonts": {
 		"RussellSquare.ttf": true
 	},
-		"servers": [
+	"id": "Braviretex",
+	"servers": [
 		"https://mirrors.thpatch.net/Bravi/Braviretex/"
 	],
 	"title": "Bravi's Retexture Patch, for all Windows shooting games."
