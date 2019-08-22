@@ -3,5 +3,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/BraviOCPlayer/"
 	],
-	"title": "Mod that replaces some of the player sprites with that same character of the Okina OC patch."
+	"title": "Mostly a Th16 post extra story mode player patch for the OC, replacing Reimu's story (endings aren't changed tho)."
 }
