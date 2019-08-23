@@ -5,7 +5,7 @@
 		"nmlgc/western_name_order",
 		"thpatch/lang_en"
 	],
-	"id": "BraviOCOkina",
+	"id": "BraviOkina",
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/BraviOkina/"
 	],
