@@ -8,7 +8,7 @@
         "Just as the original theme I chose this song as it hastens you to find the culprit.",
         "As you go into a corridor in an unknown and far away world,",
         "it is only natural that this theme evokes a way different feeling about the scenery."
-    ]
+    ],
     "14": [
         "@",
         "",
