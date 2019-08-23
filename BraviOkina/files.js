@@ -22,7 +22,6 @@
 	"th16/bullet/etama7a.png": 1243359487,
 	"th16/bullet/item.png": 327307964,
 	"th16/ending/staff.png": 2437893666,
-	"th16/ending/staff2.png": 4057375833,
 	"th16/front/ename.png": 3944001822,
 	"th16/front/front00.png": 3404851035,
 	"th16/front/logo/st06logo.png": 600819612,
