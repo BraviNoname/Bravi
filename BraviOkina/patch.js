@@ -7,7 +7,7 @@
 	],
 	"id": "BraviOCOkina",
 	"servers": [
-		"https://mirrors.thpatch.net/Bravi/BraviOCOkina/"
+		"https://mirrors.thpatch.net/Bravi/BraviOkina/"
 	],
 	"title": "Th16 Stage 6 and Extra to Phantasm Mode remaster, and 16.5 Okina but without the OC."
 }
