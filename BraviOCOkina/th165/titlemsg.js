@@ -25,7 +25,7 @@
     ],
     "21_1": [
         "Why is she being aided by these dream dwellers?",
-        "Her red eyes tell me that this is the Nightmare self she talked about."
+        "Is this is her Nightmare self she talked about? By looking at these red eyes..."
     ],
     "21_3": [
         "A union they say? What do these two share to be called so?",
