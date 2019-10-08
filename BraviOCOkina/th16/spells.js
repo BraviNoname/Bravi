@@ -25,7 +25,7 @@
     "110": "Secret Heaven&Earth \"The Earth's Power Reaching the Heavens\"",
     "111": "Secret Miracle \"Thaumaturgy of the Native Gods\"",
     "112": "Secret Reverse \"Mirage Bow of the Reversed Arrow Rain\"",
-    "113": "Secret Spirit \"Homing Amulet Barrage\"",
+    "113": "Secret Spirit \"Fantasy Seal -Homing Amulet-\"",
     "114": "Secret Illusion \"Four Directions Remote Mesmerism (Origin Remote)\"",
     "115": "Secret Stars \"Shining Seven Sapphires\"",
     "116": "Secret Sun&Moon Clash \"Reckless Stars VS. Lunatic Danmaku\"",
