@@ -1,7 +1,7 @@
 {
     "51": "Secret Sun \"Star Radiance from the Darkness\"",
     "52": "Secret Surprise \"Karakasa Tongue Under the Heavy Rain\"",
-    "53": "Hidden Starlight \"Dreadful Light in the Back\"",
+    "53": "\"Starlight of All Seasons\"",
     "54": "Secret Four Elements \"Covert Fire, Air, Earth and Water\"",
     "55": "Secret Clock \"Pseudo Time-Rewind Flower Chains\"",
     "93": "\"Nightmarish Star Barrier\"",

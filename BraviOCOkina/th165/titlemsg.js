@@ -8,8 +8,8 @@
         "And with this rain, I'm gonna catch a cold...!"
     ],
     "14_3": [
-        "She thought these dark stars would get me confused eh.",
-        "Why can't she move out of her chair, by the way?"
+        "This is very colorful, and she looks like she's amazed too.",
+        "I wonder why she can't move out of her chair though."
     ],
     "14_4": [
         "These bullets all represent an element according to the colors.",
