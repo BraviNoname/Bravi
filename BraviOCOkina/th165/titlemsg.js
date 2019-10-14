@@ -8,8 +8,8 @@
         "And with this rain, I'm gonna catch a cold...!"
     ],
     "14_3": [
-        "This is very colorful, and she looks like she's amazed too.",
-        "I wonder why she can't move out of her chair though."
+        "This place looks very urban yet she can bring nature like that...",
+        "I bet meanwhile she's having fun while sitting on her chair."
     ],
     "14_4": [
         "These bullets all represent an element according to the colors.",
