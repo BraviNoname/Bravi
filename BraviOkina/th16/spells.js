@@ -28,6 +28,6 @@
     "115": "Secret Stars \"Shining Seven Sapphires\"",
     "116": "Secret Sun&Moon Clash \"Reckless Stars VS. Lunatic Danmaku\"",
     "117": "Reality Shift \"Mirage Split of Light and Darkness\"",
-    "118": "\"Hidden God of the Four Seasons\"",
+    "118": "Secret God \"Lingering Four Seasons\"",
     "137": "\"A Nobody's Identity Crisis\""
 }
