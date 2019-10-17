@@ -60,12 +60,12 @@
         "180_0": {
             "lines": [
                 "What do you want then?",
-				"You wanna show me how disappointing you are again?"
+				"Do you want to fight again only to just quit?"
             ]
         },
         "188_0": {
             "lines": [
-                "I came here for a rematch."
+                "Indeed I came here for a rematch."
             ]
         },
         "196_0": {
@@ -87,19 +87,19 @@
         },
         "220_0": {
             "lines": [
-                "I think you get it now."
+                "I guess we're equals."
             ]
         },
         "228_0": {
             "lines": [
-                "You get now why you couldn't do anything against me",
+                "And you get now why you couldn't do anything against me",
                 "and was forced to retreat."
             ]
         },
         "236_0": {
             "lines": [
-                "It was because all of that back equipment",
-                "was could get stolen by you for both movement an' absorbin' magic."
+                "It was because you could steal all of that back equipment I had,",
+                "using the back door, for both movement an' absorbin' magic."
             ]
         },
         "244_0": {
@@ -122,7 +122,7 @@
         },
         "268_0": {
             "lines": [
-                "And as you've become helpless, the Secret God in the background led you out.",
+                "And as you've become helpless, I could use the Secret God's doors to move you out.",
                 "You've never stood a single chance anyways, it was better than continuing."
             ]
         },
@@ -173,7 +173,7 @@
         },
         "340_0": {
             "lines": [
-                "With this, even if you tried your forced release,",
+                "With this, even if you tried to steal this magic,",
                 "there's nowhere for me to go!"
             ]
         },
