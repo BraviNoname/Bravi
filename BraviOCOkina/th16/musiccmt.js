@@ -23,8 +23,8 @@
         "@",
         "",
         "This is the Extra Stage theme of this mod.",
-		"Originally played in : Kingdom Hearts II: Final Mix. Composed by Yoko Shimomura.",
-        "I chose this song as it introduces that area where one remembers their travels.",
+		"Originally played in : Kingdom Hearts II. Composed by Yoko Shimomura.",
+        "I chose this song as we enter in a rather dark and mysterious world.",
         "It's rather calm and serene, gives the vibes about the place we're in, and helps relaxing",
         "with the difficulty increase due to the modded stage itself and where this BGM originally",
         "played, still, I apologize if the loop isn't long enough..."
