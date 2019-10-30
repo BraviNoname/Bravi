@@ -1,5 +1,5 @@
 {
-	"contact": "AntiHoodBravi#9568",
+	"contact": "Bravihood#9568",
 	"id": "Bravi",
 	"patches": {
 		"BraviOCOkina": "Th16 Stage 6 and Extra to Phantasm Mode remaster, and 16.5 Okina with a character of mine (OC).",
