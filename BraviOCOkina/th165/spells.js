@@ -1,5 +1,5 @@
 {
-    "51": "Secret Sun \"Star Radiance from the Darkness\"",
+    "51": "Secret Sun \"Light's Artificial Dark-Consuming Sun\"",
     "52": "Secret Surprise \"Karakasa Tongue Under the Heavy Rain\"",
     "53": "\"Starlight of All Seasons\"",
     "54": "Secret Four Elements \"Covert Fire, Air, Earth and Water\"",
