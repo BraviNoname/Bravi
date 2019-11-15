@@ -7,7 +7,7 @@
     "76": "Summer Remembrance \"Sunshine of Abnormal Nature Madness\"",
     "78": "Fall Remembrance \"Life Force Harvester\"",
     "80": "Fall Remembrance \"Bumper Crop of Abnormal Life Radiance\"",
-    "82": "Winter Remembrance \"Dark Snow Flower\"",
+    "82": "Winter Remembrance \"Dark Silent Snow Flower\"",
     "84": "Winter Remembrance \"Shadow in the Abnormally Cold Flower\"",
     "86": "Spring Remembrance \"Spring Evening Blossom Shower\"",
     "88": "Spring Remembrance \"Endless Evening Netherworld Butterflies\"",
