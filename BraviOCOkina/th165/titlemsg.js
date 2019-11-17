@@ -21,7 +21,7 @@
     ],
     "14_6": [
         "She appears to be rather friendly. Is she an outsider as well?",
-        "She has my thanks for willing to help me, I feel some power on my back."
+        "She has my thanks for willing to help me, I feel now some power on my back!"
     ],
     "21_1": [
         "Why is she being aided by these dream dwellers?",
