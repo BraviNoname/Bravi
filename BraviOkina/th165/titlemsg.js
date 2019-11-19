@@ -1,7 +1,7 @@
 {
     "14_1": [
         "She turns into a sun that radiates from these dark fireballs.",
-        "While I like the concept, my eyes were kinda burning though."
+        "While my eyes were burning, she had her share from my phone's flash."
     ],
     "14_2": [
         "Quit harrassing me from below (I am a girl, let's not forget.)",
