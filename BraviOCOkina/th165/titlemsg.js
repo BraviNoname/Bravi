@@ -17,7 +17,7 @@
     ],
     "14_5": [
         "Stop harrassing me with these knives! They're dangerous you know!",
-        "And with these grey chains everywhere, no teleports can help."
+        "Wait, haven't I already said this before? I don't know..."
     ],
     "14_6": [
         "She appears to be rather friendly. Is she an outsider as well?",
