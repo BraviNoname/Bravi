@@ -3,7 +3,7 @@
 	"id": "Bravi",
 	"patches": {
 		"BraviOCOkina": "Th16 Stage 6 and Extra to Phantasm Mode remaster, and 16.5 Okina with a character of mine (OC).",
-		"BraviOkina": "Th16 Stage 6 and Extra to Phantasm Mode remaster, and 16.5 Okina but without the OC.",
+		"BraviOkina": "If you don't like the OC. Th16 Stage 6 and Extra to Phantasm Mode remaster, and 16.5 Okina.",
 		"BraviOCPlayer": "Mostly a Th16 post extra story mode player patch for the OC, replacing Reimu's story (endings aren't changed tho).",
 		"Bravimemes": "Memes that come in my mind... Like Subterranean Oparism.",
 		"Braviretex": "Retexture and Display Fix Patch, for all Windows shooting games.",
