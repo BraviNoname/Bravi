@@ -9,5 +9,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/Teedee_Arrows/"
 	],
-	"title": "deus rsf's nightmare."
+	"title": "(Th15) Makes all bullets/lasers arrows. Typically deus rsf's nightmare."
 }

@@ -9,5 +9,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/BraviOkina/"
 	],
-	"title": "If you don't like the OC. Th16 Stage 6 and Extra to Phantasm Mode remaster, and 16.5 Okina."
+	"title": "(Th16, 16.5) Same thing as the OCOkina Patch but Okina stays Okina."
 }

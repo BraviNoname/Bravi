@@ -12,5 +12,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/Braviretex/"
 	],
-	"title": "Remake-like Retexture, Dark UI and Display Fix Patch, for all Windows shooting games."
+	"title": "(Th06 to 17 tsa games) Remake-like Retexture, Sounds, Dark UI and Display Fix Patch."
 }

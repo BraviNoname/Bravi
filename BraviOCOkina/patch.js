@@ -9,5 +9,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/BraviOCOkina/"
 	],
-	"title": "Th16 Stage 6 and Extra to Phantasm Mode remaster, and 16.5 Okina with a character of mine (OC)."
+	"title": "(Th16, 16.5) Replaces Okina with a new (OC) adversary in Stage 6, Extra (turned into Phantasm) and Wrong/Nightmare Saturdays."
 }

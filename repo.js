@@ -2,12 +2,12 @@
 	"contact": "Bravihood#9568",
 	"id": "Bravi",
 	"patches": {
-		"BraviOCOkina": "Th16 Stage 6 and Extra to Phantasm Mode remaster, and 16.5 Okina with a character of mine (OC).",
-		"BraviOkina": "If you don't like the OC. Th16 Stage 6 and Extra to Phantasm Mode remaster, and 16.5 Okina.",
-		"BraviOCPlayer": "Mostly a Th16 post extra story mode player patch for the OC, replacing Reimu's story (endings aren't changed tho).",
-		"Bravimemes": "Memes that come in my mind... Like Subterranean Oparism.",
-		"Braviretex": "Remake-like Retexture, Dark UI and Display Fix Patch, for all Windows shooting games.",
-		"Teedee Arrows": "deus rsf's nightmare."
+		"BraviOCOkina": "(Th16, 16.5) Replaces Okina with a new (OC) adversary in Stage 6, Extra (turned into Phantasm) and Wrong/Nightmare Saturdays.",
+		"BraviOkina": "(Th16, 16.5) Same thing as the OCOkina Patch but Okina stays Okina.",
+		"BraviOCPlayer": "(Th16, mostly) Post-Extra stage story mode player patch for the OC, replacing Reimu's story (endings aren't changed tho).",
+		"Bravimemes": "(Th11, 15) Memes that come in my mind... Like Subterranean Oparism or Legacy of Lunatic MetaPlate.",
+		"Braviretex": "(Th06 to 17 tsa games) Remake-like Retexture, Sounds, Dark UI and Display Fix Patch.",
+		"Teedee Arrows": "(Th15) Makes all bullets/lasers arrows. Typically deus rsf's nightmare."
 	},
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/"
