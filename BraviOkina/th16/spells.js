@@ -1,8 +1,8 @@
 {
-    "70": "Hidden Starlight \"Beginning Light in the Back\"",
-    "71": "Hidden Starlight \"Standard Light in the Back\"",
-    "72": "Hidden Starlight \"Proud Light in the Back\"",
-    "73": "Hidden Starlight \"Critical Light in the Back\"",
+    "70": "Star Sign \"Beginning Light in the Back\"",
+    "71": "Star Sign \"Standard Light in the Back\"",
+    "72": "Star Sign \"Proud Light in the Back\"",
+    "73": "Star Sign \"Critical Light in the Back\"",
     "74": "Summer Remembrance \"Taste the Sunlight, Nature\"",
     "76": "Summer Remembrance \"Sunshine of Abnormal Nature Madness\"",
     "78": "Fall Remembrance \"Life Force Harvester\"",
