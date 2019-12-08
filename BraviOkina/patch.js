@@ -9,5 +9,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/BraviOkina/"
 	],
-	"title": "(Th16, 16.5) Same thing as the OCOkina Patch but Okina stays Okina."
+	"title": "(Th16, 16.5) Same thing as the OCOkina Patch but Okina is the one using what the OC uses."
 }
