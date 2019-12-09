@@ -1,0 +1,71 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "I've been picking up these animal spirits..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Though they help, I should focus on",
+                "something else."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Hey, you there!"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "All the stones we were stacking fell over",
+                "because you were thrashing around!"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Oh, oops.",
+                "How should I apologize?"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "The stone stacking contest is ruined now..."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I won't let you get away with this!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Argh... You're strong..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Relax, I told you I'm sorry,",
+                "I'm just passing by."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I shouldn't have anything to do with you."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Okay then..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "But did you really have to do it like this?",
+                "That's just so mean..."
+            ]
+        }
+    }
+}

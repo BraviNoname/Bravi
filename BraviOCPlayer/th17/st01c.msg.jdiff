@@ -1,0 +1,78 @@
+{
+    "0": {
+        "110_0": {
+            "lines": [
+                "Hey, you there!"
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "I've been picking up these animal spirits..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Though they help, I should focus on",
+                "something else."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "All the stones we were stacking fell over ",
+                "because you were thrashing around!"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "You are mistaken."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "It can't be my fault if these",
+                "pebbles were on the riverside!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Y-You..."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "How dare you make fun of stone stacking!",
+                "You won't get away with it! Die!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Argh... You're strong..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "But look at the bright side."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I've gathered all the animal spirits,",
+                "and you can pile stones to your heart's content!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "We would've been done with it",
+                "if you didn't come..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Today's stone stacking contest is",
+                "completely ruined!"
+            ]
+        }
+    }
+}

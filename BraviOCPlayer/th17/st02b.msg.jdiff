@@ -1,0 +1,90 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Am I too slow or is this river really large...?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "I never thought I'd see a flesh and blood human",
+                "|\tin \t,\ta place like this.\t,the Sanzu River.",
+                "in a place like this."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Are you looking to get dragged down by some savage fish?"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "Uhh... Who are you?"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "I'm an ushi-oni.",
+                "I live by the River."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "I have to send you back to somewhere safe now..."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I'd like to keep going instead, please.",
+                "Could you lead me to Higan?"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Sure.",
+                "If that's what you want..."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "|\tThen I'll \t,\tsend you straight there!\t,kill you",
+                "Then I'll send you straight there!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Woah, I never thought you'd be this strong."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "It's kind of a shame, really.",
+                "You'd make for great food for these ancient fish!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Even if I don't wanna fight, I don't want to lose either."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "We're almost at Higan."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "You know what? I'll ferry you all the way across if you ",
+                "promise to share some good stories with me once you get out of there. Deal?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Deal!",
+                "Thank you."
+            ]
+        }
+    }
+}
