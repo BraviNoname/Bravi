@@ -309,7 +309,7 @@
         "Let's find out what happens."
     ],
     "15_1": [
-        "This pair of vampires attack me at once.",
+        "This pair of vampires attacked me at once.",
         "They don't seem to fear the light of the camera."
     ],
     "15_2": [
