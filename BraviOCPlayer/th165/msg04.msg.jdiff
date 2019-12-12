@@ -1,0 +1,61 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Whoa, never thought I'd run into you",
+                "in a place like this."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Huh, haven't we met already here, Marisa?",
+                "You sure you're okay?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Yeah, I'm sure."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "But if you came to a <b$place like this>",
+                "of your own will..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "You can fight all you want!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Oh?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "C'mon, hit me with everything you've got!",
+                "Otherwise, you'll never get out of here!"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Yup, you definitely aren't normal."
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Didn't know I had the ability to teleport...",
+				"Must be a feature of my device."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "What am I saying! I gotta get out of this dream!"
+            ]
+        }
+    }
+}
