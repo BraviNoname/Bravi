@@ -366,7 +366,7 @@
     ],
     "17_1": [
         "Ah, there you are, Kaguya, Mai would like to have a word!",
-        "I feel somehow bad for leaving you helpless after beating Eirin..."
+        "Besides...I feel somehow bad for leaving you helpless after beating Eirin..."
     ],
     "17_2": [
         "That's Tenshi and a midget. Weren't they rampaging during an incident",
