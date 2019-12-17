@@ -34,7 +34,7 @@ A sun fairy is able to refract sunlight. But the difference here is that Serein 
 Spell3 - Easy/Normal :
 Fall Remembrance "Life Force Harvester"
 
-Serein crops the fall leaves underneath you, while pouring some life force seeds from above (the hearts), turning them into lasers that you can cut through or go around.
+Serein crops the fall leaves underneath you, while pouring some life force seeds from above (the hearts), turning the leaves into lasers that you can cut through or go around.
 
 Spell4 - Hard/Lunatic :
 Fall Remembrance "Bumper Crop of Abnormal Life Radiance"
@@ -147,7 +147,7 @@ Spell8 :
 Sun&Moon Link "Reckless Stars VS. Lunatic Danmaku"
 
 Hearing explosions come from above, she starts hiding behind her enemy, perhaps to protect herself from the incoming kamikaze yin-yang enemies who recklessly fall to the bottom to reach Serein. Making her enemy get involved in a duel between age old two sworn enemies,
-while Serein acts like a princess behind her knight in a shiny armor. Knight who has, let's remember, the back-shots up her sleeves.
+while Serein acts like a princess behind her knight in a shining armor. Knight who has, let's remember, the back-shots up her sleeves.
 The falling yin-yang enemies have properties associated to each colors, one is aimed, another falls straight downards, and the third vaguely falls downwards.
 
 Spell9 - Timeout :
