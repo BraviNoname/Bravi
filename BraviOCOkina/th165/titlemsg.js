@@ -4,7 +4,7 @@
         "While my eyes were burning, she had her share from my phone's flash."
     ],
     "14_2": [
-        "Quit harrassing me from below (I am a girl, let's not forget.)",
+        "She startled me this time! And she harrasses me from below!",
         "And with this rain, I'm gonna catch a cold...!"
     ],
     "14_3": [
