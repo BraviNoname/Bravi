@@ -123,7 +123,7 @@ There is an earthquake, yin-yang enemies shoot at you from behind with earth-ele
 Spell3 :
 Miracle Link "Thaumaturgy of the Native Gods"
 
-Which road will you take, the road around or the straightforward and close one? Depending on the choice, this attack may be impossible, or a pushover, as if a miracle happened for you to get through that attack that easily.
+Which road will you take, the road around or the straightforward and close one? Depending on the choice, this attack may make your life pretty transient, or pretty long, as if a miracle happened for you to get through that attack that easily.
 
 Spell4 :
 Reverse Link "Mirage Bow of the Reversed Arrow Rain"
