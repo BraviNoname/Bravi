@@ -242,7 +242,7 @@
     ],
     "12_3": [
         "Her hair color suddenly changed.",
-        "Is it her ability, or tied to her ability?"
+        "Is it her ability, tied to her ability or just a wig?"
     ],
     "12_4": [
         "I like these shapes, it's pretty symetrical and bright.",
