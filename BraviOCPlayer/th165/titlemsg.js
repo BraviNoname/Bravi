@@ -166,15 +166,15 @@
     ],
     "9_1": [
         "Uh, I found myself on the moon...",
-        "And a fairy with pure life force is assaulting me."
+        "And a fairy with pure life force is harassing me."
     ],
     "9_2": [
         "I'm getting surrounded by lasers coming from far away.",
-        "This fairy has some good tricks up her sleeves, I like that."
+        "This fairy has quite a weird attire. Is it... a flag by any chance?"
     ],
     "9_3": [
         "These lasers come from the sides don't they.",
-        "This attack is quite easy if you position yourself correctly!"
+        "This attack is quite easy if I go with the flow up and down!"
     ],
     "9_4": [
         "Huh, she's a nice fairy actually...",
