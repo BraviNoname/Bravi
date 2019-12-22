@@ -177,7 +177,7 @@
         "This attack is quite easy if I go with the flow up and down!"
     ],
     "9_4": [
-        "Huh, she's a nice fairy actually...",
+        "Huh, she's a nice fairy actually... Or stupid ? Who knows.",
         "For putting that moon to block her fire bullets for me."
     ],
     "10_0": [
