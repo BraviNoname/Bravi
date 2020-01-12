@@ -28,6 +28,6 @@
     "115": "Star Link \"Shining Seven Sapphires\"",
     "116": "Sun&Moon Link \"Reckless Stars VS. Lunatic Danmaku\"",
     "117": "Kingdom Link \"Mirage Split of Light and Darkness\"",
-    "118": "Secret Link \"Lingering Four Seasons\"",
+    "118": "Secret Parental Link \"Lingering Four Seasons\"",
     "137": "\"A Nobody's Identity Crisis\""
 }
