@@ -173,3 +173,19 @@
         }
     }
 }
+    },
+    "3": {
+        "104_0": {
+            "lines": [
+                "Too bad for you! Time over!",
+                "Time has rewinded itself!"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Stupid fairy, at this speed,",
+				"you shall wander forever!"
+            ]
+        }
+    }
+}

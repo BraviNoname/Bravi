@@ -186,5 +186,19 @@
                 "Shrine maiden, you should share your powers!"
             ]
         }
+    },
+    "3": {
+        "104_0": {
+            "lines": [
+                "Too bad for you! Time over!",
+                "Time has rewinded itself!"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Carefree shrine maiden, at this speed,",
+				"you shall wander forever!"
+            ]
+        }
     }
 }

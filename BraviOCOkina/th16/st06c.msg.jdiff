@@ -79,12 +79,12 @@
         "236_0": {
             "lines": [
                 "Gosh, you're slow (for a tengu),",
-                "You bird brain don't get it? You think I'm lying don't you?"
+                "You bird brain don't get it? Or you think I'm lying don't you?"
             ]
         },
         "244_0": {
             "lines": [
-                "Well, no, you lost me."
+                "Well, I think you're lying, indeed."
             ]
         },
         "252_0": {
@@ -182,6 +182,22 @@
         "224_0": {
             "lines": [
                 "Tengu reporter, you should share your powers!"
+            ]
+        }
+    }
+}
+    },
+    "3": {
+        "104_0": {
+            "lines": [
+                "Too bad for you! Time over!",
+                "Time has rewinded itself!"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Slow tengu, at this speed,",
+				"you shall wander forever!"
             ]
         }
     }
