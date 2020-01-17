@@ -18,7 +18,7 @@ The spell name variations are based from Kingdom Hearts difficulty levels. A cer
 Spell1 - Lunatic :
 Star Sign "Critical Light in the Back"
 
-This spellcard is voluntarily easier than Back Sign "Halo of the Absolute Secret God" as it is only the first spell. Gotta start things easy.
+This spellcard is intentionally easier than Back Sign "Halo of the Absolute Secret God" as it is only the first spell. Gotta start things easy.
 
 Spell2 - Easy/Normal :
 Summer Remembrance "Taste the Sunlight, Nature"
