@@ -111,7 +111,7 @@ Mai and Satono swap positions and go back to their normal attacks, except much m
 
 Extra (Phantasm) Stage Boss - Sereinae Matara
 Spell1 :
-Magic Link "Omnidirectional Dark Milky Way"
+Magic Link "Mirrored Dark Milky Way"
 
 Serein starts by cornering you with star lanes from all sides, although it seems flashy and overwhelming like a certain magician, there must be an easy route behind the enemy.
 
