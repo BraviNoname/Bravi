@@ -18,12 +18,13 @@
         },
         "118_0": {
             "lines": [
-                "I'm here!",
-				"And you've finally arrived!"
+                "So we've finally met!",
+				"At last they've found a human outside!"
             ]
         },
         "156_0": {
             "lines": [
+			    "Oh, so it's you... Marisa...",
                 "Mai and Satono talked about you! How's it going?"
             ]
         },
@@ -51,8 +52,8 @@
         },
         "196_0": {
             "lines": [
-                "And how about you, anyway?",
-                "Who exactly are you? Have we met by any chance?"
+                "And how about you, anyway? Who exactly are you?",
+                "Do we even know each other? Cauz' I don't know you."
             ]
         },
         "204_0": {
@@ -82,7 +83,7 @@
         "236_0": {
             "lines": [
                 "I guess you can call her my mother.",
-                "I am willing now to help her get successors for Mai and Satono..."
+                "For her sake, I've gotta find successors for Mai and Satono..."
             ]
         },
         "244_0": {
@@ -156,8 +157,8 @@
         },
         "340_0": {
             "lines": [
-                "If the Secret God approves a candidate, they will become a new servant.",
-                "In other words, she wouldn't even want to give you any choice..."
+                "I'm the one who brings her new servants. If she accepts, she wouldn't",
+                "even want to give you any choice... (why did it have to be you?)"
             ]
         },
         "348_0": {
