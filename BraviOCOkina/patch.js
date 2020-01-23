@@ -9,5 +9,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/BraviOCOkina/"
 	],
-	"title": "(Th16, 16.5) Replaces Okina with a new (OC) adversary in Stage 6, Extra (turned into Phantasm) and Wrong/Nightmare Saturdays."
+	"title": "(Th16, 16.5) Replaces Okina with a new (OC) adversary in Stage 6, Extra (turned into Phantasm) and Wrong/Nightmare Saturdays, that all got revamped."
 }
