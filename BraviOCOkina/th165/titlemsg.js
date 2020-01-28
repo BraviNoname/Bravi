@@ -8,7 +8,7 @@
         "And with this rain, I'm gonna catch a cold...!"
     ],
     "14_3": [
-        "This place looks very urban yet she can bring nature like that...",
+        "Is she just playing with me? I never lose at these sorts of games!",
         "I bet meanwhile she's having fun while sitting on her chair."
     ],
     "14_4": [
