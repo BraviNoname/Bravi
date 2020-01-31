@@ -257,7 +257,7 @@
         "And the reward is a Friday night!"
     ],
     "13_1": [
-        "Woah a circle that is rather tight!",
+        "Woah a circle that has rather tight gaps!",
         "Such is the symbol of perfection, like the circle mark."
     ],
     "13_2": [
@@ -286,7 +286,7 @@
     ],
     "14_2": [
         "Whoops, she tried to surprise me this time!",
-        "This flame mess is a mix of confusion and pressure!"
+        "This fire mess is a mix of confusion and pressure!"
     ],
     "14_3": [
         "Ahaha... I think I've faced this attack before.",
@@ -330,7 +330,7 @@
     ],
     "15_6": [
         "For this shut-in vampire to spend time outside, Byakuren has",
-        "to be someone. I heard she likes riding a bike, but I don't see any, aw..."
+        "to be someone. I heard she likes riding a motorbike, but I don't see any, aw..."
     ],
     "16_0": [
         "Dreams are more concerning that anything...",
