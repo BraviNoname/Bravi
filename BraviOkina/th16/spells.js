@@ -11,7 +11,7 @@
     "84": "Winter Remembrance \"Shadow in the Abnormally Cold Flower\"",
     "86": "Spring Remembrance \"Spring Evening Blossom Shower\"",
     "88": "Spring Remembrance \"Endless Evening Netherworld Butterflies\"",
-    "133": "Hidden Wet&Dry Seasons \"Time Rewind of the Foreign Seasons\"",
+    "133": "Time Hindrance \"Rewind of the Wet&Dry Seasons\""
     "90": "Stolen Release \"Breezy Cherry Blossom\"",
     "94": "Stolen Release \"Perfect Summer Ice\"",
     "98": "Stolen Release \"Crazy Fall Wind\"",
