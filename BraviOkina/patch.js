@@ -9,5 +9,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/BraviOkina/"
 	],
-	"title": "(Th16, 16.5) Same thing as the OCOkina Patch but Okina is the one using what the OC uses.\n             Warning : UNSTABLE STAGE 6 SECOND SPELL, NO MORE ECL UPDATES!"
+	"title": "(Th16, 16.5) Same thing as the OCOkina Patch but Okina is the one using what the OC uses.\n             Warning : For Stage 6, please pick the OCOkina patch instead!"
 }
