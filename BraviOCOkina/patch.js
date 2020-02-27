@@ -9,5 +9,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/BraviOCOkina/"
 	],
-	"title": "(Th14.3, 16, 16.5) Replaces Okina with a new (OC) adversary in Stage 6, Extra (turned into Phantasm), Wrong/Nightmare Saturdays and Yukari in Day 10, that all got revamped."
+	"title": "(Th13, 14.3, 16, 16.5) Replaces the following with a new (OC) adversary.\n            Okina in Stage 6, Extra (turned into Phantasm) that got a revamp,\n             Wrong/Nightmare Saturdays that got a revamp too\n             Yukari in Day 10\n            Futo and Tojiko in Stage 5."
 }
