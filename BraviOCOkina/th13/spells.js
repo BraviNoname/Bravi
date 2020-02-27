@@ -10,5 +10,5 @@
     "74": "Shotlock \"Starry Hindrance\"",
     "123": "Paper Sign \"Maze of a Million Pages\"",
     "124": "Shotlock \"Endless Hindrance of the Stars\"",
-    "149": "\"Clock Ticking Towards to the Future\""
+    "158": "\"Clock Ticking Towards to the Future\""
 }
