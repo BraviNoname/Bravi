@@ -5,7 +5,7 @@
     "62": "Snipe Sign \"Sharp Shooting\"",
     "64": "Snipe Sign \"Relentless Sharp Shooting\"",
     "66": "Berserk \"Wrath of the Rear Face\"",
-    "70": "Paper Sign \"Fall of the Card Curtain\"",
+    "70": "Paper Sign \"Shuffled Card Curtain\"",
     "72": "Paper Sign \"Slippery Card Curtain\"",
     "74": "Shotlock \"Starry Hindrance\"",
     "123": "Paper Sign \"Maze of a Million Pages\"",
