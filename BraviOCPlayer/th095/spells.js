@@ -1,3 +1,3 @@
 {
-    "97": "Judgment \"Cleansed Crystal Judgment -Sereinae Matara-\""
+    "97": "Judgment \"Cleansed Crystal Judgment -Sereinae-\""
 }
