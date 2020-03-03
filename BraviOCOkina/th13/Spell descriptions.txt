@@ -1,0 +1,68 @@
+Stage 5 Midboss - Sereinae:
+
+Spell - Normal/Hard :
+Book Sign "Maze of a Hundred Pages"
+
+Serein scatters book pages over the place that bounce on the screen twice. The red pages are aimed towards you.
+
+Spell - Lunatic :
+Book Sign "Maze of a Thousand Pages"
+
+Serein scatters even more pages over the screen, reading their movements can be pretty tough.
+
+Spell - Overdrive :
+Book Sign "Maze of a Million Pages"
+
+The screen gets so flooded with so many pages that keeping track of the enemy becomes very tough.
+
+
+Stage 5 Boss - Sereinae:
+
+Spell 1 - Easy/Normal :
+Snipe Sign "Sharp Shooting"
+
+Serein dashes from the sides of the screen while sniping at you, then decides to hinder your movement as she still shoots at you.
+
+Spell 1 - Hard/Lunatic :
+Snipe Sign "Relentless Sharp Shooting"
+
+This time, the bullets she shoots at you are way faster and the corridor restrcting your movement appears more suddenly. Be on your guard when the latter happens.
+
+
+Spell 2 - Easy/Normal :
+Berserk "Wrath of the Rear Face"
+
+Serein dashes little by little towards you while unleashing shockwaves at you, then backs off while still shooting. Don't panic and keep moving aside when needed.
+
+Spell 2 - Hard/Lunatic :
+Berserk "Merciless Furies of the Back"
+
+Serein dashes towards you more frequently, making the breaks shorter and keep your breath longer. This is still no reason to make you lose your cool, right?
+
+
+Spell 3 - Easy/Normal :
+Paper Sign "Shuffled Card Curtain"
+
+Serein makes cards appear across the screen, that get shuffled when she makes the screen shake. Don't be confused by the cards' movement and keep aimiing at the enemy.
+
+Spell 3 - Hard/Lunatic :
+Paper Sign "Slippery Card Curtain"
+
+The cards that appear on screen get shuffled even faster than usual, making the maneuver tougher. Keep the focus on the gap between the cards and misdirect the card ring that is aimed at you.
+
+Spell 4 - Easy/Normal/Hard/Lunatic :
+Shotlock "Starry Hindrance"
+
+Serein locks your position on and scatters stars around you that bounce back down, while harrassing you with cards and restricting your movement with butterflies. The position at which the cards spawn depends on your position on the circle of stars that surrounds you.
+Don't forget the cards bounce off the borders of the screen as well.
+
+Spell 4 - Overdrive :
+Shotlock "Endless Hindrance of the Stars"
+
+The stars that bounce down get way denser and the cards that aim at you aim back at the same time, making the confusion even bigger.
+This is Serein's true power as a human that acts independently from the Secret God.
+
+Spell 5 - Hard/Lunatic :
+"Clock Ticking Towards the Future"
+
+Serein simulates her come back to her timeline by acting like a clock that ticks every second, while as time goes on, the glowing bullets turn from blue, to teal, to green... Don't take the wrong gaps, aka the ones that get occupied by a glowing bullet, and anticipate when said bullets come.
