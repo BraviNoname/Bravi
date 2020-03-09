@@ -20,7 +20,7 @@
     "107": "Mad Dance \"Lunatic Backup Dance\"",
     "108": "Bullet Dance \"Twin Hurricanes\"",
     "109": "Magic Link \"Mirrored Dark Milky Way\"",
-    "110": "Earth&Heaven Link \"The Doyou Stones Reaching the Heavens\"",
+    "110": "Celestial Link \"The Doyou Stones Reaching the Heavens\"",
     "111": "Miracle Link \"Thaumaturgy of the Native Gods\"",
     "112": "Reverse Link \"Mirage Bow of the Reversed Arrow Rain\"",
     "113": "Spirit Link \"Fantasy Seal -Homing Amulet-\"",
