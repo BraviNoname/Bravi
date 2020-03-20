@@ -10,6 +10,6 @@
     "72": "Paper Sign \"Slippery Card Curtain\"",
     "74": "Shotlock \"Starry Hindrance\"",
     "123": "Book Sign \"Maze of a Million Pages\"",
-    "124": "Shotlock \"Endless Hindrance of the Stars\"",
+    "124": "Final Limit \"The Ultimate, Absolute Skill Rush\"",
     "158": "\"Clock Ticking Towards the Future\""
 }
