@@ -198,5 +198,33 @@
 				"you shall wander forever!"
             ]
         }
+    },
+    "4": {
+        "104_0": {
+            "lines": [
+                "Welp, before we see our master...",
+                "I gotta tell you something."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "She might not be our master,",
+				"she's still pretty strong!"
+            ]
+        }
+    },
+    "5": {
+        "104_0": {
+            "lines": [
+                "Hey, you got the right door here!",
+                "Now before the worst happens!"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "People like you aren't welcome, glad she",
+				"can meet someone like you!"
+            ]
+        }
     }
 }

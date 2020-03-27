@@ -200,5 +200,33 @@
 				"you shall wander forever!"
             ]
         }
+    },
+    "4": {
+        "104_0": {
+            "lines": [
+                "Welp, looks like you're all here!",
+                "Just telling you!"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "She might not be our master,",
+				"she's still pretty strong!"
+            ]
+        }
+    },
+    "5": {
+        "104_0": {
+            "lines": [
+                "Hey, you got the right door here!",
+                "Now then!"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Don't disappoint her! At last our friend",
+				"can meet someone like you!"
+            ]
+        }
     }
 }
