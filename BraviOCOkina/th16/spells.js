@@ -27,7 +27,7 @@
     "114": "Illusion Link \"Four Directions Remote Mesmerism (Origin Remote)\"",
     "115": "Star Link \"Shining Seven Sapphires\"",
     "116": "Sun&Moon Link \"Reckless Stars VS. Lunatic Danmaku\"",
-    "117": "Kingdom Link \"Mirage Split of Light and Darkness\"",
+    "117": "Ally Summon \"Mirage Split of Mental and Life Forces\"",
     "118": "Secret Parental Link \"Lingering Four Seasons\"",
     "137": "\"I Don't Know Who I Am Anymore\""
 }
