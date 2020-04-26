@@ -18,7 +18,7 @@
     "102": "Stolen Release \"Extreme Winter\"",
     "106": "Drum Dance \"Tremendous Cheers\"",
     "107": "Mad Dance \"Lunatic Backup Dance\"",
-    "108": "Bullet Dance \"Twin Hurricanes\"",
+    "108": "Bullet Dance \"Twin Cyclones\"",
     "109": "Magic Link \"Mirrored Dark Milky Way\"",
     "110": "Celestial Link \"The Doyou Stones Reaching the Heavens\"",
     "111": "Miracle Link \"Thaumaturgy of the Native Gods\"",
@@ -27,7 +27,7 @@
     "114": "Illusion Link \"Four Directions Remote Mesmerism (Origin Remote)\"",
     "115": "Star Link \"Shining Seven Sapphires\"",
     "116": "Sun&Moon Link \"Reckless Stars VS. Lunatic Danmaku\"",
-    "117": "Reality Shift \"Mirage Split of Mental and Life Forces\"",
-    "118": "Secret Parental Link \"Lingering Four Seasons\"",
+    "117": "Secret Trinity \"Mirage Split of Mental and Life Forces\"",
+    "118": "Secret Summon \"Lingering Four Seasons\"",
     "137": "\"The True Face of Everyone's Nobody\""
 }
