@@ -52,7 +52,7 @@ The cards that appear on screen get shuffled even faster than usual, making the 
 Spell 4 - Easy/Normal/Hard/Lunatic :
 Shotlock "Starry Hindrance"
 
-Serein locks your position on and scatters stars around you that bounce back down, while harrassing you with cards and restricting your movement with butterflies. The position at which the cards spawn depends on your position on the circle of stars that surrounds you.
+Serein locks your position on and scatters stars around you that bounce back down, while harrassing you with cards and restricting your movement with butterflies. The position at which the cards spawn depends the position you were at when the first set of cards (coming from above) aimed at you.
 Don't forget the cards bounce off the borders of the screen as well.
 
 Spell 4 - Overdrive :
