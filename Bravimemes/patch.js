@@ -9,5 +9,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/Bravimemes/"
 	],
-	"title": "(Th10, 11, 15) Memes that come in my mind... Like Subterranean Oparism or Legacy of Lunatic MetaPlate."
+	"title": "(Th10, 11, 15) Memes that come in my mind... Like Mountain of Stoners, Subterranean Oparism or Legacy of Lunatic MetaPlate."
 }
