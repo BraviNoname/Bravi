@@ -3,7 +3,7 @@
 		"nmlgc/base_tsa",
 		"nmlgc/script_latin",
 	],
-	"id": "Bravimemes",
+	"id": "BraviKHBGM",
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/BraviKHBGM/"
 	],
