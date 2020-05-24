@@ -1,7 +1,7 @@
 {
 	"dependencies": [
 		"nmlgc/base_tsa",
-		"nmlgc/script_latin",
+		"nmlgc/script_latin"
 	],
 	"id": "BraviKHBGM",
 	"servers": [
