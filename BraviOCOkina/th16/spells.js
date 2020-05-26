@@ -1,4 +1,8 @@
 {
+    "138": "Dance Sign \"Spin the Bamboo Stick\"",
+    "140": "Mad Dance \"Lively Rave in the Dark City\"",
+    "143": "Dance Sign \"Spin the Myoga-Ginger\"",
+    "145": "Mad Dance \"Mind-Blowing Rave in the Dark City\"",
     "70": "Star Sign \"Beginning Light in the Back\"",
     "71": "Star Sign \"Standard Light in the Back\"",
     "72": "Star Sign \"Proud Light in the Back\"",
