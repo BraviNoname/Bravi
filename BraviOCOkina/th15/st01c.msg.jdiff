@@ -1,0 +1,82 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "I'm sure I've seen that",
+                "probe-looking thing around here."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "A probe huh.",
+                "I haven't seen one in my way!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "...oh that's right! They're using these to",
+                "purify the Earth, I guess?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "That's bad news, and I got plainly defeated."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "There was one in the way.",
+                "But I can't find it."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "But, what are you going to do anyways?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "If you're gonna do something about the people who",
+				"made them, then you gotta be ready!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Okay, okay.",
+                "That's enough now..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "You're a quite powerful shrine maiden.",
+                "I give up! So, what did you want?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "So, did you see that probe?",
+                "A mechanical spider-looking thing around here?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I see what you're talking about but...",
+                "Oh, now I remember, I've seen one..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Yeah, it's at some Lunarian base.",
+                "It is near your home!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I see, I see. Thank you.",
+                "Wait, did you say...?"
+            ]
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "So the time has finally come."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Oh, it's a Lunarian!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Wait... I know you!",
+                "You're that rabbit from earlier!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Though you attacked me pretty flashily."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "I don't know on which side you are.",
+                "But nonetheless..."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Getting to beat you down",
+                "will at least help me getting my way!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Gee...",
+                "I can't always win can I?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Um, just telling you that I'm",
+                "now an earth rabbit."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Basically, you weren't fighting the enemy...",
+                "Not even one of the underlings."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Oh, I'm so sorry... Now I remember about you, Reisen...",
+                "Now, are you gonna fight against them?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "That's fine, that was a good warmup",
+                "anyways."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Now, to the Lake on the Mountain!"
+            ]
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "What is this?",
+                "They aren't usually this intense."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Oh, hello there, Reimu!",
+                "Where are you going?"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "I've seen by myself what's happening...",
+                "Yeah up there on the moon..."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "I'm pretty beaten up you know..."
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Huh? Are you sure you're okay?",
+                "You don't seem like you are."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Eh, what am I saying?",
+                "An incident's going on!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "And at least this time",
+                "I'll get to test you right now!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Yeah...",
+                "Not bad!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Wait, how do you know",
+                "my name? We've never met before!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "And most of all, if you've been up there..",
+                "That means you know something."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Tell me where the enemy's base is!",
+                "Or else..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Uh, it's a long story...",
+                "But long story short!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "You have to go to the lake,",
+                "near Sanae's home!"
+            ]
+        }
+    }
+}
