@@ -1,0 +1,33 @@
+Stage 1 Midboss (2nd encounter) - Sereinae:
+
+Spell - Hard/Lunatic :
+Star Sign "Sniper Star Mines"
+
+Serein shoots stars that explode into gun bullets that are aimed, and shoots butterflies when they explode.
+I wish bullet cap wasn't a thing there in the Lunatic version...
+
+Stage 1 Boss - Sereinae:
+
+Spell 1 - Easy/Normal/Hard :
+Starlight "Pouring Starlight"
+
+Serein shoots rings of butterflies, and those who hit the top edge of the screen transform into stars pouring down in the screen.
+
+Spell 1 - Lunatic :
+Starlight "Flooding Starlight"
+
+The rings she shoots are denser, making the dodging of the stars and butterflies tougher and tricky. Don't lose sight of the enemy's movement!
+
+
+Spell 2 - Easy/Normal/Hard :
+Book Sign "Scattered Pages"
+
+Serein gathers a bunch of book pages that scatter all over the screen as a desperation move. Beware of the eventual gun bullets that can randomly come by.
+
+Spell 2 - Lunatic :
+Book Sign "Scattered Book Mess"
+
+The book page mess is much denser than usual. Still, the pattern is static and the gun bullets keeps the attention paid.
+
+
+A third spell might come in a future update, eventually.
