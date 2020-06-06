@@ -4,6 +4,7 @@ Spell - Hard/Lunatic :
 Star Sign "Sniper Star Mines"
 
 Serein shoots stars that explode into gun bullets that are aimed, and shoots butterflies when they explode.
+
 I wish bullet cap wasn't a thing there in the Lunatic version...
 
 Stage 1 Boss - Sereinae:
@@ -30,4 +31,9 @@ Book Sign "Scattered Book Mess"
 The book page mess is much denser than usual. Still, the pattern is static and the gun bullets keeps the attention paid.
 
 
-A third spell might come in a future update, eventually.
+Spell 3 - All difficulties :
+Light Sign "Bright Lights's Blizzard"
+
+Serein shoots bright orbs, that, upon turning into lasers to snipe the player, shoot more bullets on spots. The delay and space between lasers and the density of the icicle bullets depend on the difficulty.
+
+I wish having bullets turn into lasers didn't always recall Clownpiece... So I try to add my sauce to that spellcard.
