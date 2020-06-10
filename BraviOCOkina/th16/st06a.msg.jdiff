@@ -7,7 +7,8 @@
         },
         "42_0": {
             "lines": [
-                "I hardly expected there to be such a big place behind a door in someone's back..."
+                "I hardly expected to get to the outside world",
+				"through a door in someone's back..."
             ]
         },
         "50_0": {
@@ -17,14 +18,14 @@
         },
         "118_0": {
             "lines": [
-                "Any world can be full of wonders.",
-				"So how have you been?"
+                "It's not nighttime in the world outside,",
+				"you know..."
             ]
         },
         "156_0": {
             "lines": [
-                "I'm not mad at Mai for letting the door opened...",
-				"That's thanks to her that you finally got here. Glad you made it."
+                "We're just in a distant closed city, cut from any other world...",
+				"And they've ended up guiding you here, to that same city."
             ]
         },
         "164_0": {
@@ -35,12 +36,13 @@
         },
         "172_0": {
             "lines": [
-                "Wait, what's going on outside?"
+                "Wait, you're Reimu...! And if you're saying that",
+				"I'm behind an incident..."
             ]
         },
         "180_0": {
             "lines": [
-                "And what do you mean by an incident?",
+                "That means that Mai has done something wrong outside?",
                 "They talked about candidates, latent power. But an incident?"
             ]
         },

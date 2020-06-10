@@ -13,18 +13,19 @@
         },
         "50_0": {
             "lines": [
-                "It's just doors as far as the eye can see..."
+                "From a place with just doors to a city",
+				"in the dead of night... Are we in the outside world?"
             ]
         },
         "118_0": {
             "lines": [
-                "So we've finally met!",
-				"At last they've found a human outside!"
+                "Not quite... It's always nighttime",
+				"around here, unlike the world outside..."
             ]
         },
         "156_0": {
             "lines": [
-			    "Oh, so it's you... Marisa...",
+			    "And at last they've found a human outside!",
                 "Mai and Satono talked about you! How's it going?"
             ]
         },
@@ -35,13 +36,13 @@
         },
         "172_0": {
             "lines": [
-                "Hmm. Wait..."
+                "Hmm. Wait... You're Marisa...!"
             ]
         },
         "180_0": {
             "lines": [
-                "That's not even the season",
-                "now outside, and yet you're wearing..."
+                "And, that's not even the season",
+                "now outside, yet you're wearing..."
             ]
         },
         "188_0": {
