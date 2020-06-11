@@ -13,8 +13,8 @@
         "@",
         "",
         "This is Okina Matara's theme, played as Sereinae Matara's public theme.",
+        "Re-arranged by Karl Zúñiga.",
         "",
-        "I chose to keep this song as it is because it fits in with the seasons you battle in.",
         "Just because it is my favorite song, so I couldn't just throw it away, it first gives",
         "a shy and eerie feeling at the start of the song, it becomes then warm, hyperactive and grand,",
         "wanting you give all you got, and I think it fits Serein's eerie look, yet warm personality."
