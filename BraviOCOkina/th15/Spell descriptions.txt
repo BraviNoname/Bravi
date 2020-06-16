@@ -37,3 +37,11 @@ Light Sign "Bright Lights's Blizzard"
 Serein shoots bright orbs, that, upon turning into lasers to snipe the player, shoot more bullets on spots. The delay and space between lasers and the density of the icicle bullets depend on the difficulty.
 
 I wish having bullets turn into lasers didn't always recall Clownpiece... So I try to add my sauce to that spellcard.
+
+
+Stage 6 Midboss - Sereinae:
+
+Spell - All difficulties :
+Link Sign "The Bullet that Reflects my Origins"
+
+Serein fires bullets from her nonspell that bounce back down, reflecting the main bullet used by her opponent, and warning them of the tragedy that might come if they get hit even once.
