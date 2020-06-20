@@ -32,6 +32,6 @@
     "115": "Star Link \"Shining Seven Sapphires\"",
     "116": "Sun&Moon Link \"Reckless Stars VS. Lunatic Danmaku\"",
     "117": "Secret Trinity \"Mirage Split of Mental and Life Forces\"",
-    "118": "Secret Summon \"Lingering Four Seasons\"",
+    "118": "Secret God \"Lingering Four Seasons\"",
     "137": "\"The True Face of Everyone's Nobody\""
 }
