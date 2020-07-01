@@ -33,7 +33,7 @@
         "@",
         "",
         "The theme for Okina Matara (True), played as Sereinae Matara's true final theme.",
-        "",
+        "Re-arranged by Karl Zúñiga.",
         "I couldn't put a different boss because of the fact they share the same name on screen.",
         "This song fits for someone who got created by Okina, and playing the avatar role for her,",
         "I thought the sad parts of this song would fit in, as well as the cheerful, yet strong finale.",
