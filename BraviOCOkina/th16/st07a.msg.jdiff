@@ -179,7 +179,7 @@
         "348_0": {
             "lines": [
                 "Nice way of thinking!",
-                "I won't even have a reason to reclaim the door!"
+                "I won't even have a reason to reclaim the door's power!"
             ]
         },
         "356_0": {
@@ -233,13 +233,13 @@
     "1": {
         "34_0": {
             "lines": [
-                "These moves..."
+                "These moves... What are you, really?"
             ]
         },
         "42_0": {
             "lines": [
                 "Did she beat me...? Even with Okina's possession...",
-				"I thought I went too far, but..."
+				"Even with that last move I used at the end when it wore off..."
             ]
         },
         "50_0": {
@@ -250,7 +250,8 @@
         },
         "58_0": {
             "lines": [
-                "Okay, now I've won for real."
+                "You seem to be knowledgeable about me...",
+				"But nonetheless, I won for real now."
             ]
         },
         "66_0": {
@@ -307,8 +308,8 @@
         },
         "138_0": {
             "lines": [
-                "You always get way too chummy",
-                "with me as soon as you lose, too."
+                "Aren't you a little way to chummy?",
+                "Youkai always seem to be like that when they lose."
             ]
         },
         "146_0": {
