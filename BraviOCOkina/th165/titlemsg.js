@@ -16,7 +16,7 @@
         "She seems to have some magic knowledge."
     ],
     "14_5": [
-        "Stop harrassing me with these knives! They're dangerous you know!",
+        "She's now going against me with those two from before?!",
         "Wait, haven't I already said this before? I don't know..."
     ],
     "14_6": [
