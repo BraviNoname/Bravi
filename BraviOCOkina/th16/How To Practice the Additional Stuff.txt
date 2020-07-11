@@ -1,0 +1,14 @@
+Swap the following file names :
+
+st06Midboss.ecl with st06.ecl  
+(will make it so that stage 6 starts directly on the stage 6 midboss)
+
+st06bsSpell6Prac.ecl with st06bs.ecl 
+(will make it so that on the Spell Practice menu, Stolen Release "Extreme Winter" starts Time Hindrance "Rewind of the Wet&Dry Seasons" instead. Timing it out will make it so that the spell automatically restarts.)
+
+st07bsSpell11Prac.ecl with st07bs.ecl 
+(will make it so that on the Spell Practice menu, Secret God "Lingering Four Seasons" starts "The True Face of Everyone's Nobody" instead)
+
+Watch out that no updates start putting the files back, or else you'll have to start over, in case this happens, delete the two files you wanted to swap, let the updates put the files back, and try swapping them again.
+
+Once you're done practicing or want things to go back to normal, just delete the files and let the updates put them back how they were.
