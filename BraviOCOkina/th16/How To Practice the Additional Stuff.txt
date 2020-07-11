@@ -1,13 +1,15 @@
-Swap the following file names :
+Delete the original st06.ecl, st06bs.ecl or st07bs.ecl files, according to what you want to practice.
 
-st06Midboss.ecl with st06.ecl  
+Rename the following files :
+
+st06Midboss.ecl into st06.ecl  
 (will make it so that stage 6 starts directly on the midboss)
 
-st06bsSpell6Prac.ecl with st06bs.ecl 
+st06bsSpell6Prac.ecl into st06bs.ecl 
 (will make it so that on the Spell Practice menu, Stolen Release "Extreme Winter" starts Time Hindrance "Rewind of the Wet&Dry Seasons" instead. 
 Timing it out will make it so that the spell automatically restarts. Though you can start this spell on Easy and Normal, it's still meant to be a Hard/Lunatic only spell)
 
-st07bsSpell11Prac.ecl with st07bs.ecl 
+st07bsSpell11Prac.ecl into st07bs.ecl 
 (will make it so that on the Spell Practice menu, Secret God "Lingering Four Seasons" starts "The True Face of Everyone's Nobody" instead)
 
 Watch out that no updates start putting the files back, or else you'll have to start over, in case this happens, delete the two files you wanted to swap, let the updates put the files back, and try swapping them again.
