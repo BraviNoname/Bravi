@@ -16,8 +16,8 @@
         "Re-arranged by Karl Zúñiga.",
         "",
         "Just because it is my favorite song, so I couldn't just throw it away, it first gives",
-        "a shy and eerie feeling at the start of the song, it becomes then warm, hyperactive and grand,",
-        "wanting you give all you got, and I think it fits Serein's eerie look, yet warm personality."
+        "a shy and eerie feeling at the start of the song, and becomes gentle, hyperactive and grand,",
+        "wanting you give all you got. I think it fits Serein's eerie look, yet gentle personality."
     ],
     "14": [
         "@",
