@@ -39,15 +39,10 @@ Berserk "Merciless Furies of the Back"
 
 Serein dashes towards you more frequently, making the breaks shorter and keep your breath longer. This is still no reason to make you lose your cool, right?
 
-Spell 3 - Easy/Normal :
-Paper Sign "Shuffled Card Curtain"
+Spell 3 - Easy/Normal/Hard/Lunatic :
+Illusion Sign "Concealed in Four Book Barriers"
 
-Serein makes cards appear across the screen, that get shuffled when she makes the screen shake. Don't be confused by the cards' movement and keep aimiing at the enemy.
-
-Spell 3 - Hard/Lunatic :
-Paper Sign "Slippery Card Curtain"
-
-The cards that appear on screen get shuffled even faster than usual, making the maneuver tougher. Keep the focus on the gap between the cards and misdirect the card ring that is aimed at you.
+Serein hides herself in four paper-made barriers, teleports thirteen times, ultimately stays in one ring, warns you before unleashing massive paper waves, destroying whoever stays outside of the ring she remains in.
 
 Spell 4 - Easy/Normal/Hard/Lunatic :
 Shotlock "Starry Hindrance"
