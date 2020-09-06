@@ -10,25 +10,25 @@ I wish bullet cap wasn't a thing there in the Lunatic version...
 Stage 1 Boss - Sereinae:
 
 Spell 1 - Easy/Normal/Hard :
-Starlight "Pouring Starlight"
+Butterfly Sign "Star-shaped Butterfly View"
 
-Serein shoots rings of butterflies, and those who hit the top edge of the screen transform into stars pouring down in the screen.
+Serein shoots 5 rings of butterflies, giving them a star shape, while also shooting sets of seven green stars exploding into pink ones.
 
 Spell 1 - Lunatic :
-Starlight "Flooding Starlight"
+Butterfly Sign "Butterfly Tanabata View"
 
-The rings she shoots are denser, making the dodging of the stars and butterflies tougher and tricky. Don't lose sight of the enemy's movement!
+The butterflies and star explosions are now denser, creating this makeshift festival, reminiscing her creator's servants. Don't lose sight of the enemy's movement!
 
 
 Spell 2 - Easy/Normal/Hard :
 Book Sign "Scattered Pages"
 
-Serein gathers a bunch of book pages that scatter all over the screen as a desperation move. Beware of the eventual gun bullets that can randomly come by.
+Serein gathers a bunch of book pages that scatter all over the screen as a desperation move. Beware of the eventual star bullets that come by.
 
 Spell 2 - Lunatic :
 Book Sign "Scattered Book Mess"
 
-The book page mess is much denser than usual. Still, the pattern is static and the gun bullets keeps the attention paid.
+The book page mess is much denser than usual. Still, the pattern is static, but the stars are now way faster, making them the main concern.
 
 
 Spell 3 - All difficulties :
