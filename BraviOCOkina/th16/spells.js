@@ -30,7 +30,7 @@
     "113": "Spirit Link \"Fantasy Seal -Homing Amulet-\"",
     "114": "Illusion Link \"Four Directions Remote Mesmerism (Origin Remote)\"",
     "115": "Star Link \"Shining Seven Sapphires\"",
-    "116": "Sun&Moon Link \"Reckless Stars VS. Lunatic Danmaku\"",
+    "116": "Sun&Moon Link \"Reckless Flare VS. Hourai Danmaku\"",
     "117": "Vessel & Servants \"Mirage Split of Mental and Life Forces\"",
     "118": "Vessel & Master \"Lingering Four Seasons\"",
     "137": "\"The True Face of Everyone's Nobody\""
