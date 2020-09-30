@@ -9,5 +9,5 @@
     "101": "\"Overflowing Point Item Value\"",
     "102": "Junk Sign \"Unpurely Junkery Hell\"",
     "104": "Junk Sign \"A Pristine Junkery Hell\"",
-    "115": "Moon \"Endless Lunatic Impact\""
+    "115": "Moon \"Your Game is History\""
 }
