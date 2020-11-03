@@ -9,5 +9,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/BossDisplayFixes/"
 	],
-	"title": "(Th10, 12 to 17, and 16.5) Same as Retexture but it's only a Boss Display Fix Patch."
+	"title": "(All Windows Main Games + 16.5) Same as Retexture but it's only a Boss Display Fix Patch + modernized sfx and Life/Bomb icons."
 }
