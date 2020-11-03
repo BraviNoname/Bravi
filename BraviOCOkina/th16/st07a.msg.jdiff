@@ -56,20 +56,20 @@
         },
         "172_0": {
             "lines": [
-                "Although you bravely fought...",
+                "Although you knocked me away...",
 				"In the end, you went off as well!"
             ]
         },
         "180_0": {
             "lines": [
-                "You had to collect season magic during your travel,",
-                "but that's precisely because of that..."
+                "You've gathered so much season energy,",
+                "and that's precisely because of that..."
             ]
         },
         "188_0": {
             "lines": [
-                "...that I could steal that power, making you helpless,",
-                "and mother Okina's doors got you driven out of this world."
+                "...that I took that power away, and",
+                "you got thrown away by one of Okina's doors."
             ]
         },
         "196_0": {
@@ -80,13 +80,13 @@
         },
         "204_0": {
             "lines": [
-                "Oh, I guess you don't remember. But I do, though!",
-                "You shouted at me to stop, after I've taken your powers on top of that."
+                "Oh, the truth can be harsh you know!",
+                "You even shouted at me to stop mid-fight."
             ]
         },
         "212_0": {
             "lines": [
-                "And whether you struggled or not, your back-door led you to the place",
+                "And the door that you took led you to the place",
                 "corresponding to the season magic you've collected. "
             ]
         },
@@ -179,7 +179,7 @@
         "348_0": {
             "lines": [
                 "Nice way of thinking!",
-                "I won't even have a reason to reclaim the door's power!"
+                "Gives me a reason not steal anything!"
             ]
         },
         "356_0": {
@@ -196,24 +196,25 @@
         },
         "372_0": {
             "lines": [
-                "Seeing that I owe my existence to determinated people like you makes me happy."
+                "Seeing that I owe my existence to determinated",
+				"people like you makes me happy."
             ]
         },
         "380_0": {
             "lines": [
-                "You're the Hakurei shrine maiden, you're then worshipping a god I don't know",
-                "anything about, then I can't hire you as the Secret God's subordinate."
+                "You're the Hakurei shrine maiden, you already have a job,",
+                "so, hiring you would overwhelm you, I know it."
             ]
         },
         "388_0": {
             "lines": [
-                "But you got wise, clever and bold enough to plan about something else.",
-				"Lemme welcome you as expected!"
+                "Even she would be proud of you...",
+				"Lemme welcome you as expected! ...."
             ]
         },
         "396_0": {
             "lines": [
-                ".... hehe... I can now feel the Secret God's possession!",
+                "....Yes, I can feel her power running through my body!",
                 "You won't get a show of your seasons-related memories again."
             ]
         },
@@ -225,8 +226,8 @@
         },
         "220_0": {
             "lines": [
-                "And yet you came back with that same season door you have.",
-                "What can you expect except lose again?"
+                "And yet you came back here like nothing happened.",
+                "Well, what did you learn this far?"
             ]
         }
     },
@@ -314,7 +315,7 @@
         },
         "146_0": {
             "lines": [
-                "Huh? That's how youkai behave? Should've known.",
+                "I'm sure they all are...",
 				"But in the end I've ended up being only human."
             ]
         },
@@ -460,7 +461,7 @@
         },
         "358_0": {
             "lines": [
-                "I'm sorry, I know mother's place so",
+                "I'm sorry, I know Okina's place so",
                 "I should be able to guide you..."
             ]
         },
