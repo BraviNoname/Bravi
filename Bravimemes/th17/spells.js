@@ -5,7 +5,7 @@
     "66": "Circular Shape \"Too-Much-Circle Creature\"",
     "68": "\"Lillies-Shaped Sculpting Art\"",
     "70": "\"Murderous Lilly Creatures\"", 
-    "72": "Haniwa \"Not-this-Idol Idol Sculpting Art\"",
+    "72": "Haniwa \"Not-this-Idol Sculpting Art\"",
     "74": "Haniwa \"Not-this-Idol Creature\"",
     "76": "\"Anarchy-Shaped Sculpting Art\"",
     "80": "\"GeomeTHICC Creature\"",
