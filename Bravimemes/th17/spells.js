@@ -10,7 +10,14 @@
     "76": "\"Anarchy-Shaped Sculpting Art\"",
     "80": "\"GeomeTHICC Creature\"",
     "84": "\"Idola Dominance\"",
+    "91": "Agile Skill \"Reverse Thrilling Shot\"",
+    "92": "Agile Skill \"Lightning Neigh Like a Heron\"",
     "93": "Secret Ceremony \"Kurokomah Dukkha\"",
     "94": "\"Overflowing Epidemicity\"",
-    "98": "\"Peerless Dark Pegasus\""
+    "95": "Agile Skill \"Beyblade of Death\"",
+    "96": "Agile Skill \"Black Pegasus Rear Shot\"",
+    "97": "Agile Skill \"Washing Muscle Explosion\"",
+    "98": "\"Peerless Dark Pegasus\"",
+    "99": "\"Vengeful Cannibal Oni-Shaped Hoi Polloi\"",
+    "100": "\"Deadly Deeds of Devilish Beasts\""
 }
