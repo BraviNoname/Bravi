@@ -5,6 +5,9 @@
 		"nmlgc/western_name_order",
 		"thpatch/lang_en"
 	],
+	"fonts": {
+		"RussellSquare.ttf": true
+	},
 	"id": "BraviOCOkina",
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/BraviOCOkina/"
