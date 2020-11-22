@@ -83,20 +83,20 @@
         },
         "236_0": {
             "lines": [
-                "I guess you can call her my mother and teacher.",
-                "For her sake, I've gotta find successors for Mai and Satono..."
+                "She's my teacher, the one who taught we everything.",
+                "This time, she gave me a task to find replacements for Mai and Satono..."
             ]
         },
         "244_0": {
             "lines": [
-                "Successors?",
+                "Replacements?",
                 "By \"Mai and Satono,\" you mean those dancers from before, right?"
             ]
         },
         "252_0": {
             "lines": [
-                "Yeah, her precious arms and legs, while I'm being her <i$heart.>",
-                "She recruits humans from the outside to replace them."
+                "Yeah, Okina relies on all of us to exert her power.",
+                "And sometimes we gotta replace these two by outsiders."
             ]
         },
         "260_0": {
@@ -112,7 +112,8 @@
         },
         "276_0": {
             "lines": [
-                "From what I've seen, it's an easy job, I guess."
+                "It's not too hard for a human as strong as you!",
+				"At least I think..."
             ]
         },
         "284_0": {
@@ -140,7 +141,7 @@
         },
         "316_0": {
             "lines": [
-                "I see you have a high sense of freedom.",
+                "I understand what you want to do with your life.",
                 "But, the thing is..."
             ]
         },
@@ -157,8 +158,8 @@
         },
         "340_0": {
             "lines": [
-                "Well, you came here, you got chosen and all.",
-                "But then even if I didn't want to, I will have to hire you by force!"
+                "Well, you came here, you got chosen and all. But I have no choice.",
+                "Even if I didn't want to, I'm gonna have to hire you by force!"
             ]
         },
         "348_0": {
@@ -175,8 +176,8 @@
         },
         "364_0": {
             "lines": [
-                "Now let's begin the final test where one faces their memories of",
-                "previously visited places. Prepare yourself, magician!"
+                "Face your memories in that final test, magician!",
+                "You better not disappoint us, not in front of me!"
             ]
         }
     },

@@ -89,7 +89,7 @@
         },
         "244_0": {
             "lines": [
-                "You will become the same as before...",
+                "You will become the same as before, losing that tan as well...",
                 "You were a few steps away from turning into a youkai, you know..."
             ]
         },
@@ -149,13 +149,13 @@
         "324_0": {
             "lines": [
                 "Indeed, show me your power!",
-				"Show me if a fairy like you..."
+				"Prove to me that you're the strongest!"
             ]
         },
         "332_0": {
             "lines": [
-                "...can dance around this danmaku, coming from",
-                "the memories of the various places you've visited before!"
+                "I shall draw your memories forth, make",
+                "you face them from start to end!"
             ]
         }
     },
