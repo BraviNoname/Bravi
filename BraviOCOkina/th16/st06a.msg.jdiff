@@ -207,7 +207,7 @@
     "4": {
         "104_0": {
             "lines": [
-                "Welp, looks like you're all here!",
+                "Looks like your course changed!",
                 "Just telling you!"
             ]
         },
@@ -221,7 +221,7 @@
     "5": {
         "104_0": {
             "lines": [
-                "Hey looks like you ended up there!",
+                "Looks like your itinerary got revised!",
                 "Now then!"
             ]
         },
