@@ -102,7 +102,7 @@
         "260_0": {
             "lines": [
                 "Successors? What are you planning to do with me?",
-                "And how do you know my name?"
+                "And how do you know my name? This sounds creepy..."
             ]
         },
         "268_0": {
@@ -125,14 +125,14 @@
         },
         "292_0": {
             "lines": [
-                "What?!",
-                "Quit playing around already!"
+                "What good news?!",
+                "There is an incident outside! You call that good news?"
             ]
         },
         "300_0": {
             "lines": [
-                "You might not have any business with me,",
-                "but I sure have some with you!"
+                "No matter if you have any business with me,",
+                "I sure have some with you!"
             ]
         },
         "308_0": {
