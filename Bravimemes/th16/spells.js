@@ -1,4 +1,4 @@
 {
-    "70": "Back Sign \"Halo of the Secretly Murderous Lillies\"",
-    "73": "Back Sign \"Halo of the Absolute Secretly Murderous Lillies\""
+    "70": "Back Sign \"Murderous Backdoor of the Secret God\"",
+    "73": "Back Sign \"Muderous Backdoor of the Absolute Secret God\""
 }
