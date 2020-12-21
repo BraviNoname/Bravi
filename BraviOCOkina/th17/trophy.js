@@ -12,7 +12,7 @@
 
     "37": "Looks like she dropped her book!",
     "37_1": [
-        "Found the Rare Beast Spirit in Stage 5, the Book of Retribution.",
+        "Found the Rare Beast Spirit in Stage 5, the Book of Memories.",
         "Beat the midboss when she's taking a break!",
         "The window is pretty short and gets shorter on higher difficulties."
     ],
