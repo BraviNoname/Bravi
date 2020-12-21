@@ -1,0 +1,281 @@
+{
+    "2": {
+        "104_0": {
+            "lines": [
+                "That's how things work...",
+                "If there's an incident..."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Then you gotta beat the one behind it!",
+				"But is that the right choice to make?"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "So this is the inside of that kofun..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "This place is just weird on top of weird."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Wolf spirit, where's our enemy?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "<i$(...)>"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "<i$(W-What is all this!?)>"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "<i$(The Garden was so full of nature, but now...>",
+                "<i$I'll never forgive them!)>"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "How rare to have a visitor."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "I thought there was no one left who could face us.",
+                "After that human from earlier came..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "I've finally found you!"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "The god of destruction who broke the laws of animal-kind!",
+                "Keiki Haniyasushin!"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "I brought a live human along",
+                "to destroy your idols!"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "A live human!?"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "That's ridiculous...",
+                "Who would believe that?"
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Sure ain't ridiculous.",
+                "I'm a human."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "And who're you?"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "I came here lead by",
+                "all the beast spirits, but..."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Ahaha!",
+                "I see. You certainly do seem to be a human."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "But, what exactly do you",
+                "hope to accomplish..."
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "by tricking and dragging along some foolish human who",
+                "doesn't know anything? Care to answer, wolf spirit?"
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "288_0": {
+            "lines": [
+                "You're a wolf from the Keiga Family, right?",
+                "Useless for everything except biting?"
+            ]
+        },
+        "296_0": {
+            "lines": [
+                "...How'd you know?"
+            ]
+        },
+        "304_0": {
+            "lines": [
+                "Heh heh heh."
+            ]
+        },
+        "312_0": {
+            "lines": [
+                "You there, human.",
+                "Don't let this beast spirit deceive you."
+            ]
+        },
+        "320_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "328_0": {
+            "lines": [
+                "|\tI am the \t,\tsculptor god\t,Idola Deus",
+                "I am the sculptor god who protects the ",
+                "human spirits from those foul beasts."
+            ]
+        },
+        "336_0": {
+            "lines": [
+                "There's no need for fellow humans to fight each other.",
+                "Don't you agree?"
+            ]
+        },
+        "344_0": {
+            "lines": [
+                "Eh?",
+                "Are you human?"
+            ]
+        },
+        "352_0": {
+            "lines": [
+                "Don't be fooled, magician."
+            ]
+        },
+        "360_0": {
+            "lines": [
+                "She's a wicked god who destroyed",
+                "natural providence!"
+            ]
+        },
+        "368_0": {
+            "lines": [
+                "She's an enemy of beasts, and of humans!"
+            ]
+        },
+        "376_0": {
+            "lines": [
+                "W-What?",
+                "I can't tell what's going on anymore."
+            ]
+        },
+        "384_0": {
+            "lines": [
+                "Which one of you is lying?"
+            ]
+        },
+        "392_0": {
+            "lines": [
+                "To trust in me or the beast spirit?",
+                "I wonder why you hesitate? That other human didn't!"
+            ]
+        },
+        "400_0": {
+            "lines": [
+                "I am a god who saved the",
+                "oppressed human spirits!"
+            ]
+        },
+        "408_0": {
+            "lines": [
+                "And the beast spirit possessing you",
+                "right now is an enemy of humankind!"
+            ]
+        },
+        "416_0": {
+            "lines": [
+                "Well...",
+                "Won't you join my side...?"
+            ]
+        },
+        "432_0": {
+            "lines": [
+                "<i$(She's about to unleash her sculpting arts!>",
+                "<i$Every last one of us beast spirits was defeated by them!)>"
+            ]
+        },
+        "424_0": {
+            "lines": [
+                "<i$(T-This is bad!>",
+                "<i$There's no time to lend her an ear, human!)>"
+            ]
+        },
+        "440_0": {
+            "lines": [
+                "We must retreat for now!",
+                "RUN!"
+            ]
+        },
+        "448_0": {
+            "lines": [
+                "You seemed to have some sort of plan, but",
+                "to escape from the enemy...!"
+            ]
+        },
+        "456_0": {
+            "lines": [
+                "I'm disappointed.",
+                "But beasts are beasts, after all."
+            ]
+        },
+        "464_0": {
+            "lines": [
+                "Very well. I'll destroy this human's body of flesh,",
+                "and build it anew from soil and water!"
+            ]
+        },
+        "472_0": {
+            "lines": [
+                "Human from the surface!",
+                "I will make you into the Animal Realm's finest idol!"
+            ]
+        }
+    },
+    "3": {
+        "34_0": {
+            "lines": [
+                "Human, you've done well to survive this long!",
+                "Help is on the way!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<i$We> are the strong ones now!",
+                "Land the finishing blow on this wicked god of isolation!"
+            ]
+        }
+    }
+}
