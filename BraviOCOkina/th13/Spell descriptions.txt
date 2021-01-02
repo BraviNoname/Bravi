@@ -15,7 +15,6 @@ Book Sign "Maze of a Million Pages"
 
 The screen gets so flooded with so many pages that keeping track of the enemy becomes very tough.
 
-
 Stage 5 Boss - Sereinae:
 
 Spell 1 - Easy/Normal :
@@ -27,7 +26,6 @@ Spell 1 - Hard/Lunatic :
 Snipe Sign "Relentless Sharp Shooting"
 
 This time, the bullets she shoots at you are way faster and the corridor restrcting your movement appears more suddenly. Be on your guard when the latter happens.
-
 
 Spell 2 - Easy/Normal :
 Berserk "Wrath of the Rear Face"
@@ -42,7 +40,7 @@ Serein dashes towards you more frequently, making the breaks shorter and keep yo
 Spell 3 - Easy/Normal/Hard/Lunatic :
 Illusion Sign "Concealed in Four Book Barriers"
 
-Serein hides herself in four paper-made barriers, teleports thirteen times, ultimately stays in one ring, warns you before unleashing massive paper waves, destroying whoever stays outside of the ring she remains in.
+While summoning a meteor storm, Serein hides herself in four paper-made barriers, teleports thirteen times, ultimately stays in one ring, warns you before unleashing massive paper waves, destroying whoever stays outside of the ring she remains in.
 
 Spell 4 - Easy/Normal/Hard/Lunatic :
 Shotlock "Starry Hindrance"
