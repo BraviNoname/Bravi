@@ -8,13 +8,14 @@
         },
         "308_0": {
             "lines": [
-                "We heard that you didn't make the cut.",
-                "Can't say I saw that one coming!"
+                "It seems like Sereinae rejected you.",
+                "Can't say I know why she decided so."
             ]
         },
         "432_0": {
             "lines": [
-                "But you're certainly not coming with us!"
+                "Which means you're not",
+				"qualified to see her again!"
             ]
         }
     },
