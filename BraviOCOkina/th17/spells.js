@@ -7,6 +7,8 @@
     "54": "Haniwa \"Reinforcements of the Idol God\"",
     "56": "Idol Link \"Performance of the Bookworm Idol\"",
     "58": "Idol Link \"Unafraid Bookworm Idol Performance\"",
+    "72": "Haniwa Revival \"Corporal and Horse Rider Idol Sculpting Art\"",
+    "74": "Haniwa Revival \"Corporal Idol Creatures\"",
     "80": "\"Geometric Hexagon Creature\"",
     "84": "\"The Idol Goddess and the Shadow of an Idol\"",
     "137": "Paper Sign \"Dance Scattering Pages\"",

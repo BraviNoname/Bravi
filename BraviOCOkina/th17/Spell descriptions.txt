@@ -74,6 +74,14 @@ Linear Shape "Linear Creature"
 
 This altered version of the spellcard has Keiki fire pentagons instead of squares.
 
+Spell 4 - Easy/Normal :
+Haniwa Revival "Corporal and Horse Rider Idol Sculpting Art"
+Spell 4 - Hard/Lunatic :
+Haniwa Revival "Corporal Idol Creatures"
+
+Mayumi got repaired and revived by Keiki, teaming up against one common opponent. 
+The patterns from the base spell card have been toned down to make Mayumi's attacks balance the spellcard.
+
 Spell 6 - Easy/Normal/Hard/Lunatic :
 "Geometric Hexagon Creature"
 
