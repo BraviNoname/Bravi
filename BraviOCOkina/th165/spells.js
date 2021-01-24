@@ -4,7 +4,7 @@
     "53": "Doll Link \"Hidden Shell Game in Five Dolls\"",
     "54": "Four Elements Link \"Covert Fire, Air, Earth and Water\"",
     "55": "Vessel & Servants \"Time-Rewinding Flowery Bonds\"",
-    "93": "\"Nightmarish Star Barrier\"",
-    "95": "\"United Shut-in-Exposer Back Star Exorcism\"",
-    "97": "\"United Reversed Sapphire Master Spark\""
+    "93": "\"Secret God's Possessed Barrier\"",
+    "95": "\"United Exorcism of the Sneak-Photographer\"",
+    "97": "\"United Master Spark's Back Anarchy\""
 }
