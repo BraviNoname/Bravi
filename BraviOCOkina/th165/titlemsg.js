@@ -9,7 +9,7 @@
     ],
     "14_3": [
         "Is she just playing with me? I never lose at these sorts of games!",
-        "I bet meanwhile she's having fun while sitting on her chair."
+        "Though the punishment for losing is pretty harsh."
     ],
     "14_4": [
         "These bullets all represent an element according to the colors.",
