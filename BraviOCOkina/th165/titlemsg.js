@@ -24,15 +24,15 @@
         "She has my thanks for willing to help me, I feel now some power on my back!"
     ],
     "21_1": [
-        "Why is she being aided by these dream dwellers?",
-        "Is this is her Nightmare self she talked about? By looking at those red eyes..."
+        "What happened to that girl? She doesn't look like...",
+        "Herself anymore, is she being controlled?"
     ],
     "21_3": [
         "A union they say? What do these two share to be called so?",
-        "She calls herself a shut-in? But why is she showing up to me?"
+        "They do look like they're trying to corner me, what did I do wrong?"
     ],
     "21_5": [
         "Quit aiming at me from below already! And Marisa-cchi seems to",
-        "appreciate this Nightmare's lack of common sense."
+        "get along with whoever-this-is's lack of common sense."
     ]
 }
