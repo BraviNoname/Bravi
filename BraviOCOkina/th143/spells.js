@@ -1,4 +1,4 @@
 {
-    "70": "\"Impossible Reading of Four Chapters\"",
+    "70": "\"The Four Chapters of a Replica's Life\"",
     "75": "\"The Frustration of Being Only a Creation\""
 }
