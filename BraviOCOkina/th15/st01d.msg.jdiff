@@ -24,12 +24,12 @@
         "160_0": {
             "lines": [
                 "I don't know on which side you are.",
-                "But nonetheless..."
+                "Are you perhaps against those moon people?"
             ]
         },
         "168_0": {
             "lines": [
-                "If you don't win this fight,",
+                "Eh, if you don't win this fight,",
                 "I'll handle this myself!"
             ]
         }
@@ -37,7 +37,7 @@
     "1": {
         "34_0": {
             "lines": [
-                "Gee...",
+                "Gee... Good job...",
                 "I can't always win can I?"
             ]
         },
@@ -49,20 +49,20 @@
         },
         "50_0": {
             "lines": [
-                "So, you weren't fighting the enemy...",
+                "I'm an enemy of those moon people.",
                 "Not one of their underlings."
             ]
         },
         "58_0": {
             "lines": [
                 "Oh that's right. You work for Lady Kaguya!",
-                "Well, you won, so you can deal with them yourself."
+                "Well you won, so you'll deal with that."
             ]
         },
         "66_0": {
             "lines": [
-                "That's fine, that was a good warmup",
-                "anyways."
+                "Works for me! That fight was",
+                "a good warmup anyways."
             ]
         },
         "74_0": {

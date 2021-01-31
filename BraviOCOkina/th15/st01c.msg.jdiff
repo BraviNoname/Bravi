@@ -9,35 +9,36 @@
         "102_0": {
             "lines": [
                 "A probe huh.",
-                "I haven't seen one in my way!"
+                "I haven't seen one in my way."
             ]
         },
         "144_0": {
             "lines": [
-                "...oh that's right! They're using these to",
-                "purify the Earth, I guess..."
+                "They said they're using these to",
+                "purify the Earth, that's quite dangerous..."
             ]
         },
         "152_0": {
             "lines": [
-                "That's bad news, and I got plainly defeated."
+                "And their rules are pretty strict you know."
             ]
         },
         "160_0": {
             "lines": [
-                "There was one in the way.",
-                "But I can't find it."
+                "What rules exactly?",
+                "And who are you talking about?"
             ]
         },
         "168_0": {
             "lines": [
-                "But, what are you going to do anyways?"
+                "The people up there, on that small",
+				"round shaped white thing in the sky!"
             ]
         },
         "176_0": {
             "lines": [
                 "If you're gonna do something about the people who",
-				"made them, then you gotta be ready!"
+				"made that dangerous object, then you gotta be ready!"
             ]
         }
     },
@@ -74,8 +75,7 @@
         },
         "74_0": {
             "lines": [
-                "I see, I see. Thank you.",
-                "Wait, did you say...?"
+                "I see, I see. Thank you."
             ]
         }
     }

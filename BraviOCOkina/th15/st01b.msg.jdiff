@@ -8,19 +8,19 @@
         },
         "102_0": {
             "lines": [
-                "Hello, Magician.",
-                "So, how's it going?"
+                "You're not a new",
+                "face to me though."
             ]
         },
         "144_0": {
             "lines": [
-                "Though I'm a new face to you, you're",
-                "quite familiar to me, you know."
+                "Though it's sad that you don't",
+                "remember about me, really..."
             ]
         },
         "152_0": {
             "lines": [
-                "I wish we could meet in some other circumstances tho..."
+                "This incident, and me bumping into you..."
             ]
         },
         "160_0": {
@@ -31,7 +31,8 @@
         },
         "168_0": {
             "lines": [
-                "That's a secret I can't reveal..."
+                "This is a too long story...",
+				"I feel like you don't want to know about it."
             ]
         },
         "176_0": {
@@ -62,7 +63,7 @@
         },
         "58_0": {
             "lines": [
-                "Don't worry about me, please... Some unseen rabbits",
+                "That's not important right now, some unseen rabbits",
                 "said they wanted to do something to the Earth..."
             ]
         },

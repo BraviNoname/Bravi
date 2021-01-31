@@ -8,37 +8,36 @@
         },
         "102_0": {
             "lines": [
-                "Oh, hello there, Reimu!",
-                "Where are you going?"
+                "Now that's a familiar face!"
             ]
         },
         "140_0": {
             "lines": [
-                "I've seen by myself what's happening...",
-                "Yeah up there on the moon..."
+                "I've been on the moon a few seconds ago.",
+                "Their rules about no mistakes is tough..."
             ]
         },
         "148_0": {
             "lines": [
-                "I'm pretty beaten up you know..."
+                "I got beaten up there and I'm warning you..."
             ]
         },
         "156_0": {
             "lines": [
-                "Huh? Are you sure you're okay?",
-                "You don't seem like you are."
+                "Huh? Who are you? And you don't look like this",
+                "is the only thing bothering you..."
             ]
         },
         "164_0": {
             "lines": [
-                "Eh, it's alright, it's alright.",
+                "Eh, it's alright, I'm overthinking.",
                 "I know you'll take care of that!"
             ]
         },
         "172_0": {
             "lines": [
-                "But, as a forewarning,",
-                "I'll get to test you right now!"
+                "But since I can never be too careful, let's say",
+                "the stronger one gets to go to the moon!"
             ]
         }
     },
@@ -51,32 +50,32 @@
         },
         "42_0": {
             "lines": [
-                "Wait, how do you know",
-                "my name? We've never met before!"
+                "Wait, what do you mean by familiar face?",
+                "Have we met before?"
             ]
         },
         "50_0": {
             "lines": [
-                "And most of all, if you've been up there..",
-                "That means you know something."
+                "And most of all, if you've been up there,",
+                "that means you know something that I don't."
             ]
         },
         "58_0": {
             "lines": [
-                "Tell me where the enemy's base is!",
-                "Or else..."
+                "For starters, tell me where the",
+                "enemy's base is! That'll help me!"
             ]
         },
         "66_0": {
             "lines": [
-                "Uh, it's a long story...",
-                "And here's where they are."
+                "We've probably met each other a while ago...",
+                "And here's where their base is."
             ]
         },
         "74_0": {
             "lines": [
                 "Right up the mountain, at the lake",
-                "near Sanae's home!"
+                "near Sanae's home! Best of luck!"
             ]
         }
     }
