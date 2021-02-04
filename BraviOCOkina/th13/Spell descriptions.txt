@@ -18,22 +18,22 @@ The screen gets so flooded with so many pages that keeping track of the enemy be
 Stage 5 Boss - Sereinae:
 
 Spell 1 - Easy/Normal :
-Snipe Sign "Sharp Shooting"
+Gun Sign "Sharp Shooting"
 
 Serein dashes from the sides of the screen while sniping at you, then decides to hinder your movement as she still shoots at you.
 
 Spell 1 - Hard/Lunatic :
-Snipe Sign "Relentless Sharp Shooting"
+Gun Sign "Relentless Sharp Shooting"
 
 This time, the bullets she shoots at you are way faster and the corridor restrcting your movement appears more suddenly. Be on your guard when the latter happens.
 
 Spell 2 - Easy/Normal :
-Moon Berserk "Wrath of the Rear Face"
+Moon Sign "Wrath of the Rear Face"
 
 Serein dashes little by little towards you while unleashing shockwaves at you, then backs off while still shooting. Don't panic and keep moving aside when needed.
 
 Spell 2 - Hard/Lunatic :
-Moon Berserk "Merciless Furies of the Back"
+Moon Sign "Merciless Furies of the Back"
 
 Serein dashes towards you more frequently, making the breaks shorter and keep your breath longer. This is still no reason to make you lose your cool, right?
 
@@ -49,13 +49,13 @@ Serein locks your position on and scatters stars around you that bounce back dow
 Don't forget the cards bounce off the borders of the screen as well.
 
 Spell 4 - Overdrive :
-Final Limit "The Ultimate, Absolute Skill Rush"
+"The Ultimate, Absolute Skill Rush"
 
 Serein calls upon all of her skills one by one as the stars that bounce down get way denser and the cards that aim at you aim back at the same time, making the confusion even bigger.
 This is Serein's ultimate skill as a human who acts independently from the Secret God.
 
 Spell 5 - Hard/Lunatic :
-"Enduring the Flow of Time Until the End"
+Time Link "Endure the Imperishable Flow of Time"
 
 Sereinae takes a defensive position, enduring her enemy's attacks in order to wear them down, while as time goes on, the glowing bullets turn from blue, to teal, to green... Don't take the wrong gaps, aka the ones that get occupied by a glowing bullet, and anticipate when said bullets come.
 
