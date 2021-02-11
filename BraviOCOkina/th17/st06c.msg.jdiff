@@ -95,7 +95,7 @@
         "240_0": {
             "lines": [
                 "...Wait, are you",
-                "a human!?"
+                "a human? Another one?!"
             ]
         },
         "248_0": {
@@ -128,8 +128,8 @@
         },
         "288_0": {
             "lines": [
-                "I see... You possessed a human",
-                "and brought them all the way here."
+                "I see... Since you failed at using that human,",
+                "you had a backup plan to use another one."
             ]
         },
         "296_0": {
@@ -272,7 +272,7 @@
         },
         "488_0": {
             "lines": [
-                "You built up this whole plan, and now you flee",
+                "You built up this whole plan, and now you flee once again",
                 "in the face of the enemy...! Truly the height of idiocy!"
             ]
         },
