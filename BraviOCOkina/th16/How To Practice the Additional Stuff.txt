@@ -2,7 +2,7 @@ Delete the original st06.ecl (st6 midboss), st06bs.ecl (st6 spell 6) or st07bs.e
 
 Rename the following files :
 
-st06Midboss.ecl into st06.ecl  
+st06MidbossPrac.ecl into st06.ecl  
 (will make it so that stage 6 starts directly on the midboss)
 
 st06bsSpell6Prac.ecl into st06bs.ecl 
