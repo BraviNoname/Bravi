@@ -40,7 +40,7 @@
         },
         "180_0": {
             "lines": [
-                "Oh Reimu is there? Yeah, as I told her...",
+                "Hm... Alright, sounds good.",
                 "By the way, nice to meet you, who are you?"
             ]
         },
@@ -75,14 +75,14 @@
         },
         "228_0": {
             "lines": [
-                "No, seriously someone has to be behind this.",
-                "And you're definitely a clue!"
+                "Hm, you're bizarre.",
+                "When looking at you..."
             ]
         },
         "236_0": {
             "lines": [
-                "Just cough everything you know up!",
-                "I bet fighting you can even jog my memory!"
+                "You reek of mother's energy...",
+                "Just who are you, really? A creation?"
             ]
         }
     },
@@ -100,7 +100,8 @@
         },
         "50_0": {
             "lines": [
-                "Hm. I still can't remembeeer..."
+                "I knew it... What have you been doing",
+				"this whole time by the way?"
             ]
         },
         "58_0": {
@@ -141,19 +142,19 @@
         "106_0": {
             "lines": [
                 "A komainu that got sentient, hm...",
-                "And I can sense that you got an influence on your back."
+                "Yeah, someone made you become sentient, I believe it's her."
             ]
         },
         "114_0": {
             "lines": [
-                "I gotta look somewhere else, the last season area",
-                "I'll visit will surely have a clue."
+                "But I can't find anything here either.",
+                "The doors are all locked!"
             ]
         },
         "122_0": {
             "lines": [
-                "But I'm not sure I'll meet anyone in particular there.",
-                "Is that what it feels to get lost when looking for something?"
+                "Maybe if I go to that place from Marisa's memories...",
+                "Yeah, that's the last place from the influence of the incident."
             ]
         },
         "130_0": {
@@ -174,7 +175,7 @@
         },
         "154_0": {
             "lines": [
-                "Really, what's giving her that back energy?"
+                "How did Reimu come in the land of the back-doors?"
             ]
         },
         "162_0": {

@@ -12,8 +12,8 @@
         },
         "50_0": {
             "lines": [
-                "So the incident has spread around here...",
-                "It suddenly got colder."
+                "I saw a mountain within Reimu's memories.",
+                "So, that's what it is, right."
             ]
         },
         "58_0": {
@@ -31,12 +31,13 @@
         "74_0": {
             "lines": [
                 "So, uh...",
-                "Who are you?"
+                "Could you please help me?"
             ]
         },
         "82_0": {
             "lines": [
-                "Who am I? Ain't nobody's problem."
+                "Huh? If you're asking for help,"
+				"well I'm gonna just help ya get outta here!"
             ]
         },
         "90_0": {
@@ -55,8 +56,8 @@
         },
         "42_0": {
             "lines": [
-                "Who am I? It shouldn't be anybody's problem either.",
-                "Just kidding. I'm just a passerby who investigates on an incident."
+                "I'm just a passerby who",
+                "investigates on an incident."
             ]
         },
         "50_0": {
@@ -73,12 +74,12 @@
         },
         "66_0": {
             "lines": [
-                "Hm, let's see... Oh that's what..."
+                "Hm, you don't know about the incident...",
             ]
         },
         "74_0": {
             "lines": [
-                "Living alone in the mountains..."
+                "So, about you, you live in the mountains, alone..."
             ]
         },
         "82_0": {
@@ -112,7 +113,7 @@
         "122_0": {
             "lines": [
                 "Depends of what it will cost to me, think I'll pass.",
-                "Alright, to the next area."
+                "I couldn't find anything here... Maybe somewhere else?"
             ]
         }
     }
