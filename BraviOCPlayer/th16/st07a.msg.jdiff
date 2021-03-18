@@ -463,13 +463,14 @@
         },
         "374_0": {
             "lines": [
-                "Yes, please..."
+                "Yes, please... Also, could you come to the shrine",
+				"just for some flower-viewing and all..."
             ]
         },
         "382_0": {
             "lines": [
-                "While we're at it, I'm planning to join the Hakurei Shrine",
-                "maiden for drinks and a flower-viewing at her shrine."
+                "I've been feeling that way...",
+                "But for you..."
             ]
         },
         "390_0": {
