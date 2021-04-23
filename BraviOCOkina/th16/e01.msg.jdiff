@@ -29,7 +29,7 @@
         "5_0": {
             "lines": [
                 "<r$Reimu  >\"Of course I did.",
-                "<l$>  I made sure she wouldn't spread her activities to the fairies, but she didn't seem to be aware.\""
+                "<l$>  I made sure she wouldn't spread her activities to the fairies, but she didn't seem to be aware of the events.\""
             ]
         },
         "6_0": {
@@ -40,12 +40,12 @@
         "7_0": {
             "lines": [
                 "<r$Reimu  >\"Her two friends were making the fairies go berserk from someone's orders actually,",
-                "<l$>  which was apparently making the seasons go out of control. I doubt she's a mastermind but...\""
+                "<l$>  which was apparently making the seasons go out of control. They both seem to know the mastermind.\""
             ]
         },
         "8_0": {
             "lines": [
-                "<r$Reimu  >\"Now that I made her make them stop,",
+                "<r$Reimu  >\"Now that I made her deal with the incident,",
                 "<l$>  it should gradually return to normal. Pretty sure anyway.\""
             ]
         },
@@ -57,12 +57,12 @@
         "10_0": {
             "lines": [
                 "<r$Reimu  >\"Actually... I never got a promise from her or anything.",
-                "<l$>  I just kinda shouted at her to stop it mid-fight.\""
+                "<l$>  Even though I managed to beat her, something happened.\""
             ]
         },
         "11_0": {
             "lines": [
-                "<r$Reimu  >\"It seems I got caught in her trap, so she got away.\""
+                "<r$Reimu  >\"I got caught by what seems to be a trap, so she got away.\""
             ]
         },
         "12_0": {
@@ -72,7 +72,7 @@
         },
         "13_0": {
             "lines": [
-                "<r$Reimu  >\"It looked like she could open doors to go anywhere in an instant,",
+                "<r$Reimu  >\"I faced memories of this incident, then she used a door",
                 "<l$>  so she had vanished before I realized what was going on.\""
             ]
         },
@@ -99,7 +99,7 @@
         "18_0": {
             "lines": [
                 "<r$Reimu  >\"If I don't do something about those mysterious back doors,",
-                "<l$>  she could be hiding anywhere. What a pain.\""
+                "<l$>  she might not do anything about it and they'll still be hiding.\""
             ]
         },
         "19_0": {
@@ -142,8 +142,8 @@
         },
         "26_0": {
             "lines": [
-                "Although the hidden human kept the hidden god undiscovered,",
-                " they'd at least keep an eye on her."
+                "Although the servant kept the hidden god undiscovered,",
+                " she'd at least keep an eye on her."
             ]
         },
         "27_0": {
