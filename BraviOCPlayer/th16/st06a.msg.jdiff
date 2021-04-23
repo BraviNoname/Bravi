@@ -45,7 +45,7 @@
         "188_0": {
             "lines": [
                 "You got defeated by the Hakurei shrine maiden.",
-                "At least you defeated my servants."
+                "Be glad you've at least defeated my servants."
             ]
         },
         "196_0": {
@@ -67,7 +67,7 @@
         },
         "220_0": {
             "lines": [
-                "Did you learn anything from any of",
+                "By the way did you learn anything from any of",
 				"your voyages through Gensokyo?"
             ]
         },
@@ -91,8 +91,8 @@
         },
         "252_0": {
             "lines": [
-                "I didn't call this incident off right now,",
-                "just to give you this sense of hurry to solve it by youself."
+                "As I didn't call this incident off right now, this made me",
+                "have you hurry back here for me to get these answers."
             ]
         },
         "260_0": {
@@ -144,13 +144,13 @@
         "324_0": {
             "lines": [
                 "Venting your frustration is something important,",
-                "but I believe you can move on easily."
+                "but I believe you're very resilient."
             ]
         },
         "332_0": {
             "lines": [
-                "Realize that the minds of those people",
-                "are only part of your subconscious!"
+                "Didn't you notice what made you so concerned about the",
+                "incident? It's your subconscious coming from these people!"
             ]
         },
         "340_0": {
