@@ -34,7 +34,7 @@
         },
         "50_0": {
             "lines": [
-                "Human hiding the god of hindrances, Sereinae!",
+                "Servant hiding the god of hindrances, Sereinae!",
                 "Answer my challenge!"
             ]
         },
@@ -58,7 +58,7 @@
         "172_0": {
             "lines": [
                 "Hm? You have a point, it is a cowardly trap.",
-                "Let's say it doesn't work that way."
+                "And you're half correct."
             ]
         },
         "180_0": {
@@ -69,14 +69,14 @@
         },
         "188_0": {
             "lines": [
-                "That's when you entered the door on your back",
-                "and returned to your own world."
+                "I used it as a last resort as you were winning.",
+				"But even though you kept getting the upper hand,"
             ]
         },
         "196_0": {
             "lines": [
-                "That's how this works, and I used it as a last resort.",
-				"That is, as you managed to at least knock me away."
+                "I backed off, but so did you,",
+                "you returned to your own world."
             ]
         },
         "204_0": {
@@ -204,8 +204,8 @@
         },
         "372_0": {
             "lines": [
-                "...heheheh, I feel now the Secret God's possession running through",
-                "my body. I don't really know why this is happening now..."
+                "I don't really know why this is happening now...",
+                "Something is taking control of my body... "
             ]
         },
         "380_0": {
@@ -230,14 +230,14 @@
         },
         "42_0": {
             "lines": [
-                "You're really good at dodging... ",
-                "Very well done..."
+                "I remember starting the fight, but then,",
+				"I got taken over, and I still lost! And you're used to that!"
             ]
         },
         "50_0": {
             "lines": [
-                "Even with the Secret God's possession over me,",
-				"I still lost! And you're used to that!"
+                "You're really good at dodging... ",
+                "Very well done..."
             ]
         },
         "58_0": {
@@ -282,13 +282,13 @@
         },
         "114_0": {
             "lines": [
-                "I've failed at my own job... We might have all been",
-                "pawns, but in the end you pulled through."
+                "I've failed at my own job... We might have all been pawns,",
+                "but in the end I got controlled and you pulled through."
             ]
         },
         "122_0": {
             "lines": [
-                "I can't afford to use any trickery against you anymore.",
+                "And I can't afford to use any trickery against you anymore.",
 				"There's no reason for you to refuse your victory!"
             ]
         },

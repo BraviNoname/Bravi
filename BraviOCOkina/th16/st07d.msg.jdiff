@@ -27,12 +27,12 @@
         },
         "102_0": {
             "lines": [
-                "Perhaps, yeah! But..."
+                "Did you come to see me?"
             ]
         },
         "140_0": {
             "lines": [
-                "Though you managed to throw me away...",
+                "During our last fight, though you managed to throw me away...",
                 "That wasn't quite enough, not to her eyes it would be..."
             ]
         },
@@ -233,8 +233,8 @@
         },
         "42_0": {
             "lines": [
-                "Even while mother was possessing me...",
-                "You've passed the test! Congratulations!"
+                "Huh? I started the fight and then something took me over...",
+                "I guess you passed the test, congratulations!"
             ]
         },
         "50_0": {
@@ -250,7 +250,7 @@
         },
         "66_0": {
             "lines": [
-                "Actually... I won't force you.",
+                "Oh yeah about that... I won't force you.",
                 "I'll give you the choice to become a new servant."
             ]
         },
@@ -281,13 +281,13 @@
         "106_0": {
             "lines": [
                 "Um, mother will release them, they'll become back to humans.",
-                "But if you decline, they'll stay as they are forever..."
+                "But the Marisa I knew from my dreams would be long gone from reality..."
             ]
         },
         "114_0": {
             "lines": [
-                "If you do accept, well the Marisa I knew from my",
-                "dreams would be long gone from reality..."
+                "But if you decline, they'll stay as they are forever...",
+                "It's sorta did this to you against my will, I think your freedom matters most."
             ]
         },
         "122_0": {
