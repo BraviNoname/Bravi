@@ -178,14 +178,14 @@
         },
         "340_0": {
             "lines": [
-                "<i$That fairy is surely interesting, I'd like to fight her myself!",
-                "Show me if you're as strong as you pretend to be against me!>"
+                "<i$That fairy is surely interesting, I'd like to fight her myself!>",
+                "<i$Show me if you're as strong as you pretend to be against me!>"
             ]
         },
         "348_0": {
             "lines": [
-                "<i$I, Okina Matara, challenges you through Sereinae's body!",
-                "See how this human tries to courageously wield my power!>"
+                "<i$I, Okina Matara, challenges you through Sereinae's body!>",
+                "<i$See how this human tries to courageously wield my power!>"
             ]
         }
     },
