@@ -9,5 +9,14 @@
     "101": "\"Overflowing Point Item Value\"",
     "102": "Junk Sign \"Unpurely Junkery Hell\"",
     "104": "Junk Sign \"A Pristine Junkery Hell\"",
-    "115": "Moon \"Your Game is History\""
+    "109": "Otherworld \"Walltastic Ōmagatoki\"",
+    "110": "Earth \"You're Waaaay too Impure\"",
+    "111": "Moon \"Apollo Polished Shining Reflection Mirror\"",
+    "112": "\"You're Not Getting Away Ma Boi\"",
+    "113": "Otherworld \"Hell's Too-Crazy-For-You Danmaku\"",
+    "114": "Earth \"Literal Rain Falling in Hell\"",
+    "115": "Moon \"Lunatic Cannon\"",
+    "116": "\"Pristine Danmaku for WAITWHATTHE-\"",
+    "117": "\"Heartless Trinitarian Rhapsody\"",
+    "118": "\"First and Last Pristine Danmaku Hell\""
 }
