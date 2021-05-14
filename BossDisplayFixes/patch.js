@@ -5,6 +5,9 @@
 		"nmlgc/western_name_order",
 		"thpatch/lang_en"
 	],
+	"fonts": {
+		"RussellSquare.ttf": true
+	},
 	"id": "BossDisplayFixes",
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/BossDisplayFixes/"
