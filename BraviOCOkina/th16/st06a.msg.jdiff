@@ -137,7 +137,7 @@
         },
         "308_0": {
             "lines": [
-                "Resolving this incident is my job! (She knows about it?)",
+                "Resolving this incident is my job! <i$(She knows about it?)>",
                 "I'm gonna defeat you and return Gensokyo to normal!"
             ]
         },
