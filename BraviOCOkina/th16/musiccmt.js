@@ -16,7 +16,7 @@
         "Re-arranged by Karl Zúñiga.",
         "Just because it is my favorite song and that it fits that very cinematic fight.",
         "A shy and eerie feeling at the start of the song, and becomes gentle, hyperactive and grand,",
-        "wanting you give all you got. All of that to correspond to the character's personality.",
+        "giving the feeling of giving one's best shot. All of that to correspond to the character's personality.",
 		"I've also added a nod to the Crazy Backup Dancers, somewhere... After all, she's a kind of douji."
     ],
     "14": [
@@ -35,8 +35,8 @@
         "The theme for Okina Matara (True), played as Sereinae Matara's true final theme.",
         "Re-arranged by Karl Zúñiga.",
         "I couldn't put a different boss because of the fact they share the same name on screen.",
-        "This song fits for someone who got created by Okina, and playing the avatar role for her,",
-        "I thought the sad parts of this song would fit in, as well as the cheerful, yet strong finale.",
-        "Because indeed she's cheerful, yet is a shut-in person, who would like to socialize."
+        "This time, Okina's power caught her off guard, she's now controlled by that very god.",
+        "The song then depicts her struggling with that control, feeling desperate at times,",
+        "then the melody in the end gives a sense of hope for her to overcome said control."
     ]
 }
