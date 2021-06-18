@@ -12,7 +12,7 @@
     "13": [
         "@",
         "",
-        "This is Okina Matara's theme, played as Sereinae Matara's public theme.",
+        "This is Okina Matara's theme, played as Sereinae's theme.",
         "Re-arranged by Karl Zúñiga.",
         "Just because it is my favorite song and that it fits that very cinematic fight.",
         "A shy and eerie feeling at the start of the song, and becomes gentle, hyperactive and grand,",
@@ -32,7 +32,7 @@
     "15": [
         "@",
         "",
-        "The theme for Okina Matara (True), played as Sereinae Matara's true final theme.",
+        "The theme for Okina Matara (True), played as Sereinae's possession theme.",
         "Re-arranged by Karl Zúñiga.",
         "I couldn't put a different boss because of the fact they share the same name on screen.",
         "This time, Okina's power caught her off guard, she's now controlled by that very god.",
