@@ -25,22 +25,22 @@ Satono's version of the spellcard is mirrored from Mai's, and, while denser, has
 Stage 6 Boss - Sereinae Matara :
 
 Spell1 - Easy :
-Star Sign "Beginning Light in the Back"
+Hidden Star "Beginning Light in the Back"
 
 Stars in the urban corridor turning into light once they hit the walls, don't get confused by the dark stars and keep your position under the enemy as much as you can.
 
 Spell1 - Normal :
-Star Sign "Standard Light in the Back"
+Hidden Star "Standard Light in the Back"
 
 According to the difficulty icon, the stars change colors and more dark stars swarm the screen.
 
 Spell1 - Hard :
-Star Sign "Proud Light in the Back"
+Hidden Star "Proud Light in the Back"
 
 The spell name variations are based from Kingdom Hearts difficulty levels. A certain star fairy you know about is able to detect moving things, like these dark stars.
 
 Spell1 - Lunatic :
-Star Sign "Critical Light in the Back"
+Hidden Star "Critical Light in the Back"
 
 This spellcard is intentionally easier than Back Sign "Halo of the Absolute Secret God" as it is only the first spell. Gotta start things easy.
 
