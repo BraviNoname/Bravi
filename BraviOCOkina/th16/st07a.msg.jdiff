@@ -235,13 +235,14 @@
     "1": {
         "34_0": {
             "lines": [
-                "These moves... What are you, really?"
+                "Wait, was that really you I fought?",
+				"Looks like I won, but something's strange..."
             ]
         },
         "42_0": {
             "lines": [
                 "What happened...? Mother's powers were surging through me...",
-				"And then I was still in the fight... I still lost?"
+				"And then I was still in the fight... Yet I still lost?"
             ]
         },
         "50_0": {
