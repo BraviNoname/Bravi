@@ -22,12 +22,12 @@
     "14": [
         "@",
         "",
-        "This is the Extra Stage theme of this mod.",
-		"Originally played in : Kingdom Hearts II. Composed by Yoko Shimomura.",
-        "I chose this song as we enter in a rather dark and mysterious world.",
-        "It's rather calm and serene, gives the vibes about the place we're in, and helps relaxing",
-        "with the difficulty increase due to the modded stage itself and where this BGM originally",
-        "played, still, I apologize if the loop isn't long enough..."
+        "From the Smells like Beer Album Vol.2, playing as the Extra Stage theme of this mod.",
+        "Composed by Ichigo-Paprika.",
+        "From this music, I had two vibes, one where I'm in an urban underground network or tunnel,",
+        "and two, where I'm in a hurry, going straightfowards and very fast, which both fit in this stage.",
+        "The music also has that hype and upbeat value to it, and knowing what",
+        "happened in stage 6, you get a hope of beating everything that stands in your way!"
     ],
     "15": [
         "@",
