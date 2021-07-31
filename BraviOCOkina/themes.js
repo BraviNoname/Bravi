@@ -1,5 +1,5 @@
 {
-    "th13_11": "Lunatic Dreamer", 
+    "th13_11": "Lost Corpse", 
     "th15_03": "Distorted Division",
     "th16_12": "Deep Drop",
     "th16_14": "Man-made “Perfect and Wrong”",
