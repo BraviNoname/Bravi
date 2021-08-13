@@ -12,7 +12,7 @@
         "Though the punishment for losing is pretty harsh."
     ],
     "14_4": [
-        "These bullets all represent an element according to the colors.",
+        "Each bullet wave representing an element repels another one.",
         "She seems to have some magic knowledge."
     ],
     "14_5": [
