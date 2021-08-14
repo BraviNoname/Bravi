@@ -3,11 +3,11 @@
         "@",
         "",
         "This is the Stage 6 theme of this mod.",
-		"Originally played in : Kingdom Hearts 3D. Composed by Yoko Shimomura.",
+		"Composed by Ichigo-Paprika.",
         "",
-        "Just as the original theme I chose this song as it hastens you to find the culprit.",
-        "As you go into a corridor in an unknown and far away world,",
-        "it is only natural that this theme evokes a way different feeling about the scenery."
+        "This is a shortened version of the original song, because of the length of the stage.",
+        "A hype, yet silent melody, as if something is waiting for it to be unfold.",
+        "Something never seen before, indeed."
     ],
     "13": [
         "@",
