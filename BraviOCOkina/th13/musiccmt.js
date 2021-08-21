@@ -2,8 +2,8 @@
     "11": [
         "@",
         "　",
-        "From the Smells like Beer Album Vol.1, playing as Sereinae's theme.",
-        "Composed by Ichigo-Paprika.",
+        "This is Sereinae's theme on this mod. Composed by Ichigo-Paprika.",
+        "Original name: Follow the Latest Work.",
         "This is the first time Sereinae meets our protagonist.",
         "She's somehow upset about a quarrel she had with Okina,",
         "this motivated her to go all out on our heroines.",
