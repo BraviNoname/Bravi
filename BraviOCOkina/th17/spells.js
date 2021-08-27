@@ -6,7 +6,7 @@
     "52": "Haniwa \"Support of the Idol God\"",
     "54": "Haniwa \"Reinforcements of the Idol God\"",
     "56": "Idol Link \"Debut of the Bookworm Idol\"",
-    "58": "Idol Link \"Unafraid Debut of the Bookworm Idol\"",
+    "58": "Idol Link \"Secret Serenade of the Bookworm Idol\"",
     "72": "Haniwa Revival \"Corporal and Horse Rider Idol Sculpting Art\"",
     "74": "Haniwa Revival \"Corporal Idol Creatures\"",
     "80": "\"Geometric Hexagon Creature\"",
