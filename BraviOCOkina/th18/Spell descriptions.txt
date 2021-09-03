@@ -1,0 +1,37 @@
+Stage 5 Boss - Sereinae:
+
+Spell 1 - Easy/Normal :
+Ability Card "Miracle Mallet"
+Spell 1 - Hard/Lunatic :
+Ability Card "Bountiful Miracle Mallet"
+
+Enemies get summoned on Sereinae's sides. They fire stars on their path and their attack gets denser with time. 
+Killing them causes them to halt their attack and drop money, in item and danmaku.
+
+Spell 2 - Easy/Normal :
+Ability Card "Gale Geta"
+Spell 2 - Hard/Lunatic :
+Ability Card "Graceful Gale Geta"
+
+Sereinae dashes on the sides while shooting many fast and colored arrowheads.
+Her movement is always the same, take advantage of that, and don't freak out!
+
+Spell 3 - Easy/Normal :
+Ability Card "Great Tengu's Barley Rice"
+Spell 3 - Hard/Lunatic :
+Ability Card "Great Tengu's Delicious Barley Rice"
+
+Many enemies come from towards the sides, and Sereinae eats them, making her shoot lasers in the process.
+They drop one power item each. You can prioritize killing enemies or shooting Sereinae down.
+
+Spell 4 - Easy/Normal/Hard/Lunatic :
+Ability Card "The Shadow Behind Your Back"
+
+Sereinae moves down and makes herself unable to be damaged directly. 
+Some enemies come in from above, and killing them deals damage to her, little by little.
+
+Spell 5 - Easy/Normal/Hard/Lunatic :
+Reality Shift "Lurking Rainbow Stars of Hindrance"
+
+Sereinae dives further down, first surrounding the scren with stars that attack you the top, the sides, the bottom, back to the sides, and then back up.
+The pace slightly gets increased with time, and the bullets are aimed, be careful!

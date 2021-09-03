@@ -1,0 +1,308 @@
+{
+    "2": {
+        "104_0": {
+            "lines": [
+                "A human's here!",
+                "See, it's just as I thought."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "I knew we couldn't keep something",
+                "like this up for long...!"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "The sun's plunged right on down by now."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "It'll be hard to find anyone",
+                "carrying cards at this rate."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Looks like my only choice is to try again some other time..."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Ahaha!",
+                "I've never thought this would be THAT easy!"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Oh wait, it's you!",
+                "How are you doing, Reimu?"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Uh, things could be better.",
+                "I'm here for a reason!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "What would I do now with you...",
+				"If the tengu find out you're here..."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Well, one of them just flew away when she saw me.",
+                "Her god of hindrances aura repelled them just fine!"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Did you say something about the tengu?",
+                "There's something I'd like to ask you."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Yeah, I met one a few seconds ago.",
+                "But sure, go ahead."
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "Well, it's about this whole",
+                "Ability Card business..."
+            ]
+        },
+        "212_0": {
+            "lines": [
+                "Back in that cave just now, I was told that there's",
+                "someone who knows about them up on the mountaintop."
+            ]
+        },
+        "220_0": {
+            "lines": [
+                "I came up here to investigate what",
+                "those Ability Cards really are."
+            ]
+        },
+        "228_0": {
+            "lines": [
+                "Anything you can tell me?"
+            ]
+        },
+        "236_0": {
+            "lines": [
+                "Is that the incident you and I are investigating?",
+                "I happened to have asked this tengu."
+            ]
+        },
+        "244_0": {
+            "lines": [
+                "She says she created those cards.",
+				"Gotta say the drawings look nice!"
+            ]
+        },
+        "252_0": {
+            "lines": [
+                "Huh? What!?"
+            ]
+        },
+        "320_0": {
+            "lines": [
+                "There you are."
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "Wait, you're not Master Iizunamaru!"
+            ]
+        },
+        "366_0": {
+            "lines": [
+                "Now two humans came snooping here..."
+            ]
+        },
+        "374_0": {
+            "lines": [
+                "What did you do to her?",
+                "She's not the type to run away like that."
+            ]
+        },
+        "382_0": {
+            "lines": [
+                "Anyways, I'll deal with you both!"
+            ]
+        },
+        "390_0": {
+            "lines": [
+                "Huh, it's that fox from earlier.",
+                "You're really a stubborn one..."
+            ]
+        },
+        "398_0": {
+            "lines": [
+                "The aura of my back happened to have made",
+                "her panic, she went away like a chicken!"
+            ]
+        },
+        "406_0": {
+            "lines": [
+                "Don't come back ever again!",
+                "Go see your master, she went back home!"
+            ]
+        },
+        "414_0": {
+            "lines": [
+                "And you, Reimu, how about you get a taste of",
+                "these Ability Cards? I'm sure it'll be fun!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Haha!",
+                "Good job!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "You've once again won!",
+                "Congratulations!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Uh... Thanks!",
+                "Now, tell me more about those cards!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Hm... What did that tengu say...?",
+                "Something about profits."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "They used the gems from that cave down there",
+                "to get some money, not caring about the mountain's sake."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Mother told me I could do whatever I want about that,",
+                "but since she didn't seem to feel easy, I went up the moutains."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "It's a service I made for her on my own.",
+                "Since, you probably know, I serve her."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "And about the incident?",
+                "Why is it unsolved?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Everyone has been keeping trading",
+                "the cards all around the place."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "It's safe to assume that a creator can't really stop",
+                "the circulation of its creations once started."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Augh! You haven't done anything useful in the end!",
+                "Time to take care of this myself!"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Sorry about that, I don't know where to go."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Hm, do I actually...",
+                "The moon, it's shining weirdly tonight..."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "What's going on up there? Only you can find",
+                "out what it is now, Reimu, because I'm exhausted..."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "You do seem clueless!",
+                "Alright, leave that to me!"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "...Hey, you were lying aren't you.",
+                "I found her shivering somewhere in the mountains."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Yeah, so what are you gonna do about it?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "She has just exposed why she",
+                "despises tengu so much..."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "That's why I came into action",
+                "you know..."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "It's to punish you and the tengu, you've made",
+                "the cards, and my money is my danmaku!"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Come at me again if you dare...!"
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "I won't be holding back against you!"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "...Ahahaha.",
+                "I see."
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "Since I'll have no use from you.",
+                "You'll just die like the pitiful human that you are!"
+            ]
+        }
+    }
+}
