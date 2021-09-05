@@ -65,7 +65,19 @@ Spell - All difficulties :
 The meeting of a human creation by spiritual energy, and soul-containing crafted objects. For their meeting to be complete, one should join the other's side.
 
 Stage 6 Boss - Keiki Haniyasushin:
-(listed here are only altered spellcards)
+Spell 1 - Easy/Normal :
+Square Shape "Square-Shaped Sculpting Art"
+Spell 1 - Hard/Lunatic :
+Square Shape "Square Creature"
+
+The squares spawn around her and are differently colored.
+
+Spell 2 - Easy/Normal :
+Circular Shape "Perfect Circle Sculpting Art"
+Spell 2 - Hard/Lunatic :
+Circular Shape "Circle Creature"
+
+The circles have more colors and an extra ring gets added each time something is about to happen.
 
 Spell 3 - Easy/Normal :
 Linear Shape "Line-shaped Sculpting Art"
@@ -81,6 +93,11 @@ Haniwa Revival "Corporal Idol Creatures"
 
 Mayumi got repaired and revived by Keiki, teaming up against one common opponent. 
 The patterns from the base spell card have been toned down to make Mayumi's attacks balance the spellcard.
+
+Spell 5 - Easy/Normal/Hard/Lunatic :
+"Oni-Shaped Sculpting Art"
+
+The pattern has less walls and is still complex to dodge, the bullets have been changed into kunais to fit the demon-ish nature of the oni.
 
 Spell 6 - Easy/Normal/Hard/Lunatic :
 "Geometric Hexagon Creature"
