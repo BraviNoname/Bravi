@@ -1,0 +1,598 @@
+{
+    "2": {
+        "104_0": {
+            "lines": [
+                "That fox was surely an annoyance..."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "I need some infos about the tengu,",
+				"sorry, I'll have to take you down!"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "What a huge moon!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "It feels like something's about to pop out, but..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Don't tell me that fox just now is",
+                "the mastermind or something, right?"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Welcome to the ",
+                "Lunar Rainbow Market."
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "You're the first marketeer to arrive this evening."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "...Who?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Chimata Tenkyuu.",
+                "I'm the market's main presenter."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "The market's presenter? So you're..."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "I'm a god who makes commerce possible on special",
+                "occasions, such as when a rainbow appears."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "It's thanks to my presence that you're",
+                "all able to buy and sell goods."
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "Put another way, you're essentially",
+                "alive right now because of me."
+            ]
+        },
+        "212_0": {
+            "lines": [
+                "Okay...?",
+                "I don't totally follow."
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "Miss Chimata.",
+                "I have a report for you."
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "...so she said."
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "What?",
+                "Iizunamaru betrayed me?"
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "Ah-hah-hah!",
+                "It took you that long to realize, you lousy tengu?"
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "By which you mean?"
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "I always knew that she was taking",
+                "advantage of me to make a profit."
+            ]
+        },
+        "366_0": {
+            "lines": [
+                "But it looks like she was too slow to realize",
+                "that I was taking advantage of her right back!"
+            ]
+        },
+        "374_0": {
+            "lines": [
+                "Oho.",
+                "How very interesting."
+            ]
+        },
+        "382_0": {
+            "lines": [
+                "You're Iizunamaru's pet, aren't you?",
+                "Trot on back and tell her."
+            ]
+        },
+        "390_0": {
+            "lines": [
+                "The market is already open."
+            ]
+        },
+        "398_0": {
+            "lines": [
+                "None can escape ",
+                "from the hands of God!"
+            ]
+        },
+        "406_0": {
+            "lines": [
+                "Helloooo?"
+            ]
+        },
+        "414_0": {
+            "lines": [
+                "You've been talking for way too long!"
+            ]
+        },
+        "422_0": {
+            "lines": [
+                "Oh, I'm so sorry.",
+                "I forgot."
+            ]
+        },
+        "430_0": {
+            "lines": [
+                "Well then, shall we begin?"
+            ]
+        },
+        "438_0": {
+            "lines": [
+                "Huh? Begin what?"
+            ]
+        },
+        "446_0": {
+            "lines": [
+                "What do you mean, \"what\"...? Our transaction, of course."
+            ]
+        },
+        "454_0": {
+            "lines": [
+                "You're here to sell the Ability Cards you've",
+                "spent all this time stocking up, aren't you?"
+            ]
+        },
+        "462_0": {
+            "lines": [
+                "Sell them?"
+            ]
+        },
+        "470_0": {
+            "lines": [
+                "No way!",
+                "I'm here to investigate the cards."
+            ]
+        },
+        "478_0": {
+            "lines": [
+                "I'm thinking that once I figure out what",
+                "they really are, I'll confiscate them all."
+            ]
+        },
+        "486_0": {
+            "lines": [
+                "I'll never get a good night's sleep",
+                "with these cards making the rounds!"
+            ]
+        },
+        "494_0": {
+            "lines": [
+                "I see... You're trying to monopolize",
+                "the cards with no exchange of currency."
+            ]
+        },
+        "502_0": {
+            "lines": [
+                "So, you were a robber seeking to destroy the marketplace?",
+                "I certainly can't let that slide."
+            ]
+        },
+        "510_0": {
+            "lines": [
+                "Miss Reimu Hakurei.",
+                "Miss Chimata is a god of the marketplace, and of commerce."
+            ]
+        },
+        "518_0": {
+            "lines": [
+                "Angering her would be nothing",
+                "but disadvantageous for you."
+            ]
+        },
+        "526_0": {
+            "lines": [
+                "I think it would be best if you simply sold a card,",
+                "and received a set profit for it."
+            ]
+        },
+        "534_0": {
+            "lines": [
+                "Argh, will everyone quit blathering on!?"
+            ]
+        },
+        "542_0": {
+            "lines": [
+                "I've been steaming mad from the very start,",
+                "having these weird cards get made from me!"
+            ]
+        },
+        "550_0": {
+            "lines": [
+                "I don't know about you being a marketplace god or whatever,"
+            ]
+        },
+        "558_0": {
+            "lines": [
+                "but if that's what you really are,",
+                "take those cards out of circulation, right now!"
+            ]
+        },
+        "566_0": {
+            "lines": [
+                "Heheheh, don't say I didn't warn yooou."
+            ]
+        },
+        "612_0": {
+            "lines": [
+                "How unfortunate..."
+            ]
+        },
+        "620_0": {
+            "lines": [
+                "A robber who refuses to understand bartering",
+                "has no right to enter the marketplace."
+            ]
+        },
+        "628_0": {
+            "lines": [
+                "Allow me to liberate all of your possessions!"
+            ]
+        },
+        "636_0": {
+            "lines": [
+                "Let your pockets be stripped bare, and painfully realize this fact:"
+            ]
+        },
+        "644_0": {
+            "lines": [
+                "Humans were always poor creatures",
+                "who can own nothing at all!"
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "..."
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "What a huge moon!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "It feels like something's about to pop out, but..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Don't tell me that fox just now is",
+                "the mastermind or something, right?"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Welcome to the ",
+                "Lunar Rainbow Market."
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "You're the first marketeer to arrive this evening."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "...Who?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Chimata Tenkyuu.",
+                "I'm the market's main presenter."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "The market's presenter? So you're..."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "I'm a god who makes commerce possible on special",
+                "occasions, such as when a rainbow appears."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "It's thanks to my presence that you're",
+                "all able to buy and sell goods."
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "Put another way, you're essentially",
+                "alive right now because of me."
+            ]
+        },
+        "212_0": {
+            "lines": [
+                "Okay...?",
+                "I don't totally follow."
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "Miss Chimata.",
+                "I have a report for you."
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "...so she said."
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "What?",
+                "Iizunamaru betrayed me?"
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "Ah-hah-hah!",
+                "It took you that long to realize, you lousy tengu?"
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "By which you mean?"
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "I always knew that she was taking",
+                "advantage of me to make a profit."
+            ]
+        },
+        "366_0": {
+            "lines": [
+                "But it looks like she was too slow to realize",
+                "that I was taking advantage of her right back!"
+            ]
+        },
+        "374_0": {
+            "lines": [
+                "Oho.",
+                "How very interesting."
+            ]
+        },
+        "382_0": {
+            "lines": [
+                "You're Iizunamaru's pet, aren't you?",
+                "Trot on back and tell her."
+            ]
+        },
+        "390_0": {
+            "lines": [
+                "The market is already open."
+            ]
+        },
+        "398_0": {
+            "lines": [
+                "None can escape ",
+                "from the hands of God!"
+            ]
+        },
+        "406_0": {
+            "lines": [
+                "Helloooo?"
+            ]
+        },
+        "414_0": {
+            "lines": [
+                "You've been talking for way too long!"
+            ]
+        },
+        "422_0": {
+            "lines": [
+                "Oh, I'm so sorry.",
+                "I forgot."
+            ]
+        },
+        "430_0": {
+            "lines": [
+                "Well then, shall we begin?"
+            ]
+        },
+        "438_0": {
+            "lines": [
+                "Huh? Begin what?"
+            ]
+        },
+        "446_0": {
+            "lines": [
+                "What do you mean, \"what\"...? Our transaction, of course."
+            ]
+        },
+        "454_0": {
+            "lines": [
+                "You're here to sell the Ability Cards you've",
+                "spent all this time stocking up, aren't you?"
+            ]
+        },
+        "462_0": {
+            "lines": [
+                "Sell them?"
+            ]
+        },
+        "470_0": {
+            "lines": [
+                "No way!",
+                "I'm here to investigate the cards."
+            ]
+        },
+        "478_0": {
+            "lines": [
+                "I'm thinking that once I figure out what",
+                "they really are, I'll confiscate them all."
+            ]
+        },
+        "486_0": {
+            "lines": [
+                "I'll never get a good night's sleep",
+                "with these cards making the rounds!"
+            ]
+        },
+        "494_0": {
+            "lines": [
+                "I see... You're trying to monopolize",
+                "the cards with no exchange of currency."
+            ]
+        },
+        "502_0": {
+            "lines": [
+                "So, you were a robber seeking to destroy the marketplace?",
+                "I certainly can't let that slide."
+            ]
+        },
+        "510_0": {
+            "lines": [
+                "Miss Reimu Hakurei.",
+                "Miss Chimata is a god of the marketplace, and of commerce."
+            ]
+        },
+        "518_0": {
+            "lines": [
+                "Angering her would be nothing",
+                "but disadvantageous for you."
+            ]
+        },
+        "526_0": {
+            "lines": [
+                "I think it would be best if you simply sold a card,",
+                "and received a set profit for it."
+            ]
+        },
+        "534_0": {
+            "lines": [
+                "Argh, will everyone quit blathering on!?"
+            ]
+        },
+        "542_0": {
+            "lines": [
+                "I've been steaming mad from the very start,",
+                "having these weird cards get made from me!"
+            ]
+        },
+        "550_0": {
+            "lines": [
+                "I don't know about you being a marketplace god or whatever,"
+            ]
+        },
+        "558_0": {
+            "lines": [
+                "but if that's what you really are,",
+                "take those cards out of circulation, right now!"
+            ]
+        },
+        "566_0": {
+            "lines": [
+                "Heheheh, don't say I didn't warn yooou."
+            ]
+        },
+        "612_0": {
+            "lines": [
+                "Hey..."
+            ]
+        },
+        "620_0": {
+            "lines": [
+                "That card you're holding...",
+                "It's mine...!?"
+            ]
+        },
+        "628_0": {
+            "lines": [
+                "I got ahold of it just a minute ago.",
+                "It's the most utterly useless Ability Card of all!"
+            ]
+        },
+        "636_0": {
+            "lines": [
+                "\"Useless?\" Excuse you!",
+                "It's the one and only card that can control ownership."
+            ]
+        },
+        "644_0": {
+            "lines": [
+                "What an utterly interesting robber!",
+                "It's a shame that you're going to die here!"
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "..."
+            ]
+        }
+    },
+    "3": {
+        "34_0": {
+            "lines": [
+                "O wonderous human, who fears not even God."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "The rainbow will close in just a few moments' time!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "|\tFinally, return even your life to \t,\tnothing\t,god",
+                "Finally, return even your life to nothing!",
+                "This marks the end!"
+            ]
+        }
+    }
+}

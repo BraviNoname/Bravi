@@ -6,5 +6,6 @@
     "52": "Ability Card \"Great Tengu's Barley Rice\"",
     "54": "Ability Card \"Great Tengu's Delicious Barley Rice\"",
     "56": "Ability Card \"The Shadow Behind Your Back\"",
-    "97": "Reality Shift \"Lurking Rainbow Stars of Hindrance\""
+    "97": "Reality Shift \"Lurking Rainbow Stars of Hindrance\"",
+    "101": "Moon Link \"Rainbow Butterfly Under the Moon\""
 }
