@@ -1,5 +1,5 @@
 {
-	"contact": "Bravihood#9568",
+	"contact": "Bravidunno#9568",
 	"id": "Bravi",
 	"patches": {
 		"BraviKHBGM": "(Th12, 15) Some final and Extra boss themes got a Kingdom Hearts theme playing while you fight them.",
