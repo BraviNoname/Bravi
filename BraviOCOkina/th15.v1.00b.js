@@ -46,13 +46,15 @@ C2 0400 \
 			"code": "<0x42FB4C> <codecave:ResetsInChapter_FloatVar>",
 			"expected": "CC CC CC CC CC CC CC CC"
 		},
-		"AllVariableJumpTableBounds": {
-			"addr": [
-				0x42E923,
-				0x42F253
-			],
+		"IntJumpTableBounds": {
+			"addr": 0x42E923,
 			"code": "61",
 			"expected": "60"
 		},
+		"FloatJumpTableBounds": {
+			"addr": 0x42F253,
+			"code": "61",
+			"expected": "5F"
+		}
 	},
 }
