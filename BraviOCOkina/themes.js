@@ -4,5 +4,5 @@
     "th16_12": "Harmful Substance in False Structures (Short Ver.)",
     "th16_14": "Man-made “Perfect and Wrong”",
     "th17_11": "Boundary War III",
-    "th18_11": "High Mountain Peak Battle"
+    "th18_11": "Nogama's Whirlwind"
 }
