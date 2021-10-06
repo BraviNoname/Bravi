@@ -9,6 +9,5 @@
     "th13_scorefile_fn": "scoreth13_Sereinae.dat",
     "th15_scorefile_fn": "scoreth15_Sereinae.dat",
 	"th16_scorefile_fn": "scoreth16_Sereinae.dat",
-	"th17_scorefile_fn": "scoreth17_Sereinae.dat",
-    "th18_scorefile_fn": "scoreth18_Sereinae.dat"
+	"th17_scorefile_fn": "scoreth17_Sereinae.dat"
 }
