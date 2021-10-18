@@ -7,7 +7,8 @@
         "ExpHP/sprite_death_fix",
         "ExpHP/base_exphp",
         "ExpHP/anm_leak",
-        "ExpHP/bullet_cap"
+        "ExpHP/bullet_cap",
+		"32th/score_uncap"
 	],
 	"id": "Bravimemes",
 	"servers": [
