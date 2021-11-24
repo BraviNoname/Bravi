@@ -7,5 +7,8 @@
     "54": "Ability Card \"Great Tengu's Delicious Barley Rice\"",
     "56": "Ability Card \"The Shadow Behind Your Back\"",
     "97": "Reality Shift \"Lurking Rainbow Stars of Hindrance\"",
-    "101": "Moon Link \"Rainbow Butterfly Under the Moon\""
+    "101": "Moon Link \"Rainbow Butterfly Under the Moon\"",
+    "113": "\"Cheap Cards for a Cheap Price\"",
+    "115": "\"Valuable Cards for an Valuable Price\"",
+    "116": "\"Relinquishing the Most Valuable Cards Ever\""
 }
