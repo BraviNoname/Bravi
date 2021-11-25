@@ -9,6 +9,6 @@
     "97": "Reality Shift \"Lurking Rainbow Stars of Hindrance\"",
     "101": "Moon Link \"Rainbow Butterfly Under the Moon\"",
     "113": "\"Cheap Cards for a Cheap Price\"",
-    "115": "\"Valuable Cards for an Valuable Price\"",
+    "115": "\"Valuable Cards for an High Price\"",
     "116": "\"Relinquishing the Most Valuable Cards Ever\""
 }
