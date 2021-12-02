@@ -25,7 +25,7 @@ Many enemies come from towards the sides, and Sereinae eats them, making her sho
 They drop one power item each. You can prioritize killing enemies or shooting Sereinae down.
 
 Spell 4 - Easy/Normal/Hard/Lunatic :
-Ability Card "The Shadow Behind Your Back"
+Back Sign "The Shadow Behind Your Back"
 
 Sereinae moves down and makes herself unable to be damaged directly. 
 Some enemies come in from above, and killing them deals damage to her, little by little.
