@@ -207,13 +207,14 @@
         },
         "98_0": {
             "lines": [
-                "Hm, that is right, she is.",
-                "You'd make me a favor if you do. I agree to that."
+                "Hm, that is right, she is. But how'd you know that...?",
+                "Regardless, you'd make me a favor if you do."
             ]
         },
         "106_0": {
             "lines": [
-                "It's embarassing!"
+                "I'm flattered! It's embarassing!",
+				"To think I'd be able to talk to her!"
             ]
         },
         "114_0": {
@@ -229,8 +230,8 @@
         },
         "130_0": {
             "lines": [
-                "Those cards are unpleasant,",
-                "We should get rid of all of them."
+                "Those cards are unpleasant to me,",
+                "but Lady Patchouli is curious about these."
             ]
         },
         "138_0": {
@@ -281,14 +282,14 @@
         },
         "202_0": {
             "lines": [
-                "That's why I came into action",
-                "you know..."
+                "And it's now your choice to spread info about us...",
+                "Or you may not... Either way, my role there was simple."
             ]
         },
         "210_0": {
             "lines": [
-                "It's to punish you and the tengu, you've made",
-                "the cards, and my money is my danmaku!"
+                "I'm punishing you and the tengu, you've brought",
+                "the incident, and my money is my danmaku!"
             ]
         },
         "218_0": {
