@@ -17,5 +17,7 @@
     "123": "Book Sign \"Maze of a Million Pages\"",
     "124": "\"The Ultimate, Absolute Skill Rush\"",
     "155": "Time Link \"Endure the Imperishable Flow of Time\"",
-    "161": "\"Starry Sky of Lingering Desires\""
+    "161": "\"Starry Sky of Lingering Desires\"",
+    "94": "Light Sign \"Halo of the Guse Kannon -Third Dimension-\"",
+    "96": "Light Sign \"Guse Flash -Third Dimension-\""
 }
