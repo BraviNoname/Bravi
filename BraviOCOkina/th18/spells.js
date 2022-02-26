@@ -11,7 +11,7 @@
     "113": "\"Cheap Cards for a Cheap Price\"",
     "115": "\"Valuable Cards for an High Price\"",
     "116": "\"Relinquishing the Most Valuable Cards Ever\"",
-    "84": "Book Sign \"Quick Phrase Reading\"",
+    "84": "Book Sign \"Quick Sentence Reading\"",
     "85": "Star Sign \"Rainbow-colored Star Refraction\"",
     "86": "Magic Link \"Reversed Event Horizon\""
 }
