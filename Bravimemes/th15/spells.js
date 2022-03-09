@@ -18,5 +18,14 @@
     "115": "Moon \"Lunatic Cannon\"",
     "116": "\"Pristine Danmaku for WAITWHATTHE-\"",
     "117": "\"Heartless Trinitarian Rhapsody\"",
-    "118": "\"First and Last Pristine Danmaku Hell\""
+    "118": "\"First and Last Pristine Danmaku Hell\"",
+    "58": "Calamitous Hell \"Hell Eclipse Started by a Star's Spark\"",
+    "60": "Calamitous Hell \"Eclipse of Hell Started by a Star's Spark\"",
+    "62": "Stellar Hell \"Flash and Stripe of Dazzling Iridescence\"",
+    "64": "Stellar Hell \"Star and Stripe of Dazzling Iridescence\"",
+    "66": "Luminous Hellfire \"Graze Inferno of Sky-Racing Heavenly Steeds\"",
+    "69": "Luminous Hellfire \"Infernal Essence of Sky-Racing Heavenly Steeds\"",
+    "70": "Rainbow Inferno \"Clear and Tranquil Striped Abyss\"",
+    "74": "\"Fake Sky-Racing Heavenly Steeds\"",
+    "76": "\"Sky-Racing Heavenly Steeds Theory\""
 }
