@@ -4,8 +4,8 @@
 		"nmlgc/script_latin",
 		"nmlgc/western_name_order",
 		"thpatch/lang_en",
-        "ExpHP/sprite_death_fix",
         "ExpHP/base_exphp",
+        "ExpHP/sprite_death_fix",
         "ExpHP/anm_leak",
         "ExpHP/bullet_cap",
 		"32th/score_uncap"
