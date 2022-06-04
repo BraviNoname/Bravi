@@ -14,5 +14,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/"
 	],
-	"title": "What I spend most of my time on right now tbh"
+	"title": "Bravi's creations"
 }
