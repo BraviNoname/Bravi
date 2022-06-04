@@ -12,5 +12,6 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/SereinaeAlt/"
 	],
-	"title": "(Th18) Playtesting it. Alt timeline patch for miss OC. Replaces Chimata with a new Final Boss."
+	"title": "(Th18) Playtesting it. Alt timeline patch for miss OC. Replaces Chimata with a new Final Boss.",
+    "update": true
 }
