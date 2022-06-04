@@ -8,7 +8,7 @@
 	"fonts": {
 		"RussellSquare.ttf": true
 	},
-	"id": "BraviOCOkina",
+	"id": "SereinaeAlt",
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/SereinaeAlt/"
 	],
