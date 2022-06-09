@@ -7,7 +7,7 @@
     "72": "\"Memories of a Natural Yearly Loop\"",
     "76": "\"God of the Unowned's Bullet Asylum\"",
     "78": "\"God of the Unowned's Danmaku Asylum\"",
-    "79": "\"Danmaku Asylum of One's Lost Property\"",
+    "79": "\"Danmaku Asylum of One's Lost Ownership\"",
     "80": "\"Memories of One's True Identity\"",
     "101": "\"The Rainbow's Lost Colors\"",
     "113": "\"The Moon's Reflection of the Sunlight\"",
