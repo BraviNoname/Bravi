@@ -9,6 +9,7 @@
 		"BraviOkina": "(Th16, 16.5) UNSTABLE STAGE 6 SECOND SPELL! Same thing as the OCOkina Patch but Okina is the one using what the OC uses.",
 		"Bravimemes": "(Th11, 15) Memes that come in my mind... Like Subterranean Oparism or Legacy of Lunatic MetaPlate.",
 		"Braviretex": "(Th06 to 17 tsa games) Remake-like Retexture, Sounds, Dark UI and Display Fix Patch.",
+		"ChimaTransform": "(Th18) Chimata transforms into other final bosses.",
 		"Teedee Arrows": "(Th15) Makes all bullets/lasers arrows. Typically deus rsf's nightmare."
 	},
 	"servers": [
