@@ -37,7 +37,9 @@ Moon Sign "Merciless Furies of the Back"
 
 Serein dashes towards you more frequently, making the breaks shorter and keep your breath longer. This is still no reason to make you lose your cool, right?
 
-Spell 3 - Easy/Normal/Hard/Lunatic :
+Spell 3 - Easy/Normal :
+Illusion Sign "Mirage Circle"
+Spell 3 - Hard/Lunatic :
 Illusion Sign "Concealed in Four Book Barriers"
 
 While summoning a meteor storm, Serein hides herself in four paper-made barriers, teleports thirteen times, ultimately stays in one ring, warns you before unleashing massive paper waves, destroying whoever stays outside of the ring she remains in.

@@ -11,7 +11,7 @@
     "64": "Gun Sign \"Relentless Sharp Shooting\"",
     "66": "Moon Sign \"Wrath of the Rear Face\"",
     "68": "Moon Sign \"Merciless Furies of the Back\"",
-    "70": "Illusion Sign \"Concealed in Four Book Barriers\"",
+    "70": "Illusion Sign \"Mirage Circle\"",
     "72": "Illusion Sign \"Concealed in Four Book Barriers\"",
     "74": "Star Sign \"Stellar Hindrance\"",
     "123": "Book Sign \"Maze of a Million Pages\"",
