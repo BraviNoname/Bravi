@@ -9,5 +9,12 @@
     "60": "\"An Unquestionable Offering to the Ownerless\"",
     "62": "\"An Offering to the Blinking Rainbow Fantasy Seal\"",
     "64": "\"Readability Hoarder's Obsession\"",
-    "72": "\"Rainbow Ring of Drunk People\""
+    "72": "\"Rainbow Ring of Drunk People\"",
+   "44": "Calamitous Star \"Dance of Star-Sparked Backfire\"",
+    "46": "Calamitous Star \"Wild Dance of Star-Sparked Backfire\"",
+    "48": "Stellar Wind \"Dance of Everlasting Iridescence\"",
+    "50": "Stellar Wind \"Wild Dance of Everlasting Iridescence\"",
+    "56": "Rainbow Illumination \"Clear Yet Startling Wind and Moon\"",
+    "52": "Luminous Horse \"Homing Dash of Sky-Racing Heavenly Steeds\"",
+    "54": "Luminous Horse \"Wild Homing Dash of Sky-Racing Heavenly Steeds\""
 }
