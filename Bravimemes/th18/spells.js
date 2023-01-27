@@ -16,5 +16,15 @@
     "50": "Stellar Wind \"Wild Dance of Everlasting Iridescence\"",
     "56": "Rainbow Illumination \"Clear Yet Startling Wind and Moon\"",
     "52": "Luminous Horse \"Homing Dash of Sky-Racing Heavenly Steeds\"",
-    "54": "Luminous Horse \"Wild Homing Dash of Sky-Racing Heavenly Steeds\""
+    "54": "Luminous Horse \"Wild Homing Dash of Sky-Racing Heavenly Steeds\"",
+    "92": "I Forbid It \"No More Fun!\"",
+    "91": "Fireworks \"Fireworks from Every Wall\"",
+    "90": "Parody \"I Reversed Gravity on This Mine Dump!\"",
+    "87": "Parody \"Mine Are Longer!\"",
+    "88": "Illusion Sign \"Creeping Close Illusionary Clones\"",
+    "89": "Thunder Sign \"Vertical Electric Fence Maze\"",
+    "93": "Thunder Sign \"Sniping Thunder Spears From Far Away\"",
+    "94": "Upgraded Ability Card \"Gluttonous Five Centipedes\"",
+    "95": "\"Haha Orbs Go Nom-Nom\"",
+    "96": "\"Final Spell Card Hype!\"",
 }
