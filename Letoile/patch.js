@@ -11,7 +11,7 @@
 	},
 	"id": "SereinaeAlt",
 	"servers": [
-		"https://mirrors.thpatch.net/Bravi/Létoile/"
+		"https://mirrors.thpatch.net/Bravi/Letoile/"
 	],
 	"title": "(Th16) Custom playable character shot type for Sereinae (Spring).",
 	"update": true
