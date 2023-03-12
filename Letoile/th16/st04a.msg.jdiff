@@ -1,0 +1,193 @@
+{
+    "0": {
+        "104_0": {
+            "lines": [
+                "Could you be the chosen",
+                "one from earlier?"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "I was trying to be real flashy about all this,",
+                "but you still took way longer than I thought you would to show up."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "I've seen you before!"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "I'm brimming with power!"
+            ]
+        },
+        "226_0": {
+            "lines": [
+                "My, what's going on?",
+                "I'm practically overflowing with magic power..."
+            ]
+        },
+        "234_0": {
+            "lines": [
+                "I just got to try this out",
+                "on the human in front of me!"
+            ]
+        },
+        "242_0": {
+            "lines": [
+                "Ahahahaha!",
+                "This gal here is your next opponent."
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "Welp, time for me to head on back!"
+            ]
+        },
+        "374_0": {
+            "lines": [
+                "Huh? Thanks for telling me!"
+            ]
+        },
+        "382_0": {
+            "lines": [
+                "It happened again!",
+                "This blizzard is giving me strength!"
+            ]
+        },
+        "390_0": {
+            "lines": [
+                "Brr... it's way too cold here!"
+            ]
+        },
+        "398_0": {
+            "lines": [
+                "Please, make it quick!",
+                "I gotta win this!"
+            ]
+        },
+        "406_0": {
+            "lines": [
+                "Why, who's this?",
+                "It's just an ordinary human!"
+            ]
+        },
+        "414_0": {
+            "lines": [
+                "You're pretty reckless, coming into the",
+                "Forest of Magic all by yourself."
+            ]
+        },
+        "422_0": {
+            "lines": [
+                "Now I'm gonna hurl all that strength at you!",
+				"Eat this and never come back!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Oh my, my, my.",
+                "I lost!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Thanks for the fireballs, but they were too hot!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I should've brought my scarf for this winter here..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Why aren't you dressed for this",
+                "winter anyways?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "The seasons currently differ across",
+                "Gensokyo. You didn't know?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Well, I'm always here, and alone..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Aaall alone in the forest...",
+                "*sniff*..."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Oh... Huh, I thought Marisa",
+                "was always around, as she told me..."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "What's going on about that?",
+				"I thought you were friends."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Maybe I should ask her about it."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Don't worry I got this.",
+                "Unfortunately, right now I have other priorities."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "You were the last person I had to face,",
+                "so, now I gotta go back!"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Ahh, my back feels hot for some reason, like before~."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Even though we're in the middle of a blizzard...",
+                "How strange..."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Ah, there's my shortcut! That door on your back!"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Couldn't believe she let it",
+                "open for that long!"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Huh?",
+                "Wow, talk about scary."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Now I can mock her back,",
+                "time to go in now!"
+            ]
+        }
+    }
+}
