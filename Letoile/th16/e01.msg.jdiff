@@ -1,0 +1,172 @@
+{
+    "0": {
+        "1_0": {
+            "lines": [
+                "A shrine on the eastern end of Gensokyo. Commonly known as the \"Youkai Shrine.\""
+            ]
+        },
+        "0_0": {
+            "lines": [
+                "<ts$Sereinae  $Reimu  >The Hakurei Shrine."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Sereinae  >\"Hey, Reimu, I need some help!\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Reimu  >\"Huh? You came back?\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Sereinae  >\"It's about this incident...\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Reimu  >\"You told me to leave this incident",
+                "<l$>  to your hands, then you come back here, and-\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Sereinae  >\"Sorry! I was really expecting it to be easy.\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Reimu  >\"*sigh*..."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Reimu  >\"You couldn't beat the mastermind, right?\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Sereinae >\"Huh? Yeah,.. I've let you down...",
+				"<l$>  I tried the best I could to defeat her though, I swear!\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Reimu  >\"That's okay. The same happened to me.\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Reimu  >\"You got caught in her trap like I did and",
+                "<l$> ended up here mid-fight, is that true?\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Sereinae >\"A trap?! I mean you're not wrong about me ending up here, but...\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Reimu  >\"From what I've seen, she could use her doors to move anywhere,",
+                "<l$>  so she vanished in front of me, and, just like you, I ended up here.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Sereinae  >\"Oh...? You're right! I feel kinda dumb there. Falling for the same trap...\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Reimu  >\"Don't mind about it, there's a solution.\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Sereinae  >\"Okay, I'm listening!\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Reimu  >\"You've probably seen these back doors everywhere, right?",
+                "<l$>  By using one of them, you can get back to her.\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Reimu  >\"But finding her isn't enough!\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Sereinae  >\"Is there something else to it?\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Reimu  >\"There's also a door on your back!\"",
+                "<l$>  Here's how I made it so that she didn't use mine against me.\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Sereinae  >\"...? Wait, you mean there are more than four seasons?"
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "Reimu gave Sereinae a second chance."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "A second chance not only for her test to keep going,"
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "but also without having anyone else, including Reimu, interfere."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "This incident once started once again when Sereinae accepted a challenge from the hidden god,"
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "Since then, and for the sake of the test, the fairies went berserk again,",
+				"and the hidden god didn't mind about the impact it would have on Gensokyo."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "And in order to not let Reimu down again..."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Sereinae immediatly jumped into a back door, and promised she'll put an end to the re-incident."
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "But this time, instead of equipping a sub-season..."
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<c$Ending No. 01 — The Finale of the Test$>"
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "<c$Congratulations!$>",
+                "<c$No Continue Clear!$>"
+            ]
+        }
+    }
+}
