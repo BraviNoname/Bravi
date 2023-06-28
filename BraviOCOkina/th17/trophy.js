@@ -16,7 +16,7 @@
         "Beat the midboss when she isn't shooting!",
         "The window is pretty short and gets shorter on higher difficulties."
     ],
-    "38": "Spirit of her Other Self",
+    "38": "Spirit with her Other Self",
     "38_1": [
         "Found the Rare Beast Spirit in Stage 6, the Desire Spirit.",
         "Defeat the midboss after one enemy reaches the opposite side!",
