@@ -10,7 +10,7 @@
         "(Hint: Enemies at their finish line!)"
     ],
 
-    "37": "She dropped her book!",
+    "37": "Star Butterfly Charm",
     "37_1": [
         "Found the Rare Beast Spirit in Stage 5, the Book of Memories.",
         "Beat the midboss when she isn't shooting!",
