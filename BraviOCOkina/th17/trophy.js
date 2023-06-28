@@ -19,7 +19,7 @@
     "38": "Spirit with her Other Self",
     "38_1": [
         "Found the Rare Beast Spirit in Stage 6, the Desire Spirit.",
-        "Defeat the midboss after one enemy reaches the opposite side!",
+        "Defeat the midboss after an enemy has reached the opposite side!",
         "They always signal it when they do so by shooting white orbs."
     ]
 }
