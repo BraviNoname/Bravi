@@ -12,5 +12,6 @@
     "101": "\"The Rainbow's Lost Colors\"",
     "113": "\"The Moon's Reflection of the Sunlight\"",
     "115": "\"The Moon's Warm Reflection of the Sunlight\"",
-    "116": "\"The Sunlight's Radiance as Seen from the Moon\""
+    "116": "\"The Sunlight's Radiance as Seen from the Moon\"",
+    "120": "\"The Blank Card Returned to its Owner\""
 }
