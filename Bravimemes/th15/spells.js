@@ -1,4 +1,5 @@
 {
+    "14": "Rabbit Sign \"Dango EXTREME Influence\"",
     "78": "\"Pure Light of the HOLYSHITTHATSFAST\"",
     "82": "\"Legacy of Lunatic Kingdom's Downfall\"",
     "86": "\"Sweeping Divine Speen World\"",
