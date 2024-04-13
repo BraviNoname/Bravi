@@ -103,7 +103,7 @@
     "4,3": [
         "I beat Sereinae, but there's something different about her.",
         "Wasn't she working for Okina some time ago? I suppose she quit for good.",
-        "Now she climbed the mountain all by foot to get here, with a black spirit by her side."
+        "She handed Reimu's card over. Guess she didn't care after all."
     ],
     "4,4": [
         "I never woulda thought that Nitori was Chimata's accomplice.",
