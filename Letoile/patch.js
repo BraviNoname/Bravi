@@ -13,6 +13,6 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/Letoile/"
 	],
-	"title": "(Th16) Custom playable character shot type for Sereinae (Spring).",
+	"title": "(Th13, 16, 18.5) Custom playable character shot type for Sereinae Letoile (Spring). Now includes a boss replacement for Reimu in Fourth Market, and Nue in the Extra stage.",
 	"update": true
 }
