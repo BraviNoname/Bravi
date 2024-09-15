@@ -11,7 +11,7 @@ Gender : Female
 Eyesight : Varying between decent and bad 
 Basic personality : Calm, compassionate, driven and innocent. Tends to take an elder sister/mother role with those around or below her age, making her honest, yet soft-spoken, when needed. Has a hard time forgiving unrespectful people. Tends to say "don't worry" often.
 Personality once with Jolty: Also became straightforward, very curious, and at other times lax and playful. Caring towards Jolty when he's down, and knows how to take things lightly, yet tries to catch him up when he goes too far.
-Flaws : Dependent on Jolty's combat support, meddlesome, can be naive, is a banal person, despite her hobby, used to be overemotional towards others.
+Flaws : Dependent on Jolty's combat support, meddlesome, can be naive, is a banal person, despite her hobby, used to be too emotionally sensitive.
 Likes : Jolty, his sincerity, and hugging him, either as an orb or a human. Likes playing games, going outside or making clothes during her spare time. She also likes listening to Jolty's stories.
 Dislikes : Feeling betrayed or left behind. Sensing too much of negative emotions, dishonesty from others. Dislikes seeing Jolty getting lonely, or depressed.
 
@@ -37,6 +37,7 @@ Abilities of Sereinae:
 
 - High-level of empathy: Can sense any of people's emotions and feelings. She prefers focusing on only one person's emotions, just to not overload herself. 
   This makes lying to her usually useless because she knows your emotions go against what you say, and therefore can sense how legitimate someone's words or actions are.
+  This ability has made her emotionally intelligent, which she uses to help those she cares about.
 
 - Good homemaker and skilled at making clothes. She makes clothes for cosplay or for sale.
 
