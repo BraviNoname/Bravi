@@ -1,0 +1,218 @@
+anim { "enemy.anm"; "enm33.anm"; }
+ecli { "default.ecl"; }
+
+sub AttackFunc()
+{
+    var A B C D;
+    %A = 0.034907f;
+    declareSpell2(0, 5400, 0, "古舟「エンシェントシップ」");
+    Move_limitClear();
+    $LOCAL1 = 2;
+    setZIndex(2);
+    $D = 0;
+    wait(120);
+    Anm_playAtCenter(1, 68);
+    playSound(54);
+    Anm_316(0, 0);
+    Anm_select(3);
+    wait(60);
+    $LOCAL1 = 2;
+    goto AttackFunc_1136 @ 0;
+AttackFunc_1032:
+    call("MBossCard1_move", _ff 177.0f, _ff -280.0f, _ff 280.0f, _ff -177.0f);
+    Move_posTime(60, 4, 0.0f, 224.0f);
+    wait(380);
+    Anm_playAtCenter(1, 68);
+    playSound(54);
+    Anm_316(0, 0);
+    Anm_select(3);
+    wait(60);
+    call("MBossCard1_move", _ff -177.0f, _ff 280.0f, _ff -280.0f, _ff 177.0f);
+    Move_posTime(60, 4, 0.0f, 224.0f);
+    wait(380);
+    Anm_playAtCenter(1, 68);
+    playSound(54);
+    Anm_316(0, 0);
+    Anm_select(3);
+    wait(60);
+AttackFunc_1136:
+    if 1 goto AttackFunc_1032 @ 0;
+    return();
+}
+
+sub Boss()
+{
+    var;
+    setBoss(0);
+    setIFrames(120);
+    Move_pos(-192.0f, -64.0f);
+    Anm_select(3);
+    Anm_setMain(0, 0);
+    setFlag(76);
+    setHurtbox(40.0f, 40.0f);
+    setHitbox(48.0f, 48.0f);
+    wait(70);
+    Move_posTime(40, 4, 0.0f, 224.0f);
+    wait(40);
+    setLife(2100);
+    resetTimer();
+    setNextSub(0, 0, 5400, "BossDead");
+    setTimeoutSub(0, "BossEscape");
+    call("AttackFunc");
+    goto Boss_476 @ 0;
+Boss_456:
+    wait(1000);
+Boss_476:
+    if 1 goto Boss_456 @ 0;
+    delete();
+}
+
+sub MBossCard1_move(H I J K)
+{
+  var A B C D E F G;
+   Move_posTime(60, 9, 0.0f, -70.0f);
+   wait(70);
+   $A = 5;
+   %B = 10.0f;
+   $C=300;
+   $D=0;
+   $E=1;
+   %F=0.0f;
+   %G=0.0f;
+    goto MBossCard1_move_225 @ 0;
+MBossCard1_move_224:
+   $E = $E + 1;
+   unless ($E == 2) goto MBossCard1_move_502 @ 0;
+   %F=%H;
+   %G=465.0f;
+   goto MBossCard1_move_505 @ 0;
+MBossCard1_move_502:
+   unless ($E == 3) goto MBossCard1_move_503 @ 0;
+   %F=%I;
+   %G=147.0f;
+   goto MBossCard1_move_505 @ 0;
+MBossCard1_move_503:
+   unless ($E == 4) goto MBossCard1_move_504 @ 0;
+   %F=%J;
+   %G=147.0f;
+   goto MBossCard1_move_505 @ 0;
+MBossCard1_move_504:
+   unless ($E == 5) goto MBossCard1_move_506 @ 0;
+   %F=%K;
+   %G=465.0f;
+   goto MBossCard1_move_505 @ 0;
+MBossCard1_move_506:
+   unless ($E == 6) goto MBossCard1_move_505 @ 0;
+   %F=0.0f;
+   %G=-70.0f;
+MBossCard1_move_505:
+   Move_posTime(35, 0, %F, %G);
+   call("MBossCard1_Line", _SS $C, _SS $D);
+   %B = %B + 45.0f;
+   $C= $C + 35;
+   $D= $D + 10;
+   wait(1);
+ MBossCard1_move_225:
+    if $A-- goto MBossCard1_move_224 @ 0;
+    return();
+}
+
+sub MBossCard1_Line(I J)
+{
+    var D E F G H;
+    wait(1);
+    Et_create(3);
+    Et_setAimMode(3, 0);
+    Et_setSprite(3, 37, 0);
+    Et_setAngle(3, %FINAL_ANGLE, 0.0f);
+    Et_setSpeed(3, 12.0f, 0.2f);
+    Laser_create(3, 1512.0f, 1512.0f, 0.0f, 16.0f);
+    Laser_setTiming(3, 60, 10, 30, 7, 0);
+    Et_transformPush(3, 0, 256, 1, -999999, -999999.0f, -999999.0f);
+    Et_setSound(3, 18, -1);
+    Laser_shootStatic(3, 0);
+    wait(1);
+    $D = 5;
+    Et_create($D);
+    Et_setAimMode($D, 3);
+    Et_setSprite($D, 6, 0);
+    Et_setCount($D, 2, 1);
+    Et_setSpeed($D, 0.0f, 1.2f);
+    Et_transformPush($D, 0, 2, 1, -999999, -999999.0f, -999999.0f);
+    Et_transformPush($D, 0, 1046576, 1, -999999, -999999.0f, -999999.0f);
+    Et_transformPush($D, 0, 128, 300, -999999, -999999.0f, -999999.0f);
+    Et_transformPush($D, 0, 256, 600, -999999, -999999.0f, -999999.0f);
+    Et_transformPush($D, 0, -2147483648, $I, -999999, -999999.0f, -999999.0f);
+    Et_transformPush($D, 0, 1046576, 0, -999999, -999999.0f, -999999.0f);
+    Et_transformPush($D, 0, 2097152, 60, -999999, 2.0f, -999999.0f);
+	$E = 15 + ($RAND % 5);
+    goto MBossCard1_Line_1156 @ 0;
+MBossCard1_Line_696:
+    Et_setAngle($D, _f(%FINAL_ANGLE - 1.5707964f), 0.0f);	
+    Et_shoot($D);
+    wait(1);
+MBossCard1_Line_1156:
+    if (%FINAL_X == _f(280)) goto MBossCard1_Line_1147 @ 0;
+    if (%FINAL_X == _f(-280)) goto MBossCard1_Line_1147 @ 0;
+    if (%FINAL_Y == _f(465)) goto MBossCard1_Line_1147 @ 0;
+    if (%FINAL_Y == _f(-70)) goto MBossCard1_Line_1147 @ 0;
+    if $E-- goto MBossCard1_Line_696 @ 0;
+    wait(1);
+	$LOCAL1 = $J;
+    Enm_create("MBossCard1_Spot", 0.0f, 0.0f, 10, 10000, -1);
+    wait(1);
+	$E = 500;
+    if $E-- goto MBossCard1_Line_696 @ 0;
+MBossCard1_Line_1147:
+    return();
+}
+
+sub MBossCard1_Spot(C)
+{
+    var H;
+    playSound(27);
+	setFlag(3);
+	Et_create(1);
+    Et_setAimMode(1, 0);
+	Et_setSprite(1, 32, 0);
+    Et_setCount(1, 7, 1);
+    Et_setAngle(1, 0.0f, 0.75988f);
+    Et_setSpeed(1, 0.0f, 1.2f);
+    Et_transformPush(1, 0, 2, 1, -999999, -999999.0f, -999999.0f);
+    Et_transformPush(1, 0, 128, 700, -999999, -999999.0f, -999999.0f);
+    Et_transformPush(1, 0, -2147483648, 650, -999999, -999999.0f, -999999.0f);
+    Et_transformPush(1, 0, 2097152, 60, -999999, 3.5f, -999999.0f);
+    Et_shoot(1);
+	%H = -1.5707964f;
+    Et_setOffsetAbs(0, %ABS_X, %ABS_Y);
+    wait($LOCAL1);
+    Et_create(0);
+    Et_setAimMode(0, 3);
+    Et_setSprite(0, 16, 6);
+    Et_setCount(0, 5, 5);
+    Et_setSpeed(0, 2.0f, 0.8f);
+    Et_transformPush(0, 0, 2, 1, -999999, -999999.0f, -999999.0f);
+    Et_setAngle(0, %H, 0.535988f);
+    Et_shoot(0);
+    Et_setAngle(0, %H, -0.535988f);
+    Et_shoot(0);
+    return();
+}
+
+sub main()
+{
+    var;
+    setFlag(32);
+    Enm_createB("Boss", -64.0f, -64.0f, 4000, 5000, 2);
+    goto main_148 @ 0;
+main_128:
+    wait(4);
+main_148:
+    if 1 goto main_128 @ 0;
+    goto main_236 @ 0;
+main_216:
+    wait(1000);
+main_236:
+    if 1 goto main_216 @ 0;
+    delete();
+}
