@@ -25,6 +25,10 @@
     "89": "Thunder Sign \"Vertical Electric Fence Maze\"",
     "93": "Thunder Sign \"Sniping Thunder Spears From Far Away\"",
     "94": "Upgraded Ability Card \"Gluttonous Five Centipedes\"",
-    "95": "\"Haha Orbs Go Nom-Nom\"",
-    "96": "\"Final Spell Card Hype!\"",
+    "95": "Parody \"Billards Gourmet\"",
+    "96": "Parody \"Simple Centipede-Based Criss Cross\"",
+    "113": "\"Multi-Shot into Multi-Dash\"",
+    "84": "\"Seasons-Colored Grid Art\"",
+    "85": "Mountain Climb \"Triple Thunder Dash\"",
+    "86": "\"Avoidance under Idol Spotlights\""
 }
