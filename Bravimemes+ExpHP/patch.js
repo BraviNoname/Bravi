@@ -8,9 +8,10 @@
         "ExpHP/anm_leak",
         "ExpHP/sprite_death_fix",
         "ExpHP/bullet_cap",
-		"32th/score_uncap"
+		"32th/score_uncap",
+		"Bravi/Bravimemes"
 	],
-	"id": "Bravimemes",
+	"id": "Bravimemes+ExpHP",
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/Bravimemes+ExpHP/"
 	],
