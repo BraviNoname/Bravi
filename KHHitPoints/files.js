@@ -1,7 +1,7 @@
 {
 	"RussellSquare.ttf": 1572031365,
 	"global.js": null,
-	"patch.js": 2174805751,
+	"patch.js": 2296703726,
 	"stringdefs.js": null,
 	"th06/front.png": 2172905045,
 	"th09/data/front/front.png": 1235914349,

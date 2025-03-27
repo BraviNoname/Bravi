@@ -1,6 +1,6 @@
 {
 	"RussellSquare.ttf": null,
-	"patch.js": 2545609009,
+	"patch.js": 732988341,
 	"th11/background/stage06/stage06c.png": null,
 	"th11/bullet/etama7a.png": null,
 	"th11/card/cdbg06a.png": null,

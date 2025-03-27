@@ -4,7 +4,7 @@
 	"README.md": 485832592,
 	"RussellSquare.ttf": 1572031365,
 	"global.js": 1996466860,
-	"patch.js": 3388327244,
+	"patch.js": 1336888647,
 	"th06/ascii.png": 2339541171,
 	"th06/asciis.png": 1334880500,
 	"th06/border.wav": 3340321716,

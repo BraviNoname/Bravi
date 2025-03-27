@@ -1,6 +1,6 @@
 {
 	"RussellSquare.ttf": 1572031365,
-	"patch.js": 3039921755,
+	"patch.js": 2254711447,
 	"stringdefs.js": 1747905374,
 	"th07/data/player00/player00.png": 2998598760,
 	"th08/data/face/st05/face_st05a.png": 3693727256,

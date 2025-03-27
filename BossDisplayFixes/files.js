@@ -4,7 +4,7 @@
 	"README.md": null,
 	"RussellSquare.ttf": 1572031365,
 	"global.js": 1951612055,
-	"patch.js": 3101150815,
+	"patch.js": 3073580507,
 	"th06/ascii.png": 4081611862,
 	"th06/asciis.png": 1578638469,
 	"th06/border.wav": null,

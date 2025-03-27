@@ -3,7 +3,7 @@
 	"Sereinae Létoile Omake.txt": 3001969787,
 	"Some Sereinae Sanae and Jolty dialogue.txt": 3815607817,
 	"global.js": 2975777465,
-	"patch.js": 1105535567,
+	"patch.js": 4000848845,
 	"stringdefs.js": null,
 	"th11/face/enemy6/face06ct.png": null,
 	"th11/th11_16.flac": null,

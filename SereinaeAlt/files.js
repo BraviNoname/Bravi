@@ -2,7 +2,7 @@
 	"RussellSquare.ttf": 1572031365,
 	"Sereinae Replica Omake.txt": 1080377907,
 	"global.js": 2975777465,
-	"patch.js": 600392976,
+	"patch.js": 2891445643,
 	"stringdefs.js": 3649229448,
 	"th11/face/enemy6/face06ct.png": null,
 	"th11/th11_16.flac": null,
