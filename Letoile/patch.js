@@ -11,7 +11,7 @@
 	},
 	"id": "Letoile",
 	"servers": [
-		"https://mirrors.thpatch.net/Bravi/Letoile/"
+		"https://raw.githubusercontent.com/BraviNoname/Bravi/master/Letoile/"
 	],
 	"title": "(Th13, 14.3, 16, 18.5) Custom playable character shot type for Sereinae Letoile (Spring). Now includes a boss replacement for Reimu in Fourth Market, Nue in the Extra stage, and scenes 3, 4, 7 and 8 of Day 9.",
 	"update": true

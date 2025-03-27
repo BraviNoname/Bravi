@@ -18,7 +18,7 @@
 		"Teedee Arrows": "(Th15) Makes all bullets/lasers arrows. Typically deus rsf's nightmare."
 	},
 	"servers": [
-		"https://mirrors.thpatch.net/Bravi/"
+		"https://raw.githubusercontent.com/BraviNoname/Bravi/master/"
 	],
 	"title": "Bravi's creations"
 }

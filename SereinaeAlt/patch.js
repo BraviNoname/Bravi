@@ -10,7 +10,7 @@
 	},
 	"id": "SereinaeAlt",
 	"servers": [
-		"https://mirrors.thpatch.net/Bravi/SereinaeAlt/"
+		"https://raw.githubusercontent.com/BraviNoname/Bravi/master/SereinaeAlt/"
 	],
 	"title": "(Th18) Alt timeline patch for miss OC. This stage is not canon to her story, but that version of the character IS. Replaces Chimata with a new Final Boss.",
 	"update": true

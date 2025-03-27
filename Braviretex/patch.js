@@ -10,7 +10,7 @@
 	},
 	"id": "Braviretex",
 	"servers": [
-		"https://mirrors.thpatch.net/Bravi/Braviretex/"
+		"https://raw.githubusercontent.com/BraviNoname/Bravi/master/Braviretex/"
 	],
 	"title": "(Th06 to 17 tsa games) Remake-like Retexture, Sounds, Dark UI and Display Fix Patch."
 }

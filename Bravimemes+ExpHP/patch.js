@@ -13,7 +13,7 @@
 	],
 	"id": "Bravimemes+ExpHP",
 	"servers": [
-		"https://mirrors.thpatch.net/Bravi/Bravimemes+ExpHP/"
+		"https://raw.githubusercontent.com/BraviNoname/Bravi/master/Bravimemes+ExpHP/"
 	],
 	"title": "Bravimemes but with the ExpHP+32th mods dependencies (bullet cap, score uncap, etc). Select the standard Bravimemes if it crashes when loading a stage."
 }

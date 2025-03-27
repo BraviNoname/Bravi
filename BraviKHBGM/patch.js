@@ -5,7 +5,7 @@
 	],
 	"id": "BraviKHBGM",
 	"servers": [
-		"https://mirrors.thpatch.net/Bravi/BraviKHBGM/"
+		"https://raw.githubusercontent.com/BraviNoname/Bravi/master/BraviKHBGM/"
 	],
 	"title": "(Th12, 15) Some final and Extra boss themes got a Kingdom Hearts theme playing while you fight them."
 }

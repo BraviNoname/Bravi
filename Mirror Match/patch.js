@@ -12,7 +12,7 @@
 	},
 	"id": "Mirror Match",
 	"servers": [
-		"https://mirrors.thpatch.net/Bravi/Mirror Match/"
+		"https://raw.githubusercontent.com/BraviNoname/Bravi/master/Mirror Match/"
 	],
 	"title": "(Th16) Combines BraviOCOkina mod with the Létoile mod for a mirror match at st6/Extra with alternate dialogues."
 }

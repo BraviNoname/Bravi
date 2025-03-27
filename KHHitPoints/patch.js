@@ -11,7 +11,7 @@
 	},
 	"id": "KHHitPoints",
 	"servers": [
-		"https://mirrors.thpatch.net/Bravi/KHHitPoints/"
+		"https://raw.githubusercontent.com/BraviNoname/Bravi/master/KHHitPoints/"
 	],
 	"title": "(Every modern stg + th06-09) Boss Lifebar and Life count reskin based on KH games and modern life bomb icon colors, from Braviretex.",
 	"update": true

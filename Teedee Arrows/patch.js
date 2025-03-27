@@ -6,7 +6,7 @@
 	],
 	"id": "Teedee Arrows",
 	"servers": [
-		"https://mirrors.thpatch.net/Bravi/Teedee Arrows/"
+		"https://raw.githubusercontent.com/BraviNoname/Bravi/master/Teedee Arrows/"
 	],
 	"title": "(Th15) Makes all bullets/lasers arrows. Typically deus rsf's nightmare."
 }

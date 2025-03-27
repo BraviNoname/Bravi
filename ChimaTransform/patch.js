@@ -7,7 +7,7 @@
 	],
 	"id": "ChimaTransform",
 	"servers": [
-		"https://mirrors.thpatch.net/Bravi/ChimaTransform/"
+		"https://raw.githubusercontent.com/BraviNoname/Bravi/master/ChimaTransform/"
 	],
 	"title": "(Th18) Chimata transforms into other final bosses."
 }
