@@ -9,7 +9,7 @@
 	"fonts": {
 		"RussellSquare.ttf": true
 	},
-	"id": "SereinaeAlt",
+	"id": "Letoile",
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/Letoile/"
 	],

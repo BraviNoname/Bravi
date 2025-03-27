@@ -10,9 +10,9 @@
 	"fonts": {
 		"RussellSquare.ttf": true
 	},
-	"id": "BraviOCOkina",
+	"id": "Mirror Match",
 	"servers": [
-		"https://mirrors.thpatch.net/Bravi/Mirror_Match/"
+		"https://mirrors.thpatch.net/Bravi/Mirror Match/"
 	],
 	"title": "(Th16) Combines BraviOCOkina mod with the Létoile mod for a mirror match at st6/Extra with alternate dialogues."
 }

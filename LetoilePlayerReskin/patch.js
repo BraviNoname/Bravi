@@ -9,7 +9,7 @@
 	"fonts": {
 		"RussellSquare.ttf": true
 	},
-	"id": "SereinaeAlt",
+	"id": "LetoilePlayerReskin",
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/LetoilePlayerReskin/"
 	],

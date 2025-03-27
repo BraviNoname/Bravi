@@ -8,7 +8,7 @@
 	"fonts": {
 		"RussellSquare.ttf": true
 	},
-	"id": "BraviOCOkina",
+	"id": "Siuuu",
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/Siuuu/"
 	],

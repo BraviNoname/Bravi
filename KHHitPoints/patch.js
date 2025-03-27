@@ -9,7 +9,7 @@
 	"fonts": {
 		"RussellSquare.ttf": true
 	},
-	"id": "SereinaeAlt",
+	"id": "KHHitPoints",
 	"servers": [
 		"https://mirrors.thpatch.net/Bravi/KHHitPoints/"
 	],
