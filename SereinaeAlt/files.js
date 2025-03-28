@@ -1,6 +1,6 @@
 {
 	"RussellSquare.ttf": 1572031365,
-	"Sereinae Replica Omake.txt": 1080377907,
+	"Sereinae Replica Omake.txt": 1031040323,
 	"global.js": 2975777465,
 	"patch.js": 2891445643,
 	"stringdefs.js": 3649229448,
@@ -225,7 +225,7 @@
 	"th18/face/enemy5m/face05mpr.png": 2633103082,
 	"th18/face/enemy5m/face05msp.png": 3082697420,
 	"th18/face/enemy5m/face05msw.png": 1515349988,
-	"th18/face/enemy6/ename01.png": 28677571,
+	"th18/face/enemy6/ename01.png": 70662075,
 	"th18/face/enemy6/enamebk.png": 3589787218,
 	"th18/face/enemy6/face06an.png": 2853781693,
 	"th18/face/enemy6/face06bs.png": 383201918,

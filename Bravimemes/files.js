@@ -319,7 +319,7 @@
 	"th18/face/enemy7/face07spl.png": 855966619,
 	"th18/face/enemy7/face07sw.png": 4259199676,
 	"th18/face/enemy7/face07swl.png": 836502138,
-	"th18/face/enemy7m/ename01.png": 4170937528,
+	"th18/face/enemy7m/ename01.png": 2840093042,
 	"th18/face/enemy7m/enamebk.png": 2635452246,
 	"th18/face/enemy7m/face07man.png": 2747672631,
 	"th18/face/enemy7m/face07mban.png": 1523317242,

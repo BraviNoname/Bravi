@@ -1,6 +1,6 @@
 {
 	"RussellSquare.ttf": null,
-	"Sereinae Létoile Omake.txt": 3001969787,
+	"Sereinae Létoile Omake.txt": 2118943752,
 	"Some Sereinae Sanae and Jolty dialogue.txt": 3815607817,
 	"global.js": 2975777465,
 	"patch.js": 4000848845,
@@ -14,7 +14,7 @@
 	"th13/face/balloon.png": 613480744,
 	"th13/face/dummy.png": 2926711928,
 	"th13/face/enemy1/enamebk.png": 2897028461,
-	"th13/face/enemy7m/ename01.png": 2612117730,
+	"th13/face/enemy7m/ename01.png": 1383320480,
 	"th13/face/enemy7m/face07bs.png": 3042552783,
 	"th13/face/enemy7m/face07mct.png": 969397542,
 	"th13/face/enemy7m/face07n2.png": 862619756,
