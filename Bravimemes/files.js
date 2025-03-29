@@ -385,7 +385,7 @@
 	"th18/stgenm/stage07/enm7.png": 2961246766,
 	"th18/stgenm/stage07/enm7sp.png": 3693985543,
 	"th18/stgenm/stage07/enm7true.png": 3342395201,
-	"th18/stgenm/stage07/stg7menm.png": 3094154085,
+	"th18/stgenm/stage07/stg7menm.png": 2514046046,
 	"th18/stgenm/stage07/stg7menm2.png": 1796385975,
 	"th18/th18_12.flac": 4114379044,
 	"th18/th18_12.loop.flac": 3416337130,
