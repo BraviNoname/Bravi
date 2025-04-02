@@ -4,6 +4,7 @@
 		"nmlgc/script_latin",
 		"nmlgc/western_name_order",
 		"thpatch/lang_en",
+		"zero318/ZeroEclExtensions",
 		"Bravi/BossDisplayFixes"
 	],
 	"fonts": {
@@ -13,6 +14,6 @@
 	"servers": [
 		"https://raw.githubusercontent.com/BraviNoname/Bravi/master/LetoilePlayerReskin/"
 	],
-	"title": "(Every non-versus modern game) Just a lazy Sereinae Létoile reskin for all player sprites, just because she likes to cosplay. Not a custom shottype btw, that's for Létoile mod.",
+	"title": "(Every non-versus game) Just a lazy Sereinae Létoile reskin for all player sprites, just because she likes to cosplay. Not a custom shottype btw, that's for Létoile mod.",
 	"update": true
 }

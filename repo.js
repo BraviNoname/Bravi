@@ -11,7 +11,7 @@
 		"ChimaTransform": "(Th18) Chimata transforms into other final bosses.",
 		"KHHitPoints": "(Every modern stg + th06-09) Boss Lifebar and Life count reskin based on KH games and modern life bomb icon colors, from Braviretex.",
 		"Letoile": "(Th13, 14.3, 16, 18.5) Custom playable character shot type for Sereinae Letoile (Spring). Now includes a boss replacement for Reimu in Fourth Market, Nue in the Extra stage, and scenes 3, 4, 7 and 8 of Day 9.",
-		"LetoilePlayerReskin": "(Every non-versus modern game) Just a lazy Sereinae Létoile reskin for all player sprites, just because she likes to cosplay. Not a custom shottype btw, that's for Létoile mod.",
+		"LetoilePlayerReskin": "(Every non-versus game) Just a lazy Sereinae Létoile reskin for all player sprites, just because she likes to cosplay. Not a custom shottype btw, that's for Létoile mod.",
 		"Mirror Match": "(Th16) Combines BraviOCOkina mod with the Létoile mod for a mirror match at st6/Extra with alternate dialogues.",
 		"SereinaeAlt": "(Th18) Alt timeline patch for miss OC. This stage is not canon to her story, but that version of the character IS. Replaces Chimata with a new Final Boss.",
 		"Siuuu": "(All Touhou Windows STG) Replaces (se_)enep01.wav (boss death sound) by SIUUU from Sawano7's streams",

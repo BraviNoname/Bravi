@@ -1,8 +1,8 @@
 {
 	"RussellSquare.ttf": null,
 	"Sereinae incidents thoughts.txt": 91530070,
-	"global.js": null,
-	"patch.js": 704610300,
+	"global.js": 1522336802,
+	"patch.js": 2409179327,
 	"stringdefs.js": null,
 	"th06/MarisaA.png": 1579954361,
 	"th06/MarisaB.png": 228104806,
