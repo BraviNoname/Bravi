@@ -14,6 +14,6 @@
 	"servers": [
 		"https://raw.githubusercontent.com/BraviNoname/Bravi/master/LetoilePlayerReskin/"
 	],
-	"title": "(Every non-versus game) Just a lazy Sereinae Létoile reskin for all player sprites, just because she likes to cosplay. Not a custom shottype btw, that's for Létoile mod.",
+	"title": "(Every non-versus game) Just a lazy Sereinae Létoile reskin for all player sprites, just because she likes to cosplay. Includes haircolor change corresponding more or less to the actual character's when at full power (in th18 only, for now) thanks to zero318. Not a custom shottype btw, that one kind of mod is for Létoile mod.",
 	"update": true
 }
