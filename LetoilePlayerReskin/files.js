@@ -119,7 +119,7 @@
 	"th125/player/pl10.png": 2919594793,
 	"th128/Cirno.png": 1734625705,
 	"th128/player/pl00/pl00.png": 2372792706,
-	"th128/player/pl00/pl01.png": 152110225,
+	"th128/player/pl00/pl01.png": 1094746123,
 	"th13/Marisa.png": 764035902,
 	"th13/Reimu.png": 1534217388,
 	"th13/Sanae.png": 2031694766,
