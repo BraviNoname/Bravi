@@ -333,7 +333,7 @@
 	"th17/player/pl00/pl00.png": 916781930,
 	"th17/player/pl01/pl01.png": 1293245045,
 	"th17/player/pl02/pl02.png": 3528293559,
-	"th17/player/pl02/pl03.png": 1941707685,
+	"th17/player/pl02/pl03.png": 487319923,
 	"th17/title/title_pl00b.png": 878219569,
 	"th17/title/title_pl00c.png": 3062194914,
 	"th17/title/title_pl00c2.png": 4078394452,
