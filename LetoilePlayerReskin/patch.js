@@ -11,6 +11,9 @@
 		"RussellSquare.ttf": true
 	},
 	"id": "LetoilePlayerReskin",
+	"ignore": [
+		"zero318/ZeroEclExtensions/th06.v1.02h.js"
+	],
 	"servers": [
 		"https://raw.githubusercontent.com/BraviNoname/Bravi/master/LetoilePlayerReskin/"
 	],
