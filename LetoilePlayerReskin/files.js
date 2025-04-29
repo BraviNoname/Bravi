@@ -164,7 +164,7 @@
 	"th15/player/pl00/pl00.png": 916781930,
 	"th15/player/pl01/pl01.png": 1293245045,
 	"th15/player/pl02/pl02.png": 2666024068,
-	"th15/player/pl03/pl03.png": 3066355129,
+	"th15/player/pl03/pl03.png": 2672157724,
 	"th15/title/player_00.png": 826194566,
 	"th15/title/player_00ex.png": 2894802807,
 	"th15/title/player_01.png": 2689553706,
