@@ -1,6 +1,6 @@
 {
-	"font": "RussellSquare",
+	"font": "RussellSquareth",
 	"fontrules": {
-		"*": "'RussellSquare' 32 10 100"
+		"* 15 * 700": "* 21 * 100 NONANTIALIASED_QUALITY"
 	}
 }

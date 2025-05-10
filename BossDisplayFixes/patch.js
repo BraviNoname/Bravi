@@ -6,7 +6,7 @@
 		"thpatch/lang_en"
 	],
 	"fonts": {
-		"RussellSquare.ttf": true
+		"RussellSquareth.ttf": true
 	},
 	"id": "BossDisplayFixes",
 	"servers": [

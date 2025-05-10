@@ -7,7 +7,7 @@
 		"Bravi/BossDisplayFixes"
 	],
 	"fonts": {
-		"RussellSquare.ttf": true
+		"RussellSquareth.ttf": true
 	},
 	"id": "KHHitPoints",
 	"servers": [

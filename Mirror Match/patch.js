@@ -8,7 +8,7 @@
 		"Bravi/BraviOCOkina"
 	],
 	"fonts": {
-		"RussellSquare.ttf": true
+		"RussellSquareth.ttf": true
 	},
 	"id": "Mirror Match",
 	"servers": [
