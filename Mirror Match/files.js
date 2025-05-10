@@ -1,6 +1,6 @@
 {
 	"RussellSquare.ttf": null,
-	"global.js": 3748288172,
+	"global.js": 1012714159,
 	"patch.js": 157453648,
 	"th11/face/enemy6/face06ct.png": null,
 	"th11/th11_16.flac": null,

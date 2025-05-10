@@ -2,7 +2,7 @@
 	"RussellSquare.ttf": null,
 	"Sereinae Létoile Omake.txt": 3745663373,
 	"Some Sereinae Sanae and Jolty dialogue.txt": 3815607817,
-	"global.js": 3748288172,
+	"global.js": 1012714159,
 	"patch.js": 4000848845,
 	"stringdefs.js": null,
 	"th11/face/enemy6/face06ct.png": null,

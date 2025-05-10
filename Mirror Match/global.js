@@ -1,8 +1,5 @@
 {
 	"font": "RussellSquareth",
-	"fontrules": {
-		"* 15 * 700": "* 21 * 100 NONANTIALIASED_QUALITY"
-	},
 	"options": {
 		"zecl_lins_jump_addr": { "type": "u32", "val": 0 },
 		"zecl_lins_jump_base_count": { "type": "u32", "val": 0 },

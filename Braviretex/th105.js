@@ -1,5 +1,3 @@
 {
-	"fontrules": {
-		"*": "'RussellSquare' * * *"
-	}
+	"font": "RussellSquareth"
 }
