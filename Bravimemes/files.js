@@ -346,7 +346,7 @@
 	"th18/front/logo/st07logo.png": 811609853,
 	"th18/front/sereisubst.png": 2772922779,
 	"th18/player/option/op00.png": 734878837,
-	"th18/spells.js": 362301137,
+	"th18/spells.js": 1824688809,
 	"th18/st01bs.ecl": 1850693793,
 	"th18/st01mbs.ecl": 1903027010,
 	"th18/st04bs.ecl": 3902292401,
