@@ -19,7 +19,7 @@
     "54": "Luminous Horse \"Wild Homing Dash of Sky-Racing Heavenly Steeds\"",
     "92": "I Forbid It \"No More Fun!\"",
     "91": "Fireworks \"Fireworks from Every Wall\"",
-    "90": "Parody \"I Reversed Gravity on This Mine Dump!\"",
+    "90": "Parody \"Ever-Mirrored Mine Dump\"",
     "87": "Parody \"Mine Are Longer!\"",
     "88": "Illusion Sign \"Creeping Close Illusionary Clones\"",
     "89": "Thunder Sign \"Vertical Electric Fence Maze\"",

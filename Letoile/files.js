@@ -1,6 +1,6 @@
 {
 	"RussellSquare.ttf": null,
-	"Sereinae Létoile Omake.txt": 2792511178,
+	"Sereinae Létoile Omake.txt": 824750536,
 	"Some Sereinae Sanae and Jolty dialogue.txt": 3815607817,
 	"global.js": 1012714159,
 	"patch.js": 4000848845,
@@ -369,7 +369,7 @@
 	"th18/title/title_ver.png": null,
 	"th185/Sereinae Létoile omake.txt": 1613000500,
 	"th185/boss16.anm": 2319374517,
-	"th185/boss16.ecl": 373319860,
+	"th185/boss16.ecl": 2947101545,
 	"th185/front/ename.png": 3227962096,
 	"th185/spells.js": 4011159130,
 	"th185/stgenm/en16/cdbg07a.png": 994155852,
