@@ -370,7 +370,7 @@
 	"th18/st07d.msg": 3691756676,
 	"th18/st07d.msg.jdiff": 2449960063,
 	"th18/st07enm.anm": 2867846256,
-	"th18/st07mbs.ecl": 2434958231,
+	"th18/st07mbs.ecl": 3230621674,
 	"th18/stgenm/stage05/cdbg05a00.png": 1768043072,
 	"th18/stgenm/stage05/cdbg05b00.png": 1053486747,
 	"th18/stgenm/stage05/enm5.png": 1910507899,
