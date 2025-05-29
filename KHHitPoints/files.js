@@ -356,6 +356,15 @@
 	"th18/title/title_ver.png": null,
 	"th185/front.anm": 2434892873,
 	"th185/front/lifebar.png": 982680966,
+	"th20/front/ename_tr.png": null,
+	"th20/front/front00.png": 1141677831,
+	"th20/front/front01.png": null,
+	"th20/front/lifebar.png": 462082429,
+	"th20/front/logo/st01logo.png": null,
+	"th20/front/logo/st02logo.png": null,
+	"th20/front/logo/st03logo.png": null,
+	"th20/front/stonegauge.png": null,
+	"th20/fronttr.anm": 2772739013,
 	"themes.js": null,
 	"versions.js": null
 }
