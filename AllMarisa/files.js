@@ -31,7 +31,7 @@
 	"th06/nodamage.wav": null,
 	"th06/ok00.wav": null,
 	"th06/pause.wav": null,
-	"th06/player00.png": null,
+	"th06/player00.png": 2820761659,
 	"th06/player01.png": null,
 	"th06/pldead00.wav": null,
 	"th06/power0.wav": null,
