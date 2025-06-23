@@ -10,7 +10,7 @@ All games:
 
 TH06 - 12:
 
--Modernizing the UI, will add more info later.
+- Modernizing the UI, will add more info later.
 
 
 TH13:
