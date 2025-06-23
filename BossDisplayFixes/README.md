@@ -116,7 +116,7 @@ TH18:
 
 - Chimata's spellcards on Spell Practice have the stage background appear just like it would on regular runs.
 
-- Chimata's final spellcard is declared after charging once or twice and exploding (depending if you skip her monologue or not, akin to Junko's, for effect, and in addition, phase markers have been added, as well as a slowmo during the second explosion.
+- Chimata's final spellcard is declared after charging once or twice and exploding (depending if you skip her monologue or not), akin to Junko's, for effect, and in addition, phase markers have been added, as well as a slowmo during the second explosion.
 
 - Timeout crash on Chimata's final on Spell Practice has been fixed.
 
