@@ -8,7 +8,7 @@ All games:
 - Uses RussellSquare font for the strings.
 
 
-TH06 - 12;
+TH06 - 12:
 
 -Modernizing the UI, will add more info later.
 
