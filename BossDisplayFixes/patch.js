@@ -12,5 +12,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/BraviNoname/Bravi/master/BossDisplayFixes/"
 	],
-	"title": "(All Windows Main Games + 16.5) Same as Retexture but it's only a Boss Display Fix Patch + modernized sfx and Life/Bomb icons."
+	"title": "(All Windows Main Games + some spinoffs) Same as Retexture but it's only a Boss Display Fix Patch + modernized sfx and Life/Bomb icons (check README.md for more info)."
 }
