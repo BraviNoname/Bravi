@@ -71,7 +71,7 @@ TH16:
 
 - The door from Extra Okina's portrait has been added on her sprites.
 
-- Fixes HP star count on Aunn, Mai and Satono (both stage 5 and Extra).
+- Fixe HP star count on Aunn, Mai and Satono (both stage 5 and Extra).
 
 - Extra Mai and Satono's spell bg appear the same way as in stage 5.
 
@@ -84,7 +84,7 @@ TH17:
 
 - Spirits which give resources have their icons changed to represent what they actually give.
 
-- Urumi's, Mayumi's, and Extra Kutaka have their HP stars counts fixed.
+- Urumi, Mayumi, and Extra Kutaka have their HP stars counts fixed.
 
 - Fixed Extra Kutaka's spell practice glitch to make her invulnerable until she declares her spell card (not replay compatible). 
 
