@@ -3,7 +3,7 @@
 	"id": "Bravi",
 	"patches": {
 		"AllMarisa": "(Multiple games) Player sprites become Marisa, per texap0rte's joke idea.",
-		"BossDisplayFixes": "(All Windows Main Games + some spinoffs) Same as Retexture but it's only a Boss Display Fix Patch + modernized sfx and Life/Bomb icons (check README.md for more info).",
+		"BossDisplayFixes": "(All Windows Main Games + some spinoffs) Same as Retexture but it's only a Boss Display Fix Patch + modernized sfx and Life/Bomb icons (check the README.md of the mod for more info).",
 		"BraviKHBGM": "(Th12, 15) Some final and Extra boss themes got a Kingdom Hearts theme playing while you fight them.",
 		"BraviOCOkina": "(Th13, 14.3, 15, 16, 16.5, 17, 18) Replaces the following with a new (OC) adversary.\n             A stage 6 midboss got added in th13, 15, and 16 as well.\n            Okina in Stage 6, Extra (turned into Phantasm) that got a revamp,\n             Wrong/Nightmare Saturdays that got a stage background revamp too\n             Yukari in Day 10\n            Futo and Tojiko in Stage 5\n             Seiran in Stage 1\n             Mayumi in stages 5 and 6, got new additions to Keiki's fight too\n             Megumu in stage 5.",
 		"Bravimemes": "(Th10 onwards) (Select Bravimemes+ExpHP to remove bullet caps and make the game not crash when there's a lot of bullet cancels or enemy kills) Memes that come in my mind, and cursed patterns too... Like Mountain of Stoners, Subterranean Oparism or Legacy of Lunatic MetaPlate.\n            Okina's fight has the order of the seasons shuffled, and Mai and Satono drop too many ressources.\n            Keiki and Saki also seem to be affected by a curse, making them wrathful. This list is non-exhaustive btw.",
