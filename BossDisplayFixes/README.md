@@ -64,7 +64,6 @@ TH15:
 - Fixes the Extra boss final card in which both enemies use the aura, and both disappear when the fight is over.
 
 
-
 TH16:
 
 - The big PIV items appear as stars akin to TH10-11's, and fall items appear as maple leaves.
@@ -73,7 +72,7 @@ TH16:
 
 - Fixe HP star count on Aunn, Mai and Satono (both stage 5 and Extra).
 
-- Extra Mai and Satono's spell bg appear the same way as in stage 5.
+- Extra Mai and Satono's spell bg appears the same way as in stage 5.
 
 - The explosion heard during Narumi spell2 when she spawns her sun actually sounds like one now, like with Utsuho.
 
@@ -87,6 +86,8 @@ TH17:
 - Urumi, Mayumi, and Extra Kutaka have their HP stars counts fixed.
 
 - Fixed Extra Kutaka's spell practice glitch to make her invulnerable until she declares her spell card (not replay compatible). 
+
+- Extra Kutaka's spell bg appears the same way as in stage 3.
 
 - Spellcard portraits have been sized down so that they don't look too big, and Keiki's has its position changed during its animation.
 
