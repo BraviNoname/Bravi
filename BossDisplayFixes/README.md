@@ -1,14 +1,16 @@
 This lists the fixes and changes brought by this mod, this is non-exhaustive. This mod is made to be replay compatible, except on certain cases on Spell Practice, but isn't completely compatible with thprac.
 
+
 All games:
 
 - Implements a version of ascii which shows the obtained score over your head with a more readable font.
 
 - Uses RussellSquare font for the strings.
 
+
 TH06 - 12;
 
-Modernizing the UI, will add more info later.
+-Modernizing the UI, will add more info later.
 
 
 TH13:
@@ -33,6 +35,7 @@ TH13:
 
 
 TH14:
+
 - Fixes Seija's delayed Spell start on her final on Spell Practice (not replay compatible).
 
 - Fixes Shinmyoumaru's HP markers on her final (which don't appear on vanilla Spell Practice), and adds a marker for her non2's second phase.
