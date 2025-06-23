@@ -21,7 +21,7 @@ TH13:
 
 - Fixes Futo final spell HP marker.
 
-- Fixes Miko's aura for her final spell (in vanilla it appeared only on Spell Practice).
+- Fixes Miko's aura for her final spell (in vanilla it appeared only on Spell Practice), and has Miko trigger an explosion when the spell starts.
 
 - Fixes Nue's HP star count and implements a Spell cutin for her, which she's missing.
 
@@ -41,6 +41,8 @@ TH14:
 - Fixes Seija's delayed Spell start on her final on Spell Practice (not replay compatible).
 
 - Fixes Shinmyoumaru's HP markers on her final (which don't appear on vanilla Spell Practice), and adds a marker for her non2's second phase.
+
+- Shinmyoumaru's final spellcard is declared after charging twice and exploding, akin to Junko's, for effect.
 
 - Shinmyoumaru's spellcards on Spell Practice have the stage background appear just like it would on regular runs.
 
