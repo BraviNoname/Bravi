@@ -25,6 +25,8 @@ TH13:
 
 - Fixes Nue's HP star count and implements a Spell cutin for her, which she's missing.
 
+- Adds the missing phase markers on Mamizou's final.
+
 - Yoshika's name has been added to Seiga's, on the top left.
 
 - Displays life and bomb piece as well as score item icons on top of the spirits to tell which grants what.
@@ -55,6 +57,8 @@ TH15:
 
 - Changes Extra Junko and Hecatia's HP stars count so that it counts their HP bars individually.
 
+- Adds the missing phase markers on Hecatia's and Extra Junko's final.
+
 - Fixes Extra Junko's name and spell bg so that they appear when she's present and when she declares her spellcards.
 
 - Fixes the Extra boss final card in which both enemies use the aura, and both disappear when the fight is over.
@@ -65,9 +69,9 @@ TH16:
 
 - The big PIV items appear as stars akin to TH10-11's, and fall items appear as maple leaves.
 
-- The door from the portraits has been added on Extra Okina's sprites.
+- The door from Extra Okina's portrait has been added on her sprites.
 
-- Fixes HP star count issues on Aunn, Mai and Satono.
+- Fixes HP star count on Aunn, Mai and Satono (both stage 5 and Extra).
 
 - Extra Mai and Satono's spell bg appear the same way as in stage 5.
 
@@ -105,6 +109,8 @@ TH18:
 
 - Fixed Momoyo's expression of her spell cutin, and changed Chimata's on hers.
 
+- The explosions heard during Momoyo spells 5 and 6 when she triggers explosions on the walls actually sounds like ones now, like with Utsuho.
+
 - Changed Chimata's spell portrait animation, to put an emphasis on her pointing up and down.
 
 - Chimata's spellcards on Spell Practice have the stage background appear just like it would on regular runs.
@@ -113,7 +119,7 @@ TH18:
 
 - Timeout crash on Chimata's final on Spell Practice has been fixed.
 
-- Made Chimata's spell 4 (the timeout) declare itself at 1 HP.
+- Made Chimata's spell 4 (the timeout) declare itself at 1 HP, similarily to Clownpiece, Murasa, Yuyuko, and Shinmyoumaru.
 
 - Recolored the top left name of each boss/midboss to have the color correspond to the character's main color.
 
