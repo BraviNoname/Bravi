@@ -70,7 +70,7 @@ TH16:
 
 - The door from Extra Okina's portrait has been added on her sprites.
 
-- Fixe HP star count on Aunn, Mai and Satono (both stage 5 and Extra).
+- Fixes HP star count on Aunn, Mai and Satono (both stage 5 and Extra).
 
 - Extra Mai and Satono's spell bg appears the same way as in stage 5.
 
