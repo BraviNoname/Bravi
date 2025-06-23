@@ -72,6 +72,10 @@ TH16:
 
 - Fixes HP star count on Aunn, Mai and Satono (both stage 5 and Extra).
 
+- Gives Lily White a fan-made spell portrait.
+
+- Mai and Satono's names on the top left appear as their full names.
+
 - Extra Mai and Satono's spell bg appears the same way as in stage 5.
 
 - The explosion heard during Narumi spell2 when she spawns her sun actually sounds like one now, like with Utsuho.
