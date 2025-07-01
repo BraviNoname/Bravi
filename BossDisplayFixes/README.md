@@ -95,7 +95,7 @@ TH17:
 
 - Extra Kutaka's spell bg appears the same way as in stage 3.
 
-- Spellcard portraits have been sized down so that they don't look too big, and Keiki's has its position changed during its animation.
+- Spellcard portraits of all bosses but Keiki's and Saki's have been sized down so that they don't look too big, and Keiki's has its position changed during its animation.
 
 - Keiki's spellcard background appears with a fade-in effect instead of instantaneously.
 
