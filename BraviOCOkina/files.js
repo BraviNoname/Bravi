@@ -48,7 +48,7 @@
 	"th13/st03bs.ecl": 1786100274,
 	"th13/st05a.msg.jdiff": 144399050,
 	"th13/st05b.msg.jdiff": 1000449742,
-	"th13/st05bs.ecl": 3529439889,
+	"th13/st05bs.ecl": 2984895414,
 	"th13/st05c.msg.jdiff": 3698718072,
 	"th13/st05d.msg.jdiff": 1784827106,
 	"th13/st05enm.anm": 2039293587,
