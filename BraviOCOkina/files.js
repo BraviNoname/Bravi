@@ -3,7 +3,7 @@
 	"RussellSquareth.ttf": 1798953345,
 	"Sereinae Replica Omake.txt": 531739478,
 	"global.js": 1012714159,
-	"patch.js": 3568920230,
+	"patch.js": 3015993073,
 	"stringdefs.js": 2605480916,
 	"th11/face/enemy6/face06ct.png": null,
 	"th11/th11_16.flac": null,
