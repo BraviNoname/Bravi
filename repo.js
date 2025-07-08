@@ -12,8 +12,9 @@
 		"ChimaTransform": "(Th18) Chimata transforms into other final bosses.",
 		"KHHitPoints": "(Every modern stg + th06-09) Boss Lifebar and Life count reskin based on KH games and modern life bomb icon colors, from Braviretex.",
 		"Letoile": "(Th13, 14.3, 16, 18.5) Custom playable character shot type for Sereinae Letoile (Spring). Now includes a boss replacement for Reimu in Fourth Market, Nue in the Extra stage, and scenes 3, 4, 7 and 8 of Day 9.",
+		"Letoile+OCOkina": "(Th13, 14.3) Swaps the Létoile and OCOkina mods from to the MirrorMatch mod config to make it possible to fight both Sereinae Létoile and Replica in the same game. Do not use this config on th16, it won't work like intended, use MirrorMatch mod instead.",
 		"LetoilePlayerReskin": "(Every non-versus game) Just a lazy Sereinae Létoile reskin for all player sprites, just because she likes to cosplay. Includes haircolor change corresponding more or less to the actual character's when at full power (in th18 only, for now) thanks to zero318. Not a custom shottype btw, that one kind of mod is for Létoile mod.",
-		"Mirror Match": "(Th16) Combines BraviOCOkina mod with the Létoile mod for a mirror match at st6/Extra with alternate dialogues.",
+		"Mirror Match": "(Th14.3, 16) Combines BraviOCOkina mod with the Létoile mod for a mirror match in th16 st6/Extra with alternate dialogues.\n             This mod config can be played on th14.3 for you to fight both Sereinae Létoile and Replica in the same game. Do not use this config on th13, it won't work like intended, use Letoile+OCOkina mod instead.",
 		"SereinaeAlt": "(Th18) Alt timeline patch for miss OC. This stage is not canon to her story, but that version of the character IS. Replaces Chimata with a new Final Boss.",
 		"Siuuu": "(All Touhou Windows STG) Replaces (se_)enep01.wav (boss death sound) by SIUUU from Sawano7's streams",
 		"Teedee Arrows": "(Th15) Makes all bullets/lasers arrows. Typically deus rsf's nightmare."
