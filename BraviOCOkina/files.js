@@ -360,7 +360,7 @@
 	"th17/ascii/ascii_1280.png": 4473498,
 	"th17/ascii/ascii_960.png": 3601577788,
 	"th17/bullet/beast1.png": 1911509824,
-	"th17/bullet/beast2e.png": 679255781,
+	"th17/bullet/beast2e.png": 1484972492,
 	"th17/bullet/beast2f.png": 1286335323,
 	"th17/bullet/item.png": 3549417610,
 	"th17/face/enemy1/face01ct.png": 4206361977,
