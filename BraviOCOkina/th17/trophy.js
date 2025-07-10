@@ -2,24 +2,24 @@
     "37_0": [
         "Find the Rare Beast Spirit in Stage 5!",
         "It appears if you defeat the midboss under certain conditions.",
-        "(Hint: When the enemy takes a break...)"
+        "(Hint: During the enemy's cooldown)"
     ],
     "38_0": [
         "Find the Rare Beast Spirit in Stage 6!",
         "It appears if you defeat the midboss under certain conditions.",
-        "(Hint: Enemies at their finish line!)"
+        "(Hint: Enemies left and right going to the other side)"
     ],
 
-    "37": "Star Butterfly Charm",
+    "37": "Silhouette of Memories",
     "37_1": [
-        "Found the Rare Beast Spirit in Stage 5, the Book of Memories.",
-        "Beat the midboss when she isn't shooting!",
-        "The window is pretty short and gets shorter on higher difficulties."
+        "Found the Rare Spirit in Stage 5, Sereinae Replica's book weapon.",
+        "Beat the midboss between two waves!",
+        "The window is pretty short and is shorter on higher difficulties."
     ],
-    "38": "Spirit with her Other Self",
+    "38": "Partner of the Real Thing",
     "38_1": [
-        "Found the Rare Beast Spirit in Stage 6, the Desire Spirit.",
+        "Found the Rare Spirit in Stage 6, a clone of Jolty, Sereinae Létoile's partner.",
         "Defeat the midboss after an enemy has reached the opposite side!",
-        "They always signal it when they do so by shooting white orbs."
+        "They always signal it by shooting white orbs."
     ]
 }
