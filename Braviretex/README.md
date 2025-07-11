@@ -1,4 +1,4 @@
-That's just the same as the Bravifanfic mod, but without the fanfic.
+That's just the same as the Bravifanfic mod, but without the fanfic. 
 
 Image Credits :
 

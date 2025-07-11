@@ -1,4 +1,4 @@
-Stage 1 Midboss (2nd encounter) - Sereinae:
+Stage 1 Midboss (2nd encounter) - Sereinae Replica:
 
 Spell - Hard/Lunatic :
 Star Sign "Sniper Star Mines"
@@ -7,7 +7,7 @@ Serein shoots stars that explode into gun bullets that are aimed, and shoots but
 
 I wish bullet cap wasn't a thing there in the Lunatic version...
 
-Stage 1 Boss - Sereinae:
+Stage 1 Boss - Sereinae Replica:
 
 Spell 1 - Easy/Normal/Hard :
 Butterfly Sign "Star-shaped Butterfly View"
@@ -39,7 +39,7 @@ Serein shoots bright orbs, that, upon turning into lasers to snipe the player, s
 I wish having bullets turn into lasers didn't always recall Clownpiece... So I try to add my sauce to that spellcard.
 
 
-Stage 6 Midboss - Sereinae:
+Stage 6 Midboss - Sereinae Replica:
 
 Spell - All difficulties :
 Link Sign "The Bullet that Reflects my Origins"

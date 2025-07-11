@@ -22,7 +22,7 @@ Mad Dance "Mind-Blowing Rave in the Dark City"
 
 Satono's version of the spellcard is mirrored from Mai's, and, while denser, has the bullet dance be less frenetic.
 
-Stage 6 Boss - Sereinae Matara :
+Stage 6 Boss - Sereinae Replica :
 
 Spell1 - Easy :
 Hidden Star "Beginning Light in the Back"
@@ -45,25 +45,25 @@ Hidden Star "Critical Light in the Back"
 This spellcard is intentionally easier than Back Sign "Halo of the Absolute Secret God" as it is only the first spell. Gotta start things easy.
 
 Spell2 - Easy/Normal :
-Summer Sunlight "Taste the Sunlight, Nature"
+Summer Sunlight "Bright Star Illuminating Nature"
 
-Serein turns into a sun and surrounds you with the summer's influence over the nature at its apex. Be agressive, find the first gaps, even on your sides, and don't get cornered.
+Serei turns into a sun and surrounds you with the summer's influence over the nature at its apex. Be agressive, find the first gaps, even on your sides, and don't get cornered.
 
 Spell2 - Hard/Lunatic :
 Summer Sunlight "Sunshine of Abnormal Nature Madness"
 
-Serein makes you remember the heat of the summer and how oppressive it can be. But don't let it make you surrender to death for that much and perhaps bring your air conditioner (aka release lol).
-A sun fairy is able to refract sunlight. But the difference here is that Serein uses her own sunlight.
+Serei makes you remember the heat of the summer and how oppressive it can be. But don't let it make you surrender to death for that much and perhaps bring your air conditioner (aka release lol).
+A sun fairy is able to refract sunlight. But the difference here is that Serei uses her own sunlight.
 
 Spell3 - Easy/Normal :
 Fall Plenty "Life Force Harvester"
 
-Serein crops the fall leaves underneath you, while pouring some life force seeds from above (the hearts), turning the leaves into lasers that you can cut through or go around.
+Serei crops the fall leaves underneath you, while pouring some life force seeds from above (the hearts), turning the leaves into lasers that you can cut through or go around.
 
 Spell4 - Hard/Lunatic :
-Fall Plenty "Bumper Crop of Abnormal Life Radiance"
+Fall Plenty "Bumper Crop of Abnormally Extended Life"
 
-Serein increases the life force of the seeds at its apex. Making the leaves grow big and shine down at you. Don't let yourself get pushed off and prepare your C against that light!
+Serei increases the life force of the seeds at its apex. Making the leaves grow big and shine down at you. Don't let yourself get pushed off and prepare your C against that light!
 
 Spell4 - Easy/Normal :
 Winter Silence "Dark Silent Snowflake"
@@ -80,19 +80,21 @@ The blue fireballs are rather cold water, they don't get dark in order to bring 
 Spell5 - Easy/Normal :
 Spring Link "Spring Evening Blossom Shower"
 
-Remembering the spring scenery, Serein gets charmed by the cherry trees a little too much, starts acting like a ghost princess, goes from replicating her fan to making butterflies rise up from the dead aka the bottom.
+Remembering the spring scenery, Serei gets charmed by the cherry trees a little too much, starts acting like a ghost princess, goes from replicating her fan to making butterflies rise up from the dead aka the bottom.
 
 Spell5 - Hard/Lunatic :
 Spring Link "Endless Evening Netherworld Butterflies"
 
-Serein becomes really serious from this time onwards, hug the bottom, stay away from the falling petals and don't mind about the cherry curvy blizzard hell. Anticipate the butterflies's fall when the next bubble explosion happens.
+Serei becomes really serious from this time onwards, hug the bottom, stay away from the falling petals and don't mind about the cherry curvy blizzard hell. Anticipate the butterflies's fall when the next bubble explosion happens.
 
 Spell6 - Hard/Lunatic only :
 Time Hindrance "Rewind of the Wet & Dry Seasons"
 
 The five seasons Okina knows about aren't the only ones... In other countries exist only two seasons, one with thunder storms and then another one with heat waves, both can be associated to summer from my point of view.
-Serein notices she's starting to get overwhelmed, she can't end the fight by surrendering or Okina would get mad, she doesn't want to use the trick Okina told her to use, the only viable solution to her eyes might be to restart the fight from almost the start in order to recover...
-...and let the fight continue. Will you let the loop of the seasons keep going or will you break it?
+Serei notices she's starting to get overwhelmed, she can't end the fight by surrendering or Okina would get mad, she doesn't want to use the trick Okina told her to use, 
+the only viable solution to her eyes might be to restart the fight from almost the start in order to recover... ...and let the fight continue. Will you let the loop of the seasons keep going or will you break it?
+
+If both hands on the clock strike 12, Sereinae will restart the fight to the second nonspell. You will recover to full power and your lost lives and spent bombs during the fight since this nonspell will be recovered as well.
 
 Final Spell - Spring Subseason :
 Stolen Release "Breezy Cherry Blossom"
@@ -104,12 +106,12 @@ Fear not, this version is much less random than the original "Hidden Breezy Cher
 Final Spell - Summer Subseason :
 Stolen Release "Perfect Summer Ice"
 
-Serein steals the summer season hidden in the enemy's door. Although it's associated to an ice fairy, she tries to mix ice attacks and summer-related patterns. The first phase is completely static, no way you can get walled can you?
+Serei steals the summer season hidden in the enemy's door. Although it's associated to an ice fairy, she tries to mix ice attacks and summer-related patterns. The first phase is completely static, no way you can get walled can you?
 
 Final Spell - Fall Subseason :
 Stolen Release "Crazy Fall Wind\"
 
-Serein steals the fall season hidden behind the enemy. It's associated to a tengu that Okina doesn't like. Knowing she gets high mobility with this season and she has been a pushover to the enemy thanks to it, she tones up the spellcard a lot from the original "Hidden Crazy Fall Wind".
+Serei steals the fall season hidden behind the enemy. It's associated to a tengu that Okina doesn't like. Knowing she gets high mobility with this season and she has been a pushover to the enemy thanks to it, she tones up the spellcard a lot from the original "Hidden Crazy Fall Wind".
 
 Final Spell - Winter Subseason :
 Stolen Release "Extreme Winter"
@@ -137,27 +139,27 @@ Extra (Phantasm) Stage Boss - Sereinae Matara
 Spell1 :
 Magic Link "Mirrored Dark Milky Way"
 
-Serein starts by cornering you with star lanes from all sides, although it seems flashy and overwhelming like a certain magician, there must be an easy route behind the enemy.
+Serei starts by cornering you with star lanes from all sides, although it seems flashy and overwhelming like a certain magician, there must be an easy route behind the enemy.
 
 Spell2 :
 Celestial Link "The Keystones Reaching the Heavens"
 
-There is an earthquake, yin-yang enemies shoot at you from behind with earth-elemental attacks, and Serein shines like a celestial with scarlet-colored lasers. This earth-related technique must recall something from another game...
+There is an earthquake, yin-yang enemies shoot at you from behind with earth-elemental attacks, and Serei shines like a celestial with scarlet-colored lasers. This earth-related technique must recall something from another game...
 
 Spell3 :
 Miracle Link "Thaumaturgy of the Native Gods"
 
-Serein summons a pentagram that she spreads out, summoning afterwards pillars and the danmaku of a scourge god. The shapes of these attacks are about gods in a shrine on a mountain that are acquaintances to the tengus, Okina's enemies.
+Serei summons a pentagram that she spreads out, summoning afterwards pillars and the danmaku of a scourge god. The shapes of these attacks are about gods in a shrine on a mountain that are acquaintances to the tengus, Okina's enemies.
 
 Spell4 :
 Reverse Link "Mirage Bow of the Reversed Arrow Rain"
 
-Serein rushes behind you and a rain of arrows rise up from under and some aim at you. Has this vicious way of attacking been taught to her by Okina, or did she get the vibe of a reverse-minded youkai?
+Serei rushes behind you and a rain of arrows rise up from under and some aim at you. Has this vicious way of attacking been taught to her by Okina, or did she get the vibe of a reverse-minded youkai?
 
 Spell5 :
 Spirit Link "Fantasy Seal -Homing Amulet-"
 
-The player turns back to face Serein. A sense of fair fight and justice comes into her mind and starts acting like a straightforward shrine-maiden. Be brave and don't hesitate to cut through the barrage of amulets.
+The player turns back to face Serei. A sense of fair fight and justice comes into her mind and starts acting like a straightforward shrine-maiden. Be brave and don't hesitate to cut through the barrage of amulets.
 
 Spell6 :
 Illusion Link "Four Directions Remote Mesmerism (Origin Remote)"
@@ -172,23 +174,23 @@ Feeling like pulling a prank to her opponent and inspired from Okina's god of st
 Spell8 :
 Sun&Moon Link "Reckless Flare VS. Hourai Danmaku"
 
-Hearing explosions come from above, she starts hiding behind her enemy, perhaps to protect herself from the incoming suns who recklessly fall to the bottom to reach Serein. Making her enemy get involved in a duel between age old two sworn enemies,
-while Serein acts like a princess behind her knight in a shining armor. Knight who has, let's remember, the back-shots up her sleeves.
+Hearing explosions come from above, she starts hiding behind her enemy, perhaps to protect herself from the incoming suns who recklessly fall to the bottom to reach Serei. Making her enemy get involved in a duel between age old two sworn enemies,
+while Serei acts like a princess behind her knight in a shining armor. Knight who has, let's remember, the back-shots up her sleeves.
 The falling suns have properties associated to each colors, one is aimed, another falls straight downards, and the third vaguely falls downwards.
 
 Spell9 - Timeout :
 Three Servants "Mirage Split of Mental and Life Forces"
 
-Serein dives under the floor, shifts the reality, traps the enemy in chains she has to cut through while Mai and Satono attempt to cut their common enemy down. Survive as long as you can, and remember that the last wave is always the hardest.
+Serei dives under the floor, shifts the reality, traps the enemy in chains she has to cut through while Mai and Satono attempt to cut their common enemy down. Survive as long as you can, and remember that the last wave is always the hardest.
 
 Spell10 :
 Secret God "Lingering Four Seasons"
 
-During this spell card, Okina lets go of Serein's body, while still being on orders and minor support, Serein starts by a summer ice breeze, adds four fall currents, a winter blizzard and at the end flower-shaped spring lanes, all of that included in a counter clockwise circle movement. 
-Can you survive through the entire attack that consists of all of Okina's seasonal magic?
+During this spell card, Okina lets go of Serei's body, while still being on orders and minor support, Serei starts by a summer ice breeze, adds four fall currents, a winter blizzard and at the end flower-shaped spring lanes, 
+all of that included in a counter clockwise circle movement. Can you survive through the entire attack that consists of all of Okina's seasonal magic?
 
 Spell11 - Final :
 "The True Face of Everyone's Nobody"
 
 Upon the end of the spellcard, she comes back to her senses, and starts one last attack, she shoots her most basic patterns, adds more bullets from each yin-yang enemy, adds a combination of Mai and Satono's amulets and as a last despair, she spreads out a huge halo. 
-A chaotic mashup of patterns that corresponds to how Serein is a mashup of the latent life force drawn from many people, how she's a husk that originates from them and how she has an identity crisis from that fact. Although Okina has a meticulous personality, the pattern seems very symetrical.
+A chaotic mashup of patterns that corresponds to how Serei is a mashup of the latent life force drawn from many people, how she's a husk that originates from them and how she has an identity crisis from that fact. Although Okina has a meticulous personality, the pattern seems very symetrical.

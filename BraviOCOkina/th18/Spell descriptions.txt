@@ -1,4 +1,4 @@
-Stage 5 Boss - Sereinae:
+Stage 5 Boss - Sereinae Replica:
 
 Spell 1 - Easy/Normal :
 Ability Card "Miracle Mallet"
@@ -35,3 +35,25 @@ Reality Shift "Lurking Rainbow Stars of Hindrance"
 
 Sereinae dives further down, first surrounding the scren with stars that attack you the top, the sides, the bottom, back to the sides, and then back up.
 The pace slightly gets increased with time, and the bullets are aimed, be careful!
+
+Extra Stage Midboss - Sereinae Replica :
+
+Spell1 :
+Book Sign "Quick Sentence Reading"
+
+Grey paper and blue glowy bullets fall down, quite straightforward.
+
+Spell2 :
+Star Sign "Rainbow-colored Star Refraction"
+
+A star-shaped rings closes in from outside the screen, the bullets bounce back in and then go outwards.
+Each time the bullets speed changes, their color changes. In total, the bullets change into each color of the rainbow.
+
+Spell3 :
+Mirror Link "Spirit, Magic, Elements, and Miracles"
+
+Sereinae's attacks here change according to the player character. 
+Reimu's version has a yinyang-shaped wave which spreads out. Marisa has white stars scattered all around the screen which fly away once they turn blue.
+Sakuya's version is based on Patchouli, in which salvos of green paper are sent towards the bottom, spring upwards then fall down, followed by fast falling yellow arrowheads, spirals of fire balls, and drops of rain-like bullets.
+Note that they're initially fired as paper bullets before transforming into such bullets.
+Sanae's version has Serei fly in a pentagram-shaped trajectory, leaving trails of blue stars in her wake. Those blue stars turn into blue amulets.

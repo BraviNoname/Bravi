@@ -1,4 +1,4 @@
-This lists the fixes and changes brought by this mod, this is non-exhaustive. This mod is made to be replay compatible, except on certain cases on Spell Practice, but isn't completely compatible with thprac.
+This lists the fixes and changes brought by this mod, this is non-exhaustive. This mod is made to be replay compatible, except on certain cases on Spell Practice, but isn't completely compatible with thprac. 
 
 
 All games:
