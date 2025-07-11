@@ -1,7 +1,7 @@
 {
 	"RussellSquare.ttf": 1572031365,
 	"RussellSquareth.ttf": 1798953345,
-	"Sereinae Replica Omake.txt": 1031040323,
+	"Sereinae Replica Omake.txt": 1901794762,
 	"global.js": 1012714159,
 	"patch.js": 3126024082,
 	"stringdefs.js": 3649229448,
@@ -139,7 +139,7 @@
 	"th165/title/title_ver.png": null,
 	"th165/titlemsg.js": null,
 	"th18.v1.00a.js": 121457514,
-	"th18/Sereinae omake.txt": 3500905706,
+	"th18/Sereinae omake.txt": 1892592765,
 	"th18/ability/ALICE_OP_max.png": 3994737351,
 	"th18/ability/AUTOBOMB_max.png": 2132623151,
 	"th18/ability/BASSDRUM_max.png": 2139999085,

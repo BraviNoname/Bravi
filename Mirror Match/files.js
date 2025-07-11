@@ -6,7 +6,7 @@
 	"th11/th11_16.flac": null,
 	"th11/th11_16.loop.flac": null,
 	"th143.v1.00a.js": 3238343297,
-	"th16/Sereinae Replica omake.txt": 2827964747,
+	"th16/Sereinae Replica omake.txt": 4089949965,
 	"th16/ascii/ascii.png": null,
 	"th16/ascii/ascii_1280.png": null,
 	"th16/ascii/ascii_960.png": null,
