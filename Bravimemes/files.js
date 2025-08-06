@@ -237,7 +237,7 @@
 	"th17/st06bs.ecl": 220498964,
 	"th17/st06enm.anm": 3461412941,
 	"th17/st06enm.anm.jdiff": 483540176,
-	"th17/st07bs.ecl": 3400752257,
+	"th17/st07bs.ecl": 2564425791,
 	"th17/st07enm.anm": 2564162477,
 	"th17/st07enm2.anm": 2033491086,
 	"th17/st07mbs.ecl": 1553078812,
