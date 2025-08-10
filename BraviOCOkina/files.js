@@ -120,7 +120,7 @@
 	"th15/spells.js": 3604220318,
 	"th15/st01a.msg.jdiff": 3582104258,
 	"th15/st01b.msg.jdiff": 4109356583,
-	"th15/st01bs.ecl": 2069070052,
+	"th15/st01bs.ecl": 4132204001,
 	"th15/st01c.msg.jdiff": 2595661973,
 	"th15/st01d.msg.jdiff": 3989588461,
 	"th15/st01enm.anm": 2967162192,
