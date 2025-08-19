@@ -1,7 +1,7 @@
 {
 	"Kingdom Sans ms_0.ttf": null,
 	"PowerClear.ttf": null,
-	"README.md": 464559550,
+	"README.md": 2881311762,
 	"RussellSquare.ttf": 1572031365,
 	"RussellSquareth.ttf": 1798953345,
 	"global.js": 327920362,
@@ -814,5 +814,6 @@
 	"th20/st06bs.ecl": 1782189547,
 	"th20/st07bs.ecl": 1963818075,
 	"th20/st07mbs.ecl": 2316771167,
+	"th20/st07menm.anm": 2329580527,
 	"versions.js": 3656849658
 }

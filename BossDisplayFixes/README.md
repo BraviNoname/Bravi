@@ -19,13 +19,13 @@ TH13:
 
 - Fixes Yoshika marker so that it never appears when she heals.
 
-- Fixes Futo final spell HP marker.
+- Fixes Futo final spell HP marker, and phase change sounds have been added for when it happens.
 
 - Fixes Miko's aura for her final spell (in vanilla it appeared only on Spell Practice), and has Miko trigger an explosion when the spell starts.
 
 - Fixes Nue's HP star count and implements a Spell cutin for her, which she's missing.
 
-- Adds the missing phase markers on Mamizou's final.
+- Adds the missing phase markers on Mamizou's final, as well as phase change sounds.
 
 - Yoshika's name has been added to Seiga's, on the top left.
 
@@ -40,7 +40,7 @@ TH14:
 
 - Fixes Seija's delayed Spell start on her final on Spell Practice (not replay compatible).
 
-- Fixes Shinmyoumaru's HP markers on her final (which don't appear on vanilla Spell Practice), and adds a marker for her non2's second phase.
+- Fixes Shinmyoumaru's HP markers on her final (which don't appear on vanilla Spell Practice) and phase change sounds have been added, and adds a marker for her non2's second phase.
 
 - Shinmyoumaru's final spellcard is declared after charging twice and exploding, akin to Junko's, for effect.
 
@@ -101,7 +101,7 @@ TH17:
 
 - Keiki's spellcards on Spell Practice have the stage background appear just like it would on regular runs.
 
-- Keiki's final spellcard is declared after charging twice and exploding, akin to Junko's, for effect, and in addition, phase markers have been added, as well as a slowmo during the second explosion.
+- Keiki's final spellcard is declared after charging twice and exploding, akin to Junko's, for effect, and in addition, phase markers and phase change sounds have been added, as well as a slowmo during the second explosion.
 
 
 TH18:
@@ -122,7 +122,7 @@ TH18:
 
 - Chimata's spellcards on Spell Practice have the stage background appear just like it would on regular runs.
 
-- Chimata's final spellcard is declared after charging once or twice and exploding (depending if you skip her monologue or not), akin to Junko's, for effect, and in addition, phase markers have been added, as well as a slowmo during the second explosion.
+- Chimata's final spellcard is declared after charging once or twice and exploding (depending if you skip her monologue or not), akin to Junko's, for effect, and in addition, phase markers and phase change sounds have been added, as well as a slowmo during the second explosion.
 
 - Timeout crash on Chimata's final on Spell Practice has been fixed.
 
@@ -133,10 +133,18 @@ TH18:
 - Changed Megumu's spell bg to give it a more starry effect.
 
 
-TH20 trial:
+TH20:
 
 - Life and bomb icons have their opacity increased, to make the piece icons more visible.
 
 - Made the lang_en font of the UI bigger.
 
-- Nareko's HP star count has been fixed.
+- Nareko's, Yuiman's (both stage 4 and extra), Toyohime's, and Ariya's HP star counts have been fixed.
+
+- Ariya's final spellcard is declared after charging twice and exploding, akin to Junko's, for effect.
+ 
+- A slowmo has been added during the second explosion when Ariya and Nina are defeated.
+
+- Phase change sounds have been added on Nina's final.
+
+- Extra Yuiman's spell bg appears the same way as in stage 4 (idk what's the idea behind making ex boss spell bg half-transparent if not non-existent).
