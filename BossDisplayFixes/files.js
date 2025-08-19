@@ -806,7 +806,13 @@
 	"th20/ascii/ascii.png": 520426434,
 	"th20/ascii/ascii_1280.png": 3546746933,
 	"th20/ascii/ascii_960.png": 2231270556,
+	"th20/front/ename.png": 1187934677,
 	"th20/front/front00.png": 2082469526,
 	"th20/st03bs.ecl": 3310809427,
+	"th20/st04bs.ecl": 1123437683,
+	"th20/st05bs.ecl": 2282231219,
+	"th20/st06bs.ecl": 1782189547,
+	"th20/st07bs.ecl": 1963818075,
+	"th20/st07mbs.ecl": 2316771167,
 	"versions.js": 3656849658
 }

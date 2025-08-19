@@ -356,6 +356,7 @@
 	"th18/title/title_ver.png": null,
 	"th185/front.anm": 2434892873,
 	"th185/front/lifebar.png": 982680966,
+	"th20/front.anm": 1020973310,
 	"th20/front/ename_tr.png": null,
 	"th20/front/front00.png": 1141677831,
 	"th20/front/front01.png": null,
