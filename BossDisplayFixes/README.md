@@ -12,6 +12,9 @@ TH06 - 12:
 
 - Modernizing the UI, will add more info later.
 
+TH12:
+
+- Fixes Byakuren's HP star count on Easy Mode.
 
 TH13:
 
