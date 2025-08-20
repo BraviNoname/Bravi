@@ -5,7 +5,7 @@
 	"RussellSquare.ttf": 1572031365,
 	"RussellSquareth.ttf": 1798953345,
 	"global.js": 327920362,
-	"patch.js": 3506029147,
+	"patch.js": 2188314388,
 	"th06/ascii.png": 2339541171,
 	"th06/asciis.png": 1334880500,
 	"th06/border.wav": 3340321716,

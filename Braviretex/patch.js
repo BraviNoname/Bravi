@@ -3,7 +3,9 @@
 		"nmlgc/base_tsa",
 		"nmlgc/script_latin",
 		"nmlgc/western_name_order",
-		"thpatch/lang_en"
+		"thpatch/lang_en",
+		"Bravi/BossDisplayFixes",
+		"Bravi/KHHitPoints"
 	],
 	"fonts": {
 		"RussellSquareth.ttf": true
