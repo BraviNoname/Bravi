@@ -126,7 +126,7 @@ TH18:
 
 - Timeout crash on Chimata's final on Spell Practice has been fixed.
 
-- Made Chimata's spell 4 (the timeout) declare itself at 1 HP, similarily to Clownpiece, Murasa, Yuyuko, and Shinmyoumaru.
+- Made Chimata's spell 4 (the timeout) declare itself at 1 HP, like Clownpiece, Murasa, Yuyuko, and Shinmyoumaru.
 
 - Recolored the top left name of each boss/midboss to have the color correspond to the character's main color.
 
@@ -148,3 +148,5 @@ TH20:
 - Phase change sounds have been added on Nina's final.
 
 - Extra Yuiman's spell bg appears the same way as in stage 4 (idk what's the idea behind making ex boss spell bg half-transparent if not non-existent).
+
+- Ariya now uses the spell bg from Spell 5 for her Spells 6 and 7. (the idea is that she froze the stage bg so the background of her spells is affected, until the end of the fight)
