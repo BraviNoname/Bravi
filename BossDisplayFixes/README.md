@@ -20,7 +20,7 @@ TH13:
 
 - Fixes HP star count of Kyouko first HP bar.
 
-- Fixes Yoshika marker so that it never appears when she heals.
+- Fixes Yoshika HP marker so that it never appears when she heals.
 
 - Fixes Futo final spell HP marker, and phase change sounds have been added for when it happens.
 
