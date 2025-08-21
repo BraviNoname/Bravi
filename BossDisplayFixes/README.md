@@ -153,3 +153,5 @@ TH20:
 - Extra Yuiman's spell bg appears the same way as in stage 4 (idk what's the idea behind making ex boss spell bg half-transparent if not non-existent).
 
 - Ariya now uses the spell bg from Spell 5 for her Spells 6 and 7. (the idea is that she froze the stage bg so the background of her spells is affected, until the end of the fight)
+
+- Fixes the bug where Spell Cards that are timed out on Spell Practice have the bullets not deleted. 

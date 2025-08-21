@@ -398,6 +398,7 @@
 	"th19/face/pl18/face_pl18n2.png": 3861206099,
 	"th19/player/pl18/boss/pl18ex.png": 2091667260,
 	"th20/st02bs.ecl": 1933958930,
+	"th20/st06bs.ecl": 733013172,
 	"themes.js": null,
 	"versions.js": 3656849658
 }
