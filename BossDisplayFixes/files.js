@@ -809,7 +809,7 @@
 	"th20/default.ecl": 4136348473,
 	"th20/front/ename.png": 1187934677,
 	"th20/front/front00.png": 2082469526,
-	"th20/st03bs.ecl": 3310809427,
+	"th20/st03bs.ecl": 3216198,
 	"th20/st04bs.ecl": 1123437683,
 	"th20/st05bs.ecl": 2282231219,
 	"th20/st06bs.ecl": 1730196306,
