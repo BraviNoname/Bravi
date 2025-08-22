@@ -731,7 +731,7 @@
 	"th18/bullet/item.png": 3549417610,
 	"th18/face/enemy6/face06ct.png": 490795851,
 	"th18/face/enemy7/face07ct.png": 2362299452,
-	"th18/front.anm": 2052546193,
+	"th18/front.anm": 4094843789,
 	"th18/front/ename.png": 497360586,
 	"th18/front/front00.png": 3475422082,
 	"th18/front/front01.png": 608463999,
