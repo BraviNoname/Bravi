@@ -585,6 +585,8 @@
 	"th20/Reimu Red2.png": 1478286603,
 	"th20/Reimu Yellow1.png": 2006672455,
 	"th20/Reimu Yellow2.png": 3441509050,
+	"th20/pl00.anm": 569835409,
+	"th20/pl01.anm": 3538561855,
 	"th20/player/pl00/pl00.png": 1952623558,
 	"th20/player/pl00/pl00fullpower.png": 862499863,
 	"th20/player/pl00/pl00s.png": 816632109,
