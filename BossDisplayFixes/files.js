@@ -1,11 +1,12 @@
 {
 	"Kingdom Sans ms_0.ttf": null,
 	"PowerClear.ttf": null,
-	"README.md": 17004170,
+	"README.md": 4109277684,
 	"RussellSquare.ttf": 1572031365,
 	"RussellSquareth.ttf": 1798953345,
 	"global.js": 327920362,
 	"patch.js": 538700351,
+	"st07bs.ecl": null,
 	"th06/ascii.png": 4081611862,
 	"th06/asciis.png": 1578638469,
 	"th06/border.wav": null,
@@ -813,7 +814,7 @@
 	"th20/st04bs.ecl": 1123437683,
 	"th20/st05bs.ecl": 2282231219,
 	"th20/st06bs.ecl": 1730196306,
-	"th20/st07bs.ecl": 1963818075,
+	"th20/st07bs.ecl": 4277160157,
 	"th20/st07mbs.ecl": 2316771167,
 	"th20/st07menm.anm": 2329580527,
 	"versions.js": 3656849658
