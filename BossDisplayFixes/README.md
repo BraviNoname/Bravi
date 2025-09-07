@@ -85,6 +85,9 @@ TH16:
 
 - The explosion heard during Narumi spell2 when she spawns her sun actually sounds like one now, like with Utsuho.
 
+TH16.5:
+
+- Fixes Okina's Nightmare Saturday spell background so that it appears the same way as in the Extra Stage of TH16.
 
 TH17:
 
@@ -135,6 +138,11 @@ TH18:
 
 - Changed Megumu's spell bg to give it a more starry effect.
 
+TH18.5: 
+
+- Card border icons have been recolored, with the color corresponding to the type of card: red for active, blue for equipment, purple for passive, and green for item. The recolor has been applied on the UI text as well.
+
+- (TO DO: fix Clownpiece's spell background)
 
 TH20:
 
