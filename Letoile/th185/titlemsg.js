@@ -102,8 +102,8 @@
     ],
     "4_3": [
         "I beat Sereinae, but there's something different about her.",
-        "Wasn't she working for Okina some time ago? I suppose she quit for good.",
-        "She handed Reimu's card over. Guess she didn't care after all."
+        "Wasn't she working for Okina some time ago? I suppose she quit at some pojnt.",
+        "She handed over Reimu's card. Guess Reimu didn't care about those."
     ],
     "4_4": [
         "I never woulda thought that Nitori was Chimata's accomplice.",
