@@ -1,7 +1,7 @@
 {
 	"RussellSquare.ttf": 1572031365,
 	"RussellSquareth.ttf": 1798953345,
-	"Sereinae Replica Omake.txt": 1567265506,
+	"Sereinae Replica Omake.txt": 2863663232,
 	"global.js": 1012714159,
 	"patch.js": 3015993073,
 	"stringdefs.js": 2605480916,
