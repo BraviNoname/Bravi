@@ -9,7 +9,7 @@ Size :163cm
 Species : Human (figment)
 Gender : Female
 Eyesight : Decent. Needs glasses to rest her eyes at times.
-Basic personality : Has a big heart, is sometimes a joker, too optimistic, being sometimes naive or reckless, and meddlesome.
+Basic personality : Has a big heart, is sometimes a joker, too optimistic, being sometimes naive or reckless, meddlesome, and sometimes insecure.
 Personality once with Jolty: Became very curious, persevering, and careful.
 Hobbies : Cosplaying, gaming, selling clothes, learning psychology and science, and tourism.
 
@@ -271,7 +271,7 @@ The Other Jolty (他のジョルト)
 Size : 180cm
 Species : Manifestation of one's other side
 Gender : Male
-Personality : Knowledgeable, caring, arrogant, and desperate.
+Personality : Knowledgeable, caring, arrogant, agressive, and apprehensive.
 
 Abilities : 
 
