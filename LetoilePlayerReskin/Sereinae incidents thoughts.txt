@@ -1,7 +1,7 @@
-Jolty introduces Sereinae to a memory-based simulation of most of Gensokyo's past incidents. There, Sereinae must use a memory-based card that replicates the powers of whichever protagonist(s) she chooses, 
-and she cannot talk with any character, only watch the protagonist talk with their opponent(s), and she's forced to dodge with her own skills alone (that is without the agility-based abilities given by Jolty).
+Sereinae wanted to learn more about Gensokyo, its inhabitants, their powers, and know how it is like to solve an incident.
 
-Jolty suggested this challenge to Sereinae to hone her dodging skills and depend on him a bit less and to witness whatever happened during those incidents.
+Jolty introduces Sereinae to a memory-based simulation of most of Gensokyo's past incidents. There, Sereinae uses a card that replicates the powers of whichever protagonist(s) she chooses, those powers being memories as well, 
+and she cannot talk with any character, only watch the protagonist talk with their opponent(s). She has to dodge with her own movement and reflex skills alone, not wanting to depend on Jolty too much. 
 
 Sereinae's thoughts about each windows maingame incident, including those that are not part of the mod:
 
