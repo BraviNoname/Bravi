@@ -101,9 +101,10 @@
         "Why's the lame ghost power the one that gets a card?"
     ],
     "4_3": [
-        "I beat Sereinae, but there's something different about her.",
-        "Wasn't she working for Okina some time ago? I suppose she quit at some pojnt.",
-        "She handed over Reimu's card. Guess Reimu didn't care about those."
+        "I beat Sereinae, and she has made herself a new sparky friend.",
+        "Somethin' feels different about her, as if she was another person.",
+		"Nothin' like when she had doors that looked like Okina's on her back.",
+        "She handed over Reimu's card, sayin' it's a gift from her."
     ],
     "4_4": [
         "I never woulda thought that Nitori was Chimata's accomplice.",

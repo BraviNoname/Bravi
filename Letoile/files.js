@@ -377,7 +377,7 @@
 	"th185/stgenm/en16/cdbg07b00.png": 1238688506,
 	"th185/stgenm/en16/ename.png": 1673248628,
 	"th185/stgenm/en16/stg4aenm.png": 1328771965,
-	"th185/titlemsg.js": 1946593387,
+	"th185/titlemsg.js": 700957010,
 	"th185/world.js": 1214125543,
 	"themes.js": null,
 	"versions.js": null
