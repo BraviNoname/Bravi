@@ -1,4 +1,4 @@
-This lists the fixes and changes brought by this mod, this is non-exhaustive. This mod is made to be replay compatible, except on certain cases on Spell Practice, but isn't completely compatible with thprac. 
+This lists the fixes and changes brought by this mod, this is non-exhaustive. This mod is made to be replay compatible, except on certain cases on Spell Practice, but isn't completely compatible with thprac boss warps.
 
 
 All games:
@@ -10,7 +10,11 @@ All games:
 
 TH06 - 12:
 
-- Modernizing the UI, will add more info later.
+- Modernizing the UI: modernizes ascii files of classic era games and the score font of th10, lives and bomb icons and some item sprites, so that they correspond to games from th13 onwards.
+
+TH10:
+
+- Gives spellcard portraits the same kind of animation as those of future games, including a unique one for Kanako because she's the final boss.
 
 TH12:
 
