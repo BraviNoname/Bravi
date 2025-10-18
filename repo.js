@@ -10,6 +10,7 @@
 		"Bravimemes+ExpHP": "Bravimemes but with the ExpHP+32th mods dependencies (bullet uncap, score uncap, etc). Select the standard Bravimemes if the game keeps crashing when loading a stage.",
 		"Braviretex": "(Th06 to 17 tsa games) Remake-like Retexture, Sounds, Dark UI and Display Fix Patch.",
 		"ChimaTransform": "(Th18) Chimata transforms into other final bosses.",
+		"HomingSeija": "(Th14.3) Makes Seija's shots home in. Applies to the Cursed Decoy Doll sub item for even more shots!",
 		"KHHitPoints": "(Every modern stg + th06-09) Boss Lifebar and Life count reskin based on KH games and modern life bomb icon colors, from Braviretex.",
 		"Letoile": "(Th13, 14.3, 16, 18.5) Custom playable character shot type for Sereinae Letoile (Spring). Now includes a boss replacement for Reimu in Fourth Market, Nue in the Extra stage, and scenes 3, 4, 7 and 8 of Day 9.",
 		"Letoile+OCOkina": "(Th13, 14.3) Swaps the Létoile and OCOkina mods from to the MirrorMatch mod config to make it possible to fight both Sereinae Létoile and Replica in the same game. Do not use this config on th16, it won't work like intended, use MirrorMatch mod instead.",
