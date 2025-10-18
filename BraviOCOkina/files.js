@@ -246,7 +246,7 @@
 	"th16/st06b.msg": 3592966480,
 	"th16/st06b.msg.jdiff": 421132638,
 	"th16/st06bs.ecl": 3293859176,
-	"th16/st06bsSpell6Prac.ecl": 1155404012,
+	"th16/st06bsSpell6Prac.ecl": 2785729847,
 	"th16/st06c.msg": 2451926727,
 	"th16/st06c.msg.jdiff": 1417886977,
 	"th16/st06d.msg": 2265408364,
