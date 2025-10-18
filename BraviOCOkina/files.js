@@ -162,7 +162,7 @@
 	"th15/title/title_bk00.png": 1846679712,
 	"th15/title/title_ver.png": 1825023196,
 	"th16.v1.00a.js": 3273232556,
-	"th16/How To Practice the Additional Stuff.txt": 4227923480,
+	"th16/How To Practice the Additional Stuff.txt": 3653573765,
 	"th16/Sereinae omake.txt": 1762242675,
 	"th16/Spell descriptions.txt": 3924115487,
 	"th16/ascii/ascii.png": 2849934926,
