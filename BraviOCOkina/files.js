@@ -4,7 +4,7 @@
 	"Sereinae Replica Omake.txt": 2863663232,
 	"global.js": 1012714159,
 	"patch.js": 3015993073,
-	"stringdefs.js": 2605480916,
+	"stringdefs.js": 2741148695,
 	"th11/face/enemy6/face06ct.png": null,
 	"th11/th11_16.flac": null,
 	"th11/th11_16.loop.flac": null,

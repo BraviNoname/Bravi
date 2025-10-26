@@ -5,7 +5,7 @@
 	"Some Sereinae Sanae and Jolty dialogue.txt": 2286067871,
 	"global.js": 1012714159,
 	"patch.js": 1634924582,
-	"stringdefs.js": null,
+	"stringdefs.js": 1264606338,
 	"th11/face/enemy6/face06ct.png": null,
 	"th11/th11_16.flac": null,
 	"th11/th11_16.loop.flac": null,
