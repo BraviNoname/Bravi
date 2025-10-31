@@ -1,0 +1,8 @@
+{
+	"global.js": 327920362,
+	"patch.js": 1130637649,
+	"stringdefs.js": null,
+	"th143.v1.00a.js": null,
+	"th143/pl00a.sht": null,
+	"th16/pl03.sht": 3424784030
+}

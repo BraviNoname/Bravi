@@ -18,7 +18,8 @@
 		"Mirror Match": "(Th14.3, 16) Combines BraviOCOkina mod with the Létoile mod for a mirror match in th16 st6/Extra with alternate dialogues.\n             This mod config can be played on th14.3 for you to fight both Sereinae Létoile and Replica in the same game. Do not use this config on th13, it won't work like intended, use Letoile+OCOkina mod instead.",
 		"SereinaeAlt": "(Th18) Alt timeline patch for miss OC. This stage is not canon to her story, but that version of the character IS. Replaces Chimata with a new Final Boss.",
 		"Siuuu": "(All Touhou Windows STG) Replaces (se_)enep01.wav (boss death sound) by SIUUU from Sawano7's streams",
-		"Teedee Arrows": "(Th15) Makes all bullets/lasers arrows. Typically deus rsf's nightmare."
+		"Teedee Arrows": "(Th15) Makes all bullets/lasers arrows. Typically deus rsf's nightmare.",
+		"VeryFastAya": "(Th16) Makes Aya moves very fast!"
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/BraviNoname/Bravi/master/"
