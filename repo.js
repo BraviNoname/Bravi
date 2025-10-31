@@ -19,7 +19,7 @@
 		"SereinaeAlt": "(Th18) Alt timeline patch for miss OC. This stage is not canon to her story, but that version of the character IS. Replaces Chimata with a new Final Boss.",
 		"Siuuu": "(All Touhou Windows STG) Replaces (se_)enep01.wav (boss death sound) by SIUUU from Sawano7's streams",
 		"Teedee Arrows": "(Th15) Makes all bullets/lasers arrows. Typically deus rsf's nightmare.",
-		"VeryFastAya": "(Th16) Makes Aya moves very fast!"
+		"VeryFastAya": "(Th16) Makes Aya moves very fast! Also raises the firing rate and damage of her shots."
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/BraviNoname/Bravi/master/"
