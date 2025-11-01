@@ -1,4 +1,5 @@
 {
+	"RussellSquareth.ttf": 1798953345,
 	"global.js": 327920362,
 	"patch.js": 1048274137,
 	"stringdefs.js": null,
