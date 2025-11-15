@@ -33,7 +33,7 @@
 	"th08/Yuyuko.png": 3764715837,
 	"th08/data/player00/player00.png": 1195495802,
 	"th08/data/player00/player00b.png": 711696742,
-	"th08/data/player00/player01.png": 1233471499,
+	"th08/data/player00/player01.png": 2523360752,
 	"th08/data/player00/player02.png": 1704753172,
 	"th08/data/player00/player03.png": 2806591494,
 	"th08/data/title/sl_pltxt0.png": 2065932205,
