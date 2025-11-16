@@ -7,7 +7,7 @@
 	"global.js": 327920362,
 	"patch.js": 538700351,
 	"st07bs.ecl": null,
-	"th06/ascii.png": 4081611862,
+	"th06/ascii.png": 1870067430,
 	"th06/asciis.png": 1578638469,
 	"th06/border.wav": null,
 	"th06/cancel00.wav": null,
