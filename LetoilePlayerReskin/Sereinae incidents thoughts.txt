@@ -3,63 +3,100 @@ Sereinae wanted to learn more about Gensokyo, its inhabitants, their powers, and
 Jolty introduces Sereinae to a memory-based simulation of most of Gensokyo's past incidents. There, Sereinae uses a card that replicates the powers of whichever protagonist(s) she chooses, those powers being memories as well, 
 and she cannot talk with any character, only watch the protagonist talk with their opponent(s). She has to dodge with her own movement and reflex skills alone, not wanting to depend on Jolty too much. 
 
-Sereinae's thoughts about each windows maingame incident, including those that are not part of the mod:
+Sereinae's thoughts about each windows maingame incident and some of its antagonists, including those that are not part of the mod:
 
-- "Sounds like this vampire was bored. I have to say, her witch friend is very studious, I admire her dedication! Besides, it's rare to see european people in Gensokyo, this should bring us closer to each other, right?"
+- "Even in the outside world a phenomenon like this can happen in some countries, where the sky gets red-ish. Gotta ask Sanae what it is."
+  - Remilia Scarlet & Patchouli Knowledge
+    "Sounds like this vampire was bored. I have to say, her witch friend is very studious, I admire her dedication! Besides, it's rare to see european people in Gensokyo, this should bring me and them closer to each other, right?"
 
-- "Spending a night with just the glow of the blossoming cherry trees around me... It's so peaceful, I love it! A question though: why didn't that sage stop her friend? If this incident was going to cause that friend's own loss that is...
-   She wants to revive someone's corpse under a tree, but if she does so, it'll just destroy the ghost that she is. And afterwards, the corpse would die again, be used to seal the tree again, and Yuyuko's ghost would appear again?
-   Besides, I thought corpses decay with time, and so would the seal that it is, but this one didn't, it has been used as one for over a thousand years for this tree after all... I guess this is a body like Jolty's artificial body? No way..."
+- "Spending a night with just the glow of the blossoming cherry trees around me... It's so peaceful, I love it! But what we don't love is staying stuck in a very long winter."
+   - Yuyuko Saigyouji & Yukari Yakumo: 
+    "I wonder why didn't Yukari stop her friend? If this incident was going to cause that friend's own loss that is... I'm going to assume she just couldn't stop her. She wants to revive someone's corpse under a tree, but if she does so, 
+    it'll just destroy the ghost that Yuyuko now is. And afterwards, the corpse would die again, be used to seal the tree again, and Yuyuko's ghost would appear again? I see how it is then.
+    Besides, I thought corpses decay with time, and so would the seal that it is, but this one didn't, it has been used as one for over a thousand years for this tree after all... I guess this is a body like Jolty's artificial body? No way...
+    I should maybe ask Yukari if time was frozen on it or something."
 
-- "They came from the the actual Moon? I thought it had no atmosphere to breathe in and be livable. Everything is possible in this world anyways!
+- "This is one terrifying incident if you ask us. You see up in the sky that there's a fake moon, and the sky looks odd."
+  - Eirin Yagokoro & Kaguya Houraisan
+   "They came from the the actual Moon? I thought it had no atmosphere to breathe in and be livable. Everything is possible in this world anyways!
    Nowadays, they've been of a huge help to me regarding healthcare for example, they have my thanks! Especially the princess!"
 
-- "Now that's a shinigami unlike I've ever seen. They usually have a black outfit. I heard the many flowers appeared due to something... rather tragic, in Japan."
+- "I heard the many flowers appeared due to something... rather tragic, in Japan."
+   - Komachi Onozuka
+    "Now that's a shinigami unlike I've ever seen. They usually have a black outfit. I assume here it's just different."
 
-- "Now, now, Sanae, is that how you approach people? You can't just come in and shut down the only shrine in Gensokyo besides yours. What matters is that you acknowledge the mistake. Besides, aren't there many of these shrines in the Outside World?
-   That's okay if there's more than one shrine around then, isn't it? That aside, I wonder how much your life has changed between the Outside World and Gensokyo. Being stuck in one small world must be hard to live if you get homesick..."
+- "This mountain is very dangerous, not because of how difficult it is to climb it but because of the many youkai standing in your way. That said, the scenery is beautiful from atop!"
+   Sanae Kochiya
+   "Now, now, Sanae, is that how you approach people? You can't just come in and shut down the only shrine in Gensokyo besides yours. 
+   Besides, aren't there many of these shrines in the Outside World? That's okay if there's more than one shrine around then, isn't it? I think by now you've started to understand, sorry about that.
+   That aside, I wonder how much your life has changed between the Outside World and Gensokyo. Being stuck in one small world must be hard to live if you get homesick..."
 
-- "And one of your goddesses caused some additional troubles. I get that you want to bring a new source of energy to Gensokyo, that's wonderful! But you haven't kept this bird in check.
-   I heard there is a satori, a mind-reading youkai, living down there. Is reading minds similar to reading feelings? It's not like I could read someone's mind."
+- "An underground world, and a paradise for vengeful spirits, to the point they'd never want to leave... And that's how they're kept in place. Sounds pretty neat!"
+   - Sanae Kochiya & Kanako Yasaka:
+   "And one of your goddesses caused some additional trouble. I get that you want to bring a new source of energy to Gensokyo, that's wonderful! But this bird needed to be kept in check."
+   - Satori Komeiji:
+   "I heard there is a satori, a mind-reading youkai, living down there. Is reading minds similar to reading feelings? It's not like I could read someone's mind."
 
-- "I think Hijiri wasn't familiar at all with Gensokyo, and came from another era. Her past should explain why she thought youkai were oppressed, and I'd understand that, 
-   it's just that in Gensokyo, things are different and that must be why the incident solvers attacked her.
-   But it isn't. Gensokyo is the ideal that Hijiri wanted, so attacking her wasn't worth it."
+- "This must've been a hell of a trip to just go treasure hunting and then end up in a world of demons. Brrr, the place looks awful, save for all these grids below."
+    Byakuren Hijiri: 
+    "I think Hijiri wasn't familiar at all with Gensokyo, and came from another era. Her past should explain why she thought youkai were oppressed, and I'd understand that, 
+    it's just that in Gensokyo, things are different and that must be why the incident solvers attacked her.
+    But it isn't. Gensokyo is the ideal that Hijiri wanted, so attacking her wasn't worth it."
 
-- "Don't those spirits look a lot like you Jolty? They're soon-to-be gods?! And Bad-Jolt called you the god of your own world. This all makes sense...! But it's a stretch isn't it? You're one for creating a world, not gathering faith.
+- "Don't those spirits look a lot like you Jolty? They're soon-to-be gods?! And Bad-Jolt called you the god of your own world. This all makes sense...! But it's a stretch isn't it? You're one, for creating a world, not gathering faith.
    You're still uncomfortable about being a god, I know... If it makes you feel better, we know ones that are authoritarian, full of themselves and self-centered. I like your modesty, but I also like it when you show off too!
    After Hijiri built the temple, these many spirits started gathering around the Hall of Dreams' Mausoleum. They represent human desires, and I assume you have ten desires too, Jolty. *chuckle*
    And with this marks the near-end of the Domino effect made by Kanako Yasaka in person. Sorry, no hard feelings!"
 
-- "This drum lady taught me how to shoot thunder lasers. Isn't it cool? More seriously though, considering what happened to the incident solvers' weapons, I'm never considering Jolty as a tool for combat. He's a living being just like me, let's not forget!
-   I understand the inchling's motivations. Getting bullied for being weak is unacceptable. But since this whole story about inchlings has been a lie, I think this fight has been pointless. If only the inchling knew about the truth sooner...
-   Sometimes, the truth can reassure you, but it has often been the case in Gensokyo. That said, that amanojaku, I can't understand her emotions at all, it's like they go against what she's saying, or what you are saying.
-   She has that gift of pushing my patience to its limits, but I guess that's how amanojaku are in general, they hardly if never go along with anyone and they're fine with that."
+-  "Considering what happened to the incident solvers' weapons, I'm never considering Jolty as a tool for combat. He's a living being just like me, let's not forget!"
+   - Seija Kijin: 
+    "I can't understand her emotions at all, it's like they go against what she's saying, or what you are saying.
+    She has that gift of pushing my patience to its limits, but I guess that's how amanojaku are in general, they hardly if never go along with anyone and they're fine with that." 
+   - Shinmyoumaru Sukuna:
+    "I understand her motivations. Getting bullied for being weak is unacceptable. But since this whole story about inchlings has been a lie, I think this fight has been pointless. If only the inchling knew about the truth sooner...
+    Sometimes, the truth can reassure you, but it has often been the case in Gensokyo."
+   - Raiko Horikawa:
+    "This drum lady taught me how to shoot thunder lasers. Isn't it cool?"
 
-- "They were raiding the Lunar Capital who were raiding Gensokyo. If that spirit knew the Lunarians would do that, things would've happened differently. 
+- "They were raiding the Lunar Capital who were raiding Gensokyo. The incident solvers meddled in affairs that weren't theirs, but who am I to talk?"
+   - Junko:
+   "If that spirit knew the Lunarians would raid Gensokyo earlier, things would've happened differently. 
    But I wonder if that spirit cares about anything other than her grudge. If she doesn't, then trying to reason her would be a waste of time or energy.
-   This spirit, she has no name, just like you before I gave you the name of Jolty. But I trust that you, just like me, don't always focus on just one thing in your life.
-   My take on the Hell Goddess's fashion choice is that since she's high status, she deserves to have a more extravagant outfit similar to greek gods. Either she doesn't like that and prefers simplistic clothes or she didn't think about it.
+   This spirit, she has no name, just like you before I gave you the name of Jolty. But I trust that you, just like me, don't always focus on just one thing in your life."
+   - Hecatia Lapislazuli:
+   "My take on the Hell Goddess's fashion choice is that since she's high status, she deserves to have a more extravagant outfit similar to greek gods. Either she doesn't like that and prefers simplistic clothes or she didn't think about it.
    She's free to come by, I'll be glad to sell her a new hand made outfit if she wants one!"
 
-- "This God I used to serve once wanted to make herself known, therefore making herself not secret. I understood though that there's much mystery surrounding her that gives her a certain sacred aspect.
-   I wonder if she has anything to do with Kokoro, with the mentions of Noh. Guess we'll never really know!"
+- "Another incident affecting the seasons. The temperature change must feel very brutal when you go from place to place if you ask me. You could get sick pretty easily!"
+   - Mai Teireida:
+   "She's the most tomboyish of the two dancers, and she's the one who used to bully Séléné."
+   - Satono Nishida:
+   "She looks like a younger version of me, kiiiind of. She often tends to forget things when talking with her. Guess who's the scatterbrain now, hehe!"
+   - Okina Matara:
+   "This God I used to serve once wanted to make herself known, therefore making herself not secret. I understood though that there's much mystery surrounding her that gives her a certain sacred aspect.
+   I wonder if she has anything to do with Kokoro, with the mentions of Noh. Guess we'll never really know unless we ask her."
 
 - "This city is like our world, but you'd hate to live there as a human spirit, and I heard the atmosphere there is suffocating. I wonder if this is one of the places human criminals end up in. I'd still understand their decision to revolt by summoning a god,
    and I get how exhausting it is to work nonstop. Imagine then if your entire life is spent like that, and you're a possible prey to animal spirits. They just wanted better life conditions."
 
-- "The cards were nothing to dangerous in the end, but I understood the worries of the incident solvers. This Market God... Can she make an illegal market become legal? No way she'd let it be, not if she sees the bad consequences coming.
-   I've also seen there's a great tengu who uses the power of the starry sky, that's so pretty, I'd do the same thing, use stars everywhere gracefully and swiftly...! 
+- "The cards were nothing to dangerous in the end, but I understood the worries of the incident solvers. This Market God... Can she make an illegal market become legal? No way she'd let it be, not if she sees the bad consequences coming."
+   - Megumu Iizunamaru:
+   "I've also seen there's a great tengu who uses the power of the starry sky, that's so pretty, I'd do the same thing, use stars everywhere gracefully and swiftly...! 
    I heard Jolty calling this tengu and this god idiots for not telling anyone and getting beaten down for it though. Well he sure is direct but I can't say he's completely wrong about it."
 
 - "Speaking of consequences, that's something this god and tengu probably haven't seen coming. Reimu, you're lucky this oni chose you in the end! I don't know what would've happened if this oni kept Gensokyo for herself."
 
 - "It seems there have been a massive flock of living information flowing from the outside world to Gensokyo. And as of lately, there have been a lot of... things flowing from one horizon to another, in the sky of the Dream City. 
    The world we live in hangs between reality and fantasy, so maybe this is the flowing information? I do not know what these informations are about, we need to find out about these!
-   It's amazing how here we've stored little by little information about Gensokyo incidents, more or less like Asama Joue Mountain did, to craft the stones. 
-   During the incident, we've met an old friend of Kanako Yasaka. But... I think I'd take it personally if this she called me a fictional human. I mean, what am I, really? Some things are better left unsaid...
-   Yet at the same time, she suffered from hallucinations and amnesia, so I'd instead start worrying about her. I hope that by now she's okay.
-   Afterwards, we met a Lunarian. Why did she act so hostile towards Reimu? To think that she saved them from a crisis around a decade ago, that's not nice of her..."
+   It's amazing how here we've stored little by little information about Gensokyo incidents, more or less like Asama Purifying Mountain gathers and processes information."
+   - Yuiman Asama:   
+   "An old friend of Kanako Yasaka. I think I'd take it personally if this she called me a fictional human. I mean, what am I, really? Some things are better left unsaid...
+   Yet at the same time, she suffered from hallucinations and amnesia, so I'd instead start worrying about her. I hope that by now she's okay."
+   - Watatsuki (no) Toyohime: 
+   "One of the Lunarians. Why did she act so hostile towards Reimu? To think that she saved them from a crisis around a decade ago, that's not nice of her... Maybe she just didn't know."
+   - Nina Watari:
+   "A youkai who gathered too much information, many of them being about conspiracy theories. I wonder what would happen if she argued with people knowledgeable in science. ...get ready for that Sanae.
+   Jolty became curious about something related to this youkai, something about 'crafting fictitious cities'. I wonder if she can do something similar to Jolty when he made his world."
 
 Sereinae's thoughts about each windows spin-off incident:
 
