@@ -24,5 +24,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/BraviNoname/Bravi/master/"
 	],
-	"title": "Bravi's creations"
+	"title": "Bravi's serious and silly creations"
 }
