@@ -16,6 +16,7 @@
 		"Letoile+OCOkina": "(Th13, 14.3) Swaps the Létoile and OCOkina mods from to the MirrorMatch mod config to make it possible to fight both Sereinae Létoile and Replica in the same game. Do not use this config on th16, it won't work like intended, use MirrorMatch mod instead.",
 		"LetoilePlayerReskin": "(Every non-versus game) Just a lazy Sereinae Létoile reskin for all player sprites, just because she likes to cosplay. Includes haircolor change corresponding more or less to the actual character's when at full power (in main games from th13 onwards only, for now) thanks to zero318 and neo nickz. Not a custom shottype btw, that one kind of mod is for Létoile mod.",
 		"Mirror Match": "(Th14.3, 16) Combines BraviOCOkina mod with the Létoile mod for a mirror match in th16 st6/Extra with alternate dialogues.\n             This mod config can be played on th14.3 for you to fight both Sereinae Létoile and Replica in the same game. Do not use this config on th13, it won't work like intended, use Letoile+OCOkina mod instead.",
+		"PIERRE": "(Th20) Replaces Ariya's face with Brock's from the Pokémon anime, referencing a french Youtube Poop from SuperRosel.",
 		"SereinaeAlt": "(Th18) Alt timeline patch for miss OC. This stage is not canon to her story, but that version of the character IS. Replaces Chimata with a new Final Boss.",
 		"Siuuu": "(All Touhou Windows STG) Replaces (se_)enep01.wav (boss death sound) by SIUUU from Sawano7's streams",
 		"Teedee Arrows": "(Th15) Makes all bullets/lasers arrows. Typically deus rsf's nightmare.",
