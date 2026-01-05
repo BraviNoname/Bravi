@@ -1,7 +1,7 @@
 {
 	"dependencies": [
 		"nmlgc/base_tsa"
-	]
+	],
 	"id": "PIERRE",
 	"servers": [
 		"https://raw.githubusercontent.com/BraviNoname/Bravi/master/PIERRE/"
