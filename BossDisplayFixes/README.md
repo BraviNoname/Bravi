@@ -152,8 +152,6 @@ TH20:
 
 - Life and bomb icons have their opacity increased, to make the piece icons more visible.
 
-- Made the lang_en font of the UI bigger.
-
 - Nareko's, Yuiman's (both stage 4 and extra), Toyohime's, and Ariya's HP star counts have been fixed.
 
 - Ariya's final spellcard is declared after charging twice and exploding, akin to Junko's, for effect.
@@ -167,5 +165,6 @@ TH20:
 - Ariya now uses the spell bg from Spell 5 for her Spells 6 and 7. (the idea is that she froze the stage bg so the background of her spells is affected, until the end of the fight)
 
 - Fixes the bug where Spell Cards that are timed out on Spell Practice have the bullets not deleted. 
+
 
 - The explosions heard during Nina's final when she spawns her suns actually sound like ones now, like with Utsuho.
