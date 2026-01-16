@@ -1,7 +1,7 @@
 {
 	"RussellSquare.ttf": null,
 	"RussellSquareth.ttf": 1798953345,
-	"Sereinae Létoile Omake.txt": 2468238583,
+	"Sereinae Létoile Omake.txt": 3101619087,
 	"Sereinae Létoile Story Arcs.txt": 3907975779,
 	"Some Sereinae Sanae and Jolty dialogue.txt": 2286067871,
 	"global.js": 1012714159,
