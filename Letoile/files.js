@@ -371,7 +371,7 @@
 	"th18/title/title_ver.png": null,
 	"th185/Sereinae Létoile omake.txt": 942453354,
 	"th185/boss16.anm": 2319374517,
-	"th185/boss16.ecl": 2947101545,
+	"th185/boss16.ecl": 2064700379,
 	"th185/front/ename.png": 3227962096,
 	"th185/spells.js": 4011159130,
 	"th185/stgenm/en16/cdbg07a.png": 994155852,
