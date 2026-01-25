@@ -35,7 +35,7 @@
 	"th08/data/player00/player00b.png": 711696742,
 	"th08/data/player00/player01.png": 2523360752,
 	"th08/data/player00/player02.png": 1704753172,
-	"th08/data/player00/player03.png": 2806591494,
+	"th08/data/player00/player03.png": 4211983999,
 	"th08/data/title/sl_pltxt0.png": 2065932205,
 	"th08/data/title/sl_pltxt1.png": 1731115266,
 	"th08/data/title/sl_pltxt10.png": 1649815278,
