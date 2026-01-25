@@ -31,7 +31,7 @@
 	"th08/Youmu.png": 3787132089,
 	"th08/Yukari.png": 3239282948,
 	"th08/Yuyuko.png": 3764715837,
-	"th08/data/player00/player00.png": 916526641,
+	"th08/data/player00/player00.png": 2101944182,
 	"th08/data/player00/player00b.png": 711696742,
 	"th08/data/player00/player01.png": 2523360752,
 	"th08/data/player00/player02.png": 1704753172,
