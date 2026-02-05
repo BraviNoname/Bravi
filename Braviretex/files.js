@@ -852,7 +852,7 @@
 	"th185/ascii/ascii.png": 520426434,
 	"th185/ascii/ascii_1280.png": 3546746933,
 	"th185/ascii/ascii_960.png": 2231270556,
-	"th185/front.anm": 1043849193,
+	"th185/front.anm": 2434892873,
 	"th185/front/lifebar.png": 982680966,
 	"versions.js": 3656849658
 }
