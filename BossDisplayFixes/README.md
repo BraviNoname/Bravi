@@ -140,11 +140,21 @@ TH18:
 
 - Changed Megumu's spell bg to give it a more starry effect.
 
+- Implements a spell bg for Tsukasa Extra midspells, from SomeGuyInParadise's mods.
+
 TH18.5: 
 
 - Card border icons have been recolored, with the color corresponding to the type of card: red for active, blue for equipment, purple for passive, and green for item. The recolor has been applied on the UI text as well.
 
-- (TO DO: fix Clownpiece's spell background to make it the same as th15 and 16.5)
+- Fixes Clownpiece's spell background to make it the same as th15 and 16.5.
+
+- Changed Megumu's spell bg to give it a more starry effect.
+
+- Modifies Tsukasa's spell bg from SomeGuyInParadise's TsukasaBG mod.
+
+TH19:
+
+- Modifies Tsukasa's spell bg from SomeGuyInParadise's TsukasaBG mod.
 
 TH20:
 
