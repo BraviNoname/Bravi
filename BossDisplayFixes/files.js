@@ -807,6 +807,7 @@
 	"th185/ascii/ascii_960.png": 2231270556,
 	"th185/boss17.anm": 1107234632,
 	"th185/boss19.anm": 847564586,
+	"th185/front/ename.png": 1127668000,
 	"th185/stgenm/en18/cdbg05b00.png": 1077044036,
 	"th19/pl08.anm": 1755435174,
 	"th19/pl08b.anm": 3047222567,
