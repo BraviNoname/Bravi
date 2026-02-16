@@ -559,7 +559,7 @@
 	"th16/se_select00.wav": null,
 	"th16/se_timeout.wav": null,
 	"th16/se_timeout2.wav": null,
-	"th16/st02bs.ecl": null,
+	"th16/st02bs.ecl": 4076113913,
 	"th16/st03bs.ecl": 2049412329,
 	"th16/st03enm.anm": 2331824763,
 	"th16/st03mbs.ecl": 951781455,
