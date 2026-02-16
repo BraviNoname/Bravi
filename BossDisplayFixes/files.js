@@ -224,6 +224,7 @@
 	"th10/ascii/pause.png": null,
 	"th10/bullet/etama2.png": 1595869891,
 	"th10/enemy/enemy.png": null,
+	"th10/front/ename.png": 2191777848,
 	"th10/front/front00.png": 4251176317,
 	"th10/front/front01.png": null,
 	"th10/player/pl00/pl00.png": null,
