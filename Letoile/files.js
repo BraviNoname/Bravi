@@ -12,7 +12,7 @@
 	"th11/th11_16.loop.flac": null,
 	"th13/ascii/ascii.png": 520426434,
 	"th13/astral.anm": 3816590456,
-	"th13/enemy/littlegods.png": 2390338006,
+	"th13/enemy/littlegods.png": 948084543,
 	"th13/face/balloon.png": 613480744,
 	"th13/face/dummy.png": 2926711928,
 	"th13/face/enemy1/enamebk.png": 2897028461,

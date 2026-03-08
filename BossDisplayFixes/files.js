@@ -386,7 +386,7 @@
 	"th13/bullet/bullet3.png": null,
 	"th13/effect/eff_base.png": null,
 	"th13/effect/etbreak.png": null,
-	"th13/enemy/littlegods.png": 2390338006,
+	"th13/enemy/littlegods.png": 948084543,
 	"th13/front/agauge2.png": 3956140534,
 	"th13/front/ename_full.png": 378189144,
 	"th13/front/front00.png": 1102306013,

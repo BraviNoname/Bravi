@@ -403,7 +403,7 @@
 	"th13/bullet/bullet3.png": 2170173658,
 	"th13/effect/eff_base.png": 2092504129,
 	"th13/effect/etbreak.png": 4263023651,
-	"th13/enemy/littlegods.png": 2390338006,
+	"th13/enemy/littlegods.png": 948084543,
 	"th13/front.anm": 3313369470,
 	"th13/front/agauge2.png": 3956140534,
 	"th13/front/ename_full.png": 378189144,

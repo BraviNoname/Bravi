@@ -14,7 +14,7 @@
 	"th13/astral.anm": 3816590456,
 	"th13/bullet/bullet3.png": 3158310409,
 	"th13/effect/etbreak.png": 4263023651,
-	"th13/enemy/littlegods.png": 2390338006,
+	"th13/enemy/littlegods.png": 948084543,
 	"th13/face/balloon.png": 2224464472,
 	"th13/face/dummy.png": 2926711928,
 	"th13/face/enemy1/enamebk.png": 121325763,
