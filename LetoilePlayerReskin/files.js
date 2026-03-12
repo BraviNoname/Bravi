@@ -251,6 +251,7 @@
 	"th16/pl01.anm": 3807270375,
 	"th16/pl02.anm": 3794788174,
 	"th16/pl03.anm": 2540083938,
+	"th16/pl03sub.anm": 1632070844,
 	"th16/player/pl00/pl00.png": 916781930,
 	"th16/player/pl01/pl01.png": 1293245045,
 	"th16/player/pl01/pl02.png": null,
