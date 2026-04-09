@@ -1,6 +1,7 @@
 {
 	"RussellSquareth.ttf": 1798953345,
 	"patch.js": 3503004281,
+	"th20/ending/e00a0c.png": 264773393,
 	"th20/face/enemy6/face01an.png": 3178251545,
 	"th20/face/enemy6/face01ct.png": 3634772650,
 	"th20/face/enemy6/face01dp.png": 1190089119,
