@@ -408,7 +408,7 @@
 	"th17/st02bs.ecl": 1252209896,
 	"th17/st05a.msg.jdiff": 3156583253,
 	"th17/st05b.msg.jdiff": 1216253010,
-	"th17/st05bs.ecl": 1564249317,
+	"th17/st05bs.ecl": 2567601572,
 	"th17/st05c.msg.jdiff": 2590760562,
 	"th17/st05d.msg.jdiff": 2515246927,
 	"th17/st05e.msg.jdiff": 4255647510,
