@@ -430,7 +430,7 @@
 	"th17/st06g.msg.jdiff": 3531398835,
 	"th17/st06h.msg.jdiff": 1326805170,
 	"th17/st06i.msg.jdiff": 2808419187,
-	"th17/st06mbs.ecl": 723021568,
+	"th17/st06mbs.ecl": 3360690157,
 	"th17/st07enm2.anm": 2033491086,
 	"th17/st07mbs.ecl": 1553078812,
 	"th17/stgenm/stage05/cdbg06a.png": 380137204,
