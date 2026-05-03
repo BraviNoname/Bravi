@@ -118,7 +118,7 @@
 	"th16/pl00.sht": 3115670851,
 	"th16/pl00sub.anm": 1811811997,
 	"th16/pl00sub.sht": 2272654768,
-	"th16/player/pl00/pl00.png": 514503130,
+	"th16/player/pl00/pl00.png": 480558095,
 	"th16/player/pl00/pl00b.png": 788227893,
 	"th16/player/pl01/pl01.png": null,
 	"th16/player/pl01/pl02.png": null,
