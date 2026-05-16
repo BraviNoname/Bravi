@@ -73,7 +73,7 @@
 	"th10/ReimuB.png": 121160634,
 	"th10/ReimuC.png": 2117832362,
 	"th10/player/pl00/pl00.png": 1307363405,
-	"th10/player/pl01/pl01.png": 3602398015,
+	"th10/player/pl01/pl01.png": 1078548330,
 	"th10/title/weapon.png": 899160987,
 	"th11/MarisaA.png": 59914826,
 	"th11/MarisaB.png": 2326965373,
