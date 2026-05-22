@@ -199,6 +199,7 @@
 	"th15/player/pl02/pl02.png": 1552550928,
 	"th15/player/pl02/pl02fullpower.png": 828558749,
 	"th15/player/pl03/pl03.png": 992721272,
+	"th15/player/pl03/pl03fullpower.png": 1043445838,
 	"th15/title/player_00.png": 826194566,
 	"th15/title/player_00ex.png": 2894802807,
 	"th15/title/player_01.png": 2689553706,
