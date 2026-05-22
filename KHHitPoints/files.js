@@ -368,6 +368,7 @@
 	"th20/front/logo/st03logo.png": null,
 	"th20/front/stonegauge.png": null,
 	"th20/fronttr.anm": 2772739013,
+	"th20/title/title_logo.png": 3742064444,
 	"themes.js": null,
 	"versions.js": null
 }
