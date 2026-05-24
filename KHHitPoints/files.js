@@ -7,7 +7,7 @@
 	"th06/front.png": 1035907131,
 	"th07/data/front/front.png": 1921646553,
 	"th08/data/front/front.png": 1921646553,
-	"th09/data/front/front.png": 1235914349,
+	"th09/data/front/front.png": 2359208110,
 	"th10/front.anm": 2498521556,
 	"th10/front/front00.png": 3345429581,
 	"th10/stage01.ecl": 1949159814,
