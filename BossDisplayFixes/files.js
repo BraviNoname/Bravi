@@ -163,7 +163,7 @@
 	"th09/data/ascii/pause.png": null,
 	"th09/data/etama/etama.png": null,
 	"th09/data/etama/etama6.png": null,
-	"th09/data/front/front.png": 1175656324,
+	"th09/data/front/front.png": 2398626858,
 	"th09/data/pl/pl00/pl00.png": null,
 	"th09/data/pl/pl00b/pl00b.png": null,
 	"th09/data/pl/pl01/cdbg01.png": null,
