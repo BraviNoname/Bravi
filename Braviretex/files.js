@@ -164,7 +164,7 @@
 	"th09/data/ascii/pause.png": 1950923133,
 	"th09/data/etama/etama.png": 2925637244,
 	"th09/data/etama/etama6.png": 3236696391,
-	"th09/data/front/front.png": 4239034633,
+	"th09/data/front/front.png": 1087795474,
 	"th09/data/pl/pl00/pl00.png": 475256609,
 	"th09/data/pl/pl00b/pl00b.png": 3088937145,
 	"th09/data/pl/pl01/cdbg01.png": 901250436,
