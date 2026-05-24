@@ -359,7 +359,7 @@
 	"th165/msg14.msg.jdiff": null,
 	"th165/msg22d.msg.jdiff": null,
 	"th165/player/pl00.png": null,
-	"th165/player/pl00/pl00.png": 1380601632,
+	"th165/player/pl00/pl00.png": 1022412531,
 	"th165/player/pl00/pl00b.png": 600162540,
 	"th165/player/pl00b.png": null,
 	"th165/spells.js": null,
