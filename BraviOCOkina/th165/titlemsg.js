@@ -1,7 +1,7 @@
 {
     "14_1": [
-        "She turns into a sun that radiates from these dark fireballs.",
-        "While my eyes were burning, she had her share from my phone's flash."
+        "Could you imagine how it is like to take a picture of the sun?",
+        "Well, here's one from very close, taken while my eyes were burning."
     ],
     "14_2": [
         "She startled me this time! And she harrasses me from below!",
@@ -9,19 +9,19 @@
     ],
     "14_3": [
         "Is she just playing with me? I never lose at these sorts of games!",
-        "Though the punishment for losing is pretty harsh."
+        "The golden coins are always a good sign when I get these!"
     ],
     "14_4": [
         "Each bullet wave representing an element repels another one.",
-        "She seems to have some magic knowledge."
+        "Is that a reference to a certain cocoon game I haven't played?"
     ],
     "14_5": [
         "She's now going against me with those two from before?!",
-        "Wait, haven't I already said this before? I don't know..."
+        "Wait, haven't I already said this before? Is this a time loop?"
     ],
     "14_6": [
-        "She appears to be rather friendly. Is she an outsider as well?",
-        "She has my thanks for willing to help me, I feel now some power on my back!"
+        "She appears to be rather friendly. She has my thanks for willing",
+        "to help me, I feel now some power on my back!"
     ],
     "21_1": [
         "What happened to that girl? She doesn't look like...",

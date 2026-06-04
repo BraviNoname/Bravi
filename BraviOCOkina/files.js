@@ -356,7 +356,7 @@
 	"th165/th16_12.flac": 3736702344,
 	"th165/th16_12.loop.flac": 1791583306,
 	"th165/title/title_ver.png": 3797311144,
-	"th165/titlemsg.js": 4014742433,
+	"th165/titlemsg.js": 2841053019,
 	"th17/Prologue.txt": 1114196109,
 	"th17/Sereinae omake.txt": 342900551,
 	"th17/Spell descriptions.txt": 888582117,
