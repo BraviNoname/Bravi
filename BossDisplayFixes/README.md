@@ -87,6 +87,8 @@ TH16:
 
 - The explosion heard during Narumi spell2 when she spawns her sun actually sounds like one now, like with Utsuho.
 
+- Recolored the top left name of each boss/midboss to have the color correspond to the season stage or main color of the character.
+
 TH16.5:
 
 - Fixes Okina's Nightmare Saturday spell background so that it appears the same way as in the Extra Stage of TH16.

@@ -1,7 +1,7 @@
 {
 	"Kingdom Sans ms_0.ttf": null,
 	"PowerClear.ttf": null,
-	"README.md": 2303859941,
+	"README.md": 751168448,
 	"RussellSquare.ttf": 1572031365,
 	"RussellSquareth.ttf": 1798953345,
 	"global.js": 327920362,
@@ -537,7 +537,7 @@
 	"th16/bullet/etama7a.png": null,
 	"th16/bullet/item.png": 1762384270,
 	"th16/face/enemy7/face07no.png": null,
-	"th16/front/ename.png": 3568440738,
+	"th16/front/ename.png": 2058090690,
 	"th16/front/front00.png": null,
 	"th16/front/front01.png": null,
 	"th16/front/lifebar.png": null,

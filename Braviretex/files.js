@@ -558,7 +558,7 @@
 	"th16/bullet/item.png": 1762384270,
 	"th16/face/enemy7/face07no.png": 2819190265,
 	"th16/front.anm": 2692842803,
-	"th16/front/ename.png": 3568440738,
+	"th16/front/ename.png": 2058090690,
 	"th16/front/front00.png": 521864181,
 	"th16/front/front01.png": 608463999,
 	"th16/front/lifebar.png": 454035673,
