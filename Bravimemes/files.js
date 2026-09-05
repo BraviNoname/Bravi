@@ -235,7 +235,7 @@
 	"th17/spells.js": 3125403866,
 	"th17/st05bs.ecl": 1488854143,
 	"th17/st06bs.ecl": 220498964,
-	"th17/st06enm.anm": 3461412941,
+	"th17/st06enm.anm": 903063342,
 	"th17/st06enm.anm.jdiff": 483540176,
 	"th17/st07bs.ecl": 174642737,
 	"th17/st07enm.anm": 2564162477,

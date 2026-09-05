@@ -105,7 +105,7 @@ TH17:
 
 - Extra Kutaka's spell bg appears the same way as in stage 3.
 
-- Spellcard portraits of all bosses but Keiki's and Saki's have been sized down so that they don't look too big, and Keiki's has its position of halt changed during its animation, to make it more centered.
+- Spellcard portraits of all bosses but Keiki's and Saki's have been sized down so that they don't look too big, and Keiki's has its position of halt changed during its animation, to make it slightly more centered.
 
 - Keiki's spellcard background appears with a fade-in effect instead of instantaneously.
 
@@ -128,7 +128,7 @@ TH18:
 
 - The explosions heard during Momoyo spells 5 and 6 when she triggers explosions on the walls actually sounds like ones now, like with Utsuho.
 
-- Changed Chimata's spell portrait animation, to put an emphasis on her pointing up and down.
+- Changed Chimata's portrait position of halt during its animation, to make it slightly more centered.
 
 - Chimata's spellcards on Spell Practice have the stage background appear just like it would on regular runs.
 

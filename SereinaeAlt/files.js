@@ -272,7 +272,7 @@
 	"th18/st06c.msg.jdiff": 3928307347,
 	"th18/st06d.msg": 3952364998,
 	"th18/st06d.msg.jdiff": 3812513606,
-	"th18/st06enm.anm": 747561326,
+	"th18/st06enm.anm": 921554049,
 	"th18/st06mbs.ecl": 3485676947,
 	"th18/st06wl.anm": 2323269823,
 	"th18/st07.ecl": 2868978521,

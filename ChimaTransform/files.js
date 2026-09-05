@@ -594,6 +594,6 @@
 	"th17/st07mbs.ecl": null,
 	"th17/stgenm/stage07/cdbg03b.png": null,
 	"th18/st06bs.ecl": 1933045451,
-	"th18/st06enm.anm": 122268809,
+	"th18/st06enm.anm": 921554049,
 	"versions.js": null
 }
