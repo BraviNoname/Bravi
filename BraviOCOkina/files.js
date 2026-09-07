@@ -404,7 +404,7 @@
 	"th17/musiccmt.js": 346154139,
 	"th17/player/pl00/pl00.png": 3432067680,
 	"th17/player/pl01/pl01.png": 2001899433,
-	"th17/spells.js": 1965234749,
+	"th17/spells.js": 3254924020,
 	"th17/st02bs.ecl": 1252209896,
 	"th17/st05a.msg.jdiff": 3156583253,
 	"th17/st05b.msg.jdiff": 1216253010,

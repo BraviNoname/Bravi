@@ -14,7 +14,7 @@
     "68": "Linear Shape \"Emerald Line-Shaped Sculpting Art\"",
     "70": "Linear Shape \"Emerald Linear Creature\"",
     "72": "Haniwa Revival \"Corporal and Horse Rider Idol Sculpting Art\"",
-    "74": "Haniwa Revival \"Corporal Idol Creatures\"",
+    "74": "Haniwa Revival \"Corporal and Idol Creature\"",
     "76": "\"Chaotic Oni-Shaped Sculpting Art\"",
     "80": "\"Geometric Hexagon Creature\"",
     "84": "\"The Idol Goddess and the Shadow of an Idol\"",
