@@ -45,6 +45,8 @@
 	"th11/th11_16.loop.flac": null,
 	"th11/title/title_logo.png": null,
 	"th12/bullet/etama8.png": null,
+	"th12/th12_14.flac": 1952187785,
+	"th12/th12_14.loop.flac": 1363459584,
 	"th12/th12_19.flac": 3210519069,
 	"th12/th12_19.loop.flac": 1948432478,
 	"th15/th15_03.flac": 831729434,
