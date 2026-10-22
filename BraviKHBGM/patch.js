@@ -7,5 +7,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/BraviNoname/Bravi/master/BraviKHBGM/"
 	],
-	"title": "(Th06, 07, 10, 12, 15) Some stage and boss themes got a Kingdom Hearts theme playing."
+	"title": "(Th06, 07, 10, 12, 13, 15) Some stage and boss themes got a Kingdom Hearts theme playing."
 }
