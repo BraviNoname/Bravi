@@ -62,7 +62,7 @@
 	"th13/th13_12.flac": 3412737771,
 	"th13/th13_12.loop.flac": 45093866,
 	"th13/th13_16.flac": 3410026678,
-	"th13/th13_16.flac.sfk": 3825646615,
+	"th13/th13_16.flac.sfk": null,
 	"th13/th13_16.loop.flac": 1564746670,
 	"th13/th13_17.flac": 1869227847,
 	"th13/th13_17.loop.flac": 3683299474,
