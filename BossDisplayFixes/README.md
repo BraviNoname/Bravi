@@ -20,6 +20,8 @@ TH12:
 
 - Fixes Byakuren's HP star count on Easy Mode (her 5th life bar is the final, not air scroll/superhuman).
 
+- Puts a life piece, bomb piece, or score item on top of the UFOs to tell which grants what.
+
 TH13:
 
 - Fixes HP star count of Kyouko first HP bar.
