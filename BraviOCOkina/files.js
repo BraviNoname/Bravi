@@ -217,7 +217,7 @@
 	"th16/front/ename.png": 3406039124,
 	"th16/front/enameSt06mbs.png": 1081741943,
 	"th16/front/front00.png": 1242448052,
-	"th16/front/logo/st06logo.png": 2362231325,
+	"th16/front/logo/st06logo.png": 196838683,
 	"th16/front/logo/st07logo.png": 1810217019,
 	"th16/loading/sig1280.png": 4275171554,
 	"th16/musiccmt.js": 4150685343,
