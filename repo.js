@@ -4,6 +4,7 @@
 	"patches": {
 		"AllMarisa": "(Multiple games) Player sprites become Marisa, per texap0rte's joke idea.",
 		"BossDisplayFixes": "(All Windows Main Games + some spinoffs) Same as Braviretex but it's only a Boss Display Fix Patch + modernized sfx and Life/Bomb icons + other miscellaneous changes (check the README.md of the mod for more info).",
+		"BossDisplayFixes+th18icons": "(All Windows Main Games before th18) BossDisplayFixes but it now features lives and bomb icons from th18. The original BossDisplayFixes is still available as legacy.",
 		"BraviKHBGM": "(Th06, 07, 10, 12, 13, 15) Some stage and boss themes got a Kingdom Hearts theme playing.",
 		"BraviNonKHBGM": "(Th11, 15) Some stage and boss themes got a theme from various series playing.",
 		"BraviOCOkina": "(Th13, 14.3, 15, 16, 16.5, 17, 18) Replaces the following with a new (OC) adversary.\n             A stage 6 midboss got added in th13, 15, and 16 as well.\n            Okina in Stage 6, Extra (turned into Phantasm) that got a revamp,\n             Wrong/Nightmare Saturdays that got a stage background revamp too\n             Yukari in Day 10\n            Futo and Tojiko in Stage 5\n             Seiran in Stage 1\n             Mayumi in stages 5 and 6, got new additions to Keiki's fight too\n             Megumu in stage 5.",
@@ -12,7 +13,8 @@
 		"Braviretex": "(Th06 to 18 tsa games) Remake-like Retexture, Sounds, Dark UI and Display Fix Patch.",
 		"ChimaTransform": "(Th18) Chimata transforms into other final bosses.",
 		"HomingSeija": "(Th14.3) Makes Seija's shots home in. Applies to the Cursed Decoy Doll sub item for even more shots!",
-		"KHHitPoints": "(Every modern stg + th06-09) Boss Lifebar and Life count reskin based on KH games and modern life bomb icon colors, from Braviretex.",
+		"KHHitPoints": "(All Windows Main Games + some spinoffs) Boss Lifebar and Life count reskin based on Kingdom Hearts games with modern life bomb icons and colors, from Braviretex.",
+		"KHHitPoints+th18icons": "(All Windows Main Games before th18 + some spinoffs) KHHitPoints but boss life bars and counts have been slightly modified to fit the lives and bomb icons from th18, which are featured here. The original KHHitPoints is still available as legacy.",
 		"Letoile": "(Th13, 14.3, 16, 18.5) Custom playable character shot type for Sereinae Letoile (Spring). Now includes a boss replacement for Reimu in Fourth Market, Nue in the Extra stage, and scenes 3, 4, 7 and 8 of Day 9.",
 		"Letoile+OCOkina": "(Th13, 14.3) Swaps the Létoile and OCOkina mods from to the MirrorMatch mod config to make it possible to fight both Sereinae Létoile and Replica in the same game. Do not use this config on th16, it won't work like intended, use MirrorMatch mod instead.",
 		"LetoilePlayerReskin": "(Every non-versus game) Just a lazy Sereinae Létoile reskin for all player sprites, just because she likes to cosplay. Includes haircolor change corresponding more or less to the actual character's when at full power (in main games from th13 onwards only, for now) thanks to zero318 and neo nickz. Not a custom shottype btw, that one kind of mod is for Létoile mod.",
